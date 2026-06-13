@@ -1,0 +1,150 @@
+{
+ "domain": "www.cms.gov",
+ "week": "2026-W24",
+ "generatedAt": "2026-06-13T14:11:13.647Z",
+ "pagesScanned": 299,
+ "blocked": null,
+ "axe": {
+  "violationTotal": 17,
+  "pagesWithViolations": 16,
+  "rules": {
+   "heading-order": {
+    "count": 15,
+    "pages": 15,
+    "impact": "moderate",
+    "help": "Heading levels should only increase by one",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+    "examplePages": [
+     "https://www.cms.gov/medicare/coverage/summary-notice",
+     "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-providers",
+     "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-part-d-plans"
+    ]
+   },
+   "link-name": {
+    "count": 2,
+    "pages": 1,
+    "impact": "serious",
+    "help": "Links must have discernible text",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+    "examplePages": [
+     "https://www.cms.gov/medicare/enrollment-renewal/providers-suppliers/hospitals-center"
+    ]
+   }
+  }
+ },
+ "alfa": {
+  "failedTotal": 20294,
+  "pagesWithFailures": 299,
+  "rules": {
+   "sia-r73": {
+    "count": 4326,
+    "pages": 299,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r73",
+    "examplePages": [
+     "https://www.cms.gov/medicare/coding-billing/integrated-outpatient-code-editor/integrated-outpatient-code-editor-i-oce-software",
+     "https://www.cms.gov/medicare/enrollment-renewal/part-d-plans/low-income-subsidy",
+     "https://www.cms.gov/medicare/coverage/prescription-drug-coverage-contracting/hpms-guidance-history"
+    ]
+   },
+   "sia-r61": {
+    "count": 299,
+    "pages": 299,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r61",
+    "examplePages": [
+     "https://www.cms.gov/medicare/coding-billing/integrated-outpatient-code-editor/integrated-outpatient-code-editor-i-oce-software",
+     "https://www.cms.gov/medicare/enrollment-renewal/part-d-plans/low-income-subsidy",
+     "https://www.cms.gov/medicare/coverage/prescription-drug-coverage-contracting/hpms-guidance-history"
+    ]
+   },
+   "sia-r57": {
+    "count": 225,
+    "pages": 225,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r57",
+    "examplePages": [
+     "https://www.cms.gov/medicare/coding-billing/integrated-outpatient-code-editor/integrated-outpatient-code-editor-i-oce-software",
+     "https://www.cms.gov/medicare/enrollment-renewal/part-d-plans/low-income-subsidy",
+     "https://www.cms.gov/medicare/coverage/prescription-drug-coverage-contracting/hpms-guidance-history"
+    ]
+   },
+   "sia-r111": {
+    "count": 15401,
+    "pages": 299,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r111",
+    "examplePages": [
+     "https://www.cms.gov/medicare/coding-billing/integrated-outpatient-code-editor/integrated-outpatient-code-editor-i-oce-software",
+     "https://www.cms.gov/medicare/enrollment-renewal/part-d-plans/low-income-subsidy",
+     "https://www.cms.gov/medicare/coverage/prescription-drug-coverage-contracting/hpms-guidance-history"
+    ]
+   },
+   "sia-r53": {
+    "count": 13,
+    "pages": 13,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r53",
+    "examplePages": [
+     "https://www.cms.gov/medicare/coverage/summary-notice",
+     "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-providers",
+     "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-part-d-plans"
+    ]
+   },
+   "sia-r78": {
+    "count": 9,
+    "pages": 7,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r78",
+    "examplePages": [
+     "https://www.cms.gov/",
+     "https://www.cms.gov/roster-billing",
+     "https://www.cms.gov/medicare/enrollment-renewal/providers-suppliers/clinical-labs-center"
+    ]
+   },
+   "sia-r42": {
+    "count": 5,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r42",
+    "examplePages": [
+     "https://www.cms.gov/"
+    ]
+   },
+   "sia-r113": {
+    "count": 12,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r113",
+    "examplePages": [
+     "https://www.cms.gov/medicare/enrollment-renewal/providers-suppliers/chain-ownership-system-pecos"
+    ]
+   },
+   "sia-r77": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r77",
+    "examplePages": [
+     "https://www.cms.gov/medicare/coverage/determination-process/basics/icd-10"
+    ]
+   },
+   "sia-r14": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r14",
+    "examplePages": [
+     "https://www.cms.gov/medicare/regulations-guidance/physician-self-referral/significant-regulatory-history"
+    ]
+   },
+   "sia-r11": {
+    "count": 2,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r11",
+    "examplePages": [
+     "https://www.cms.gov/medicare/enrollment-renewal/providers-suppliers/hospitals-center"
+    ]
+   }
+  }
+ },
+ "sustainability": {
+  "pages": 299,
+  "medianBytes": 1887687,
+  "meanBytes": 1844268,
+  "medianRequests": 50,
+  "totalCo2g": 81.72,
+  "meanCo2g": 0.2733
+ },
+ "errorPages": []
+}

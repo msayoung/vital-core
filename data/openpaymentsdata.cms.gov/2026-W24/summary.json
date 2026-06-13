@@ -1,0 +1,78 @@
+{
+ "domain": "openpaymentsdata.cms.gov",
+ "week": "2026-W24",
+ "generatedAt": "2026-06-13T14:11:13.659Z",
+ "pagesScanned": 1,
+ "blocked": null,
+ "axe": {
+  "violationTotal": 3,
+  "pagesWithViolations": 1,
+  "rules": {
+   "region": {
+    "count": 3,
+    "pages": 1,
+    "impact": "moderate",
+    "help": "All page content should be contained by landmarks",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/"
+    ]
+   }
+  }
+ },
+ "alfa": {
+  "failedTotal": 48,
+  "pagesWithFailures": 1,
+  "rules": {
+   "sia-r78": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r78",
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/"
+    ]
+   },
+   "sia-r73": {
+    "count": 14,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r73",
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/"
+    ]
+   },
+   "sia-r61": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r61",
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/"
+    ]
+   },
+   "sia-r57": {
+    "count": 5,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r57",
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/"
+    ]
+   },
+   "sia-r111": {
+    "count": 27,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r111",
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/"
+    ]
+   }
+  }
+ },
+ "sustainability": {
+  "pages": 1,
+  "medianBytes": 4442251,
+  "meanBytes": 4442251,
+  "medianRequests": 68,
+  "totalCo2g": 0.66,
+  "meanCo2g": 0.6583
+ },
+ "errorPages": []
+}

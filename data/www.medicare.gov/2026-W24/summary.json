@@ -1,0 +1,126 @@
+{
+ "domain": "www.medicare.gov",
+ "week": "2026-W24",
+ "generatedAt": "2026-06-13T14:11:13.658Z",
+ "pagesScanned": 263,
+ "blocked": null,
+ "axe": {
+  "violationTotal": 2,
+  "pagesWithViolations": 2,
+  "rules": {
+   "frame-title": {
+    "count": 1,
+    "pages": 1,
+    "impact": "serious",
+    "help": "Frames must have an accessible name",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/frame-title?application=axeAPI",
+    "examplePages": [
+     "https://www.medicare.gov/"
+    ]
+   },
+   "heading-order": {
+    "count": 1,
+    "pages": 1,
+    "impact": "moderate",
+    "help": "Heading levels should only increase by one",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+    "examplePages": [
+     "https://www.medicare.gov/basics/end-stage-renal-disease"
+    ]
+   }
+  }
+ },
+ "alfa": {
+  "failedTotal": 14717,
+  "pagesWithFailures": 263,
+  "rules": {
+   "sia-r78": {
+    "count": 156,
+    "pages": 153,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r78",
+    "examplePages": [
+     "https://www.medicare.gov/coverage/emergency-department-services",
+     "https://www.medicare.gov/coverage/hospital-beds",
+     "https://www.medicare.gov/coverage/radiation-therapy"
+    ]
+   },
+   "sia-r73": {
+    "count": 3428,
+    "pages": 263,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r73",
+    "examplePages": [
+     "https://www.medicare.gov/coverage/emergency-department-services",
+     "https://www.medicare.gov/coverage/hospital-beds",
+     "https://www.medicare.gov/coverage/radiation-therapy"
+    ]
+   },
+   "sia-r17": {
+    "count": 263,
+    "pages": 263,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r17",
+    "examplePages": [
+     "https://www.medicare.gov/coverage/emergency-department-services",
+     "https://www.medicare.gov/coverage/hospital-beds",
+     "https://www.medicare.gov/coverage/radiation-therapy"
+    ]
+   },
+   "sia-r111": {
+    "count": 10809,
+    "pages": 263,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r111",
+    "examplePages": [
+     "https://www.medicare.gov/coverage/emergency-department-services",
+     "https://www.medicare.gov/coverage/hospital-beds",
+     "https://www.medicare.gov/coverage/radiation-therapy"
+    ]
+   },
+   "sia-r14": {
+    "count": 8,
+    "pages": 8,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r14",
+    "examplePages": [
+     "https://www.medicare.gov/basics/get-started-with-medicare/get-more-coverage/your-coverage-options",
+     "https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start",
+     "https://www.medicare.gov/basics/costs/medicare-costs/avoid-penalties"
+    ]
+   },
+   "sia-r66": {
+    "count": 26,
+    "pages": 3,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r66",
+    "examplePages": [
+     "https://www.medicare.gov/basics/your-medicare-rights/your-rights",
+     "https://www.medicare.gov/basics/end-stage-renal-disease",
+     "https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/working-past-65"
+    ]
+   },
+   "sia-r69": {
+    "count": 26,
+    "pages": 3,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r69",
+    "examplePages": [
+     "https://www.medicare.gov/basics/your-medicare-rights/your-rights",
+     "https://www.medicare.gov/basics/end-stage-renal-disease",
+     "https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/working-past-65"
+    ]
+   },
+   "sia-r53": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r53",
+    "examplePages": [
+     "https://www.medicare.gov/basics/end-stage-renal-disease"
+    ]
+   }
+  }
+ },
+ "sustainability": {
+  "pages": 263,
+  "medianBytes": 6980536,
+  "meanBytes": 7021899,
+  "medianRequests": 104,
+  "totalCo2g": 273.69,
+  "meanCo2g": 1.0406
+ },
+ "errorPages": []
+}
