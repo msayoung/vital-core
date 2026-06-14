@@ -1,22 +1,32 @@
 {
  "domain": "www.hhs.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-13T19:13:41.031Z",
+ "generatedAt": "2026-06-14T02:38:09.371Z",
  "pagesScanned": 1,
+ "pagesAudited": 0,
+ "coverage": {},
  "blocked": {
   "status": 403
  },
  "axe": {
   "violationTotal": 0,
   "pagesWithViolations": 0,
+  "pagesScanned": 0,
+  "medianViolations": null,
   "rules": {}
  },
  "alfa": {
   "failedTotal": 0,
   "pagesWithFailures": 0,
+  "pagesScanned": 0,
+  "medianFailures": null,
   "rules": {}
  },
  "sustainability": null,
+ "deprecatedHtml": null,
+ "plainLanguage": null,
+ "lighthouse": null,
+ "linkCheck": null,
  "errorPages": [
   {
    "url": "https://www.hhs.gov/",
