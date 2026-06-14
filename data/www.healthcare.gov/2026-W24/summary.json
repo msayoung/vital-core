@@ -1,28 +1,28 @@
 {
  "domain": "www.healthcare.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-14T12:24:56.413Z",
- "pagesScanned": 503,
- "pagesAudited": 503,
+ "generatedAt": "2026-06-14T15:12:13.422Z",
+ "pagesScanned": 567,
+ "pagesAudited": 567,
  "coverage": {
-  "axe": 503,
-  "deprecated-html": 453,
-  "sustainability": 503,
-  "resources": 298,
-  "plain-language": 202,
-  "alfa": 199,
-  "lighthouse": 39
+  "axe": 567,
+  "deprecated-html": 517,
+  "sustainability": 567,
+  "resources": 362,
+  "plain-language": 234,
+  "alfa": 221,
+  "lighthouse": 47
  },
  "blocked": null,
  "axe": {
-  "violationTotal": 540,
-  "pagesWithViolations": 488,
-  "pagesScanned": 503,
+  "violationTotal": 607,
+  "pagesWithViolations": 550,
+  "pagesScanned": 567,
   "medianViolations": 1,
   "rules": {
    "aria-valid-attr-value": {
-    "count": 487,
-    "pages": 487,
+    "count": 549,
+    "pages": 549,
     "impact": "critical",
     "help": "ARIA attributes must conform to valid values",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/aria-valid-attr-value?application=axeAPI",
@@ -33,7 +33,7 @@
     "examplePages": [
      "https://www.healthcare.gov/agent-privacy-act-statement",
      "https://www.healthcare.gov/glossary/vision-or-vision-coverage",
-     "https://www.healthcare.gov/choose-a-plan/your-total-costs"
+     "https://www.healthcare.gov/small-businesses/health-care-law-and-businesses/how-aca-affects-businesses"
     ],
     "affectedPages": [
      {
@@ -45,7 +45,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/small-businesses/health-care-law-and-businesses/how-aca-affects-businesses",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/choose-a-plan/your-total-costs",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/generic-drugs",
       "instances": 1
      },
      {
@@ -125,6 +133,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/people-with-disabilities/coverage-options",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/taxes/marketplace-plan-without-savings",
       "instances": 1
      },
@@ -154,6 +166,10 @@
      },
      {
       "url": "https://www.healthcare.gov/income-and-household-information/income",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/broker",
       "instances": 1
      },
      {
@@ -309,7 +325,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/taxes-2023/no-health-coverage",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/taxes-2021/job-based-coverage",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/coverage/pre-existing-conditions",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/marketplace",
       "instances": 1
      },
      {
@@ -406,6 +434,14 @@
      },
      {
       "url": "https://www.healthcare.gov/marketplace-appeals/employer-appeals",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/small-businesses/agents-and-brokers",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/health-insurance-marketplace-glossary",
       "instances": 1
      },
      {
@@ -513,6 +549,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/more-savings",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/inconsistency",
       "instances": 1
      },
@@ -530,6 +570,10 @@
      },
      {
       "url": "https://www.healthcare.gov/glossary/creditable-coverage",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/health-coverage",
       "instances": 1
      },
      {
@@ -554,6 +598,10 @@
      },
      {
       "url": "https://www.healthcare.gov/coverage-outside-open-enrollment/changing-plans",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/small-businesses/provide-shop-coverage/using-insurance-agents-and-brokers",
       "instances": 1
      },
      {
@@ -602,6 +650,10 @@
      },
      {
       "url": "https://www.healthcare.gov/glossary/penalty",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/small-businesses/employees-shop/overview",
       "instances": 1
      },
      {
@@ -657,6 +709,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/health-care-law-protections/rights-and-protections",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/modified-adjusted-gross-income-magi",
       "instances": 1
      },
@@ -670,6 +726,10 @@
      },
      {
       "url": "https://www.healthcare.gov/glossary/allowed-amount",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/premium",
       "instances": 1
      },
      {
@@ -697,7 +757,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/preventive-care-benefits",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/benefit-year",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/part-time-workers",
       "instances": 1
      },
      {
@@ -734,6 +802,10 @@
      },
      {
       "url": "https://www.healthcare.gov/glossary/qualified-health-plan",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/choose-a-plan/out-of-pocket-costs",
       "instances": 1
      },
      {
@@ -785,6 +857,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/multi-state-plan",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/life-time-limit",
       "instances": 1
      },
@@ -794,6 +870,10 @@
      },
      {
       "url": "https://www.healthcare.gov/coverage-outside-open-enrollment",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/taxes-2019/job-based-coverage",
       "instances": 1
      },
      {
@@ -817,11 +897,23 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/out-of-pocket-costs",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/people-with-disabilities",
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/taxes-2021/marketplace-plan-without-savings",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/limited-cost-sharing-plan",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/grandfathered",
       "instances": 1
      },
      {
@@ -830,6 +922,10 @@
      },
      {
       "url": "https://www.healthcare.gov/hsa-options",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/capital-gains",
       "instances": 1
      },
      {
@@ -857,6 +953,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/eligible-immigration-status",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/out-of-network-coinsurance",
       "instances": 1
      },
@@ -877,7 +977,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/health-care-law-protections/doctor-choice-emergency-room-access",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/chronic-disease-management",
       "instances": 1
      },
      {
@@ -1025,11 +1133,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/flexible-spending-account-fsa",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/workers-compensation",
       "instances": 1
      },
      {
       "url": "https://www.healthcare.gov/glossary/zero-cost-sharing-plan",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/alimony",
       "instances": 1
      },
      {
@@ -1050,6 +1166,14 @@
      },
      {
       "url": "https://www.healthcare.gov/glossary/waiting-period-job-based-coverage",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/value-based-purchasing-vbp",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/where-can-i-read-the-affordable-care-act",
       "instances": 1
      },
      {
@@ -1081,6 +1205,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/silver-health-plan",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/people-with-disabilities/marketplace-application",
       "instances": 1
      },
@@ -1105,6 +1233,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/immigrants/us-citizens-and-nationals",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/have-coverage",
       "instances": 1
      },
@@ -1113,11 +1245,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/health-care-law-protections/summary-of-benefits-and-coverage",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/bronze-health-plan",
       "instances": 1
      },
      {
       "url": "https://www.healthcare.gov/how-plans-set-your-premiums",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/exemption",
       "instances": 1
      },
      {
@@ -1145,6 +1285,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/plan-year",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/court-decisions",
       "instances": 1
      },
@@ -1153,11 +1297,23 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/agents-and-brokers-register",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/household",
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/social-security-benefits",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/medicaid-limited-benefits",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/exemption-form-instructions",
       "instances": 1
      },
      {
@@ -1174,6 +1330,10 @@
      },
      {
       "url": "https://www.healthcare.gov/glossary/interest",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/social-security",
       "instances": 1
      },
      {
@@ -1210,6 +1370,10 @@
      },
      {
       "url": "https://www.healthcare.gov/small-businesses/choose-and-enroll/using-insurance-agents-and-brokers",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/guaranteed-issue",
       "instances": 1
      },
      {
@@ -1281,6 +1445,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/small-businesses/provide-shop-coverage/shop-marketplace-overview",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/preferred-provider-organization-ppo",
       "instances": 1
      },
@@ -1314,6 +1482,10 @@
      },
      {
       "url": "https://www.healthcare.gov/coverage/what-marketplace-plans-cover",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/health-coverage-exemptions/apply-for-exemption",
       "instances": 1
      },
      {
@@ -1365,6 +1537,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/applied-by-phone-or-mail",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/skilled-nursing-facility-care",
       "instances": 1
      },
@@ -1401,6 +1577,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/referral",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/preventive-care-adults",
       "instances": 1
      },
@@ -1413,7 +1593,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/health-care-law-protections/lifetime-and-yearly-limits",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/shop-dental-plan-information",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/health-care-law-protections/cancellations",
       "instances": 1
      },
      {
@@ -1438,6 +1626,10 @@
      },
      {
       "url": "https://www.healthcare.gov/taxes/other-health-coverage",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/hardship-exemption",
       "instances": 1
      },
      {
@@ -1541,7 +1733,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/taxes-2020/other-health-coverage",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/coverage-outside-open-enrollment/confirm-special-enrollment-period",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/fees/fee-for-not-being-covered",
       "instances": 1
      },
      {
@@ -1562,6 +1762,10 @@
      },
      {
       "url": "https://www.healthcare.gov/glossary/in-network-coinsurance",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/taxes-2022/no-health-coverage",
       "instances": 1
      },
      {
@@ -1605,6 +1809,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/prescription-drug-coverage",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/dental-plan-information",
       "instances": 1
      },
@@ -1614,6 +1822,14 @@
      },
      {
       "url": "https://www.healthcare.gov/taxes-2023/job-based-coverage",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/how-can-i-protect-myself-from-fraud-in-the-health-insurance-marketplace",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/fees/plans-that-count-as-coverage",
       "instances": 1
      },
      {
@@ -1690,6 +1906,14 @@
      },
      {
       "url": "https://www.healthcare.gov/keep-or-change-plan/choices",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/special-health-care-need",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/original-medicare",
       "instances": 1
      },
      {
@@ -1825,6 +2049,14 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/apply-and-enroll",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/individual-health-insurance-policy",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/archive",
       "instances": 1
      },
@@ -1850,6 +2082,10 @@
      },
      {
       "url": "https://www.healthcare.gov/glossary/dental-coverage",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/inpatient-care",
       "instances": 1
      },
      {
@@ -1925,6 +2161,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/health-care-law-protections/rate-review",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/choose-a-plan/catastrophic-health-plans",
       "instances": 1
      },
@@ -1949,6 +2189,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/connect",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/group-health-plan",
       "instances": 1
      },
@@ -1966,6 +2210,10 @@
      },
      {
       "url": "https://www.healthcare.gov/glossary/family-and-medical-leave-act-fmla",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/health-coverage-exemptions/2019-exemptions-catastrophic-coverage",
       "instances": 1
      },
      {
@@ -1997,25 +2245,25 @@
       "html": "<form role=\"search\" method=\"get\" action=\"/search/\" class=\"index-module--search-form--93f38\" aria-controls=\"search-results\">"
      },
      {
+      "url": "https://www.healthcare.gov/small-businesses/health-care-law-and-businesses/how-aca-affects-businesses",
+      "target": ".index-module--search-form--93f38",
+      "html": "<form role=\"search\" method=\"get\" action=\"/search/\" class=\"index-module--search-form--93f38\" aria-controls=\"search-results\">"
+     },
+     {
       "url": "https://www.healthcare.gov/choose-a-plan/your-total-costs",
       "target": ".index-module--search-form--93f38",
       "html": "<form role=\"search\" method=\"get\" action=\"/search/\" class=\"index-module--search-form--93f38\" aria-controls=\"search-results\">"
      },
      {
-      "url": "https://www.healthcare.gov/glossary/tty",
-      "target": ".index-module--search-form--93f38",
-      "html": "<form role=\"search\" method=\"get\" action=\"/search/\" class=\"index-module--search-form--93f38\" aria-controls=\"search-results\">"
-     },
-     {
-      "url": "https://www.healthcare.gov/unemployed/cobra-coverage",
+      "url": "https://www.healthcare.gov/glossary/generic-drugs",
       "target": ".index-module--search-form--93f38",
       "html": "<form role=\"search\" method=\"get\" action=\"/search/\" class=\"index-module--search-form--93f38\" aria-controls=\"search-results\">"
      }
     ]
    },
    "empty-heading": {
-    "count": 3,
-    "pages": 3,
+    "count": 4,
+    "pages": 4,
     "impact": "minor",
     "help": "Headings should not be empty",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/empty-heading?application=axeAPI",
@@ -2024,12 +2272,16 @@
     ],
     "examplePages": [
      "https://www.healthcare.gov/choose-a-plan/your-total-costs",
-     "https://www.healthcare.gov/taxes-2023/other-health-coverage",
-     "https://www.healthcare.gov/choose-a-plan/catastrophic-health-plans"
+     "https://www.healthcare.gov/taxes-2023/no-health-coverage",
+     "https://www.healthcare.gov/taxes-2023/other-health-coverage"
     ],
     "affectedPages": [
      {
       "url": "https://www.healthcare.gov/choose-a-plan/your-total-costs",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/taxes-2023/no-health-coverage",
       "instances": 1
      },
      {
@@ -2046,6 +2298,11 @@
       "url": "https://www.healthcare.gov/choose-a-plan/your-total-costs",
       "target": ".index-module--content--6c4f4 > h3",
       "html": "<h3>&nbsp;</h3>"
+     },
+     {
+      "url": "https://www.healthcare.gov/taxes-2023/no-health-coverage",
+      "target": "h2:nth-child(10)",
+      "html": "<h2>&nbsp;</h2>"
      },
      {
       "url": "https://www.healthcare.gov/taxes-2023/other-health-coverage",
@@ -2348,8 +2605,8 @@
     ]
    },
    "image-alt": {
-    "count": 8,
-    "pages": 4,
+    "count": 10,
+    "pages": 5,
     "impact": "critical",
     "help": "Images must have alternative text",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/image-alt?application=axeAPI",
@@ -2359,12 +2616,16 @@
     ],
     "examplePages": [
      "https://www.healthcare.gov/get-coverage",
-     "https://www.healthcare.gov/",
-     "https://www.healthcare.gov/american-indians-alaska-natives/medicaid-chip"
+     "https://www.healthcare.gov/part-time-workers",
+     "https://www.healthcare.gov/"
     ],
     "affectedPages": [
      {
       "url": "https://www.healthcare.gov/get-coverage",
+      "instances": 2
+     },
+     {
+      "url": "https://www.healthcare.gov/part-time-workers",
       "instances": 2
      },
      {
@@ -2392,25 +2653,25 @@
       "html": "<img src=\"https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/~/img/svg-close-btn-white-1.svg\">"
      },
      {
-      "url": "https://www.healthcare.gov/",
-      "target": ".QSIPopOver > div:nth-child(1) > div > img",
+      "url": "https://www.healthcare.gov/part-time-workers",
+      "target": "div:nth-child(1) > div > img",
       "html": "<img src=\"https://gov1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php?IM=IM_brriXYMu68CEU3s\" style=\"width: 700px; height: 453px;\">"
      },
      {
-      "url": "https://www.healthcare.gov/",
+      "url": "https://www.healthcare.gov/part-time-workers",
       "target": "div:nth-child(2) > div > img",
       "html": "<img src=\"https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/~/img/svg-close-btn-white-1.svg\">"
      },
      {
-      "url": "https://www.healthcare.gov/american-indians-alaska-natives/medicaid-chip",
-      "target": "div:nth-child(1) > div > img",
+      "url": "https://www.healthcare.gov/",
+      "target": ".QSIPopOver > div:nth-child(1) > div > img",
       "html": "<img src=\"https://gov1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php?IM=IM_brriXYMu68CEU3s\" style=\"width: 700px; height: 453px;\">"
      }
     ]
    },
    "region": {
-    "count": 8,
-    "pages": 4,
+    "count": 10,
+    "pages": 5,
     "impact": "moderate",
     "help": "All page content should be contained by landmarks",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
@@ -2419,12 +2680,16 @@
     ],
     "examplePages": [
      "https://www.healthcare.gov/get-coverage",
-     "https://www.healthcare.gov/",
-     "https://www.healthcare.gov/american-indians-alaska-natives/medicaid-chip"
+     "https://www.healthcare.gov/part-time-workers",
+     "https://www.healthcare.gov/"
     ],
     "affectedPages": [
      {
       "url": "https://www.healthcare.gov/get-coverage",
+      "instances": 2
+     },
+     {
+      "url": "https://www.healthcare.gov/part-time-workers",
       "instances": 2
      },
      {
@@ -2452,19 +2717,19 @@
       "html": "<div tabindex=\"0\" style=\"top: 12px; left: 662px; position: absolute; z-index: 2000000004; width: 25px; height: 25px; background-color: transparent; border-width: 0px; border-color: rgb(0, 0, 0); borde"
      },
      {
+      "url": "https://www.healthcare.gov/part-time-workers",
+      "target": ".QSIPopOver > div:nth-child(1)",
+      "html": "<div tabindex=\"0\" style=\"top: 0px; left: 0px; position: absolute; z-index: 2000000002; width: 700px; height: 453px; background-color: transparent; border-width: 0px; border-color: rgb(51, 51, 51); bor"
+     },
+     {
+      "url": "https://www.healthcare.gov/part-time-workers",
+      "target": ".QSIPopOver > div:nth-child(2)",
+      "html": "<div tabindex=\"0\" style=\"top: 12px; left: 662px; position: absolute; z-index: 2000000004; width: 25px; height: 25px; background-color: transparent; border-width: 0px; border-color: rgb(0, 0, 0); borde"
+     },
+     {
       "url": "https://www.healthcare.gov/",
       "target": ".QSIPopOver > div:nth-child(1)",
       "html": "<div tabindex=\"0\" style=\"top: 0px; left: 0px; position: absolute; z-index: 2000000000; width: 700px; height: 453px; background-color: transparent; border-width: 0px; border-color: rgb(51, 51, 51); bor"
-     },
-     {
-      "url": "https://www.healthcare.gov/",
-      "target": ".QSIPopOver > div:nth-child(2)",
-      "html": "<div tabindex=\"0\" style=\"top: 12px; left: 662px; position: absolute; z-index: 2000000002; width: 25px; height: 25px; background-color: transparent; border-width: 0px; border-color: rgb(0, 0, 0); borde"
-     },
-     {
-      "url": "https://www.healthcare.gov/american-indians-alaska-natives/medicaid-chip",
-      "target": ".QSIPopOver > div:nth-child(1)",
-      "html": "<div tabindex=\"0\" style=\"top: 0px; left: 0px; position: absolute; z-index: 2000000002; width: 700px; height: 453px; background-color: transparent; border-width: 0px; border-color: rgb(51, 51, 51); bor"
      }
     ]
    },
@@ -2552,14 +2817,14 @@
   }
  },
  "alfa": {
-  "failedTotal": 10320,
-  "pagesWithFailures": 199,
-  "pagesScanned": 199,
+  "failedTotal": 11404,
+  "pagesWithFailures": 221,
+  "pagesScanned": 221,
   "medianFailures": 50,
   "rules": {
    "sia-r73": {
-    "count": 1210,
-    "pages": 199,
+    "count": 1344,
+    "pages": 221,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r73",
     "examplePages": [
      "https://www.healthcare.gov/glossary/tty",
@@ -2613,6 +2878,10 @@
      },
      {
       "url": "https://www.healthcare.gov/income-and-household-information/income",
+      "instances": 6
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/broker",
       "instances": 6
      },
      {
@@ -2732,6 +3001,14 @@
       "instances": 6
      },
      {
+      "url": "https://www.healthcare.gov/small-businesses/agents-and-brokers",
+      "instances": 6
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/health-insurance-marketplace-glossary",
+      "instances": 6
+     },
+     {
       "url": "https://www.healthcare.gov/american-indians-alaska-natives",
       "instances": 6
      },
@@ -2778,6 +3055,10 @@
      {
       "url": "https://www.healthcare.gov/topics",
       "instances": 9
+     },
+     {
+      "url": "https://www.healthcare.gov/more-savings",
+      "instances": 8
      },
      {
       "url": "https://www.healthcare.gov/coverage/dental-coverage",
@@ -2844,6 +3125,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.healthcare.gov/glossary/premium",
+      "instances": 6
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/benefit-year",
       "instances": 6
      },
@@ -2868,6 +3153,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.healthcare.gov/glossary/multi-state-plan",
+      "instances": 6
+     },
+     {
       "url": "https://www.healthcare.gov/coverage-outside-open-enrollment",
       "instances": 6
      },
@@ -2888,7 +3177,15 @@
       "instances": 6
      },
      {
+      "url": "https://www.healthcare.gov/glossary/out-of-pocket-costs",
+      "instances": 6
+     },
+     {
       "url": "https://www.healthcare.gov/people-with-disabilities",
+      "instances": 6
+     },
+     {
+      "url": "https://www.healthcare.gov/taxes-2021/marketplace-plan-without-savings",
       "instances": 6
      },
      {
@@ -2964,11 +3261,19 @@
       "instances": 6
      },
      {
+      "url": "https://www.healthcare.gov/glossary/flexible-spending-account-fsa",
+      "instances": 6
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/zero-cost-sharing-plan",
       "instances": 6
      },
      {
       "url": "https://www.healthcare.gov/forgot-password",
+      "instances": 6
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/alimony",
       "instances": 6
      },
      {
@@ -2981,6 +3286,10 @@
      },
      {
       "url": "https://www.healthcare.gov/apply-and-enroll/complete-your-enrollment",
+      "instances": 6
+     },
+     {
+      "url": "https://www.healthcare.gov/where-can-i-read-the-affordable-care-act",
       "instances": 6
      },
      {
@@ -3008,6 +3317,14 @@
       "instances": 6
      },
      {
+      "url": "https://www.healthcare.gov/health-care-law-protections/summary-of-benefits-and-coverage",
+      "instances": 6
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/exemption",
+      "instances": 6
+     },
+     {
       "url": "https://www.healthcare.gov/marketplace-appeals/getting-help",
       "instances": 6
      },
@@ -3024,11 +3341,19 @@
       "instances": 6
      },
      {
+      "url": "https://www.healthcare.gov/agents-and-brokers-register",
+      "instances": 6
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/household",
       "instances": 6
      },
      {
       "url": "https://www.healthcare.gov/glossary/nondiscrimination",
+      "instances": 6
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/social-security",
       "instances": 6
      },
      {
@@ -3076,6 +3401,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.healthcare.gov/health-coverage-exemptions/apply-for-exemption",
+      "instances": 6
+     },
+     {
       "url": "https://www.healthcare.gov/self-employed/coverage",
       "instances": 6
      },
@@ -3089,6 +3418,14 @@
      },
      {
       "url": "https://www.healthcare.gov/glossary/subsidized-coverage",
+      "instances": 6
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/referral",
+      "instances": 6
+     },
+     {
+      "url": "https://www.healthcare.gov/health-care-law-protections/cancellations",
       "instances": 6
      },
      {
@@ -3192,6 +3529,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.healthcare.gov/how-can-i-protect-myself-from-fraud-in-the-health-insurance-marketplace",
+      "instances": 6
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/state-medical-assistance-office",
       "instances": 6
      },
@@ -3284,6 +3625,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.healthcare.gov/glossary/individual-health-insurance-policy",
+      "instances": 6
+     },
+     {
       "url": "https://www.healthcare.gov/archive",
       "instances": 6
      },
@@ -3324,6 +3669,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.healthcare.gov/health-care-law-protections/rate-review",
+      "instances": 6
+     },
+     {
       "url": "https://www.healthcare.gov/choose-a-plan/catastrophic-health-plans",
       "instances": 6
      },
@@ -3349,6 +3698,10 @@
      },
      {
       "url": "https://www.healthcare.gov/taxes-2019/no-health-coverage",
+      "instances": 6
+     },
+     {
+      "url": "https://www.healthcare.gov/health-coverage-exemptions/2019-exemptions-catastrophic-coverage",
       "instances": 6
      },
      {
@@ -3393,8 +3746,8 @@
     ]
    },
    "sia-r18": {
-    "count": 192,
-    "pages": 192,
+    "count": 214,
+    "pages": 214,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r18",
     "examplePages": [
      "https://www.healthcare.gov/glossary/tty",
@@ -3451,6 +3804,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/broker",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/wellness-programs",
       "instances": 1
      },
@@ -3567,6 +3924,14 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/small-businesses/agents-and-brokers",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/health-insurance-marketplace-glossary",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/american-indians-alaska-natives",
       "instances": 1
      },
@@ -3612,6 +3977,10 @@
      },
      {
       "url": "https://www.healthcare.gov/topics",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/more-savings",
       "instances": 1
      },
      {
@@ -3679,6 +4048,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/premium",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/benefit-year",
       "instances": 1
      },
@@ -3703,6 +4076,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/multi-state-plan",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/coverage-outside-open-enrollment",
       "instances": 1
      },
@@ -3723,7 +4100,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/out-of-pocket-costs",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/people-with-disabilities",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/taxes-2021/marketplace-plan-without-savings",
       "instances": 1
      },
      {
@@ -3795,7 +4180,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/flexible-spending-account-fsa",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/zero-cost-sharing-plan",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/alimony",
       "instances": 1
      },
      {
@@ -3804,6 +4197,10 @@
      },
      {
       "url": "https://www.healthcare.gov/apply-and-enroll/complete-your-enrollment",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/where-can-i-read-the-affordable-care-act",
       "instances": 1
      },
      {
@@ -3831,6 +4228,14 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/health-care-law-protections/summary-of-benefits-and-coverage",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/exemption",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/marketplace-appeals/getting-help",
       "instances": 1
      },
@@ -3847,11 +4252,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/agents-and-brokers-register",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/household",
       "instances": 1
      },
      {
       "url": "https://www.healthcare.gov/glossary/nondiscrimination",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/social-security",
       "instances": 1
      },
      {
@@ -3899,6 +4312,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/health-coverage-exemptions/apply-for-exemption",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/self-employed/coverage",
       "instances": 1
      },
@@ -3912,6 +4329,14 @@
      },
      {
       "url": "https://www.healthcare.gov/glossary/subsidized-coverage",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/referral",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/health-care-law-protections/cancellations",
       "instances": 1
      },
      {
@@ -4007,6 +4432,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/how-can-i-protect-myself-from-fraud-in-the-health-insurance-marketplace",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/state-medical-assistance-office",
       "instances": 1
      },
@@ -4091,6 +4520,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/individual-health-insurance-policy",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/archive",
       "instances": 1
      },
@@ -4131,6 +4564,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/health-care-law-protections/rate-review",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/choose-a-plan/catastrophic-health-plans",
       "instances": 1
      },
@@ -4156,6 +4593,10 @@
      },
      {
       "url": "https://www.healthcare.gov/taxes-2019/no-health-coverage",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/health-coverage-exemptions/2019-exemptions-catastrophic-coverage",
       "instances": 1
      },
      {
@@ -4200,8 +4641,8 @@
     ]
    },
    "sia-r61": {
-    "count": 190,
-    "pages": 190,
+    "count": 212,
+    "pages": 212,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r61",
     "examplePages": [
      "https://www.healthcare.gov/glossary/tty",
@@ -4254,6 +4695,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/broker",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/wellness-programs",
       "instances": 1
      },
@@ -4370,6 +4815,14 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/small-businesses/agents-and-brokers",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/health-insurance-marketplace-glossary",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/american-indians-alaska-natives",
       "instances": 1
      },
@@ -4415,6 +4868,10 @@
      },
      {
       "url": "https://www.healthcare.gov/topics",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/more-savings",
       "instances": 1
      },
      {
@@ -4482,6 +4939,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/premium",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/benefit-year",
       "instances": 1
      },
@@ -4506,6 +4967,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/multi-state-plan",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/coverage-outside-open-enrollment",
       "instances": 1
      },
@@ -4526,7 +4991,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/out-of-pocket-costs",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/people-with-disabilities",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/taxes-2021/marketplace-plan-without-savings",
       "instances": 1
      },
      {
@@ -4598,11 +5071,23 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/flexible-spending-account-fsa",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/zero-cost-sharing-plan",
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/alimony",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/apply-and-enroll/complete-your-enrollment",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/where-can-i-read-the-affordable-care-act",
       "instances": 1
      },
      {
@@ -4630,6 +5115,14 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/health-care-law-protections/summary-of-benefits-and-coverage",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/exemption",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/marketplace-appeals/getting-help",
       "instances": 1
      },
@@ -4646,11 +5139,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/agents-and-brokers-register",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/household",
       "instances": 1
      },
      {
       "url": "https://www.healthcare.gov/glossary/nondiscrimination",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/social-security",
       "instances": 1
      },
      {
@@ -4698,6 +5199,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/health-coverage-exemptions/apply-for-exemption",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/self-employed/coverage",
       "instances": 1
      },
@@ -4711,6 +5216,14 @@
      },
      {
       "url": "https://www.healthcare.gov/glossary/subsidized-coverage",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/referral",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/health-care-law-protections/cancellations",
       "instances": 1
      },
      {
@@ -4806,6 +5319,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/how-can-i-protect-myself-from-fraud-in-the-health-insurance-marketplace",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/state-medical-assistance-office",
       "instances": 1
      },
@@ -4890,6 +5407,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/individual-health-insurance-policy",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/archive",
       "instances": 1
      },
@@ -4930,6 +5451,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/health-care-law-protections/rate-review",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/choose-a-plan/catastrophic-health-plans",
       "instances": 1
      },
@@ -4955,6 +5480,10 @@
      },
      {
       "url": "https://www.healthcare.gov/taxes-2019/no-health-coverage",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/health-coverage-exemptions/2019-exemptions-catastrophic-coverage",
       "instances": 1
      },
      {
@@ -4999,8 +5528,8 @@
     ]
    },
    "sia-r113": {
-    "count": 25,
-    "pages": 25,
+    "count": 28,
+    "pages": 28,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r113",
     "examplePages": [
      "https://www.healthcare.gov/glossary/tty",
@@ -5022,6 +5551,10 @@
      },
      {
       "url": "https://www.healthcare.gov/taxes/marketplace-plan-without-savings",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/broker",
       "instances": 1
      },
      {
@@ -5077,6 +5610,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/glossary/social-security",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/payment-bundling",
       "instances": 1
      },
@@ -5086,6 +5623,10 @@
      },
      {
       "url": "https://www.healthcare.gov/glossary/skilled-nursing-facility-care",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/referral",
       "instances": 1
      },
      {
@@ -5131,15 +5672,15 @@
       "html": null
      },
      {
-      "url": "https://www.healthcare.gov/taxes-reconciling",
-      "target": "<a href=\"/tax-form-1095/\" data-listener-attached=\"true\">",
+      "url": "https://www.healthcare.gov/glossary/broker",
+      "target": "<a class=\"megaMenu-module--topic-link--97a32\" href=\"/reporting-changes/cancel-plan/\" data-listener-attached=\"true\">",
       "html": null
      }
     ]
    },
    "sia-r111": {
-    "count": 8603,
-    "pages": 199,
+    "count": 9506,
+    "pages": 221,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r111",
     "examplePages": [
      "https://www.healthcare.gov/glossary/tty",
@@ -5196,6 +5737,10 @@
       "instances": 43
      },
      {
+      "url": "https://www.healthcare.gov/glossary/broker",
+      "instances": 40
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/wellness-programs",
       "instances": 39
      },
@@ -5312,6 +5857,14 @@
       "instances": 46
      },
      {
+      "url": "https://www.healthcare.gov/small-businesses/agents-and-brokers",
+      "instances": 42
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/health-insurance-marketplace-glossary",
+      "instances": 41
+     },
+     {
       "url": "https://www.healthcare.gov/american-indians-alaska-natives",
       "instances": 40
      },
@@ -5358,6 +5911,10 @@
      {
       "url": "https://www.healthcare.gov/topics",
       "instances": 89
+     },
+     {
+      "url": "https://www.healthcare.gov/more-savings",
+      "instances": 40
      },
      {
       "url": "https://www.healthcare.gov/coverage/dental-coverage",
@@ -5424,6 +5981,10 @@
       "instances": 44
      },
      {
+      "url": "https://www.healthcare.gov/glossary/premium",
+      "instances": 41
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/benefit-year",
       "instances": 40
      },
@@ -5448,6 +6009,10 @@
       "instances": 40
      },
      {
+      "url": "https://www.healthcare.gov/glossary/multi-state-plan",
+      "instances": 39
+     },
+     {
       "url": "https://www.healthcare.gov/coverage-outside-open-enrollment",
       "instances": 46
      },
@@ -5468,8 +6033,16 @@
       "instances": 43
      },
      {
+      "url": "https://www.healthcare.gov/glossary/out-of-pocket-costs",
+      "instances": 40
+     },
+     {
       "url": "https://www.healthcare.gov/people-with-disabilities",
       "instances": 44
+     },
+     {
+      "url": "https://www.healthcare.gov/taxes-2021/marketplace-plan-without-savings",
+      "instances": 45
      },
      {
       "url": "https://www.healthcare.gov/create-account",
@@ -5544,12 +6117,20 @@
       "instances": 44
      },
      {
+      "url": "https://www.healthcare.gov/glossary/flexible-spending-account-fsa",
+      "instances": 39
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/zero-cost-sharing-plan",
       "instances": 38
      },
      {
       "url": "https://www.healthcare.gov/forgot-password",
       "instances": 25
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/alimony",
+      "instances": 38
      },
      {
       "url": "https://www.healthcare.gov/job-based-help/coverage",
@@ -5562,6 +6143,10 @@
      {
       "url": "https://www.healthcare.gov/apply-and-enroll/complete-your-enrollment",
       "instances": 40
+     },
+     {
+      "url": "https://www.healthcare.gov/where-can-i-read-the-affordable-care-act",
+      "instances": 42
      },
      {
       "url": "https://www.healthcare.gov/glossary/cobra",
@@ -5588,6 +6173,14 @@
       "instances": 38
      },
      {
+      "url": "https://www.healthcare.gov/health-care-law-protections/summary-of-benefits-and-coverage",
+      "instances": 42
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/exemption",
+      "instances": 39
+     },
+     {
       "url": "https://www.healthcare.gov/marketplace-appeals/getting-help",
       "instances": 40
      },
@@ -5604,12 +6197,20 @@
       "instances": 42
      },
      {
+      "url": "https://www.healthcare.gov/agents-and-brokers-register",
+      "instances": 43
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/household",
       "instances": 40
      },
      {
       "url": "https://www.healthcare.gov/glossary/nondiscrimination",
       "instances": 43
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/social-security",
+      "instances": 40
      },
      {
       "url": "https://www.healthcare.gov/glossary/appeal",
@@ -5656,6 +6257,10 @@
       "instances": 50
      },
      {
+      "url": "https://www.healthcare.gov/health-coverage-exemptions/apply-for-exemption",
+      "instances": 43
+     },
+     {
       "url": "https://www.healthcare.gov/self-employed/coverage",
       "instances": 44
      },
@@ -5670,6 +6275,14 @@
      {
       "url": "https://www.healthcare.gov/glossary/subsidized-coverage",
       "instances": 41
+     },
+     {
+      "url": "https://www.healthcare.gov/glossary/referral",
+      "instances": 43
+     },
+     {
+      "url": "https://www.healthcare.gov/health-care-law-protections/cancellations",
+      "instances": 39
      },
      {
       "url": "https://www.healthcare.gov/small-businesses/learn-more/individual-coverage-hra",
@@ -5772,6 +6385,10 @@
       "instances": 39
      },
      {
+      "url": "https://www.healthcare.gov/how-can-i-protect-myself-from-fraud-in-the-health-insurance-marketplace",
+      "instances": 43
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/state-medical-assistance-office",
       "instances": 43
      },
@@ -5864,6 +6481,10 @@
       "instances": 43
      },
      {
+      "url": "https://www.healthcare.gov/glossary/individual-health-insurance-policy",
+      "instances": 43
+     },
+     {
       "url": "https://www.healthcare.gov/archive",
       "instances": 37
      },
@@ -5904,6 +6525,10 @@
       "instances": 50
      },
      {
+      "url": "https://www.healthcare.gov/health-care-law-protections/rate-review",
+      "instances": 39
+     },
+     {
       "url": "https://www.healthcare.gov/choose-a-plan/catastrophic-health-plans",
       "instances": 40
      },
@@ -5930,6 +6555,10 @@
      {
       "url": "https://www.healthcare.gov/taxes-2019/no-health-coverage",
       "instances": 43
+     },
+     {
+      "url": "https://www.healthcare.gov/health-coverage-exemptions/2019-exemptions-catastrophic-coverage",
+      "instances": 42
      },
      {
       "url": "https://www.healthcare.gov/shop-privacy-act-statement",
@@ -6432,24 +7061,260 @@
    }
   }
  },
+ "consensus": {
+  "uniqueIssues": 1529,
+  "consensus": 4,
+  "axeOnly": 591,
+  "alfaOnly": 934,
+  "rawAxe": 595,
+  "rawAlfa": 938,
+  "byKey": {
+   "act:6a7281": {
+    "actRuleId": "6a7281",
+    "axeRules": [
+     "aria-valid-attr-value"
+    ],
+    "alfaRules": [],
+    "pages": 549,
+    "engines": "axe"
+   },
+   "act:ffd0e9": {
+    "actRuleId": "ffd0e9",
+    "axeRules": [
+     "empty-heading"
+    ],
+    "alfaRules": [
+     "sia-r64"
+    ],
+    "pages": 4,
+    "engines": "both"
+   },
+   "axe-core:landmark-unique": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-unique"
+    ],
+    "alfaRules": [],
+    "pages": 10,
+    "engines": "axe"
+   },
+   "axe-core:definition-list": {
+    "actRuleId": null,
+    "axeRules": [
+     "definition-list"
+    ],
+    "alfaRules": [],
+    "pages": 2,
+    "engines": "axe"
+   },
+   "act:afw4f7": {
+    "actRuleId": "afw4f7",
+    "axeRules": [
+     "color-contrast"
+    ],
+    "alfaRules": [],
+    "pages": 5,
+    "engines": "axe"
+   },
+   "axe-core:heading-order": {
+    "actRuleId": null,
+    "axeRules": [
+     "heading-order"
+    ],
+    "alfaRules": [],
+    "pages": 12,
+    "engines": "axe"
+   },
+   "act:23a2a8": {
+    "actRuleId": "23a2a8",
+    "axeRules": [
+     "image-alt"
+    ],
+    "alfaRules": [
+     "sia-r2"
+    ],
+    "pages": 5,
+    "engines": "both"
+   },
+   "axe-core:region": {
+    "actRuleId": null,
+    "axeRules": [
+     "region"
+    ],
+    "alfaRules": [],
+    "pages": 5,
+    "engines": "axe"
+   },
+   "act:a25f45": {
+    "actRuleId": "a25f45",
+    "axeRules": [
+     "td-headers-attr"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "axe-core:list": {
+    "actRuleId": null,
+    "axeRules": [
+     "list"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "axe-core:link-in-text-block": {
+    "actRuleId": null,
+    "axeRules": [
+     "link-in-text-block"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "alfa:sia-r73": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r73"
+    ],
+    "pages": 221,
+    "engines": "alfa"
+   },
+   "act:5c01ea": {
+    "actRuleId": "5c01ea",
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r18"
+    ],
+    "pages": 214,
+    "engines": "alfa"
+   },
+   "alfa:sia-r61": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r61"
+    ],
+    "pages": 212,
+    "engines": "alfa"
+   },
+   "alfa:sia-r113": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r113"
+    ],
+    "pages": 28,
+    "engines": "alfa"
+   },
+   "alfa:sia-r111": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r111"
+    ],
+    "pages": 221,
+    "engines": "alfa"
+   },
+   "alfa:sia-r66": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r66"
+    ],
+    "pages": 11,
+    "engines": "alfa"
+   },
+   "alfa:sia-r69": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r69"
+    ],
+    "pages": 11,
+    "engines": "alfa"
+   },
+   "alfa:sia-r53": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r53"
+    ],
+    "pages": 6,
+    "engines": "alfa"
+   },
+   "act:6cfa84": {
+    "actRuleId": "6cfa84",
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r17"
+    ],
+    "pages": 3,
+    "engines": "alfa"
+   },
+   "alfa:sia-r57": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r57"
+    ],
+    "pages": 5,
+    "engines": "alfa"
+   },
+   "act:46ca7f": {
+    "actRuleId": "46ca7f",
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r86"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "alfa:sia-r78": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r78"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   }
+  }
+ },
  "sustainability": {
-  "pages": 503,
-  "medianBytes": 3034070,
-  "meanBytes": 3030465,
+  "pages": 567,
+  "medianBytes": 3032864,
+  "meanBytes": 3027667,
   "medianRequests": 103,
-  "totalCo2g": 225.9,
-  "meanCo2g": 0.4491,
-  "totalEnergyWh": 271.06,
-  "meanEnergyWh": 0.5389
+  "totalCo2g": 254.41,
+  "meanCo2g": 0.4487,
+  "totalEnergyWh": 328.77,
+  "meanEnergyWh": 0.5798
  },
  "deprecatedHtml": null,
  "resources": {
-  "total": 44,
+  "total": 60,
   "byType": {
-   "pdf": 43,
+   "pdf": 59,
    "iframe": 1
   },
   "list": [
+   {
+    "url": "http://www.irs.gov/pub/irs-drop/n-12-59.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.irs.gov/pub/irs-pdf/p969.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "http://www.irs.gov/pub/irs-pdf/p5200.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
    {
     "url": "https://www.irs.gov/pub/irs-drop/n-05-42.pdf",
     "type": "pdf",
@@ -6458,12 +7323,12 @@
    {
     "url": "https://www.irs.gov/pub/irs-prior/f1040--2022.pdf",
     "type": "pdf",
-    "pages": 4
+    "pages": 5
    },
    {
     "url": "https://www.irs.gov/pub/irs-prior/i1040gi--2022.pdf",
     "type": "pdf",
-    "pages": 4
+    "pages": 5
    },
    {
     "url": "https://www.irs.gov/pub/irs-access/f8962_accessible.pdf",
@@ -6473,12 +7338,12 @@
    {
     "url": "https://www.irs.gov/pub/irs-prior/f1040--2021.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 5
    },
    {
     "url": "https://www.irs.gov/pub/irs-prior/i1040gi--2021.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 5
    },
    {
     "url": "https://www.cms.gov/CCIIO/Resources/Files/Downloads/appeals_srg_update.pdf",
@@ -6488,12 +7353,22 @@
    {
     "url": "https://www.irs.gov/pub/irs-prior/f1040--2020.pdf",
     "type": "pdf",
-    "pages": 4
+    "pages": 5
    },
    {
     "url": "https://www.irs.gov/pub/irs-prior/i1040gi--2020.pdf",
     "type": "pdf",
-    "pages": 4
+    "pages": 5
+   },
+   {
+    "url": "https://www.irs.gov/pub/irs-prior/f1040--2023.pdf",
+    "type": "pdf",
+    "pages": 5
+   },
+   {
+    "url": "https://www.irs.gov/pub/irs-prior/i1040gi--2023.pdf",
+    "type": "pdf",
+    "pages": 5
    },
    {
     "url": "https://www.irs.gov/pub/irs-prior/f1040--2024.pdf",
@@ -6524,16 +7399,6 @@
     "url": "https://www.irs.gov/pub/irs-prior/f8965--2018.pdf",
     "type": "pdf",
     "pages": 2
-   },
-   {
-    "url": "https://www.irs.gov/pub/irs-prior/f1040--2023.pdf",
-    "type": "pdf",
-    "pages": 4
-   },
-   {
-    "url": "https://www.irs.gov/pub/irs-prior/i1040gi--2023.pdf",
-    "type": "pdf",
-    "pages": 4
    },
    {
     "url": "https://www.irs.gov/pub/irs-prior/f8962--2023.pdf",
@@ -6581,6 +7446,26 @@
     "pages": 1
    },
    {
+    "url": "https://www.irs.gov/pub/irs-pdf/f1040.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.irs.gov/pub/irs-pdf/i1040gi.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.irs.gov/pub/irs-prior/f8962--2021.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.irs.gov/pub/irs-prior/i8962--2021.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/marketplace/outreach-and-education/how-an-individual-coverage-hra-offer-works.pdf",
     "type": "pdf",
     "pages": 1
@@ -6604,6 +7489,61 @@
     "url": "https://www.irs.gov/pub/irs-prior/i8962--2024.pdf",
     "type": "pdf",
     "pages": 2
+   },
+   {
+    "url": "http://housedocs.house.gov/energycommerce/ppacacon.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.gpo.gov/fdsys/pkg/PLAW-111publ148/pdf/PLAW-111publ148.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.gpo.gov/fdsys/pkg/PLAW-111publ152/pdf/PLAW-111publ152.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/CCIIO/Resources/Forms-Reports-and-Other-Resources/Downloads/Sample-Completed-SBC-Accessible-Format-01-2020.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/CCIIO/Resources/Forms-Reports-and-Other-Resources/Downloads/Uniform-Glossary-01-2020.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.hhs.gov/marketplace/applications-and-forms/hardship-exemption.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.hhs.gov/marketplace/applications-and-forms/exemption-application-hardship-spanish.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.hhs.gov/marketplace/applications-and-forms/affordability-ffm-exemption.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.hhs.gov/marketplace/applications-and-forms/affordability-ffm-exemption-spanish.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.hhs.gov/marketplace/applications-and-forms/affordability-sbm-exemption.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.hhs.gov/marketplace/applications-and-forms/affordability-sbm-exemption-spanish.pdf",
+    "type": "pdf",
+    "pages": 1
    },
    {
     "url": "https://www.irs.gov/pub/irs-prior/f8962--2022.pdf",
@@ -6646,17 +7586,7 @@
     "pages": 1
    },
    {
-    "url": "http://www.irs.gov/pub/irs-drop/n-12-59.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
-    "url": "https://www.irs.gov/pub/irs-pdf/p969.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
-    "url": "http://www.irs.gov/pub/irs-pdf/p5200.pdf",
+    "url": "https://www.healthcare.gov/downloads/apply-for-or-renew-coverage.pdf",
     "type": "pdf",
     "pages": 1
    },
@@ -6673,109 +7603,157 @@
   ]
  },
  "plainLanguage": {
-  "pagesChecked": 202,
-  "pagesScored": 57,
-  "medianWordsPerPage": 129,
-  "medianReadingEase": 43.6,
-  "medianGrade": 13.8,
+  "pagesChecked": 234,
+  "pagesScored": 68,
+  "medianWordsPerPage": 135,
+  "medianReadingEase": 44,
+  "medianGrade": 14,
   "topUnexplainedAcronyms": [
    {
     "acronym": "PDF",
-    "pages": 25
+    "pages": 30
    },
    {
     "acronym": "KB",
-    "pages": 25
+    "pages": 30
    },
    {
     "acronym": "IRS",
-    "pages": 25
+    "pages": 28
    },
    {
     "acronym": "MB",
-    "pages": 17
+    "pages": 20
    },
    {
     "acronym": "TTY",
-    "pages": 14
+    "pages": 17
    },
    {
     "acronym": "SHOP",
-    "pages": 13
+    "pages": 14
    },
    {
     "acronym": "II",
-    "pages": 10
+    "pages": 11
    },
    {
     "acronym": "SLCSP",
+    "pages": 11
+   },
+   {
+    "acronym": "ZIP",
     "pages": 10
+   },
+   {
+    "acronym": "ID",
+    "pages": 10
+   },
+   {
+    "acronym": "III",
+    "pages": 9
    },
    {
     "acronym": "CANCEL",
     "pages": 8
    },
    {
-    "acronym": "III",
-    "pages": 8
-   },
-   {
-    "acronym": "ID",
-    "pages": 8
-   },
-   {
-    "acronym": "ZIP",
-    "pages": 7
-   },
-   {
     "acronym": "COBRA",
     "pages": 6
    },
    {
-    "acronym": "AIRS",
-    "pages": 5
+    "acronym": "CMS",
+    "pages": 6
    },
    {
-    "acronym": "CMS",
+    "acronym": "AIRS",
     "pages": 5
    }
   ],
   "topMisspellings": [
    {
     "word": "pagePrint",
-    "pages": 24
+    "pages": 39
    },
    {
     "word": "pageCan",
-    "pages": 22
+    "pages": 35
    },
    {
     "word": "pre",
-    "pages": 9
+    "pages": 10
    },
    {
     "word": "taxesEmail",
-    "pages": 8
+    "pages": 9
    },
    {
     "word": "coverageNo",
     "pages": 8
    },
    {
-    "word": "planA",
-    "pages": 6
-   },
-   {
-    "word": "creditJob",
-    "pages": 6
-   },
-   {
     "word": "coverageEmail",
-    "pages": 6
+    "pages": 8
    },
    {
     "word": "doesn",
+    "pages": 8
+   },
+   {
+    "word": "copayments",
+    "pages": 8
+   },
+   {
+    "word": "planA",
+    "pages": 7
+   },
+   {
+    "word": "creditJob",
+    "pages": 7
+   },
+   {
+    "word": "aren",
     "pages": 6
+   },
+   {
+    "word": "isn",
+    "pages": 6
+   },
+   {
+    "word": "HRAs",
+    "pages": 5
+   },
+   {
+    "word": "coverageOther",
+    "pages": 5
+   },
+   {
+    "word": "protectionsEmail",
+    "pages": 5
+   },
+   {
+    "word": "creditMarketplace",
+    "pages": 5
+   },
+   {
+    "word": "insuranceEmail",
+    "pages": 4
+   },
+   {
+    "word": "pageHealth",
+    "pages": 4
+   },
+   {
+    "word": "creditsYou",
+    "pages": 4
+   },
+   {
+    "word": "coverageIf",
+    "pages": 4
+   },
+   {
+    "word": "didn",
+    "pages": 4
    },
    {
     "word": "creditYou",
@@ -6790,61 +7768,13 @@
     "pages": 4
    },
    {
-    "word": "coverageOther",
-    "pages": 4
-   },
-   {
-    "word": "copayments",
-    "pages": 4
-   },
-   {
-    "word": "coverageCovered",
-    "pages": 4
-   },
-   {
-    "word": "creditMarketplace",
-    "pages": 4
-   },
-   {
-    "word": "glossaryHealth",
-    "pages": 3
-   },
-   {
-    "word": "HRAs",
-    "pages": 3
-   },
-   {
-    "word": "glossaryPre",
-    "pages": 3
-   },
-   {
-    "word": "aren",
-    "pages": 3
-   },
-   {
-    "word": "creditsYou",
-    "pages": 3
-   },
-   {
-    "word": "coverageHow",
-    "pages": 3
-   },
-   {
-    "word": "coverageIf",
-    "pages": 3
-   },
-   {
-    "word": "didn",
-    "pages": 3
-   },
-   {
     "word": "glossaryOut",
-    "pages": 3
+    "pages": 4
    }
   ]
  },
  "lighthouse": {
-  "pagesSampled": 39,
+  "pagesSampled": 47,
   "medianPerformance": 42,
   "medianAccessibility": 100,
   "medianBestPractices": 77,
@@ -6852,13 +7782,44 @@
   "medianAgentic": null
  },
  "linkCheck": {
-  "brokenCount": 1,
+  "brokenCount": 2,
   "broken": [
    {
     "url": "https://portal.cms.gov/wps/portal/unauthportal/home/",
     "status": 503,
     "reason": "HTTP 503",
-    "foundOn": "https://www.healthcare.gov/small-businesses/get-answers"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "e",
+     "a",
+     "l",
+     "c",
+     "r",
+     "g",
+     "o",
+     "v",
+     "m",
+     "-",
+     "b",
+     "u",
+     "i",
+     "n"
+    ]
+   },
+   {
+    "url": "https://portal.cms.gov/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.healthcare.gov/small-businesses/agents-and-brokers"
+    ]
    }
   ]
  },

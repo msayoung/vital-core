@@ -1,7 +1,17 @@
 {
  "domain": "data.medicaid.gov",
- "updatedAt": "2026-06-14T12:24:56.388Z",
+ "updatedAt": "2026-06-14T15:12:13.401Z",
  "resources": {
+  "https://download.medicaid.gov/data/pi-dataset-december-2025release.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 3
+  },
   "https://download.medicaid.gov/data/scorecard/measure.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -32,6 +42,16 @@
    "weeksSeen": 1,
    "lastPages": 6
   },
+  "https://download.medicaid.gov/data/dq-atlas/20251028_ETL_DEV/states_measures_download.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 5
+  },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-01-15-2024-to-01-21-2024.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -52,6 +72,16 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://download.medicaid.gov/data/sdud-2022-updated.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 6
+  },
   "https://download.medicaid.gov/data/managed-care-enrollment-by-program-and-population-all-2024-table2.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -70,7 +100,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 4
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/managed-care-enrollment-by-program-and-population-duals-2024-table3.csv": {
    "type": "spreadsheet",
@@ -90,7 +120,17 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 5
+   "lastPages": 6
+  },
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-06-01-2026-to-06-07-2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
   },
   "https://download.medicaid.gov/data/coreset-viz/3.9.40/20260209/state.csv": {
    "type": "spreadsheet",
@@ -130,7 +170,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/MajorEligibilityGroup-montly-102025.csv": {
    "type": "spreadsheet",
@@ -170,7 +210,17 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
+  },
+  "https://download.medicaid.gov/data/dq-atlas/20251028_ETL_DEV/measure_allStates.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
   },
   "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-09-29-2025-to-10-05-2025.csv": {
    "type": "spreadsheet",
@@ -192,7 +242,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://download.medicaid.gov/data/dq-atlas/20251028_ETL_DEV/states_measures_download.csv": {
+  "https://download.medicaid.gov/data/drugproducts1q_2026_05082026.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -200,7 +250,17 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 4
+  },
+  "https://download.medicaid.gov/data/StateDrugUtilizationData-2011.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 6
   },
   "https://download.medicaid.gov/data/scorecard/3.3.1/20250506/filters.csv": {
    "type": "spreadsheet",
@@ -210,7 +270,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 4
+   "lastPages": 6
   },
   "https://download.medicaid.gov/data/Respiratory-Conditions-in-the-MedicaidCHIP-Population10202025.csv": {
    "type": "spreadsheet",
@@ -250,7 +310,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/2023-child-and-adult-health-care-quality-measures.csv": {
    "type": "spreadsheet",
@@ -261,6 +321,26 @@
    ],
    "weeksSeen": 1,
    "lastPages": 1
+  },
+  "https://download.medicaid.gov/data/Behavioral-Health-Services-Provided-to-the-MedicaidCHIP-Population.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 8
+  },
+  "https://download.medicaid.gov/data/2015-child-and-adult-health-care-quality-measures.7kj7-m9ih.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/scorecard/3.1.16/20250210/state.csv": {
    "type": "spreadsheet",
@@ -320,7 +400,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/nam-cahps-2014-public-use.dc57-m2ei.csv": {
    "type": "spreadsheet",
@@ -360,7 +440,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/express-lane-eligibility-for-medicaid-and-chip-coverage.8vcd-dnq9.csv": {
    "type": "spreadsheet",
@@ -370,7 +450,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://download.medicaid.gov/data/StateDrugUtilizationData-2003.csv": {
    "type": "spreadsheet",
@@ -380,7 +460,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/sdud-2025-updated.csv": {
    "type": "spreadsheet",
@@ -390,7 +470,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/dq-atlas/20250924_ETL_DEV/measure_compare_download.csv": {
    "type": "spreadsheet",
@@ -410,9 +490,39 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
+   "lastPages": 3
+  },
+  "https://download.medicaid.gov/data/share-of-medicaid-enrollees-in-managed-care.2024-table5.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
    "lastPages": 2
   },
+  "https://download.medicaid.gov/data/Pregnancy-Outcomes-for-MedicaidCHIP-Beneficiaries-ages-15-to-44.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 4
+  },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-5-22-2023-to-5-28-2023_0.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 4
+  },
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-08-21-2023-to-08-27-2023.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -442,6 +552,16 @@
    "weeksSeen": 1,
    "lastPages": 2
   },
+  "https://download.medicaid.gov/data/dq-atlas/20251028_ETL_DEV/measure_backgroundAndMethods.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 5
+  },
   "https://download.medicaid.gov/data/coreset-viz/3.9.40/20260209/measure_value.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -450,7 +570,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/medicaid-enrollment-new-adult-group-02052026.csv": {
    "type": "spreadsheet",
@@ -460,7 +580,37 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
+  },
+  "https://download.medicaid.gov/data/StateDrugUtilizationData-2017.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 5
+  },
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/newly-reported-drugs-october-files.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 5
+  },
+  "https://download.medicaid.gov/data/scorecard/3.1.16/20250210/measure.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/StateMedicaidandCHIPApplicationsEligibilityDeterminationsandEnrollmentData04282022.csv": {
    "type": "spreadsheet",
@@ -471,6 +621,16 @@
    ],
    "weeksSeen": 1,
    "lastPages": 3
+  },
+  "https://download.medicaid.gov/data/scorecard/core-set/2.10.16/20241029/measure.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/Clotting-Factor-Dec2021.csv": {
    "type": "spreadsheet",
@@ -502,6 +662,16 @@
    "weeksSeen": 1,
    "lastPages": 2
   },
+  "https://download.medicaid.gov/data/coreset-viz/2.10.22/20241029/measure_value.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 5
+  },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-10-16-2023-to-10-22-2023.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -520,7 +690,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/scorecard/3.9.22/20251205/measure_value.csv": {
    "type": "spreadsheet",
@@ -560,7 +730,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-oct-release_508.xlsx": {
    "type": "spreadsheet",
@@ -570,7 +740,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-september-2024-release.xlsx": {
    "type": "spreadsheet",
@@ -580,7 +750,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-august-2024-release.xlsx": {
    "type": "spreadsheet",
@@ -590,7 +760,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-july-2024-release.xlsx": {
    "type": "spreadsheet",
@@ -600,7 +770,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-jun-2024-release.xlsx": {
    "type": "spreadsheet",
@@ -610,7 +780,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-may-2024-release.xlsx": {
    "type": "spreadsheet",
@@ -620,7 +790,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-april-2024-release.xlsx": {
    "type": "spreadsheet",
@@ -630,7 +800,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-march-2024-release.xlsx": {
    "type": "spreadsheet",
@@ -640,7 +810,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-february-2024-release.xlsx": {
    "type": "spreadsheet",
@@ -650,7 +820,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-january-2024-release.xlsx": {
    "type": "spreadsheet",
@@ -660,7 +830,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-dec-release.xlsx": {
    "type": "spreadsheet",
@@ -670,7 +840,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-nov-release.xlsx": {
    "type": "spreadsheet",
@@ -680,7 +850,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-oct-release.xlsx": {
    "type": "spreadsheet",
@@ -690,7 +860,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-sep-release_508.xlsx": {
    "type": "spreadsheet",
@@ -700,7 +870,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-august-release-508.xlsx": {
    "type": "spreadsheet",
@@ -710,7 +880,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/medicaid-report-wide-july-release.xlsx": {
    "type": "spreadsheet",
@@ -720,7 +890,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-03-25-2024-to-03-31-2024.csv": {
    "type": "spreadsheet",
@@ -730,7 +900,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://download.medicaid.gov/data/managed-care-program-by-state-2023.csv": {
    "type": "spreadsheet",
@@ -750,9 +920,9 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
-  "https://download.medicaid.gov/data/coreset-viz/2.10.22/20241029/measure_value.csv": {
+  "https://download.medicaid.gov/data/dq-atlas/20251028_ETL_DEV/measure_compare.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -760,7 +930,17 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 7
+  },
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-08-28-2023-to-09-03-2023.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/StateDrugUtilizationData-1998.csv": {
    "type": "spreadsheet",
@@ -780,7 +960,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 3
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-10-30-2023-to-11-05-2023.csv": {
    "type": "spreadsheet",
@@ -790,7 +970,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-12-15-2025-to-12-21-2025.csv": {
    "type": "spreadsheet",
@@ -810,7 +990,17 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 5
+   "lastPages": 6
+  },
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-11-24-2025-to-11-30-2025.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/2022-child-and-adult-health-care-quality-measures_0.csv": {
    "type": "spreadsheet",
@@ -850,7 +1040,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/Acute-Care-Services-Provided-to-the-MedicaidCHIP-Population.csv": {
    "type": "spreadsheet",
@@ -860,7 +1050,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/cf-drug-report-05072026.csv": {
    "type": "spreadsheet",
@@ -870,17 +1060,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://download.medicaid.gov/data/pi-dataset-december-2025release.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-02-19-2024-to-02-25-2024.csv": {
    "type": "spreadsheet",
@@ -891,6 +1071,36 @@
    ],
    "weeksSeen": 1,
    "lastPages": 3
+  },
+  "https://download.medicaid.gov/data/1q2026statecontacts.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://download.medicaid.gov/data/StateDrugUtilizationData-2018.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-01-22-2024-to-01-28-2024.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
   },
   "https://download.medicaid.gov/data/Telehealth-Services-Provided-to-the-MedicaidCHIP-Population.csv": {
    "type": "spreadsheet",
@@ -922,7 +1132,7 @@
    "weeksSeen": 1,
    "lastPages": 2
   },
-  "https://download.medicaid.gov/data/Behavioral-Health-Services-Provided-to-the-MedicaidCHIP-Population.csv": {
+  "https://download.medicaid.gov/data/scorecard/0.drew.2-test/20231116/SELECTIONS.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -930,9 +1140,9 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 7
+   "lastPages": 1
   },
-  "https://download.medicaid.gov/data/scorecard/0.drew.2-test/20231116/SELECTIONS.csv": {
+  "https://download.medicaid.gov/data/scorecard/core-set/2.10.14/20241029/state.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -952,6 +1162,16 @@
    "weeksSeen": 1,
    "lastPages": 2
   },
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-12-08-2025-to-12-14-2025.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
   "https://download.medicaid.gov/data/pi-dataset-may-2026-release.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -960,7 +1180,17 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 6
+   "lastPages": 9
+  },
+  "https://download.medicaid.gov/data/sdud-2021-updated.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 4
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rpt-drugs-oct-20211025-to-20211031.csv": {
    "type": "spreadsheet",
@@ -973,16 +1203,6 @@
    "lastPages": 2
   },
   "https://download.medicaid.gov/data/medicaid-cms-64-new-adult-group-expenditures-dataset-02172026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 2
-  },
-  "https://download.medicaid.gov/data/Pregnancy-Outcomes-for-MedicaidCHIP-Beneficiaries-ages-15-to-44.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1010,7 +1230,17 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
+  },
+  "https://download.medicaid.gov/data/scorecard/3.9.23/20251205/measure_value.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-10-23-2023-to-10-29-2023.csv": {
    "type": "spreadsheet",
@@ -1020,7 +1250,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/DrugAMPReportingQuarterly1Q2026.csv": {
    "type": "spreadsheet",
@@ -1052,7 +1282,7 @@
    "weeksSeen": 1,
    "lastPages": 3
   },
-  "https://download.medicaid.gov/data/dq-atlas/20251028_ETL_DEV/measure_backgroundAndMethods.csv": {
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/2020-child-and-adult-health-care-quality-measures.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1060,7 +1290,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/division-of-pharmacy-releases-07242025.csv": {
    "type": "spreadsheet",
@@ -1082,16 +1312,6 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://data.medicaid.gov/sites/default/files/uploaded_resources/2020-child-and-adult-health-care-quality-measures.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 2
-  },
   "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-04-20-2026-to-04-26-2026.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -1100,9 +1320,19 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/scorecard/3.9.61/20251205/state.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://download.medicaid.gov/data/1Q2026-LabelerContacts.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1140,7 +1370,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/scorecard/3.1.16/20250210/measure_value.csv": {
    "type": "spreadsheet",
@@ -1152,6 +1382,16 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://download.medicaid.gov/data/dq-atlas/20251028_ETL_DEV/measure_allStates_downloadLink.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 7
+  },
   "https://download.medicaid.gov/data/managed-care-program-by-state-2024.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -1160,9 +1400,9 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 4
   },
-  "https://download.medicaid.gov/data/dq-atlas/20251028_ETL_DEV/measure_allStates.csv": {
+  "https://download.medicaid.gov/data/StateDrugUtilizationData-2005.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1170,7 +1410,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 3
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rpt-drugs-sept-20211011-to-20211017.csv": {
    "type": "spreadsheet",
@@ -1191,16 +1431,6 @@
    ],
    "weeksSeen": 1,
    "lastPages": 1
-  },
-  "https://data.medicaid.gov/sites/default/files/uploaded_resources/newly-reported-drugs-october-files.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rpt-drugs-aug-20210726-to-20210801.csv": {
    "type": "spreadsheet",
@@ -1242,16 +1472,6 @@
    "weeksSeen": 1,
    "lastPages": 2
   },
-  "https://download.medicaid.gov/data/sdud-2022-updated.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
-  },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/rate-of-nas-per-thous-in-newborns-2017-to-2019.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -1270,9 +1490,79 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://download.medicaid.gov/data/scorecard/2.11.19-test/20241107/measure_value.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 3
+  },
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-11-13-2023-to-11-19-2023.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://download.medicaid.gov/data/StateDrugUtilizationData-2006.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 4
+  },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-5-29-2023-to-6-04-2023.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 4
+  },
+  "https://download.medicaid.gov/data/DualStatus-montly.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 5
+  },
+  "https://download.medicaid.gov/data/Vaccinations-Provided-to-the-MedicaidCHIP-Population-under-age-19.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 4
+  },
+  "https://download.medicaid.gov/data/continuous-eligibility-for-medicaid-and-chip-coverage.gz34-pjff.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://download.medicaid.gov/data/medicaid-and-chip-eligibility-levels.xy8t-auhk.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1290,7 +1580,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/dq-atlas/20250924_ETL_DEV/measure_allStates.csv": {
    "type": "spreadsheet",
@@ -1322,6 +1612,26 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/2021-child-and-adult-health-care-quality-measures_0.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://download.medicaid.gov/data/sdud-2020-updated-05012026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 5
+  },
   "https://download.medicaid.gov/data/StateDrugUtilizationData-2008.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -1332,7 +1642,7 @@
    "weeksSeen": 1,
    "lastPages": 2
   },
-  "https://download.medicaid.gov/data/dq-atlas/20251028_ETL_DEV/measure_compare.csv": {
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-10-27-2025-to-11-02-2025.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1410,17 +1720,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
-  },
-  "https://download.medicaid.gov/data/Vaccinations-Provided-to-the-MedicaidCHIP-Population-under-age-19.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/mdrp-newly-rpt-drugs-feb-02-07-22-02-13-22-10172025.csv": {
    "type": "spreadsheet",
@@ -1430,9 +1730,9 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
-  "https://download.medicaid.gov/data/share-of-medicaid-enrollees-in-managed-care.2024-table5.csv": {
+  "https://download.medicaid.gov/data/benf-rcving-phy-hlth-amg-ben-rcvin-mntl-hlth-serv-2017-2021.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1440,7 +1740,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/nadac-comparison-06-10-2026.csv": {
    "type": "spreadsheet",
@@ -1460,19 +1760,9 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://download.medicaid.gov/data/first-time-nadac-05202026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://download.medicaid.gov/data/drugproducts1q_2026_05082026.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1500,7 +1790,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://download.medicaid.gov/data/Clotting-Factor-June-2025.csv": {
    "type": "spreadsheet",
@@ -1522,7 +1812,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://download.medicaid.gov/data/scorecard/CORESET.1.1-test/20240430/MEASURE_VALUE.csv": {
+  "https://download.medicaid.gov/data/dq-atlas/20251028_ETL_DEV/states_measures.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1532,7 +1822,7 @@
    "weeksSeen": 1,
    "lastPages": 3
   },
-  "https://download.medicaid.gov/data/StateDrugUtilizationData-2006.csv": {
+  "https://download.medicaid.gov/data/scorecard/CORESET.1.1-test/20240430/MEASURE_VALUE.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1540,7 +1830,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/sbm-marketplace-december-2024-release.csv": {
    "type": "spreadsheet",
@@ -1550,7 +1840,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/sbm-december-2024-release.xlsx": {
    "type": "spreadsheet",
@@ -1560,7 +1850,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-04-27-2026-to-05-03-2026.csv": {
    "type": "spreadsheet",
@@ -1582,26 +1872,6 @@
    "weeksSeen": 1,
    "lastPages": 3
   },
-  "https://download.medicaid.gov/data/StateDrugUtilizationData-2017.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 4
-  },
-  "https://download.medicaid.gov/data/StateDrugUtilizationData-2011.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 4
-  },
   "https://download.medicaid.gov/data/StateDrugUtilizationData-2014.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -1610,7 +1880,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 4
+   "lastPages": 5
   },
   "https://download.medicaid.gov/data/StateDrugUtilizationData-2004.csv": {
    "type": "spreadsheet",
@@ -1620,7 +1890,17 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 5
+  },
+  "https://download.medicaid.gov/data/coreset-viz/3.9.38/20260209/state.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
   },
   "https://download.medicaid.gov/data/benf-recvin-phys-health-among-ben-recv-sud-2017-2021.csv": {
    "type": "spreadsheet",
@@ -1630,7 +1910,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 4
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-3-27-2023-to-4-02-2023.csv": {
    "type": "spreadsheet",
@@ -1640,9 +1920,9 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
-  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-08-28-2023-to-09-03-2023.csv": {
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-12262022-to-01012023_0.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1662,6 +1942,16 @@
    "weeksSeen": 1,
    "lastPages": 2
   },
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-05-18-2026-to-05-24-2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
   "https://download.medicaid.gov/data/StateDrugUtilizationData-2013.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -1670,29 +1960,9 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/scorecard/3.9.64/20260612/state.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://download.medicaid.gov/data/sdud-2020-updated-05012026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://download.medicaid.gov/data/sdud-2021-updated.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1710,7 +1980,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/sdud-2023-updated.csv": {
    "type": "spreadsheet",
@@ -1720,7 +1990,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/StateDrugUtilizationData-2012.csv": {
    "type": "spreadsheet",
@@ -1730,7 +2000,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/StateDrugUtilizationData-1997.csv": {
    "type": "spreadsheet",
@@ -1752,7 +2022,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://download.medicaid.gov/data/dq-atlas/20251028_ETL_DEV/measure_allStates_downloadLink.csv": {
+  "https://download.medicaid.gov/data/chip-caa-reporting-metrics-long-table-november-2024-release.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1760,7 +2030,17 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 5
+   "lastPages": 4
+  },
+  "https://download.medicaid.gov/data/chip-caa-reporting-metrics-long-table-november-2024-release.xlsx": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/num-rate-smm-med-chip-cov-deliveries-2017-to-2021.csv": {
    "type": "spreadsheet",
@@ -1770,9 +2050,29 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-4-10-2023-to-4-16-2023-102025.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://download.medicaid.gov/data/StateDrugUtilizationData-2000.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 3
+  },
+  "https://download.medicaid.gov/data/dq-atlas/20260120_e2e_ETL_DEV/states_measures.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1792,6 +2092,16 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://download.medicaid.gov/data/scorecard/2.11.19-test/20241107/state.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
   "https://download.medicaid.gov/data/coreset-viz/3.9.53/20260605/state.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -1800,7 +2110,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-05-25-2026-to-05-31-2026.csv": {
    "type": "spreadsheet",
@@ -1810,7 +2120,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/Medicaid-CMS-64-FFCRA-Increased-FMAP-Expenditure-03182026.csv": {
    "type": "spreadsheet",
@@ -1820,7 +2130,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 4
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-07-24-2023-to-07-30-2023.csv.csv": {
    "type": "spreadsheet",
@@ -1872,6 +2182,16 @@
    "weeksSeen": 1,
    "lastPages": 2
   },
+  "https://download.medicaid.gov/data/1915c-waiver-2020-2022-01162025.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 3
+  },
   "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-01092023-to-01152023_0-102025.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -1880,7 +2200,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/StateDrugUtilizationData-2010.csv": {
    "type": "spreadsheet",
@@ -1891,16 +2211,6 @@
    ],
    "weeksSeen": 1,
    "lastPages": 1
-  },
-  "https://download.medicaid.gov/data/StateDrugUtilizationData-2005.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 2
   },
   "https://download.medicaid.gov/data/StateDrugUtilizationData-1993.csv": {
    "type": "spreadsheet",
@@ -1920,7 +2230,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/StateDrugUtilizationData-2001.csv": {
    "type": "spreadsheet",
@@ -1962,17 +2272,7 @@
    "weeksSeen": 1,
    "lastPages": 2
   },
-  "https://download.medicaid.gov/data/benf-benft-frm-integr-care-2017-2021.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 2
-  },
-  "https://download.medicaid.gov/data/1915c-waiver-2020-2022-01162025.csv": {
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-12-01-2025-to-12-07-2025.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1982,27 +2282,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-09-25-2023-to-10-01-2023.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 2
-  },
-  "https://download.medicaid.gov/data/medicaid-and-chip-eligibility-levels.xy8t-auhk.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 2
-  },
-  "https://download.medicaid.gov/data/DualStatus-montly.csv": {
+  "https://download.medicaid.gov/data/dq-atlas/20250924_ETL_DEV/measure_compare.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2012,7 +2292,17 @@
    "weeksSeen": 1,
    "lastPages": 3
   },
-  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-10-27-2025-to-11-02-2025.csv": {
+  "https://download.medicaid.gov/data/benf-benft-frm-integr-care-2017-2021.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 3
+  },
+  "https://download.medicaid.gov/data/coreset-viz/3.1.1/20250110/filters.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2021,6 +2311,26 @@
    ],
    "weeksSeen": 1,
    "lastPages": 2
+  },
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-09-25-2023-to-10-01-2023.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 3
+  },
+  "https://download.medicaid.gov/data/dq-atlas/20250924_ETL_DEV/measure_allStates_downloadLink.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
   },
   "https://download.medicaid.gov/data/healthcare.gov-data-july-2024-release.csv": {
    "type": "spreadsheet",
@@ -2030,7 +2340,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/healthcare.gov-data-july-2024-release.xlsx": {
    "type": "spreadsheet",
@@ -2040,7 +2350,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rpt-drugs-aug-20210823-to-20210829.csv": {
    "type": "spreadsheet",
@@ -2072,7 +2382,17 @@
    "weeksSeen": 1,
    "lastPages": 2
   },
-  "https://download.medicaid.gov/data/2015-child-and-adult-health-care-quality-measures.7kj7-m9ih.csv": {
+  "https://download.medicaid.gov/data/scorecard/3.9.23/20251205/state.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://download.medicaid.gov/data/BenefitPackage-montly.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2090,7 +2410,37 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
+  },
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-02202023-to-02262023.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-5-15-2023-to-5-21-2023-102025.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-01-01-2024-to-01-07-2024.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
   },
   "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-08-14-2023-to-08-20-2023-10172025.csv": {
    "type": "spreadsheet",
@@ -2102,7 +2452,17 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://download.medicaid.gov/data/dq-atlas/20250924_ETL_DEV/measure_compare.csv": {
+  "https://download.medicaid.gov/data/medicaid-financial-management-data.7kua-37xz.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://download.medicaid.gov/data/benf-recving-behav-health-serv-2017-2021.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2140,7 +2500,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://download.medicaid.gov/data/2016-child-and-adult-health-care-quality-measures.vncf-b8xx.csv": {
    "type": "spreadsheet",
@@ -2172,27 +2532,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://download.medicaid.gov/data/chip-caa-reporting-metrics-long-table-november-2024-release.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
-  },
-  "https://download.medicaid.gov/data/chip-caa-reporting-metrics-long-table-november-2024-release.xlsx": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
-  },
-  "https://download.medicaid.gov/data/dq-atlas/20251028_ETL_DEV/states_measures.csv": {
+  "https://download.medicaid.gov/data/dq-atlas/20260120_e2e_ETL_DEV/states_measures_download.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2202,7 +2542,47 @@
    "weeksSeen": 1,
    "lastPages": 2
   },
-  "https://download.medicaid.gov/data/scorecard/2.11.19-test/20241107/measure_value.csv": {
+  "https://download.medicaid.gov/data/nadac-national-average-drug-acquisition-cost-12-25-2024.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://download.medicaid.gov/data/nadac-national-average-drug-acquisition-cost-12-27-2023.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://download.medicaid.gov/data/nadac-national-average-drug-acquisition-cost-2022.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://download.medicaid.gov/data/national-average-drug-acquisition-cost-12-29-2021.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 3
+  },
+  "https://download.medicaid.gov/data/nadac-national-average-drug-acquisition-cost.a4y5-998d.76a1984a-6d69-5e4d-86c8-65eb31f0506d.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2212,7 +2592,27 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://download.medicaid.gov/data/dq-atlas/20260120_e2e_ETL_DEV/states_measures_download.csv": {
+  "https://download.medicaid.gov/data/nadac-national-average-drug-acquisition-cost.a4y5-998d.1fe73992-cbfd-5109-97bc-dee8b33fdcff.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://download.medicaid.gov/data/nadac-national-average-drug-acquisition-cost.a4y5-998d.c933dc16-7de9-52b6-8971-4b75992673e0.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-03-11-2024-to-03-17-2024.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2330,16 +2730,6 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-08-21-2023-to-08-27-2023.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
    "lastPages": 2
   },
   "https://download.medicaid.gov/data/dq-atlas/20260120_e2e_ETL_DEV/measure_concernLevel.csv": {
@@ -2350,9 +2740,19 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
-  "https://download.medicaid.gov/data/coreset-viz/3.1.1/20250110/filters.csv": {
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/2022-Managed-care-prgrm-features-by-state.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://download.medicaid.gov/data/scorecard/3.9.61/20251205/measure.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2370,7 +2770,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://download.medicaid.gov/data/2020-Table9_06132022_2_100825-10172025.csv": {
    "type": "spreadsheet",
@@ -2380,7 +2780,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://download.medicaid.gov/data/dq-atlas/20250924_ETL_DEV/measure_backgroundAndMethods.csv": {
    "type": "spreadsheet",
@@ -2400,6 +2800,26 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://download.medicaid.gov/data/coreset-viz/3.9.40/20260209/measure.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://download.medicaid.gov/data/dq-atlas/20250924_ETL_DEV/measure_concernLevel.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
    "lastPages": 1
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-11-20-2023-to-11-26-2023.csv": {
@@ -2412,17 +2832,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://download.medicaid.gov/data/continuous-eligibility-for-medicaid-and-chip-coverage.gz34-pjff.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://download.medicaid.gov/data/benf-rcving-phy-hlth-amg-ben-rcvin-mntl-hlth-serv-2017-2021.csv": {
+  "https://download.medicaid.gov/data/scorecard/0.3.58-test/20230728/MEASURE_VALUE.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2462,7 +2872,37 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/pi-dataset-test1.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-02132023-to-02192023-102025.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-3-13-2023-to-3-19-2023.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-08-07-2023-to-08-13-2023_0_0.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2532,7 +2972,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://download.medicaid.gov/data/national-average-drug-acquisition-cost-12-29-2021.csv": {
+  "https://download.medicaid.gov/data/coreset-viz/3.1.24/20250415/measure_value.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2540,7 +2980,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 1
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rpt-drugs-aug-20210816-to-20210822.csv": {
    "type": "spreadsheet",
@@ -2550,7 +2990,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://download.medicaid.gov/data/scorecard/core-set/2.10.16/20241029/measure_value.csv": {
    "type": "spreadsheet",
@@ -2572,6 +3012,26 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-02272023-to-03052023.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-01-08-2024-to-01-14-2024.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
   "https://download.medicaid.gov/data/ManagedCare-anul-102025.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -2581,6 +3041,16 @@
    ],
    "weeksSeen": 1,
    "lastPages": 2
+  },
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-4-03-2023-to-4-09-2023-102025.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
   },
   "https://download.medicaid.gov/data/scorecard/core-set/2.10.14/20241029/measure.csv": {
    "type": "spreadsheet",
@@ -2622,27 +3092,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://download.medicaid.gov/data/nadac-national-average-drug-acquisition-cost-12-25-2024.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
   "https://download.medicaid.gov/data/Clotting-Factor-Dec2023.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://download.medicaid.gov/data/nadac-national-average-drug-acquisition-cost-12-27-2023.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2662,7 +3112,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://download.medicaid.gov/data/nadac-national-average-drug-acquisition-cost-2022.csv": {
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/Clotting-Factor-Jun2022.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2672,7 +3122,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://data.medicaid.gov/sites/default/files/uploaded_resources/Clotting-Factor-Jun2022.csv": {
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-10-09-2023-to-10-15-2023.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2692,7 +3142,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://data.medicaid.gov/sites/default/files/uploaded_resources/2021-child-and-adult-health-care-quality-measures_0.csv": {
+  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-09-11-2023-to-09-17-2023.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2702,7 +3152,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://download.medicaid.gov/data/BenefitPackage-montly.csv": {
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-12112023-to-12172023-10172025.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2752,17 +3202,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-01-22-2024-to-01-28-2024.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://download.medicaid.gov/data/StateDrugUtilizationData-2018.csv": {
+  "https://download.medicaid.gov/data/mdrp-newly-rprt-drug-11-10-2025-to-11-16-2025.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2783,6 +3223,36 @@
    "lastPages": 1
   },
   "https://download.medicaid.gov/data/BenefitPackage-anul.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://download.medicaid.gov/data/coreset-viz/3.3.4/20250110/measure_value.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://download.medicaid.gov/data/current-chip-caa-reporting-metrics-march-2026-release.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://download.medicaid.gov/data/scorecard/3.9.23/20251205/measure.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",

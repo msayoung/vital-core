@@ -1,8 +1,8 @@
 {
  "domain": "www.cdc.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-14T12:24:56.248Z",
- "pagesScanned": 832,
+ "generatedAt": "2026-06-14T15:12:13.221Z",
+ "pagesScanned": 833,
  "pagesAudited": 812,
  "coverage": {
   "axe": 812,
@@ -16474,6 +16474,478 @@
    }
   }
  },
+ "consensus": {
+  "uniqueIssues": 3521,
+  "consensus": 74,
+  "axeOnly": 1822,
+  "alfaOnly": 1625,
+  "rawAxe": 1896,
+  "rawAlfa": 1699,
+  "byKey": {
+   "axe-core:landmark-unique": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-unique"
+    ],
+    "alfaRules": [],
+    "pages": 360,
+    "engines": "axe"
+   },
+   "axe-core:region": {
+    "actRuleId": null,
+    "axeRules": [
+     "region"
+    ],
+    "alfaRules": [],
+    "pages": 812,
+    "engines": "axe"
+   },
+   "act:b5c3f8": {
+    "actRuleId": "b5c3f8",
+    "axeRules": [
+     "html-has-lang"
+    ],
+    "alfaRules": [
+     "sia-r4"
+    ],
+    "pages": 94,
+    "engines": "both"
+   },
+   "act:23a2a8": {
+    "actRuleId": "23a2a8",
+    "axeRules": [
+     "image-alt"
+    ],
+    "alfaRules": [
+     "sia-r2"
+    ],
+    "pages": 95,
+    "engines": "both"
+   },
+   "axe-core:landmark-one-main": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-one-main"
+    ],
+    "alfaRules": [],
+    "pages": 105,
+    "engines": "axe"
+   },
+   "act:c487ae": {
+    "actRuleId": "c487ae",
+    "axeRules": [
+     "link-name"
+    ],
+    "alfaRules": [
+     "sia-r11"
+    ],
+    "pages": 34,
+    "engines": "both"
+   },
+   "axe-core:heading-order": {
+    "actRuleId": null,
+    "axeRules": [
+     "heading-order"
+    ],
+    "alfaRules": [],
+    "pages": 134,
+    "engines": "axe"
+   },
+   "act:afw4f7": {
+    "actRuleId": "afw4f7",
+    "axeRules": [
+     "color-contrast"
+    ],
+    "alfaRules": [],
+    "pages": 91,
+    "engines": "axe"
+   },
+   "act:e086e5": {
+    "actRuleId": "e086e5",
+    "axeRules": [
+     "label"
+    ],
+    "alfaRules": [
+     "sia-r8"
+    ],
+    "pages": 13,
+    "engines": "both"
+   },
+   "axe-core:label-title-only": {
+    "actRuleId": null,
+    "axeRules": [
+     "label-title-only"
+    ],
+    "alfaRules": [],
+    "pages": 15,
+    "engines": "axe"
+   },
+   "axe-core:page-has-heading-one": {
+    "actRuleId": null,
+    "axeRules": [
+     "page-has-heading-one"
+    ],
+    "alfaRules": [],
+    "pages": 93,
+    "engines": "axe"
+   },
+   "axe-core:landmark-contentinfo-is-top-level": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-contentinfo-is-top-level"
+    ],
+    "alfaRules": [],
+    "pages": 2,
+    "engines": "axe"
+   },
+   "axe-core:landmark-no-duplicate-banner": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-no-duplicate-banner"
+    ],
+    "alfaRules": [],
+    "pages": 2,
+    "engines": "axe"
+   },
+   "axe-core:landmark-no-duplicate-contentinfo": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-no-duplicate-contentinfo"
+    ],
+    "alfaRules": [],
+    "pages": 2,
+    "engines": "axe"
+   },
+   "axe-core:skip-link": {
+    "actRuleId": null,
+    "axeRules": [
+     "skip-link"
+    ],
+    "alfaRules": [],
+    "pages": 2,
+    "engines": "axe"
+   },
+   "axe-core:tabindex": {
+    "actRuleId": null,
+    "axeRules": [
+     "tabindex"
+    ],
+    "alfaRules": [],
+    "pages": 3,
+    "engines": "axe"
+   },
+   "act:cae760": {
+    "actRuleId": "cae760",
+    "axeRules": [
+     "frame-title"
+    ],
+    "alfaRules": [],
+    "pages": 7,
+    "engines": "axe"
+   },
+   "act:97a4e1": {
+    "actRuleId": "97a4e1",
+    "axeRules": [
+     "aria-command-name"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "axe-core:list": {
+    "actRuleId": null,
+    "axeRules": [
+     "list"
+    ],
+    "alfaRules": [],
+    "pages": 5,
+    "engines": "axe"
+   },
+   "axe-core:link-in-text-block": {
+    "actRuleId": null,
+    "axeRules": [
+     "link-in-text-block"
+    ],
+    "alfaRules": [],
+    "pages": 9,
+    "engines": "axe"
+   },
+   "axe-core:aria-allowed-role": {
+    "actRuleId": null,
+    "axeRules": [
+     "aria-allowed-role"
+    ],
+    "alfaRules": [],
+    "pages": 3,
+    "engines": "axe"
+   },
+   "act:de46e4": {
+    "actRuleId": "de46e4",
+    "axeRules": [
+     "valid-lang"
+    ],
+    "alfaRules": [
+     "sia-r7"
+    ],
+    "pages": 1,
+    "engines": "both"
+   },
+   "axe-core:image-redundant-alt": {
+    "actRuleId": null,
+    "axeRules": [
+     "image-redundant-alt"
+    ],
+    "alfaRules": [],
+    "pages": 2,
+    "engines": "axe"
+   },
+   "axe-core:empty-table-header": {
+    "actRuleId": null,
+    "axeRules": [
+     "empty-table-header"
+    ],
+    "alfaRules": [],
+    "pages": 6,
+    "engines": "axe"
+   },
+   "act:0ssw9k": {
+    "actRuleId": "0ssw9k",
+    "axeRules": [
+     "scrollable-region-focusable"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "axe-core:listitem": {
+    "actRuleId": null,
+    "axeRules": [
+     "listitem"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "axe-core:scope-attr-valid": {
+    "actRuleId": null,
+    "axeRules": [
+     "scope-attr-valid"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "act:ffd0e9": {
+    "actRuleId": "ffd0e9",
+    "axeRules": [
+     "empty-heading"
+    ],
+    "alfaRules": [
+     "sia-r64"
+    ],
+    "pages": 1,
+    "engines": "both"
+   },
+   "act:307n5z": {
+    "actRuleId": "307n5z",
+    "axeRules": [
+     "nested-interactive"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "alfa:sia-r66": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r66"
+    ],
+    "pages": 281,
+    "engines": "alfa"
+   },
+   "act:5c01ea": {
+    "actRuleId": "5c01ea",
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r18"
+    ],
+    "pages": 226,
+    "engines": "alfa"
+   },
+   "act:2ee8b8": {
+    "actRuleId": "2ee8b8",
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r14"
+    ],
+    "pages": 34,
+    "engines": "alfa"
+   },
+   "alfa:sia-r57": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r57"
+    ],
+    "pages": 270,
+    "engines": "alfa"
+   },
+   "alfa:sia-r69": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r69"
+    ],
+    "pages": 151,
+    "engines": "alfa"
+   },
+   "alfa:sia-r111": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r111"
+    ],
+    "pages": 301,
+    "engines": "alfa"
+   },
+   "alfa:sia-r113": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r113"
+    ],
+    "pages": 64,
+    "engines": "alfa"
+   },
+   "alfa:sia-r53": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r53"
+    ],
+    "pages": 43,
+    "engines": "alfa"
+   },
+   "alfa:sia-r60": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r60"
+    ],
+    "pages": 6,
+    "engines": "alfa"
+   },
+   "alfa:sia-r73": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r73"
+    ],
+    "pages": 46,
+    "engines": "alfa"
+   },
+   "act:bc4a75": {
+    "actRuleId": "bc4a75",
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r68"
+    ],
+    "pages": 46,
+    "engines": "alfa"
+   },
+   "alfa:sia-r80": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r80"
+    ],
+    "pages": 5,
+    "engines": "alfa"
+   },
+   "alfa:sia-r74": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r74"
+    ],
+    "pages": 63,
+    "engines": "alfa"
+   },
+   "alfa:sia-r61": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r61"
+    ],
+    "pages": 41,
+    "engines": "alfa"
+   },
+   "alfa:sia-r70": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r70"
+    ],
+    "pages": 29,
+    "engines": "alfa"
+   },
+   "alfa:sia-r79": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r79"
+    ],
+    "pages": 4,
+    "engines": "alfa"
+   },
+   "alfa:sia-r78": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r78"
+    ],
+    "pages": 10,
+    "engines": "alfa"
+   },
+   "alfa:sia-r62": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r62"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "alfa:sia-r40": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r40"
+    ],
+    "pages": 2,
+    "engines": "alfa"
+   },
+   "alfa:sia-r90": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r90"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "alfa:sia-r77": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r77"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   }
+  }
+ },
  "sustainability": {
   "pages": 812,
   "medianBytes": 5546851,
@@ -21703,301 +22175,1540 @@
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Fhurricanes%2Fes%2Fsafety%2Fcomo-prepararse-para-los-huracanes-y-otras-tormentas-tropicales.html&text=C%C3%B3mo%20prepararse%20para%20los%20huracanes%20y%20otras%20tormentas%20tropicales",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/hurricanes/es/safety/como-prepararse-para-los-huracanes-y-otras-tormentas-tropicales.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "u",
+     "r",
+     "i",
+     "a",
+     "n",
+     "e",
+     "f",
+     "y",
+     "m",
+     "-",
+     "l"
+    ]
    },
    {
     "url": "https://tools.cdc.gov/medialibrary/index.aspx",
     "status": 503,
     "reason": "HTTP 503",
-    "foundOn": "https://www.cdc.gov/hurricanes/es/safety/como-prepararse-para-los-huracanes-y-otras-tormentas-tropicales.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "u",
+     "r",
+     "i",
+     "a",
+     "n",
+     "e",
+     "f",
+     "y",
+     "m",
+     "-",
+     "l",
+     "x",
+     "2"
+    ]
    },
    {
     "url": "https://tools.cdc.gov/campaignproxyservice/subscriptions.aspx",
     "status": 503,
     "reason": "HTTP 503",
-    "foundOn": "https://www.cdc.gov/hurricanes/es/safety/como-prepararse-para-los-huracanes-y-otras-tormentas-tropicales.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "u",
+     "r",
+     "i",
+     "a",
+     "n",
+     "e",
+     "f",
+     "y",
+     "m",
+     "-",
+     "l",
+     "k",
+     "x",
+     "2"
+    ]
    },
    {
     "url": "https://www.cdc.gov/rss",
     "status": 503,
     "reason": "HTTP 503",
-    "foundOn": "https://www.cdc.gov/hurricanes/es/safety/como-prepararse-para-los-huracanes-y-otras-tormentas-tropicales.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "u",
+     "r",
+     "i",
+     "a",
+     "n",
+     "e",
+     "f",
+     "y",
+     "m",
+     "-",
+     "l",
+     "x",
+     "2"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Femerging-infections-program%2Fphp%2Fabout%2Findex.html&text=Emerging%20Infections%20Program",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/emerging-infections-program/php/about"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "e",
+     "m",
+     "r",
+     "i",
+     "n",
+     "-",
+     "f",
+     "a",
+     "b",
+     "u"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Fmmwr%2Fmmwr_additional_resources.html&text=Reports%20by%20Topic",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/mmwr/mmwr_additional_resources.html?topics=Measles"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "m",
+     "r",
+     "_",
+     "a",
+     "i",
+     "n",
+     "l",
+     "e",
+     "u",
+     "?",
+     "=",
+     "M"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Fmmwr%2Fmmwr_su%2Findex.html&text=MMWR%20Supplements%3A%20Past%20Volumes%20(1985-2023)",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/mmwr/mmwr_su/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "m",
+     "r",
+     "_",
+     "u",
+     "i",
+     "n",
+     "e",
+     "x",
+     "l"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Fmuseum%2Fvisit%2Ftimed-entry-reservations.html&text=Timed-Entry%20Reservations",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/museum/visit/timed-entry-reservations.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "m",
+     "u",
+     "e",
+     "i",
+     "-",
+     "n",
+     "r",
+     "y",
+     "a",
+     "l"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Foeeo%2Fabout%2Findex.html&text=About%20OEEO",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/oeeo/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "e",
+     "i",
+     "n",
+     "x",
+     "m",
+     "l"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Fniosh%2Frhabdo%2Fabout%2Findex.html&text=Rhabdomyolysis%20and%20Work",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/niosh/rhabdo/about/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "n",
+     "i",
+     "r",
+     "a",
+     "b",
+     "u",
+     "e",
+     "x",
+     "m",
+     "l"
+    ]
    },
    {
     "url": "https://tools.cdc.gov/campaignproxyservice/subscriptions.aspx?topic_id=USCDC_10_4",
     "status": 503,
     "reason": "HTTP 503",
-    "foundOn": "https://www.cdc.gov/niosh/rhabdo/about/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "n",
+     "i",
+     "r",
+     "a",
+     "b",
+     "u",
+     "e",
+     "x",
+     "m",
+     "l",
+     "-"
+    ]
    },
    {
     "url": "http://www.cdcmuseum.org/",
     "status": 0,
     "reason": "UND_ERR_CONNECT_TIMEOUT",
-    "foundOn": "https://www.cdc.gov/museum/visit/timed-entry-reservations.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "m",
+     "u",
+     "e",
+     "i",
+     "-",
+     "n",
+     "r",
+     "y",
+     "a",
+     "l"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Flabs%2Fbmbl%2Findex.html&text=Biosafety%20in%20Microbiological%20and%20Biomedical%20Laboratories%20(BMBL)%206th%20Edition",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/labs/bmbl/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "l",
+     "a",
+     "b",
+     "m",
+     "i",
+     "n",
+     "e",
+     "x"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Fpcd%2Fsubscriptions%2Femail_privacy_policy.htm&text=E-mail%20Privacy%20Policy",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/pcd/subscriptions/email_privacy_policy.htm"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "u",
+     "b",
+     "r",
+     "i",
+     "n",
+     "e",
+     "m",
+     "a",
+     "l",
+     "_",
+     "y"
+    ]
    },
    {
     "url": "http://preview.ncbi.nlm.nih.gov/pmc/journals/245/",
     "status": 502,
     "reason": "HTTP 502",
-    "foundOn": "https://www.cdc.gov/pcd/subscriptions/email_privacy_policy.htm"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "u",
+     "b",
+     "r",
+     "i",
+     "n",
+     "e",
+     "m",
+     "a",
+     "l",
+     "_",
+     "y"
+    ]
    },
    {
     "url": "https://www.cdc.gov/foodborne-outbreaks/active-investigations/all-foodborne-outbreak-notices.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/listeria/about/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "l",
+     "i",
+     "e",
+     "r",
+     "a",
+     "b",
+     "u",
+     "n",
+     "x",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/foodborne-outbreaks/active-investigations/index.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/listeria/about/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "l",
+     "i",
+     "e",
+     "r",
+     "a",
+     "b",
+     "u",
+     "n",
+     "x",
+     "m"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Flisteria%2Fabout%2Findex.html&text=About%20Listeria%20Infection",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/listeria/about/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "l",
+     "i",
+     "e",
+     "r",
+     "a",
+     "b",
+     "u",
+     "n",
+     "x",
+     "m"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Fbird-flu%2Fphp%2Fsevere-potential%2Findex.html&text=Laboratory%20and%20Testing%20Information%20for%20Novel%20Influenza%20A%20Viruses",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/bird-flu/php/severe-potential/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "b",
+     "i",
+     "r",
+     "-",
+     "f",
+     "l",
+     "u",
+     "e",
+     "n",
+     "a",
+     "x",
+     "m"
+    ]
    },
    {
     "url": "https://tools.cdc.gov/campaignproxyservice/subscriptions.aspx?topic_id=USCDC_7_3",
     "status": 503,
     "reason": "HTTP 503",
-    "foundOn": "https://www.cdc.gov/bird-flu/php/severe-potential/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "b",
+     "i",
+     "r",
+     "-",
+     "f",
+     "l",
+     "u",
+     "e",
+     "n",
+     "a",
+     "x",
+     "m"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Fbird-flu%2Fphp%2Fsurveillance%2Findex.html&text=Recommendations%20for%20Monitoring%20and%20Testing%20of%20Individuals%20Exposed%20to%20A(H5N1)%20Viruses",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/bird-flu/php/surveillance/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "b",
+     "i",
+     "r",
+     "-",
+     "f",
+     "l",
+     "u",
+     "e",
+     "a",
+     "n",
+     "x",
+     "m"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Fanaplasmosis%2Fabout%2Findex.html&text=About%20Anaplasmosis",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/anaplasmosis"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "a",
+     "n",
+     "l",
+     "m",
+     "i"
+    ]
    },
    {
     "url": "http://www.cdc.gov/ncezid/dvbd/index.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/anaplasmosis"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "a",
+     "n",
+     "l",
+     "m",
+     "i",
+     "r",
+     "e",
+     "x"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Fyouth-violence%2Fabout%2Fabout-school-violence.html&text=About%20School%20Violence",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/youth-violence/about/about-school-violence.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "y",
+     "u",
+     "-",
+     "i",
+     "l",
+     "e",
+     "n",
+     "a",
+     "b",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/infection-control/php/quots/index.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/niosh/npptl/topics/protectiveclothing/default.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/flu/professionals/infectioncontrol/healthcaresettings.htm",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/infectioncontrol/guidelines/norovirus/index.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/parasites/lice/index.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/infectioncontrol/guidelines/mdro/index.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/infectioncontrol/guidelines/measles/index.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/poxvirus/monkeypox/clinicians/infection-control-healthcare.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/vaccines/hcp/acip-recs/vacc-specific/dtap.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/infectioncontrol/guidelines/isolation/appendix/transmission-precautions.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/congenital-rubella",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/sars/index.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "https://www.cdc.gov/infectioncontrol/guidelines/isolation/appendix/type-duration-precautions.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Finfection-control%2Fhcp%2Fisolation-precautions%2Fappendix-a-type-duration.html&text=Appendix%20A%3A%20Type%20and%20Duration%20of%20Precautions%20Recommended%20for%20Selected%20Infections%20and%20Conditions",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "https://tools.cdc.gov/campaignproxyservice/subscriptions.aspx?topic_id=USCDC_425",
     "status": 503,
     "reason": "HTTP 503",
-    "foundOn": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "n",
+     "f",
+     "e",
+     "-",
+     "r",
+     "l",
+     "a",
+     "u",
+     "x",
+     "y",
+     "m"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Flls%2Fphp%2Four-work%2Findex.html&text=What%20Officers%20Do",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/lls/php/our-work/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "l",
+     "u",
+     "r",
+     "-",
+     "k",
+     "i",
+     "n",
+     "e",
+     "x",
+     "m"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Fniosh%2Fhealthcare%2Fprotective-clothing%2Findex.html&text=Protective%20Clothing%20in%20Healthcare",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/niosh/healthcare/protective-clothing/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "n",
+     "i",
+     "e",
+     "a",
+     "l",
+     "r",
+     "-",
+     "x",
+     "m"
+    ]
    },
    {
     "url": "http://www.cdc.gov/search.do",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/pcd/issues/2010/mar/cover.htm"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "u",
+     "e",
+     "2",
+     "0",
+     "1",
+     "m",
+     "a",
+     "r",
+     "8",
+     "7",
+     "_",
+     "4"
+    ]
    },
    {
     "url": "http://www.cdc.gov/doc.do?id=0900f3ec80093c90",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/pcd/issues/2010/mar/cover.htm"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "u",
+     "e",
+     "2",
+     "0",
+     "1",
+     "m",
+     "a",
+     "r",
+     "8",
+     "7",
+     "_",
+     "4"
+    ]
    },
    {
     "url": "http://www.dhhs.gov/",
     "status": 0,
     "reason": "ETIMEDOUT",
-    "foundOn": "https://www.cdc.gov/pcd/issues/2010/mar/cover.htm"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "i",
+     "u",
+     "e",
+     "2",
+     "0",
+     "1",
+     "m",
+     "a",
+     "r",
+     "8",
+     "7",
+     "_",
+     "4"
+    ]
    },
    {
     "url": "https://tools.cdc.gov/campaignproxyservice/subscriptions.aspx?topic_id=USCDC_9_13",
     "status": 503,
     "reason": "HTTP 503",
-    "foundOn": "https://www.cdc.gov/colorectal-cancer/site.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "l",
+     "r",
+     "e",
+     "a",
+     "-",
+     "n",
+     "i",
+     "m"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Ftribal-health%2Fcooperative-agreements%2Findex.html&text=Funding%20and%20Agreements",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/tribal-health/cooperative-agreements/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "r",
+     "i",
+     "b",
+     "a",
+     "l",
+     "-",
+     "e",
+     "m",
+     "n",
+     "x"
+    ]
    },
    {
     "url": "https://tools.cdc.gov/campaignproxyservice/subscriptions.aspx?topic_id=USCDC_2247",
     "status": 503,
     "reason": "HTTP 503",
-    "foundOn": "https://www.cdc.gov/tribal-health/cooperative-agreements/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "r",
+     "i",
+     "b",
+     "a",
+     "l",
+     "-",
+     "e",
+     "m",
+     "n",
+     "x"
+    ]
    },
    {
     "url": "https://www.cdc.gov/ticks/mayonii.html",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://www.cdc.gov/anaplasmosis/hcp/transmission/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "a",
+     "n",
+     "l",
+     "m",
+     "i",
+     "r",
+     "e",
+     "x"
+    ]
    },
    {
     "url": "http://twitter.com/share?url=https%3A%2F%2Fwww.cdc.gov%2Fanaplasmosis%2Fhcp%2Ftransmission%2Findex.html&text=Transmission%20and%20Epidemiology",
     "status": 520,
     "reason": "HTTP 520",
-    "foundOn": "https://www.cdc.gov/anaplasmosis/hcp/transmission/index.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "a",
+     "n",
+     "l",
+     "m",
+     "i",
+     "r",
+     "e",
+     "x"
+    ]
    },
    {
     "url": "https://www.hcup-us.ahrq.gov/nisoverview.jsp",
     "status": 0,
     "reason": "ETIMEDOUT",
-    "foundOn": "https://www.cdc.gov/suicide/resources/general-resources.html"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "w",
+     ".",
+     "c",
+     "d",
+     "g",
+     "o",
+     "v",
+     "u",
+     "i",
+     "e",
+     "r",
+     "n",
+     "a",
+     "l",
+     "-",
+     "m"
+    ]
    }
   ]
  },
@@ -22024,6 +23735,10 @@
   },
   {
    "url": "https://www.cdc.gov/health-equity/index.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.cdc.gov/foodsafety/outbreaks/investigating-outbreaks/confirming_diagnosis.html",
    "status": 404
   },
   {

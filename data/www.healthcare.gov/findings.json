@@ -1,6 +1,6 @@
 {
  "domain": "www.healthcare.gov",
- "updatedAt": "2026-06-14T12:24:56.423Z",
+ "updatedAt": "2026-06-14T15:12:13.434Z",
  "findings": {
   "VS-af36d20c": {
    "engine": "axe-core",
@@ -14,7 +14,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 487
+   "lastPagesAffected": 549
   },
   "VS-9074b4dd": {
    "engine": "axe-core",
@@ -28,7 +28,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 4
+   "lastPagesAffected": 5
   },
   "VS-be8d563e": {
    "engine": "axe-core",
@@ -112,7 +112,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 199
+   "lastPagesAffected": 221
   },
   "VS-cb53cc4d": {
    "engine": "Siteimprove Alfa",
@@ -126,7 +126,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 199
+   "lastPagesAffected": 221
   },
   "VS-e05344b9": {
    "engine": "Siteimprove Alfa",
@@ -140,7 +140,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 192
+   "lastPagesAffected": 214
   },
   "VS-7118fead": {
    "engine": "Siteimprove Alfa",
@@ -154,7 +154,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 190
+   "lastPagesAffected": 212
   },
   "VS-179ad9b3": {
    "engine": "Siteimprove Alfa",
@@ -168,7 +168,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 25
+   "lastPagesAffected": 28
   },
   "VS-d25f622d": {
    "engine": "axe-core",
@@ -240,6 +240,20 @@
    "weeksSeen": 1,
    "lastPagesAffected": 6
   },
+  "VS-f18df681": {
+   "engine": "axe-core",
+   "ruleId": "region",
+   "summary": "All page content should be contained by landmarks (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Medium",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 5
+  },
   "VS-c18be945": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r57",
@@ -253,20 +267,6 @@
    ],
    "weeksSeen": 1,
    "lastPagesAffected": 5
-  },
-  "VS-f18df681": {
-   "engine": "axe-core",
-   "ruleId": "region",
-   "summary": "All page content should be contained by landmarks (WCAG criterion undetermined)",
-   "wcag": null,
-   "severity": "Medium",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 4
   },
   "VS-f6cf30ff": {
    "engine": "Siteimprove Alfa",
@@ -350,7 +350,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 3
+   "lastPagesAffected": 4
   }
  }
 }

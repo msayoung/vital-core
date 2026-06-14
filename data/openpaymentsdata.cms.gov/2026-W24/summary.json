@@ -1,7 +1,7 @@
 {
  "domain": "openpaymentsdata.cms.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-14T12:24:56.208Z",
+ "generatedAt": "2026-06-14T15:12:13.173Z",
  "pagesScanned": 237,
  "pagesAudited": 206,
  "coverage": {
@@ -3213,6 +3213,79 @@
    }
   }
  },
+ "consensus": {
+  "uniqueIssues": 732,
+  "consensus": 0,
+  "axeOnly": 206,
+  "alfaOnly": 526,
+  "rawAxe": 206,
+  "rawAlfa": 526,
+  "byKey": {
+   "axe-core:region": {
+    "actRuleId": null,
+    "axeRules": [
+     "region"
+    ],
+    "alfaRules": [],
+    "pages": 206,
+    "engines": "axe"
+   },
+   "alfa:sia-r73": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r73"
+    ],
+    "pages": 118,
+    "engines": "alfa"
+   },
+   "alfa:sia-r61": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r61"
+    ],
+    "pages": 118,
+    "engines": "alfa"
+   },
+   "alfa:sia-r57": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r57"
+    ],
+    "pages": 118,
+    "engines": "alfa"
+   },
+   "alfa:sia-r111": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r111"
+    ],
+    "pages": 118,
+    "engines": "alfa"
+   },
+   "act:6cfa84": {
+    "actRuleId": "6cfa84",
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r17"
+    ],
+    "pages": 53,
+    "engines": "alfa"
+   },
+   "alfa:sia-r78": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r78"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   }
+  }
+ },
  "sustainability": {
   "pages": 206,
   "medianBytes": 2821874,
@@ -3310,43 +3383,271 @@
     "url": "https://openpaymentsdata.cms.gov/datasets/archived",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://openpaymentsdata.cms.gov/dataset/0380bbeb-aea1-58b6-b708-829f92a48202?page=4"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "o",
+     "e",
+     "n",
+     "a",
+     "y",
+     "m",
+     "d",
+     ".",
+     "c",
+     "g",
+     "v",
+     "0",
+     "3",
+     "8",
+     "b",
+     "-",
+     "1",
+     "5",
+     "6",
+     "7",
+     "2",
+     "9",
+     "f",
+     "4",
+     "?",
+     "="
+    ]
    },
    {
     "url": "https://openpaymentsdata.cms.gov/datasets/download",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://openpaymentsdata.cms.gov/dataset/0380bbeb-aea1-58b6-b708-829f92a48202?page=4"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "o",
+     "e",
+     "n",
+     "a",
+     "y",
+     "m",
+     "d",
+     ".",
+     "c",
+     "g",
+     "v",
+     "0",
+     "3",
+     "8",
+     "b",
+     "-",
+     "1",
+     "5",
+     "6",
+     "7",
+     "2",
+     "9",
+     "f",
+     "4",
+     "?",
+     "="
+    ]
    },
    {
     "url": "https://openpaymentsdata.cms.gov/page=3",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://openpaymentsdata.cms.gov/dataset/0380bbeb-aea1-58b6-b708-829f92a48202?page=4"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "o",
+     "e",
+     "n",
+     "a",
+     "y",
+     "m",
+     "d",
+     ".",
+     "c",
+     "g",
+     "v",
+     "0",
+     "3",
+     "8",
+     "b",
+     "-",
+     "1",
+     "5",
+     "6",
+     "7",
+     "2",
+     "9",
+     "f",
+     "4",
+     "?",
+     "="
+    ]
    },
    {
     "url": "https://openpaymentsdata.cms.gov/page=2",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://openpaymentsdata.cms.gov/dataset/0380bbeb-aea1-58b6-b708-829f92a48202?page=4"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "o",
+     "e",
+     "n",
+     "a",
+     "y",
+     "m",
+     "d",
+     ".",
+     "c",
+     "g",
+     "v",
+     "0",
+     "3",
+     "8",
+     "b",
+     "-",
+     "1",
+     "5",
+     "6",
+     "7",
+     "2",
+     "9",
+     "f",
+     "4",
+     "?",
+     "="
+    ]
    },
    {
     "url": "https://openpaymentsdata.cms.gov/page=4",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://openpaymentsdata.cms.gov/dataset/0380bbeb-aea1-58b6-b708-829f92a48202?page=4"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "o",
+     "e",
+     "n",
+     "a",
+     "y",
+     "m",
+     "d",
+     ".",
+     "c",
+     "g",
+     "v",
+     "0",
+     "3",
+     "8",
+     "b",
+     "-",
+     "1",
+     "5",
+     "6",
+     "7",
+     "2",
+     "9",
+     "f",
+     "4",
+     "?",
+     "="
+    ]
    },
    {
     "url": "https://openpaymentsdata.cms.gov/page=5",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://openpaymentsdata.cms.gov/dataset/0380bbeb-aea1-58b6-b708-829f92a48202?page=4"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "o",
+     "e",
+     "n",
+     "a",
+     "y",
+     "m",
+     "d",
+     ".",
+     "c",
+     "g",
+     "v",
+     "0",
+     "3",
+     "8",
+     "b",
+     "-",
+     "1",
+     "5",
+     "6",
+     "7",
+     "2",
+     "9",
+     "f",
+     "4",
+     "?",
+     "="
+    ]
    },
    {
     "url": "https://openpaymentsdata.cms.gov/page=13",
     "status": 404,
     "reason": "HTTP 404",
-    "foundOn": "https://openpaymentsdata.cms.gov/dataset/ce1d28dd-0094-5060-a036-580329439600?page=2"
+    "foundOn": [
+     "h",
+     "t",
+     "p",
+     "s",
+     ":",
+     "/",
+     "o",
+     "e",
+     "n",
+     "a",
+     "y",
+     "m",
+     "d",
+     ".",
+     "c",
+     "g",
+     "v",
+     "1",
+     "2",
+     "8",
+     "-",
+     "0",
+     "9",
+     "4",
+     "5",
+     "6",
+     "3",
+     "?",
+     "="
+    ]
    }
   ]
  },

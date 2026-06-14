@@ -1,6 +1,6 @@
 {
  "domain": "data.cms.gov",
- "updatedAt": "2026-06-14T12:24:56.333Z",
+ "updatedAt": "2026-06-14T15:12:13.321Z",
  "resources": {
   "https://data.cms.gov/sites/default/files/2023-03/f193e9ef-9fd7-4de3-9a27-0d5281cf80a9/Hospice_Data_Guidance.pdf": {
    "type": "pdf",
@@ -22,6 +22,46 @@
    "weeksSeen": 1,
    "lastPages": 3
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/e7d9cd572dedecb624776bb2f71b4ce7_1777658732/Hospice_Zip_May2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 7
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/hospice/HOSPICE_Data_Dictionary.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 23
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/dbae8cccd244fb26845d52844574f306_1778861759/NH_QualityMsr_Claims_May2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 10
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/nursing_home/NH_Data_Dictionary.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 50
+  },
   "https://data.cms.gov/provider-data/sites/default/files/resources/42ab5f223769b7afe1cc11d7af4658a5_1722902766/Pulmonary_Disease.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -30,7 +70,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/7f415eefebf56eed51e1fe811db70130_1722902759/Physical_Therapist_in_Private_Practice.csv": {
    "type": "spreadsheet",
@@ -40,7 +80,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 8
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/efe1f060d5a19c23fd3f94d39fb97659_1722902762/Preventive_Medicine.csv": {
    "type": "spreadsheet",
@@ -50,7 +90,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 8
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/2aab19c0470ed3ce74a651ddb417d87f_1722902763/Psychiatry.csv": {
    "type": "spreadsheet",
@@ -60,7 +100,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 8
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/ef0e951993eefdbf3a464f5206a72d7f_1722902749/Obstetrics_Gynecology.csv": {
    "type": "spreadsheet",
@@ -70,7 +110,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 7
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/07d58122e6e786e1bb50d1031faf18b0_1722902713/Cardiac_Surgery.csv": {
    "type": "spreadsheet",
@@ -80,7 +120,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 8
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/f944fb96af37547f2d329cfc84c18eeb_1722902744/Nephrology.csv": {
    "type": "spreadsheet",
@@ -90,7 +130,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 6
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/f9c31cc9360a72f0ee53f6f12808fa1a_1722902746/Neuropsychiatry.csv": {
    "type": "spreadsheet",
@@ -100,7 +140,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 6
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/1552910fe3bbe9b7aea9ba36060befd5_1722902760/Physician_Assistant.csv": {
    "type": "spreadsheet",
@@ -110,7 +150,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 8
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/1b686eb1b0d9d32c656ab6751b38a61d_1722902734/Hospice_and_Palliative_Care.csv": {
    "type": "spreadsheet",
@@ -120,7 +160,37 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 6
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/5462b19a756c53c1becccf13787d9157_1777413973/Promoting_Interoperability-Hospital.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 6
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/8d3c8a2336ea7917611026b44cbaced5_1767139547/COVID-19_HCP.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/dialysis/DF_Data_Dictionary.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 33
   },
   "https://data.cms.gov/sites/default/files/2026-02/Hospital_Data_Guidance.pdf": {
    "type": "pdf",
@@ -141,6 +211,36 @@
    ],
    "weeksSeen": 1,
    "lastPages": 3
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/d24fd9fa17ad5673de9cf6220c1c7a5a_1776974812/PCH_HEALTHCARE_ASSOCIATED_INFECTIONS_HOSPITAL.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 4
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/hospital/HOSPITAL_Data_Dictionary.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 50
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/2e044de987e34aa31aa50f0d8a8d1b3d_1778861776/NH_SurveyDates_May2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 9
   },
   "https://data.cms.gov/sites/default/files/2024-10/SNF_CHOW_Data_Guidance.pdf": {
    "type": "pdf",
@@ -172,6 +272,26 @@
    "weeksSeen": 1,
    "lastPages": 27
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/78a50346fbe828ea0ce2837847af6a7c_1777413952/HCAHPS-Hospital.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 7
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/00d70cf620d110bff9f527d891a8487e_1777658739/Hospice_State_May2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 7
+  },
   "https://data.cms.gov/sites/default/files/2024-03/9756088d-5280-4090-80b9-449d31ef25a3/Cost%20Report%20Data%20Dictionary%20Update.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W24",
@@ -182,6 +302,116 @@
    "weeksSeen": 1,
    "lastPages": 3
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/9189f27bb8ab7a4ff8919bdc682bf79a_1777413956/OQR_OAS_CAHPS_BY_HOSPITAL.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/8392b7d74209bb3dc54ff1b09635e733_1776974747/ASCQR_OAS_CAHPS_BY_ASC.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/5c995348b26c08179f1149d3b07dcb70_1776974800/OQR_OAS_CAHPS_STATE.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/e4ca53701c73500a3188874f2bbd2854_1776974786/HCAHPS-State.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/08eefc5ab7c6cce7b3555fd79b0d8eec_1776974784/HCAHPS-National.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 3
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/51dabafd670b6379256fc111bcbec8b4_1776974817/PCH_HCAHPS_NATIONAL.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 3
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/155aff6db1e04cbbe1676ce459d71053_1776974814/PCH_HCAHPS_HOSPITAL.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/f1d65b1e3b562b932fd3827c7783ea35_1776974819/PCH_HCAHPS_STATE.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/fdc286f2f60134775fa4b7f7b249b075_1776974797/OQR_OAS_CAHPS_NATIONAL.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/775bca79810435bf5f31cfe39c68d448_1773093970/Long-Term_Care_Hospital-General_Information_Mar2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 6
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/long_term_care_hospital/LTCH_Data_Dictionary.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 8
+  },
   "https://data.cms.gov/provider-data/sites/default/files/resources/b7c4080ae144663e43353a9c35cd3f53_1780085743/Facility_Affiliation.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -190,7 +420,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 4
+   "lastPages": 10
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/52c3f098d7e56028a298fd297cb0b38d_1780085742/DAC_NationalDownloadableFile.csv": {
    "type": "spreadsheet",
@@ -200,7 +430,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 4
+   "lastPages": 6
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/72eedb23fcbe1ef3666f89db01b85e1d_1774642558/Utilization.csv": {
    "type": "spreadsheet",
@@ -210,7 +440,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 7
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/aaa9711048714dfc052c965a4e02a2f9_1763510758/grp_public_reporting.csv": {
    "type": "spreadsheet",
@@ -220,7 +450,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 10
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/be990a3967e6386441f4290f0f313388_1763510778/vg_public_reporting.csv": {
    "type": "spreadsheet",
@@ -230,7 +460,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/56a1d1a091721e42af801a74beb54408_1763510761/ec_public_reporting.csv": {
    "type": "spreadsheet",
@@ -240,7 +470,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 6
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/a30d8962d09f56123c4d07481444c965_1763510759/grp_public_reporting_cahps.csv": {
    "type": "spreadsheet",
@@ -250,7 +480,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 6
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/6b9e57db797c95853b034b329b1212b2_1763510763/ec_score_file.csv": {
    "type": "spreadsheet",
@@ -260,7 +490,17 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 7
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/a87585b27c50c3899eec6a857958a5f0_1776974791/Healthcare_Associated_Infections-National.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 4
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/34c8425110e4b464e68f1ae504bbdca7_1775505956/HHCAHPS_National_Apr2026.csv": {
    "type": "spreadsheet",
@@ -270,7 +510,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/home_health/HHS_Data_Dictionary.pdf": {
    "type": "pdf",
@@ -280,7 +520,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 6
+   "lastPages": 13
   },
   "https://data.cms.gov/sites/default/files/2025-10/9a36de3f-ab0a-47b5-9f97-53a2c85af0c3/RHC_Data_Guidance.pdf": {
    "type": "pdf",
@@ -330,17 +570,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/hospice/HOSPICE_Data_Dictionary.pdf": {
-   "type": "pdf",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 7
+   "lastPages": 5
   },
   "https://data.cms.gov/sites/default/files/2025-06/MA_GV_PUF_Methods_Updated_06042025.pdf": {
    "type": "pdf",
@@ -354,6 +584,16 @@
   },
   "https://data.cms.gov/sites/default/files/2024-06/7ae600cf-5662-4462-8d86-7aab3f58e7b8/Medicare%20Advantage%20Geographic%20Variation%20National%20%20State%20Data%20Dictionary_RY24.pdf": {
    "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/5551d4839c1dd75e3f7fe1310a1e2369_1770163628/hvbp_tps.csv": {
+   "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
    "_weeks": [
@@ -380,7 +620,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 9
+   "lastPages": 26
   },
   "https://qpp-cm-prod-content.s3.amazonaws.com/uploads/2817/2022ExperienceReport.pdf": {
    "type": "pdf",
@@ -400,9 +640,9 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/775bca79810435bf5f31cfe39c68d448_1773093970/Long-Term_Care_Hospital-General_Information_Mar2026.csv": {
+  "https://data.cms.gov/provider-data/sites/default/files/resources/c04d84bc5c641284494bee4f20f17f9c_1774454758/DFC_FACILITY.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -410,17 +650,47 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 6
   },
-  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/long_term_care_hospital/LTCH_Data_Dictionary.pdf": {
-   "type": "pdf",
+  "https://data.cms.gov/provider-data/sites/default/files/resources/1504afd07fe91f0104e116161755df79_1775505955/HHCAHPS_Provider_Apr2026.csv": {
+   "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
    "_weeks": [
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 4
+   "lastPages": 8
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/c4f74a440cc6ce4ed941fa3c9de2ab58_1776974859/Timely_and_Effective_Care-State.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/c671cdaa1461db5a685367690785fcb3_1778861763/NH_Penalties_May2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 8
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/6fb7a772c39e34e630e7e97ec4887263_1776974853/Outpatient_Imaging_Efficiency-State.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
   },
   "https://data.cms.gov/sites/default/files/2024-10/HHA_Data_Guidance.pdf": {
    "type": "pdf",
@@ -442,47 +712,7 @@
    "weeksSeen": 1,
    "lastPages": 4
   },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/3b76abb9b6f610373563b5ef08bb0d81_1780791334/Medical-Equipment-Suppliers.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 4
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/dbae8cccd244fb26845d52844574f306_1778861759/NH_QualityMsr_Claims_May2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/cae60044df69dc1ee447e796e4e8243a_1778861761/NH_Ownership_May2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/322db3f58163626ea2e60303d747c62c_1778861769/NH_StateUSAverages_May2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 2
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/1a398c69cbf58de4a82eba4c0dcd20c9_1778861770/NH_SurveySummary_May2026.csv": {
+  "https://data.cms.gov/provider-data/sites/default/files/resources/d0134a9a89e59d49426cf5a2ad063b60_1777413963/Outpatient_Imaging_Efficiency-Hospital.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -492,6 +722,46 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/3b76abb9b6f610373563b5ef08bb0d81_1780791334/Medical-Equipment-Suppliers.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 6
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/cae60044df69dc1ee447e796e4e8243a_1778861761/NH_Ownership_May2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 7
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/322db3f58163626ea2e60303d747c62c_1778861769/NH_StateUSAverages_May2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 7
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/1a398c69cbf58de4a82eba4c0dcd20c9_1778861770/NH_SurveySummary_May2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 4
+  },
   "https://data.cms.gov/provider-data/sites/default/files/resources/df008647017ce09edbee2e2dbacd76b4_1778861774/NH_CitationDescriptions_May2026.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -500,17 +770,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/2e044de987e34aa31aa50f0d8a8d1b3d_1778861776/NH_SurveyDates_May2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 8
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/e269c04e82fe86040cd70b7ba3dd4853_1778861752/NH_HealthCitations_May2026.csv": {
    "type": "spreadsheet",
@@ -520,7 +780,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 9
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/7ce041abd48d3f5b5bcccdf71e5b0f53_1778861772/NH_DataCollectionIntervals_May2026.csv": {
    "type": "spreadsheet",
@@ -530,7 +790,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 6
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/a212e8d9a0e8d36ebee28b8334485334_1778861750/NH_FireSafetyCitations_May2026.csv": {
    "type": "spreadsheet",
@@ -540,7 +800,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 8
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/5a1d14b768520702973e56ac5426de7c_1778861777/NH_HlthInspecCutpointsState_May2026.csv": {
    "type": "spreadsheet",
@@ -550,7 +810,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 8
   },
   "https://data.cms.gov/sites/default/files/2025-12/eebbb1f8-7c5f-4635-ba0f-cb00f4dd882b/SNF_Data_Guidance.pdf": {
    "type": "pdf",
@@ -572,6 +832,56 @@
    "weeksSeen": 1,
    "lastPages": 3
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/425a1828be31f4868588917dafb08e12_1773093962/Inpatient_Rehabilitation_Facility-General_Information_Mar2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 5
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/9aa7c473ded4f80b28dd15217246cc65_1773093967/Inpatient_Rehabilitation_Facility-Conditions_Mar2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 8
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/0b6f1dcc12407f17f0b164c11baa2499_1773093966/Inpatient_Rehabilitation_Facility-National_Data_Mar2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 7
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/b3cc0ef93e1f2212f877053b160bee4e_1773093964/Inpatient_Rehabilitation_Facility-Provider_Data_Mar2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 11
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/6af7c44d77436e5a1caac3ce39a83fe9_1777413950/Complications_and_Deaths-Hospital.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
   "https://data.cms.gov/sites/default/files/2024-10/Hospital_Data_Guidance.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W24",
@@ -592,6 +902,16 @@
    "weeksSeen": 1,
    "lastPages": 4
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/6a91b2a437ea47e61cd34c975dd54729_1776974806/PCH_Complications_Unplanned_Hospital_Visits_NATIONAL.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
   "https://data.cms.gov/provider-data/sites/default/files/resources/33e26123c259ca779642b0d61b2e82f5_1777392336/hvbp_safety.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -600,19 +920,9 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 6
   },
-  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/hospital/HOSPITAL_Data_Dictionary.pdf": {
-   "type": "pdf",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 5
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/e7d9cd572dedecb624776bb2f71b4ce7_1777658732/Hospice_Zip_May2026.csv": {
+  "https://data.cms.gov/provider-data/sites/default/files/resources/ff15a8451b83ebc70b85a5c0e870a751_1776974845/Medicare_Hospital_Spending_Per_Patient-National.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -620,7 +930,57 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/f9a309e9463cdf0a7d7828f8d8d0e653_1775505949/HH_Provider_Apr2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 8
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/c7a73e1ae1de43ac7b176ba4f08d7625_1775505951/HH_National_Apr2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 6
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/1b118c65400c5bb0aa8fb19b94a7a6a2_1775505953/HH_MeasureDateRange_Apr2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 6
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/6474c60115b2b788900f733bbda6dea2_1775505945/HH_Zip_Apr2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 7
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/346a4dd2d0f21e2aeaf90f7e4c5e31de_1775505947/HH_State_Apr2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 6
   },
   "https://data.cms.gov/sites/default/files/2023-09/FQHC_Data_Guidance.pdf": {
    "type": "pdf",
@@ -642,6 +1002,16 @@
    "weeksSeen": 1,
    "lastPages": 4
   },
+  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/supplier/Supplier_Directory_Data_Dictionary.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 4
+  },
   "https://data.cms.gov/sites/default/files/2026-01/04a3f180-b638-48ce-8bb2-e551f547b0df/SNF_CHOW_Data_Dictionary.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W24",
@@ -652,17 +1022,7 @@
    "weeksSeen": 1,
    "lastPages": 2
   },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/c04d84bc5c641284494bee4f20f17f9c_1774454758/DFC_FACILITY.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/dialysis/DF_Data_Dictionary.pdf": {
+  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/inpatient/IRF_Data_Dictionary.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -670,17 +1030,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 10
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/1504afd07fe91f0104e116161755df79_1775505955/HHCAHPS_Provider_Apr2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 11
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/a56107d987ad28f6a52a393c6a77556c_1775505960/HHCAHPS_MeasureDateRange_Apr2026.csv": {
    "type": "spreadsheet",
@@ -690,57 +1040,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/f9a309e9463cdf0a7d7828f8d8d0e653_1775505949/HH_Provider_Apr2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/c7a73e1ae1de43ac7b176ba4f08d7625_1775505951/HH_National_Apr2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/1b118c65400c5bb0aa8fb19b94a7a6a2_1775505953/HH_MeasureDateRange_Apr2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/6474c60115b2b788900f733bbda6dea2_1775505945/HH_Zip_Apr2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/346a4dd2d0f21e2aeaf90f7e4c5e31de_1775505947/HH_State_Apr2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 4
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/bcb6f4d505a2bfc3b43663e31221fdff_1766534742/HHVBP_Cohort_PerformanceYear_2024.csv": {
    "type": "spreadsheet",
@@ -750,7 +1050,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 3
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/93f9c6ee2f94aec3b2233772f13ebfd1_1774454765/ICH_CAHPS_STATE.csv": {
    "type": "spreadsheet",
@@ -760,7 +1060,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 5
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/898c059359fa5494146fc2629178421d_1777658743/National_CAHPS_Hospice_Survey_Data_May2026.csv": {
    "type": "spreadsheet",
@@ -770,7 +1070,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://data.cms.gov/sites/default/files/2024-12/7a976b38-70d9-4332-a913-446c89641840/SNF_All_Owners_Data_Dictionary.pdf": {
    "type": "pdf",
@@ -781,6 +1081,46 @@
    ],
    "weeksSeen": 1,
    "lastPages": 5
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/a96931caf8ed3ea5cae6c11f46391ae1_1777658744/State_CAHPS_Hospice_Survey_Data_May2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 7
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/83125b23109ce3c691538fbd028a937a_1778861754/NH_QualityMsr_MDS_May2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 10
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/af4027a6449e63899d56ecec0c718998_1774454763/ICH_CAHPS_FACILITY.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 5
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/500f70bcb6c65433c00a96af0e0c0430_1770163607/HOSPITAL_QUARTERLY_MSPB_6_DECIMALS.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
   },
   "https://data.cms.gov/sites/default/files/2026-01/HHA_Data_Guidance.pdf": {
    "type": "pdf",
@@ -822,6 +1162,26 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/bbf8607529216a6cf0a54c0ba08001c0_1777658741/Provider_CAHPS_Hospice_Survey_Data_May2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/c9c4b48e76ed7ca1e965bd39959d497b_1770163573/FY2024_Distribution_of_Net_Change_in_Base_Op_DRG_Payment_Amt.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
   "https://data.cms.gov/sites/default/files/2025-05/df152e31-08c7-49fd-aad7-ed2078c807f3/HHA_All_Owners_Data_Dictionary.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W24",
@@ -841,6 +1201,26 @@
    ],
    "weeksSeen": 1,
    "lastPages": 3
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/0d05846745cd16da053621113257f19b_1778861767/Skilled_Nursing_Facility_Quality_Reporting_Program_Provider_Data_May2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 6
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/2d420234bc6bcc963c6c374d91b0ed90_1776974880/PCH_Palliative_Care_HOSPITAL.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
   },
   "https://data.cms.gov/sites/default/files/2024-10/Hospital_CHOW_Data_Guidance.pdf": {
    "type": "pdf",
@@ -872,7 +1252,7 @@
    "weeksSeen": 1,
    "lastPages": 4
   },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/a96931caf8ed3ea5cae6c11f46391ae1_1777658744/State_CAHPS_Hospice_Survey_Data_May2026.csv": {
+  "https://data.cms.gov/provider-data/sites/default/files/resources/f92d42450424b3e3c940c13d1a2bedfa_1772568346/SRR.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -880,7 +1260,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 4
   },
   "https://data.cms.gov/sites/default/files/2020-09/Agency%20for%20Healthcare%20Research%20and%20Quality%20%28AHRQ%29%20Patient%20Safety%20Indicator%2011%20%28PSI-11%29%20Measure%20Rates%20Methodology_0.pdf": {
    "type": "pdf",
@@ -900,7 +1280,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 5
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/1b170399c06d64c710ad55a8e5471bfc_1773093972/Long-Term_Care_Hospital-Provider_Data_Mar2026.csv": {
    "type": "spreadsheet",
@@ -910,27 +1290,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/c671cdaa1461db5a685367690785fcb3_1778861763/NH_Penalties_May2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/nursing_home/NH_Data_Dictionary.pdf": {
-   "type": "pdf",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 14
+   "lastPages": 6
   },
   "https://dialysisdata.org/sites/default/files/content/Methodology/Updated_DFC_Star_Rating_Methodology_for_October_2018_Release.pdf": {
    "type": "pdf",
@@ -952,6 +1312,16 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/3b5f0449f531ee07c467e49abed89954_1774454759/DFC_STATE.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 5
+  },
   "https://data.cms.gov/sites/default/files/2025-10/87ec4688-3e5d-4c39-aa6c-c387801534ed/FQHC_Data_Guidance.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W24",
@@ -972,6 +1342,16 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/78172a595e76dc064ea87884c5aea1f8_1776974851/Outpatient_Imaging_Efficiency-National.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
   "https://data.cms.gov/sites/default/files/2022-02/c26ef506-f1b0-4a62-b5c1-cd7fca45145b/FY2022_DFR_PUF_DataDictionary.xlsx": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -982,7 +1362,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/00d70cf620d110bff9f527d891a8487e_1777658739/Hospice_State_May2026.csv": {
+  "https://data.cms.gov/provider-data/sites/default/files/resources/88c6eedfbc6f52e839092ed781f6482c_1777658736/Hospice_Provider_May2026.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -990,9 +1370,9 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 9
   },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/5462b19a756c53c1becccf13787d9157_1777413973/Promoting_Interoperability-Hospital.csv": {
+  "https://data.cms.gov/provider-data/sites/default/files/resources/7ee0be390db93af4c83395682aae5ec5_1766534740/HHVBP_Provider_PerformanceYear_2024.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1000,7 +1380,17 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/b19666c7d9f040b0fffd9c7135a7d92d_1776974882/PCH_Palliative_Care_NATIONAL.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
   },
   "https://data.cms.gov/sites/default/files/2020-09/2017_vm_factsheet1.pdf": {
    "type": "pdf",
@@ -1011,46 +1401,6 @@
    ],
    "weeksSeen": 1,
    "lastPages": 1
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/425a1828be31f4868588917dafb08e12_1773093962/Inpatient_Rehabilitation_Facility-General_Information_Mar2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 2
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/9aa7c473ded4f80b28dd15217246cc65_1773093967/Inpatient_Rehabilitation_Facility-Conditions_Mar2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/0b6f1dcc12407f17f0b164c11baa2499_1773093966/Inpatient_Rehabilitation_Facility-National_Data_Mar2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/b3cc0ef93e1f2212f877053b160bee4e_1773093964/Inpatient_Rehabilitation_Facility-Provider_Data_Mar2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
   },
   "https://hcahpsonline.org/globalassets/hcahps/quality-assurance/october_2024_final_qag_v19.0.pdf": {
    "type": "pdf",
@@ -1080,7 +1430,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 7
   },
   "https://data.cms.gov/sites/default/files/2020-09/2015-Value-Modifier-Policies.pdf": {
    "type": "pdf",
@@ -1102,6 +1452,16 @@
    "weeksSeen": 1,
    "lastPages": 2
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/2c0e67025b8a6b48ee2cda52f1b26498_1767139544/CLINICAL_DEPRESSION.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
   "https://data.cms.gov/provider-data/sites/default/files/resources/13116a36e1ecb42f8a8ec505d968e9f8_1767139569/PPPW.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -1110,7 +1470,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://data.cms.gov/sites/default/files/2023-06/f644a22b-9469-4e2d-ba51-37ea2c7da641/2021PUFMethodology.pdf": {
    "type": "pdf",
@@ -1132,6 +1492,16 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/65a38069cc48376e9f519a3609424537_1776974753/ASCQR_OAS_CAHPS_NATIONAL.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
   "https://data.cms.gov/provider-data/sites/default/files/resources/38f631a211bad946a404d39a1c66d599_1778861765/NH_ProviderInfo_May2026.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -1140,7 +1510,17 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 12
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/f55414574be69195513a81f6ba25cafa_1767139567/MEDREC.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/ae019f56e76839ee1da1b51f502954cc_1774454761/DFC_NATIONAL.csv": {
    "type": "spreadsheet",
@@ -1162,7 +1542,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/f92d42450424b3e3c940c13d1a2bedfa_1772568346/SRR.csv": {
+  "https://data.cms.gov/provider-data/sites/default/files/resources/b57ec2f41171410daf4ba4f09433f35f_1767139556/NHSN_DIALYSIS_EVENT.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1170,17 +1550,17 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 6
   },
-  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/supplier/Supplier_Directory_Data_Dictionary.pdf": {
-   "type": "pdf",
+  "https://data.cms.gov/provider-data/sites/default/files/resources/0437b5494ac61507ad90f2af6b8085a7_1777413965/Timely_and_Effective_Care-Hospital.csv": {
+   "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
    "_weeks": [
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 1
   },
   "https://data.cms.gov/sites/default/files/2025-12/iQIES%20POS%20Data%20Dictionary.xlsx": {
    "type": "spreadsheet",
@@ -1192,26 +1572,6 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/3b5f0449f531ee07c467e49abed89954_1774454759/DFC_STATE.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/78a50346fbe828ea0ce2837847af6a7c_1777413952/HCAHPS-Hospital.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 2
-  },
   "https://data.cms.gov/provider-data/sites/default/files/resources/30edc1d0417a34b58affcc2495a02b0a_1777413968/Unplanned_Hospital_Visits-Hospital.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -1222,7 +1582,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/af4027a6449e63899d56ecec0c718998_1774454763/ICH_CAHPS_FACILITY.csv": {
+  "https://data.cms.gov/provider-data/sites/default/files/resources/bc386a698d7a9b8d09bf37a73371a899_1776974804/PCH_Complications_Unplanned_Hospital_Visits_HOSPITAL.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1230,7 +1590,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 3
+   "lastPages": 1
   },
   "https://data.cms.gov/sites/default/files/2024-10/RHC_Data_Guidance.pdf": {
    "type": "pdf",
@@ -1241,16 +1601,6 @@
    ],
    "weeksSeen": 1,
    "lastPages": 2
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/inpatient/IRF_Data_Dictionary.pdf": {
-   "type": "pdf",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 4
   },
   "https://data.cms.gov/sites/default/files/2026-05/Original%20Medicare%20Geographic%20Variation%20Public%20Use%20File%20Methods%20Paper.pdf": {
    "type": "pdf",
@@ -1272,7 +1622,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/88c6eedfbc6f52e839092ed781f6482c_1777658736/Hospice_Provider_May2026.csv": {
+  "https://data.cms.gov/provider-data/sites/default/files/resources/27986ce2f1193d3fcad7fa1bddc93c3b_1776974793/Healthcare_Associated_Infections-State.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1281,6 +1631,16 @@
    ],
    "weeksSeen": 1,
    "lastPages": 4
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/74be67fd6833391f578abb5605d03ce6_1770163605/FY_2026_HAC_Reduction_Program_Hospital.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 3
   },
   "https://data.cms.gov/sites/default/files/2025-03/6715138f-a3d5-4156-9055-9249ab6d2136/Data_Dictionary-Medicare_Shared_Savings_Program-Performance_Year_Financial_and_Quality_Results_2021.pdf": {
    "type": "pdf",
@@ -1310,7 +1670,47 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 4
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/46325dbbe6d2f654ecbb5046059c664e_1770163621/hvbp_efficiency_and_cost_reduction.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/f5c74a8e8a0f2017f6e13b6fc517ae4e_1770163619/hvbp_clinical_outcomes.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/3d267e89dc34ca3a928554b9c73775ef_1770163577/FY2024_Percent_Change_in_Medicare_Payments.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/295febbe9d3a5ae726723c62a8102585_1777658737/Hospice_National_May2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 3
   },
   "https://data.cms.gov/sites/default/files/2023-01/SNF_CHOW_Data_Dictionary_2022.12.30.pdf": {
    "type": "pdf",
@@ -1362,7 +1762,7 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/295febbe9d3a5ae726723c62a8102585_1777658737/Hospice_National_May2026.csv": {
+  "https://data.cms.gov/provider-data/sites/default/files/resources/aba37eca11edcd4272afff9e6dc78bda_1776974767/Complications_and_Deaths-National.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1370,9 +1770,19 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 1
   },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/bbf8607529216a6cf0a54c0ba08001c0_1777658741/Provider_CAHPS_Hospice_Survey_Data_May2026.csv": {
+  "https://data.cms.gov/provider-data/sites/default/files/resources/f086b4b7fc9d628f08e70ade47dff3c5_1776974758/ASCQR_OAS_CAHPS_STATE.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/d30b0557f1d06bee1d5646d2eaede709_1776974864/Unplanned_Hospital_Visits-National.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -1402,26 +1812,6 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/b57ec2f41171410daf4ba4f09433f35f_1767139556/NHSN_DIALYSIS_EVENT.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 2
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/0d05846745cd16da053621113257f19b_1778861767/Skilled_Nursing_Facility_Quality_Reporting_Program_Provider_Data_May2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 2
-  },
   "https://data.cms.gov/sites/default/files/2023-01/Hospital_CHOW_Data_Dictionary_2022.12.30.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W24",
@@ -1432,8 +1822,78 @@
    "weeksSeen": 1,
    "lastPages": 3
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/dd03994fc93e296bb0297f1cd43cc987_1770163552/ASC_Facility.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/e7f75e0803a17e22c4e26acf2183e622_1778277932/Birthing_Friendly_Hospitals_Geocoded.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/893c372430d9d71a1c52737d01239d47_1777413958/Hospital_General_Information.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/9cea8696850b78e02559183bd6071fd6_1776974873/Veterans_Health_Administration_Provider_Level_Data.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/05135bad92a4af261917a5061f921c84_1776974874/Data_Updates_April_2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
   "https://data.cms.gov/sites/default/files/2026-01/SNF_CHOW_Owners_Data_Dictionary.pdf": {
    "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/8d4f21bb6cf7affe367ae5b267425658_1767139562/TPS.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/53468cee50245fe7f4a9523d5fe3a118_1767139554/QIP_ICH_CAHPS.csv": {
+   "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
    "_weeks": [
@@ -1454,6 +1914,26 @@
   },
   "https://data.cms.gov/sites/default/files/2023-09/RHC_Enrollments_Data_Dictionary.pdf": {
    "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/633113381312e1fa86c8e0ba8b14ed0f_1776974840/Measure_Dates.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/ccc6534894a9bfe22b5f986260ed359e_1770163624/hvbp_person_and_community_engagement.csv": {
+   "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
    "_weeks": [
@@ -1492,6 +1972,16 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/5a4754b088fdb10d2ae278ef215925a7_1777413969/Maternal_Health-Hospital.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
   "https://data.cms.gov/sites/default/files/2024-04/2022%20QPP%20Experience%20Report%20Public%20Use%20Files%20Methodology.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W24",
@@ -1521,16 +2011,6 @@
    ],
    "weeksSeen": 1,
    "lastPages": 1
-  },
-  "https://data.cms.gov/provider-data/sites/default/files/resources/83125b23109ce3c691538fbd028a937a_1778861754/NH_QualityMsr_MDS_May2026.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 3
   },
   "https://data.cms.gov/sites/default/files/2023-09/FQHC_Enrollments_Data_Dictionary.pdf": {
    "type": "pdf",
@@ -1562,8 +2042,68 @@
    "weeksSeen": 1,
    "lastPages": 1
   },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/74596ee698e8fec5c2b4f8c108e6174b_1767139564/FCHE.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/1bf5c5a9da539c53ec929b60c2b3e7e7_1776435357/Skilled_Nursing_Facility_Quality_Reporting_Program_National_Data_Apr2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/e02c19750dd816ce1fdaa897033dcac3_1776435360/Swing_Bed_SNF_data_Apr2026.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
   "https://data.cms.gov/sites/default/files/2022-09/Number_of_ACO_Assigned_Beneficiaries_by_County_PUF_Data_Dictionary-508.pdf": {
    "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/c1017e56164f4774560619c9020116fa_1770163562/CJR_Quality_Reporting_January_2026_Production_File.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/1f8cde9e222d5d49f88a894bcf7a8981_1770163638/Medicare_Hospital_Spending_by_Claim.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.cms.gov/provider-data/sites/default/files/resources/07084088a9de9e44c51bef291a4e163a_1776974871/VA_TE.csv": {
+   "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
    "_weeks": [
