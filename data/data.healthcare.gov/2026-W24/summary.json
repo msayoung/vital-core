@@ -1,23 +1,23 @@
 {
  "domain": "data.healthcare.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-14T15:12:13.140Z",
- "pagesScanned": 1632,
- "pagesAudited": 1194,
+ "generatedAt": "2026-06-14T20:00:57.289Z",
+ "pagesScanned": 1850,
+ "pagesAudited": 1324,
  "coverage": {
-  "axe": 1194,
-  "deprecated-html": 536,
-  "sustainability": 1194,
-  "alfa": 802,
-  "plain-language": 248,
-  "resources": 372,
-  "lighthouse": 51
+  "axe": 1324,
+  "deprecated-html": 666,
+  "sustainability": 1324,
+  "alfa": 835,
+  "plain-language": 307,
+  "resources": 502,
+  "lighthouse": 61
  },
  "blocked": null,
  "axe": {
   "violationTotal": 20,
   "pagesWithViolations": 17,
-  "pagesScanned": 1194,
+  "pagesScanned": 1324,
   "medianViolations": 0,
   "rules": {
    "landmark-unique": {
@@ -311,14 +311,14 @@
   }
  },
  "alfa": {
-  "failedTotal": 32471,
-  "pagesWithFailures": 802,
-  "pagesScanned": 802,
+  "failedTotal": 34167,
+  "pagesWithFailures": 835,
+  "pagesScanned": 835,
   "medianFailures": 41,
   "rules": {
    "sia-r66": {
-    "count": 1614,
-    "pages": 802,
+    "count": 1680,
+    "pages": 835,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r66",
     "examplePages": [
      "https://data.healthcare.gov/ab-registration-completion-list?page=5",
@@ -447,7 +447,15 @@
       "instances": 2
      },
      {
+      "url": "https://data.healthcare.gov/dataset/ymjk-c2ng?page=3",
+      "instances": 2
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/yaaf-rjhy?page=4",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=qhp&page=3",
       "instances": 2
      },
      {
@@ -488,6 +496,10 @@
      },
      {
       "url": "https://data.healthcare.gov/about",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=PY2023",
       "instances": 2
      },
      {
@@ -568,6 +580,10 @@
      },
      {
       "url": "https://data.healthcare.gov/datasets?keyword%5B%5D=brokers",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/2638f347-5311-4655-8d2b-1466848adeae?page=5",
       "instances": 2
      },
      {
@@ -659,6 +675,10 @@
       "instances": 2
      },
      {
+      "url": "https://data.healthcare.gov/dataset/h8gm-uh38?page=4",
+      "instances": 2
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/f73t-ceqr?page=2",
       "instances": 2
      },
@@ -672,6 +692,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/9epp-mpe8?page=555",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B%5D=Machine+Readable",
       "instances": 2
      },
      {
@@ -703,6 +727,10 @@
       "instances": 2
      },
      {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=20",
+      "instances": 2
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/7wqt-7ky9?page=4",
       "instances": 2
      },
@@ -720,6 +748,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/abhi-yds7?page=5",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/e614aeb8-580e-4aae-9140-cf55b4a22180?page=4",
       "instances": 2
      },
      {
@@ -879,6 +911,10 @@
       "instances": 2
      },
      {
+      "url": "https://data.healthcare.gov/dataset/enpz-m4q6?page=3",
+      "instances": 2
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/afk4-e2ai?page=5",
       "instances": 2
      },
@@ -948,6 +984,10 @@
      },
      {
       "url": "https://data.healthcare.gov/",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/9hay-v3sx?page=3",
       "instances": 2
      },
      {
@@ -1099,6 +1139,10 @@
       "instances": 2
      },
      {
+      "url": "https://data.healthcare.gov/dataset/d849f3cc-64da-408a-92d8-790ba4973737?page=3",
+      "instances": 2
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/7956-2yzc?page=5",
       "instances": 2
      },
@@ -1132,6 +1176,10 @@
      },
      {
       "url": "https://data.healthcare.gov/about/faq",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/w46c-tnzb?page=4",
       "instances": 2
      },
      {
@@ -1387,6 +1435,10 @@
       "instances": 2
      },
      {
+      "url": "https://data.healthcare.gov/dataset/np2y-8daw?page=5",
+      "instances": 2
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/brrf-yhzh?page=5",
       "instances": 2
      },
@@ -1448,6 +1500,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/k9rw-hjvp",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/5p3f-bhu4?page=5",
       "instances": 2
      },
      {
@@ -1579,6 +1635,10 @@
       "instances": 2
      },
      {
+      "url": "https://data.healthcare.gov/dataset/kz5p-dvnx?page=5",
+      "instances": 2
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/8ada60fc-9bf0-4034-912e-de57e0624ecb",
       "instances": 2
      },
@@ -1604,6 +1664,14 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/esht-9tqi?page=78758",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=Marketplace+PUF&page=4",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/gmjp-zpzt?page=3",
       "instances": 2
      },
      {
@@ -1703,7 +1771,19 @@
       "instances": 2
      },
      {
+      "url": "https://data.healthcare.gov/dataset/h8gm-uh38?page=20",
+      "instances": 2
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/e4rr-zk4i?page=5",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=22",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B%5D=race",
       "instances": 2
      },
      {
@@ -1788,6 +1868,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/ed2e896a-d54c-48a3-b617-e26931b7a6eb",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/0fa89e4e-e206-4b3d-bde5-c4d9246255c5?page=4",
       "instances": 2
      },
      {
@@ -1955,7 +2039,15 @@
       "instances": 2
      },
      {
+      "url": "https://data.healthcare.gov/dataset/kb8w-qg77?page=2",
+      "instances": 2
+     },
+     {
       "url": "https://data.healthcare.gov/datasets?theme%5B%5D=Assisters",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=21",
       "instances": 2
      },
      {
@@ -2032,6 +2124,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/b8in-sz6k?page=5",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/bzfi-sbe4?page=5",
       "instances": 2
      },
      {
@@ -2347,6 +2443,10 @@
       "instances": 2
      },
      {
+      "url": "https://data.healthcare.gov/dataset/gx5c-fhmw?page=2",
+      "instances": 2
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/g7hv-jbsu",
       "instances": 2
      },
@@ -2464,6 +2564,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/8kxw-8r6g?page=2",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/2zrn-hv42?page=3",
       "instances": 2
      },
      {
@@ -2627,6 +2731,10 @@
       "instances": 2
      },
      {
+      "url": "https://data.healthcare.gov/datasets?page=7",
+      "instances": 2
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/g6ja-xx6f?page=3",
       "instances": 2
      },
@@ -2656,6 +2764,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/pekv-h4eb",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=Marketplace+PUF&page=2",
       "instances": 2
      },
      {
@@ -2923,6 +3035,10 @@
       "instances": 2
      },
      {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=5",
+      "instances": 2
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/gvyn-pfdi",
       "instances": 2
      },
@@ -3131,6 +3247,10 @@
       "instances": 2
      },
      {
+      "url": "https://data.healthcare.gov/dataset/ncbw-vdsn?page=104",
+      "instances": 2
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/dxg8-kay3?page=8",
       "instances": 2
      },
@@ -3140,6 +3260,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/b0b89edb-c6a6-41ab-acec-deb829b8b002",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/2z8b-yxem?page=2",
       "instances": 2
      },
      {
@@ -3164,6 +3288,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/e4rr-zk4i?page=4",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/iwmd-wduj?page=3",
       "instances": 2
      },
      {
@@ -3304,6 +3432,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/w8x9-aq6p",
+      "instances": 2
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/xawq-c9wn?page=2",
       "instances": 2
      },
      {
@@ -3564,8 +3696,8 @@
     ]
    },
    "sia-r73": {
-    "count": 5548,
-    "pages": 802,
+    "count": 5774,
+    "pages": 835,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r73",
     "examplePages": [
      "https://data.healthcare.gov/ab-registration-completion-list?page=5",
@@ -3694,7 +3826,15 @@
       "instances": 7
      },
      {
+      "url": "https://data.healthcare.gov/dataset/ymjk-c2ng?page=3",
+      "instances": 7
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/yaaf-rjhy?page=4",
+      "instances": 7
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=qhp&page=3",
       "instances": 7
      },
      {
@@ -3735,6 +3875,10 @@
      },
      {
       "url": "https://data.healthcare.gov/about",
+      "instances": 7
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=PY2023",
       "instances": 7
      },
      {
@@ -3816,6 +3960,10 @@
      {
       "url": "https://data.healthcare.gov/datasets?keyword%5B%5D=brokers",
       "instances": 6
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/2638f347-5311-4655-8d2b-1466848adeae?page=5",
+      "instances": 7
      },
      {
       "url": "https://data.healthcare.gov/dataset/aue3-def6?page=26",
@@ -3906,6 +4054,10 @@
       "instances": 7
      },
      {
+      "url": "https://data.healthcare.gov/dataset/h8gm-uh38?page=4",
+      "instances": 7
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/f73t-ceqr?page=2",
       "instances": 7
      },
@@ -3919,6 +4071,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/9epp-mpe8?page=555",
+      "instances": 7
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B%5D=Machine+Readable",
       "instances": 7
      },
      {
@@ -3950,6 +4106,10 @@
       "instances": 7
      },
      {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=20",
+      "instances": 6
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/7wqt-7ky9?page=4",
       "instances": 7
      },
@@ -3967,6 +4127,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/abhi-yds7?page=5",
+      "instances": 7
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/e614aeb8-580e-4aae-9140-cf55b4a22180?page=4",
       "instances": 7
      },
      {
@@ -4126,6 +4290,10 @@
       "instances": 18
      },
      {
+      "url": "https://data.healthcare.gov/dataset/enpz-m4q6?page=3",
+      "instances": 7
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/afk4-e2ai?page=5",
       "instances": 7
      },
@@ -4196,6 +4364,10 @@
      {
       "url": "https://data.healthcare.gov/",
       "instances": 18
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/9hay-v3sx?page=3",
+      "instances": 7
      },
      {
       "url": "https://data.healthcare.gov/dataset/ciet-nbd9?page=5",
@@ -4346,6 +4518,10 @@
       "instances": 6
      },
      {
+      "url": "https://data.healthcare.gov/dataset/d849f3cc-64da-408a-92d8-790ba4973737?page=3",
+      "instances": 7
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/7956-2yzc?page=5",
       "instances": 7
      },
@@ -4380,6 +4556,10 @@
      {
       "url": "https://data.healthcare.gov/about/faq",
       "instances": 4
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/w46c-tnzb?page=4",
+      "instances": 7
      },
      {
       "url": "https://data.healthcare.gov/dataset/j5bh-rfhd",
@@ -4634,6 +4814,10 @@
       "instances": 6
      },
      {
+      "url": "https://data.healthcare.gov/dataset/np2y-8daw?page=5",
+      "instances": 7
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/brrf-yhzh?page=5",
       "instances": 7
      },
@@ -4695,6 +4879,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/k9rw-hjvp",
+      "instances": 7
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/5p3f-bhu4?page=5",
       "instances": 7
      },
      {
@@ -4826,6 +5014,10 @@
       "instances": 7
      },
      {
+      "url": "https://data.healthcare.gov/dataset/kz5p-dvnx?page=5",
+      "instances": 7
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/8ada60fc-9bf0-4034-912e-de57e0624ecb",
       "instances": 6
      },
@@ -4851,6 +5043,14 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/esht-9tqi?page=78758",
+      "instances": 7
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=Marketplace+PUF&page=4",
+      "instances": 7
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/gmjp-zpzt?page=3",
       "instances": 7
      },
      {
@@ -4950,7 +5150,19 @@
       "instances": 6
      },
      {
+      "url": "https://data.healthcare.gov/dataset/h8gm-uh38?page=20",
+      "instances": 7
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/e4rr-zk4i?page=5",
+      "instances": 7
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=22",
+      "instances": 6
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B%5D=race",
       "instances": 7
      },
      {
@@ -5036,6 +5248,10 @@
      {
       "url": "https://data.healthcare.gov/dataset/ed2e896a-d54c-48a3-b617-e26931b7a6eb",
       "instances": 6
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/0fa89e4e-e206-4b3d-bde5-c4d9246255c5?page=4",
+      "instances": 7
      },
      {
       "url": "https://data.healthcare.gov/dataset/a2km-i629?page=2",
@@ -5202,7 +5418,15 @@
       "instances": 7
      },
      {
+      "url": "https://data.healthcare.gov/dataset/kb8w-qg77?page=2",
+      "instances": 7
+     },
+     {
       "url": "https://data.healthcare.gov/datasets?theme%5B%5D=Assisters",
+      "instances": 6
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=21",
       "instances": 6
      },
      {
@@ -5279,6 +5503,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/b8in-sz6k?page=5",
+      "instances": 7
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/bzfi-sbe4?page=5",
       "instances": 7
      },
      {
@@ -5594,6 +5822,10 @@
       "instances": 7
      },
      {
+      "url": "https://data.healthcare.gov/dataset/gx5c-fhmw?page=2",
+      "instances": 7
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/g7hv-jbsu",
       "instances": 7
      },
@@ -5711,6 +5943,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/8kxw-8r6g?page=2",
+      "instances": 7
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/2zrn-hv42?page=3",
       "instances": 7
      },
      {
@@ -5874,6 +6110,10 @@
       "instances": 7
      },
      {
+      "url": "https://data.healthcare.gov/datasets?page=7",
+      "instances": 6
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/g6ja-xx6f?page=3",
       "instances": 7
      },
@@ -5904,6 +6144,10 @@
      {
       "url": "https://data.healthcare.gov/dataset/pekv-h4eb",
       "instances": 6
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=Marketplace+PUF&page=2",
+      "instances": 7
      },
      {
       "url": "https://data.healthcare.gov/dataset/w456-edbt",
@@ -6170,6 +6414,10 @@
       "instances": 6
      },
      {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=5",
+      "instances": 6
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/gvyn-pfdi",
       "instances": 6
      },
@@ -6378,6 +6626,10 @@
       "instances": 6
      },
      {
+      "url": "https://data.healthcare.gov/dataset/ncbw-vdsn?page=104",
+      "instances": 7
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/dxg8-kay3?page=8",
       "instances": 7
      },
@@ -6388,6 +6640,10 @@
      {
       "url": "https://data.healthcare.gov/dataset/b0b89edb-c6a6-41ab-acec-deb829b8b002",
       "instances": 6
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/2z8b-yxem?page=2",
+      "instances": 7
      },
      {
       "url": "https://data.healthcare.gov/dataset/afk4-e2ai?page=2",
@@ -6411,6 +6667,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/e4rr-zk4i?page=4",
+      "instances": 7
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/iwmd-wduj?page=3",
       "instances": 7
      },
      {
@@ -6551,6 +6811,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/w8x9-aq6p",
+      "instances": 7
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/xawq-c9wn?page=2",
       "instances": 7
      },
      {
@@ -6811,8 +7075,8 @@
     ]
    },
    "sia-r17": {
-    "count": 3017,
-    "pages": 747,
+    "count": 3127,
+    "pages": 769,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r17",
     "examplePages": [
      "https://data.healthcare.gov/ab-registration-completion-list?page=5",
@@ -6937,6 +7201,10 @@
       "instances": 5
      },
      {
+      "url": "https://data.healthcare.gov/dataset/ymjk-c2ng?page=3",
+      "instances": 5
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/yaaf-rjhy?page=4",
       "instances": 5
      },
@@ -7045,6 +7313,10 @@
       "instances": 5
      },
      {
+      "url": "https://data.healthcare.gov/dataset/2638f347-5311-4655-8d2b-1466848adeae?page=5",
+      "instances": 5
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/aue3-def6?page=26",
       "instances": 5
      },
@@ -7133,6 +7405,10 @@
       "instances": 5
      },
      {
+      "url": "https://data.healthcare.gov/dataset/h8gm-uh38?page=4",
+      "instances": 5
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/f73t-ceqr?page=2",
       "instances": 5
      },
@@ -7186,6 +7462,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/abhi-yds7?page=5",
+      "instances": 5
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/e614aeb8-580e-4aae-9140-cf55b4a22180?page=4",
       "instances": 5
      },
      {
@@ -7333,6 +7613,10 @@
       "instances": 1
      },
      {
+      "url": "https://data.healthcare.gov/dataset/enpz-m4q6?page=3",
+      "instances": 5
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/afk4-e2ai?page=5",
       "instances": 5
      },
@@ -7390,6 +7674,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/p7h5-7vyf?page=3838",
+      "instances": 5
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/9hay-v3sx?page=3",
       "instances": 5
      },
      {
@@ -7541,6 +7829,10 @@
       "instances": 1
      },
      {
+      "url": "https://data.healthcare.gov/dataset/d849f3cc-64da-408a-92d8-790ba4973737?page=3",
+      "instances": 5
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/7956-2yzc?page=5",
       "instances": 5
      },
@@ -7570,6 +7862,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/e4rr-zk4i",
+      "instances": 5
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/w46c-tnzb?page=4",
       "instances": 5
      },
      {
@@ -7805,6 +8101,10 @@
       "instances": 1
      },
      {
+      "url": "https://data.healthcare.gov/dataset/np2y-8daw?page=5",
+      "instances": 5
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/brrf-yhzh?page=5",
       "instances": 5
      },
@@ -7862,6 +8162,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/k9rw-hjvp",
+      "instances": 5
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/5p3f-bhu4?page=5",
       "instances": 5
      },
      {
@@ -7989,6 +8293,10 @@
       "instances": 5
      },
      {
+      "url": "https://data.healthcare.gov/dataset/kz5p-dvnx?page=5",
+      "instances": 5
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/8ada60fc-9bf0-4034-912e-de57e0624ecb",
       "instances": 1
      },
@@ -8014,6 +8322,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/esht-9tqi?page=78758",
+      "instances": 5
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/gmjp-zpzt?page=3",
       "instances": 5
      },
      {
@@ -8101,6 +8413,10 @@
       "instances": 1
      },
      {
+      "url": "https://data.healthcare.gov/dataset/h8gm-uh38?page=20",
+      "instances": 5
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/e4rr-zk4i?page=5",
       "instances": 5
      },
@@ -8179,6 +8495,10 @@
      {
       "url": "https://data.healthcare.gov/dataset/ed2e896a-d54c-48a3-b617-e26931b7a6eb",
       "instances": 1
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/0fa89e4e-e206-4b3d-bde5-c4d9246255c5?page=4",
+      "instances": 5
      },
      {
       "url": "https://data.healthcare.gov/dataset/a2km-i629?page=2",
@@ -8333,6 +8653,10 @@
       "instances": 5
      },
      {
+      "url": "https://data.healthcare.gov/dataset/kb8w-qg77?page=2",
+      "instances": 5
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/2226672d-d505-49ae-9853-1049b53722df",
       "instances": 5
      },
@@ -8398,6 +8722,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/b8in-sz6k?page=5",
+      "instances": 5
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/bzfi-sbe4?page=5",
       "instances": 5
      },
      {
@@ -8709,6 +9037,10 @@
       "instances": 5
      },
      {
+      "url": "https://data.healthcare.gov/dataset/gx5c-fhmw?page=2",
+      "instances": 5
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/g7hv-jbsu",
       "instances": 5
      },
@@ -8818,6 +9150,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/8kxw-8r6g?page=2",
+      "instances": 5
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/2zrn-hv42?page=3",
       "instances": 5
      },
      {
@@ -9421,6 +9757,10 @@
       "instances": 5
      },
      {
+      "url": "https://data.healthcare.gov/dataset/ncbw-vdsn?page=104",
+      "instances": 5
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/dxg8-kay3?page=8",
       "instances": 5
      },
@@ -9431,6 +9771,10 @@
      {
       "url": "https://data.healthcare.gov/dataset/b0b89edb-c6a6-41ab-acec-deb829b8b002",
       "instances": 1
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/2z8b-yxem?page=2",
+      "instances": 5
      },
      {
       "url": "https://data.healthcare.gov/dataset/afk4-e2ai?page=2",
@@ -9454,6 +9798,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/e4rr-zk4i?page=4",
+      "instances": 5
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/iwmd-wduj?page=3",
       "instances": 5
      },
      {
@@ -9590,6 +9938,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/w8x9-aq6p",
+      "instances": 5
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/xawq-c9wn?page=2",
       "instances": 5
      },
      {
@@ -9838,8 +10190,8 @@
     ]
    },
    "sia-r111": {
-    "count": 22233,
-    "pages": 802,
+    "count": 23527,
+    "pages": 835,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r111",
     "examplePages": [
      "https://data.healthcare.gov/ab-registration-completion-list?page=5",
@@ -9968,8 +10320,16 @@
       "instances": 27
      },
      {
+      "url": "https://data.healthcare.gov/dataset/ymjk-c2ng?page=3",
+      "instances": 27
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/yaaf-rjhy?page=4",
       "instances": 27
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=qhp&page=3",
+      "instances": 31
      },
      {
       "url": "https://data.healthcare.gov/dataset/0a973ff8-9926-49c5-91e1-ee6c9c1288e1?page=506",
@@ -10010,6 +10370,10 @@
      {
       "url": "https://data.healthcare.gov/about",
       "instances": 28
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=PY2023",
+      "instances": 75
      },
      {
       "url": "https://data.healthcare.gov/dataset/jzae-njub",
@@ -10090,6 +10454,10 @@
      {
       "url": "https://data.healthcare.gov/datasets?keyword%5B%5D=brokers",
       "instances": 31
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/2638f347-5311-4655-8d2b-1466848adeae?page=5",
+      "instances": 27
      },
      {
       "url": "https://data.healthcare.gov/dataset/aue3-def6?page=26",
@@ -10180,6 +10548,10 @@
       "instances": 27
      },
      {
+      "url": "https://data.healthcare.gov/dataset/h8gm-uh38?page=4",
+      "instances": 27
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/f73t-ceqr?page=2",
       "instances": 27
      },
@@ -10194,6 +10566,10 @@
      {
       "url": "https://data.healthcare.gov/dataset/9epp-mpe8?page=555",
       "instances": 27
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B%5D=Machine+Readable",
+      "instances": 37
      },
      {
       "url": "https://data.healthcare.gov/dataset/wudg-eius",
@@ -10224,6 +10600,10 @@
       "instances": 27
      },
      {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=20",
+      "instances": 83
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/7wqt-7ky9?page=4",
       "instances": 27
      },
@@ -10241,6 +10621,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/abhi-yds7?page=5",
+      "instances": 27
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/e614aeb8-580e-4aae-9140-cf55b4a22180?page=4",
       "instances": 27
      },
      {
@@ -10400,6 +10784,10 @@
       "instances": 26
      },
      {
+      "url": "https://data.healthcare.gov/dataset/enpz-m4q6?page=3",
+      "instances": 27
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/afk4-e2ai?page=5",
       "instances": 27
      },
@@ -10470,6 +10858,10 @@
      {
       "url": "https://data.healthcare.gov/",
       "instances": 26
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/9hay-v3sx?page=3",
+      "instances": 27
      },
      {
       "url": "https://data.healthcare.gov/dataset/ciet-nbd9?page=5",
@@ -10620,6 +11012,10 @@
       "instances": 24
      },
      {
+      "url": "https://data.healthcare.gov/dataset/d849f3cc-64da-408a-92d8-790ba4973737?page=3",
+      "instances": 27
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/7956-2yzc?page=5",
       "instances": 27
      },
@@ -10654,6 +11050,10 @@
      {
       "url": "https://data.healthcare.gov/about/faq",
       "instances": 37
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/w46c-tnzb?page=4",
+      "instances": 27
      },
      {
       "url": "https://data.healthcare.gov/dataset/j5bh-rfhd",
@@ -10908,6 +11308,10 @@
       "instances": 24
      },
      {
+      "url": "https://data.healthcare.gov/dataset/np2y-8daw?page=5",
+      "instances": 27
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/brrf-yhzh?page=5",
       "instances": 27
      },
@@ -10969,6 +11373,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/k9rw-hjvp",
+      "instances": 27
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/5p3f-bhu4?page=5",
       "instances": 27
      },
      {
@@ -11100,6 +11508,10 @@
       "instances": 27
      },
      {
+      "url": "https://data.healthcare.gov/dataset/kz5p-dvnx?page=5",
+      "instances": 27
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/8ada60fc-9bf0-4034-912e-de57e0624ecb",
       "instances": 24
      },
@@ -11125,6 +11537,14 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/esht-9tqi?page=78758",
+      "instances": 27
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=Marketplace+PUF&page=4",
+      "instances": 49
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/gmjp-zpzt?page=3",
       "instances": 27
      },
      {
@@ -11224,8 +11644,20 @@
       "instances": 24
      },
      {
+      "url": "https://data.healthcare.gov/dataset/h8gm-uh38?page=20",
+      "instances": 27
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/e4rr-zk4i?page=5",
       "instances": 27
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=22",
+      "instances": 85
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B%5D=race",
+      "instances": 30
      },
      {
       "url": "https://data.healthcare.gov/dataset/srri-3w2q?page=4",
@@ -11310,6 +11742,10 @@
      {
       "url": "https://data.healthcare.gov/dataset/ed2e896a-d54c-48a3-b617-e26931b7a6eb",
       "instances": 24
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/0fa89e4e-e206-4b3d-bde5-c4d9246255c5?page=4",
+      "instances": 27
      },
      {
       "url": "https://data.healthcare.gov/dataset/a2km-i629?page=2",
@@ -11476,8 +11912,16 @@
       "instances": 27
      },
      {
+      "url": "https://data.healthcare.gov/dataset/kb8w-qg77?page=2",
+      "instances": 27
+     },
+     {
       "url": "https://data.healthcare.gov/datasets?theme%5B%5D=Assisters",
       "instances": 31
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=21",
+      "instances": 67
      },
      {
       "url": "https://data.healthcare.gov/dataset/2226672d-d505-49ae-9853-1049b53722df",
@@ -11553,6 +11997,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/b8in-sz6k?page=5",
+      "instances": 27
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/bzfi-sbe4?page=5",
       "instances": 27
      },
      {
@@ -11868,6 +12316,10 @@
       "instances": 27
      },
      {
+      "url": "https://data.healthcare.gov/dataset/gx5c-fhmw?page=2",
+      "instances": 27
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/g7hv-jbsu",
       "instances": 27
      },
@@ -11985,6 +12437,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/8kxw-8r6g?page=2",
+      "instances": 27
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/2zrn-hv42?page=3",
       "instances": 27
      },
      {
@@ -12148,6 +12604,10 @@
       "instances": 27
      },
      {
+      "url": "https://data.healthcare.gov/datasets?page=7",
+      "instances": 75
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/g6ja-xx6f?page=3",
       "instances": 27
      },
@@ -12178,6 +12638,10 @@
      {
       "url": "https://data.healthcare.gov/dataset/pekv-h4eb",
       "instances": 24
+     },
+     {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=Marketplace+PUF&page=2",
+      "instances": 83
      },
      {
       "url": "https://data.healthcare.gov/dataset/w456-edbt",
@@ -12444,6 +12908,10 @@
       "instances": 24
      },
      {
+      "url": "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=5",
+      "instances": 85
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/gvyn-pfdi",
       "instances": 24
      },
@@ -12652,6 +13120,10 @@
       "instances": 31
      },
      {
+      "url": "https://data.healthcare.gov/dataset/ncbw-vdsn?page=104",
+      "instances": 27
+     },
+     {
       "url": "https://data.healthcare.gov/dataset/dxg8-kay3?page=8",
       "instances": 27
      },
@@ -12662,6 +13134,10 @@
      {
       "url": "https://data.healthcare.gov/dataset/b0b89edb-c6a6-41ab-acec-deb829b8b002",
       "instances": 24
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/2z8b-yxem?page=2",
+      "instances": 27
      },
      {
       "url": "https://data.healthcare.gov/dataset/afk4-e2ai?page=2",
@@ -12685,6 +13161,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/e4rr-zk4i?page=4",
+      "instances": 27
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/iwmd-wduj?page=3",
       "instances": 27
      },
      {
@@ -12825,6 +13305,10 @@
      },
      {
       "url": "https://data.healthcare.gov/dataset/w8x9-aq6p",
+      "instances": 27
+     },
+     {
+      "url": "https://data.healthcare.gov/dataset/xawq-c9wn?page=2",
       "instances": 27
      },
      {
@@ -13480,12 +13964,12 @@
   }
  },
  "consensus": {
-  "uniqueIssues": 3202,
+  "uniqueIssues": 3323,
   "consensus": 1,
   "axeOnly": 18,
-  "alfaOnly": 3183,
+  "alfaOnly": 3304,
   "rawAxe": 19,
-  "rawAlfa": 3184,
+  "rawAlfa": 3305,
   "byKey": {
    "axe-core:landmark-unique": {
     "actRuleId": null,
@@ -13558,7 +14042,7 @@
     "alfaRules": [
      "sia-r66"
     ],
-    "pages": 802,
+    "pages": 835,
     "engines": "alfa"
    },
    "alfa:sia-r73": {
@@ -13567,7 +14051,7 @@
     "alfaRules": [
      "sia-r73"
     ],
-    "pages": 802,
+    "pages": 835,
     "engines": "alfa"
    },
    "act:6cfa84": {
@@ -13576,7 +14060,7 @@
     "alfaRules": [
      "sia-r17"
     ],
-    "pages": 747,
+    "pages": 769,
     "engines": "alfa"
    },
    "alfa:sia-r111": {
@@ -13585,7 +14069,7 @@
     "alfaRules": [
      "sia-r111"
     ],
-    "pages": 802,
+    "pages": 835,
     "engines": "alfa"
    },
    "alfa:sia-r61": {
@@ -13672,28 +14156,38 @@
   }
  },
  "sustainability": {
-  "pages": 1194,
-  "medianBytes": 2824628,
-  "meanBytes": 2836250,
+  "pages": 1324,
+  "medianBytes": 2824596,
+  "meanBytes": 2835167,
   "medianRequests": 94,
-  "totalCo2g": 501.88,
-  "meanCo2g": 0.4203,
-  "totalEnergyWh": 317.16,
-  "meanEnergyWh": 0.2656
+  "totalCo2g": 556.31,
+  "meanCo2g": 0.4202,
+  "totalEnergyWh": 427.34,
+  "meanEnergyWh": 0.3228
  },
  "deprecatedHtml": null,
  "resources": {
-  "total": 199,
+  "total": 259,
   "byType": {
-   "spreadsheet": 138,
-   "pdf": 31,
-   "archive": 30
+   "spreadsheet": 167,
+   "pdf": 41,
+   "archive": 51
   },
   "list": [
    {
+    "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-nm-individual-market-medical.tfna-vz76.csv",
+    "type": "spreadsheet",
+    "pages": 6
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/plan-attributes-puf-2017.kcsx-yk8u.csv",
+    "type": "spreadsheet",
+    "pages": 3
+   },
+   {
     "url": "https://data.healthcare.gov/datafile/py2022/rate_puf.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 8
    },
    {
     "url": "https://data.healthcare.gov/sites/default/files/uploaded_resources/TBL_RCL_398.csv",
@@ -13743,57 +14237,82 @@
    {
     "url": "https://data.healthcare.gov/sites/default/files/uploaded_resources/quality-puf-2022-data.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 5
    },
    {
     "url": "https://data.healthcare.gov/datafile/rate-puf-2016.ymjk-c2ng.csv",
     "type": "spreadsheet",
-    "pages": 2
+    "pages": 3
    },
    {
     "url": "https://data.healthcare.gov/datafile/service-area-puf-2016.wudg-eius.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 5
    },
    {
     "url": "https://data.healthcare.gov/datafile/service-area-puf-2014.r9nw-xrew.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 5
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/2015-qualifying-health-plan-selections-by-household-income-as-a-percent-of-the-federal-poverty-level-and-county-as-of-february-22-2015.sy6b-59wj.csv",
+    "type": "spreadsheet",
+    "pages": 9
    },
    {
     "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-or-individual-market-medical.5p3f-bhu4.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 7
    },
    {
     "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-or-individual-market-dental.gmjp-zpzt.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 6
    },
    {
     "url": "https://data.healthcare.gov/datafile/2015-qualifying-health-plan-selections-by-csr-and-county-as-of-february-22-2015.ncbw-vdsn.csv",
     "type": "spreadsheet",
-    "pages": 6
+    "pages": 8
    },
    {
     "url": "https://data.healthcare.gov/datafile/2017_qhp_landscape_individual_market_medical.enpz-m4q6.csv",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 5
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2023/plan_attributes_puf.csv",
     "type": "spreadsheet",
-    "pages": 7
+    "pages": 9
    },
    {
     "url": "https://data.healthcare.gov/datafile/2015-qualifying-health-plan-selections-by-race-ethnicity-and-county-as-of-february-22-2015.dvpf-jb7v.csv",
+    "type": "spreadsheet",
+    "pages": 8
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/service-area-puf-2017.nbg4-75xg.csv",
+    "type": "spreadsheet",
+    "pages": 4
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2025/plan_id_crosswalk_PUF.csv",
+    "type": "spreadsheet",
+    "pages": 9
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-nv-individual-market-medical.pmxe-irvb.csv",
     "type": "spreadsheet",
     "pages": 5
    },
    {
     "url": "https://data.healthcare.gov/datafile/business-rules-puf-2017.kb8w-qg77.csv",
     "type": "spreadsheet",
-    "pages": 2
+    "pages": 4
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2025/network_PUF.csv",
+    "type": "spreadsheet",
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-nm-individual-market-medical.d47v-jybh.csv",
@@ -13803,27 +14322,32 @@
    {
     "url": "https://data.healthcare.gov/datafile/py2025/Benefits_Cost_Sharing_PUF.csv",
     "type": "spreadsheet",
-    "pages": 2
+    "pages": 3
    },
    {
     "url": "https://data.healthcare.gov/datafile/slcsp-county-zip-reference-data.yaaf-rjhy.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 5
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/qhp-py2018-medi-indi-land.hd64-a3rh.csv",
+    "type": "spreadsheet",
+    "pages": 2
    },
    {
     "url": "https://data.healthcare.gov/datafile/network-puf-2016.3eup-hrj4.csv",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2022/plan_attributes_puf.csv",
     "type": "spreadsheet",
-    "pages": 8
+    "pages": 10
    },
    {
     "url": "https://data.healthcare.gov/datafile/2017-qhp-landscape-shop-market-medical.sm8s-t6mi.csv",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/2015-qualifying-health-plan-selections-by-type-of-consumer-and-county-as-of-february-22-2015.kjvw-ka5c.csv",
@@ -13838,17 +14362,62 @@
    {
     "url": "https://data.healthcare.gov/datafile/2015-qualifying-health-plan-selections-by-metal-level-and-county-as-of-february-22-2015.d89b-9897.csv",
     "type": "spreadsheet",
-    "pages": 3
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/2015-qualifying-health-plan-selections-by-household-income-as-a-percent-of-the-federal-poverty-level-and-county-as-of-february-22-2015.sy6b-59wj.csv",
-    "type": "spreadsheet",
-    "pages": 7
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/2015-qualifying-health-plan-selections-by-age-group-and-county-as-of-february-22-2015.qv54-6mtm.csv",
     "type": "spreadsheet",
     "pages": 5
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2023/individual_market_medical.zip",
+    "type": "archive",
+    "pages": 6
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2023/med-ind-lndscp-in.pdf",
+    "type": "pdf",
+    "pages": 7
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2023/med-shop-lndscp-in.pdf",
+    "type": "pdf",
+    "pages": 7
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2023/rate_puf.csv",
+    "type": "spreadsheet",
+    "pages": 9
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2023/network_puf.csv",
+    "type": "spreadsheet",
+    "pages": 7
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2023/individual_market_dental.zip",
+    "type": "archive",
+    "pages": 3
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2023/business_rules_puf.csv",
+    "type": "spreadsheet",
+    "pages": 6
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2023/shop_market_medical.zip",
+    "type": "archive",
+    "pages": 6
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2023/benefits_cost_sharing_puf.csv",
+    "type": "spreadsheet",
+    "pages": 8
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2023/service_area_puf.csv",
+    "type": "spreadsheet",
+    "pages": 7
    },
    {
     "url": "https://data.healthcare.gov/datafile/network-puf-2017.jnky-88cv.csv",
@@ -13858,97 +14427,97 @@
    {
     "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-individual-market-medical.mp8z-jtg7.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 5
    },
    {
     "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-shop-market-dental.kz5p-dvnx.csv",
     "type": "spreadsheet",
-    "pages": 2
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2022/network_puf.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 9
    },
    {
     "url": "https://data.healthcare.gov/datafile/mlr-ry2014-socrata-dataset-10302015.pszf-56pp.csv",
     "type": "spreadsheet",
-    "pages": 5
+    "pages": 6
    },
    {
     "url": "https://data.healthcare.gov/datafile/localhelp/prod/helpers.csv",
     "type": "spreadsheet",
-    "pages": 8
+    "pages": 9
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2024/Rate_PUF.csv",
+    "type": "spreadsheet",
+    "pages": 6
    },
    {
     "url": "https://data.healthcare.gov/sites/default/files/uploaded_resources/Agent_Broker_Registration_Tracker_Glossary_0.csv",
     "type": "spreadsheet",
-    "pages": 1
+    "pages": 2
    },
    {
     "url": "https://data.healthcare.gov/datafile/PY2021_Medi-Indi-Land-08_04_2021.zip",
     "type": "archive",
-    "pages": 1
+    "pages": 2
    },
    {
     "url": "https://data.healthcare.gov/datafile/PY2021_Dent-Indi-Land-08_04_2021.zip",
     "type": "archive",
-    "pages": 1
+    "pages": 2
    },
    {
     "url": "https://data.healthcare.gov/datafile/PY2021_SHOP_Market_Medical_08_04_2021.zip",
     "type": "archive",
-    "pages": 1
+    "pages": 2
    },
    {
     "url": "https://data.healthcare.gov/datafile/PY2021_SHOP_Market_Dental_08_04_2021.zip",
     "type": "archive",
-    "pages": 1
+    "pages": 2
    },
    {
     "url": "https://data.healthcare.gov/datafile/Den-Ind-Landscape.pdf",
     "type": "pdf",
-    "pages": 1
+    "pages": 2
    },
    {
     "url": "https://data.healthcare.gov/datafile/Med-Ind-Landscape.pdf",
     "type": "pdf",
-    "pages": 1
+    "pages": 3
    },
    {
     "url": "https://data.healthcare.gov/datafile/Den-SHOP-Landscape.pdf",
     "type": "pdf",
-    "pages": 1
+    "pages": 2
    },
    {
     "url": "https://data.healthcare.gov/datafile/Med-SHOP-Landscape.pdf",
     "type": "pdf",
-    "pages": 1
+    "pages": 3
    },
    {
     "url": "https://data.healthcare.gov/datafile/service-area-puf-2021.cqrd-buzn.csv",
     "type": "spreadsheet",
-    "pages": 1
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/business-rules-puf-2016.32q5-vymq.csv",
-    "type": "spreadsheet",
     "pages": 2
    },
    {
-    "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-nv-individual-market-medical.pmxe-irvb.csv",
+    "url": "https://data.healthcare.gov/datafile/business-rules-puf-2016.32q5-vymq.csv",
     "type": "spreadsheet",
     "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2026/plan_id_crosswalk_PUF.csv",
     "type": "spreadsheet",
-    "pages": 8
+    "pages": 10
    },
    {
     "url": "https://data.healthcare.gov/datafile/plan-id-crosswalk-puf-2017.xawq-c9wn.csv",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/business-rules-puf-2014.46ta-x4hv.csv",
@@ -13958,17 +14527,32 @@
    {
     "url": "https://data.healthcare.gov/datafile/py2024/plan_attributes_PUF.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 7
    },
    {
     "url": "https://data.healthcare.gov/datafile/plan-id-crosswalk-puf-2018.bzfi-sbe4.csv",
     "type": "spreadsheet",
-    "pages": 2
+    "pages": 4
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/counties.3nee-n9ij.csv",
+    "type": "spreadsheet",
+    "pages": 5
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-or-individual-market-dental.h8gm-uh38.csv",
+    "type": "spreadsheet",
+    "pages": 5
    },
    {
     "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-shop-market-dental.5i52-vasa.csv",
     "type": "spreadsheet",
-    "pages": 2
+    "pages": 3
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2025/Rate_PUF.csv",
+    "type": "spreadsheet",
+    "pages": 5
    },
    {
     "url": "https://data.healthcare.gov/sites/default/files/uploaded_resources/ECP_LIST_AUTOPOP_20260113_0.csv",
@@ -13976,109 +14560,219 @@
     "pages": 4
    },
    {
+    "url": "https://data.healthcare.gov/datafile/network-puf-2021.efch-75vp.csv",
+    "type": "spreadsheet",
+    "pages": 2
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/business-rules-puf-2021.g6ja-xx6f.csv",
+    "type": "spreadsheet",
+    "pages": 2
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/benefits-and-cost-sharing-puf-2021.86mw-kems.csv",
+    "type": "spreadsheet",
+    "pages": 2
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/plan-attributes-puf-2021.a2km-i629.csv",
+    "type": "spreadsheet",
+    "pages": 2
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/rate-puf-2021.7wqt-7ky9.csv",
+    "type": "spreadsheet",
+    "pages": 2
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/plan-id-crosswalk-puf-2021.eh65-eh2p.csv",
+    "type": "spreadsheet",
+    "pages": 2
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/ry2019-mlr-dataset-12042020.pwgg-dtft.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/quality-puf-2021-data.kxde-2cd8.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/SHOP_Market_Medical_07_27_2020.xlsx.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/SHOP_Market_Dental_07_27_2020.xlsx.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
     "url": "https://data.healthcare.gov/datafile/py2026/machine_readable_PUF.xlsx",
     "type": "spreadsheet",
+    "pages": 7
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2024/machine_readable_PUF.xlsx",
+    "type": "spreadsheet",
     "pages": 4
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2023/machine_readable_puf.xlsx",
+    "type": "spreadsheet",
+    "pages": 5
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2016_HI-Dent-Indi-Land-11-19-2015.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2016_OR-Med-Indi-Land-11-19-2015.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2016_OR-Dent-Indi-Land-11-19-2015.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2016_NV-Med-SHOP-Land-11-19-2015.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2016_NV-Med-Indi-Land-11-19-2015.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2016_NV-Dent-SHOP-Land-11-19-2015.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2016_NV-Dent-Indi-Land-11-19-2015.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2016_NM-Med-Indi-Land-11-19-2015.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2016_NM-Dent-Indi-Land-11-19-2015.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-shop-market-medical.nyb9-erui.csv",
+    "type": "spreadsheet",
+    "pages": 5
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2026/network_PUF.csv",
     "type": "spreadsheet",
-    "pages": 5
+    "pages": 8
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2026/plan_attributes_PUF.csv",
     "type": "spreadsheet",
-    "pages": 6
+    "pages": 9
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2026/service_area_PUF.csv",
     "type": "spreadsheet",
-    "pages": 6
+    "pages": 10
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2026/Rate_PUF.csv",
     "type": "spreadsheet",
-    "pages": 8
+    "pages": 11
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2026/Benefits_Cost_Sharing_PUF.csv",
     "type": "spreadsheet",
-    "pages": 10
+    "pages": 11
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2026/business_rules_PUF.csv",
     "type": "spreadsheet",
-    "pages": 7
+    "pages": 8
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2026/transparency_in_coverage_PUF.xlsx",
     "type": "spreadsheet",
-    "pages": 5
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2025/plan_id_crosswalk_PUF.csv",
-    "type": "spreadsheet",
-    "pages": 7
+    "pages": 6
    },
    {
     "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-individual-market-dental.ctt7-ra7n.csv",
     "type": "spreadsheet",
-    "pages": 4
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/plan-id-crosswalk-puf.srri-3w2q.csv",
-    "type": "spreadsheet",
-    "pages": 3
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2025/network_PUF.csv",
-    "type": "spreadsheet",
-    "pages": 2
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/PY2015_Med-SHOP-Land-08-13-2015.zip",
-    "type": "archive",
-    "pages": 1
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/PY2015_NM-Dent-Indi-Land-08-13-2015.zip",
-    "type": "archive",
-    "pages": 1
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/PY2015_Dent-SHOP-Land-08-03-2015.zip",
-    "type": "archive",
-    "pages": 1
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/PY2015_Dent-Indi-Land-08-13-2015.zip",
-    "type": "archive",
-    "pages": 1
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-nv-shop-market-medical.vrx7-jeec.csv",
-    "type": "spreadsheet",
-    "pages": 2
+    "pages": 6
    },
    {
     "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-nv-individual-market-medical.2z8b-yxem.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 6
    },
    {
     "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-nv-shop-market-dental.dxg8-kay3.csv",
     "type": "spreadsheet",
-    "pages": 5
+    "pages": 7
    },
    {
     "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-nv-individual-market-dental.imsm-wpuh.csv",
     "type": "spreadsheet",
+    "pages": 5
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-nm-individual-market-dental.9hay-v3sx.csv",
+    "type": "spreadsheet",
+    "pages": 5
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/Individual_Market_Medical_8_11_14.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/plan-id-crosswalk-puf.srri-3w2q.csv",
+    "type": "spreadsheet",
     "pages": 4
    },
    {
-    "url": "https://data.healthcare.gov/datafile/plan-attributes-puf-2017.kcsx-yk8u.csv",
+    "url": "https://data.healthcare.gov/datafile/PY2015_Med-SHOP-Land-08-13-2015.zip",
+    "type": "archive",
+    "pages": 2
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2015_NM-Dent-Indi-Land-08-13-2015.zip",
+    "type": "archive",
+    "pages": 2
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2015_Dent-SHOP-Land-08-03-2015.zip",
+    "type": "archive",
+    "pages": 2
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2015_Dent-Indi-Land-08-13-2015.zip",
+    "type": "archive",
+    "pages": 2
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-nv-shop-market-medical.vrx7-jeec.csv",
     "type": "spreadsheet",
-    "pages": 1
+    "pages": 3
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2022/business_rules_puf.csv",
+    "type": "spreadsheet",
+    "pages": 8
    },
    {
     "url": "https://data.healthcare.gov/datafile/rate-puf-2014.wrir-p5fi.csv",
@@ -14091,14 +14785,24 @@
     "pages": 3
    },
    {
-    "url": "https://data.healthcare.gov/datafile/counties.3nee-n9ij.csv",
+    "url": "https://data.healthcare.gov/datafile/benefits-cost-sharing-puf-2017.np2y-8daw.csv",
+    "type": "spreadsheet",
+    "pages": 3
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-individual-market-medical.v7sn-c66v.csv",
     "type": "spreadsheet",
     "pages": 4
    },
    {
+    "url": "https://data.healthcare.gov/datafile/qhp-landscape-id-shop-market-dental.v8mw-epqh.csv",
+    "type": "spreadsheet",
+    "pages": 6
+   },
+   {
     "url": "https://data.healthcare.gov/datafile/qhp-landscape-individual-market-dental.cpmk-xcsy.csv",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/sites/default/files/Dental-Indi-Landscape-Inst-1.pdf",
@@ -14118,7 +14822,7 @@
    {
     "url": "https://data.healthcare.gov/datafile/qhp-landscape-shop-market-dental.hrtn-a9fq.csv",
     "type": "spreadsheet",
-    "pages": 5
+    "pages": 6
    },
    {
     "url": "https://data.healthcare.gov/sites/default/files/Dental-SHOP-Landscape-Inst-1.pdf",
@@ -14133,67 +14837,77 @@
    {
     "url": "https://data.healthcare.gov/datafile/qhp-landscape-nm-individual-market-medical.iwmd-wduj.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 6
    },
    {
     "url": "https://data.healthcare.gov/datafile/ry2011-mlr-dataset-20121206.mt79-mi5w.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 5
    },
    {
-    "url": "https://data.healthcare.gov/datafile/py2025/Rate_PUF.csv",
+    "url": "https://data.healthcare.gov/datafile/py2023/plan_id_crosswalk_puf.csv",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 9
    },
    {
     "url": "https://data.healthcare.gov/datafile/qhp-landscape-id-individual-market-dental.w46c-tnzb.csv",
     "type": "spreadsheet",
-    "pages": 2
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2023/service_area_puf.csv",
-    "type": "spreadsheet",
-    "pages": 3
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-or-individual-market-dental.h8gm-uh38.csv",
-    "type": "spreadsheet",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2024/network_PUF.csv",
     "type": "spreadsheet",
-    "pages": 6
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2023/network_puf.csv",
-    "type": "spreadsheet",
-    "pages": 3
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/qhp-landscape-id-shop-market-dental.v8mw-epqh.csv",
-    "type": "spreadsheet",
-    "pages": 4
+    "pages": 8
    },
    {
     "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-shop-market-medical.dyfq-xqx7.csv",
     "type": "spreadsheet",
+    "pages": 5
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2026/shop_market_dental.zip",
+    "type": "archive",
+    "pages": 5
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2026/den-shop-lndscp-in.pdf",
+    "type": "pdf",
+    "pages": 6
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2026/shop_market_medical.zip",
+    "type": "archive",
+    "pages": 7
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2026/med-shop-lndscp-in.pdf",
+    "type": "pdf",
+    "pages": 7
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2023/den-shop-lndscp-in.pdf",
+    "type": "pdf",
+    "pages": 6
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2023/shop_market_dental.zip",
+    "type": "archive",
     "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-individual-market-dental.mvhe-9sy2.csv",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/qhp-landscape-id-shop-market-medical.4ej5-srs2.csv",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 5
    },
    {
     "url": "https://data.healthcare.gov/datafile/qhp-landscape-shop-market-medical.ss3e-3mza.csv",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/sites/default/files/Medical-SHOP-Landscape-Inst-1.pdf",
@@ -14206,34 +14920,29 @@
     "pages": 3
    },
    {
-    "url": "https://data.healthcare.gov/datafile/py2022/business_rules_puf.csv",
-    "type": "spreadsheet",
-    "pages": 5
-   },
-   {
     "url": "https://data.healthcare.gov/datafile/quality-puf-2017.na7e-pbra.csv",
-    "type": "spreadsheet",
-    "pages": 3
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2022/plan_id_crosswalk_puf.csv",
     "type": "spreadsheet",
     "pages": 4
    },
    {
-    "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-individual-market-medical.v7sn-c66v.csv",
+    "url": "https://data.healthcare.gov/datafile/py2022/plan_id_crosswalk_puf.csv",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 8
    },
    {
     "url": "https://data.healthcare.gov/datafile/rate-puf-2017.2zrn-hv42.csv",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 5
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2025/business_rules_PUF.csv",
+    "type": "spreadsheet",
+    "pages": 2
    },
    {
     "url": "https://data.healthcare.gov/datafile/mlr-ry2015-socrata-dataset-10272016.bx9c-fkxn.csv",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2025/service_area_PUF.csv",
@@ -14248,67 +14957,42 @@
    {
     "url": "https://data.healthcare.gov/datafile/py2024/Benefits_Cost_Sharing_PUF.csv",
     "type": "spreadsheet",
-    "pages": 7
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2023/business_rules_puf.csv",
-    "type": "spreadsheet",
-    "pages": 4
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2023/benefits_cost_sharing_puf.csv",
-    "type": "spreadsheet",
-    "pages": 5
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2023/machine_readable_puf.xlsx",
-    "type": "spreadsheet",
-    "pages": 2
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2023/plan_id_crosswalk_puf.csv",
-    "type": "spreadsheet",
-    "pages": 4
+    "pages": 9
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2023/transparency_in_coverage_PUF.xlsx",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 5
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2022/benefits_cost_sharing_puf.csv",
     "type": "spreadsheet",
-    "pages": 4
+    "pages": 8
    },
    {
     "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-hi-individual-market-medical.w8x9-aq6p.csv",
     "type": "spreadsheet",
-    "pages": 2
+    "pages": 3
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2026/individual_market_medical.zip",
     "type": "archive",
-    "pages": 4
+    "pages": 7
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2026/med-ind-lndscp-in.pdf",
     "type": "pdf",
-    "pages": 5
+    "pages": 8
    },
    {
     "url": "https://data.healthcare.gov/sites/default/files/uploaded_resources/PY%202014%20Medical-Indi-Landscape-Inst.pdf",
     "type": "pdf",
-    "pages": 4
+    "pages": 6
    },
    {
-    "url": "https://data.healthcare.gov/datafile/py2023/med-ind-lndscp-in.pdf",
-    "type": "pdf",
+    "url": "https://data.healthcare.gov/datafile/qhp-landscape-nm-individual-market-dental.qjjv-y5nm.csv",
+    "type": "spreadsheet",
     "pages": 4
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2023/individual_market_medical.zip",
-    "type": "archive",
-    "pages": 3
    },
    {
     "url": "https://data.healthcare.gov/datafile/Medical_SHOP_Landscape_Instructions_and_Notes_07_26_2018.pdf",
@@ -14361,17 +15045,7 @@
     "pages": 2
    },
    {
-    "url": "https://data.healthcare.gov/datafile/py2026/den-shop-lndscp-in.pdf",
-    "type": "pdf",
-    "pages": 3
-   },
-   {
     "url": "https://data.healthcare.gov/datafile/py2026/den-ind-lndscp-in.pdf",
-    "type": "pdf",
-    "pages": 4
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2026/med-shop-lndscp-in.pdf",
     "type": "pdf",
     "pages": 4
    },
@@ -14381,19 +15055,14 @@
     "pages": 3
    },
    {
-    "url": "https://data.healthcare.gov/datafile/py2023/den-shop-lndscp-in.pdf",
-    "type": "pdf",
-    "pages": 3
-   },
-   {
     "url": "https://data.healthcare.gov/datafile/py2023/den-ind-lndscp-in.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 4
    },
    {
-    "url": "https://data.healthcare.gov/datafile/py2023/med-shop-lndscp-in.pdf",
-    "type": "pdf",
-    "pages": 3
+    "url": "https://data.healthcare.gov/datafile/2017-qhp-landscape-shop-market-dental.nu23-uv2y.csv",
+    "type": "spreadsheet",
+    "pages": 5
    },
    {
     "url": "https://data.healthcare.gov/sites/default/files/uploaded_resources/data-12-1_0_0_0.csv",
@@ -14401,24 +15070,14 @@
     "pages": 6
    },
    {
-    "url": "https://data.healthcare.gov/datafile/2017-qhp-landscape-shop-market-dental.nu23-uv2y.csv",
-    "type": "spreadsheet",
-    "pages": 3
-   },
-   {
     "url": "https://data.healthcare.gov/datafile/catastrophic-plans-for-people-with-cancelled-policies.cfvf-wask.csv",
     "type": "spreadsheet",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/plan-attributes-puf-2014.qxzi-ymfv.csv",
     "type": "spreadsheet",
-    "pages": 3
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2023/rate_puf.csv",
-    "type": "spreadsheet",
-    "pages": 5
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/transparency-in-coverage-puf-2017.brrf-yhzh.csv",
@@ -14428,7 +15087,12 @@
    {
     "url": "https://data.healthcare.gov/datafile/py2024/plan_id_crosswalk_PUF.csv",
     "type": "spreadsheet",
-    "pages": 5
+    "pages": 8
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/py2025/plan_attributes_PUF.csv",
+    "type": "spreadsheet",
+    "pages": 3
    },
    {
     "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-nv-shop-market-medical.7h6f-vws8.csv",
@@ -14436,59 +15100,104 @@
     "pages": 2
    },
    {
+    "url": "https://data.healthcare.gov/datafile/Dental_SHOP_Landscape_Instructions_and_Notes_07_26_2018.pdf",
+    "type": "pdf",
+    "pages": 3
+   },
+   {
     "url": "https://data.healthcare.gov/datafile/network-puf-2014.2jt4-zy24.csv",
     "type": "spreadsheet",
-    "pages": 2
+    "pages": 3
    },
    {
     "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-nm-individual-market-dental.gx5c-fhmw.csv",
     "type": "spreadsheet",
-    "pages": 3
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/qhp-landscape-nm-individual-market-dental.qjjv-y5nm.csv",
-    "type": "spreadsheet",
-    "pages": 2
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2026/shop_market_medical.zip",
-    "type": "archive",
-    "pages": 3
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2023/shop_market_medical.zip",
-    "type": "archive",
-    "pages": 2
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/Dental_SHOP_Landscape_Instructions_and_Notes_07_26_2018.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/qhp-py2018-medi-indi-land.hd64-a3rh.csv",
-    "type": "spreadsheet",
-    "pages": 1
+    "pages": 4
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2022/service_area_puf.csv",
+    "type": "spreadsheet",
+    "pages": 7
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/qhp-landscape-id-individual-market-medical.pwit-ub85.csv",
     "type": "spreadsheet",
     "pages": 5
    },
    {
     "url": "https://data.healthcare.gov/datafile/qhp-landscape-health-plan-business-rule-variables.3yfc-yz8a.csv",
     "type": "spreadsheet",
+    "pages": 3
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2015_NV-Dent-Indi-Land-08-13-2015.zip",
+    "type": "archive",
     "pages": 2
    },
    {
-    "url": "https://data.healthcare.gov/datafile/qhp-landscape-id-individual-market-medical.pwit-ub85.csv",
-    "type": "spreadsheet",
-    "pages": 4
+    "url": "https://data.healthcare.gov/datafile/PY2015_NM-Med-Indi-Land-08-13-2015.zip",
+    "type": "archive",
+    "pages": 2
    },
    {
-    "url": "https://data.healthcare.gov/datafile/py2024/Rate_PUF.csv",
+    "url": "https://data.healthcare.gov/datafile/PY2015_Med-Indi-Land-08-13-2015.zip",
+    "type": "archive",
+    "pages": 2
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/benefits-and-cost-sharing-puf-2014.rf29-2dgg.csv",
     "type": "spreadsheet",
     "pages": 3
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/county-service-areas.h2na-k6uv.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/Individual_Market_Dental_8_11_14.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/SHOP_Market_Medical_8_11_14.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/SHOP_Market_Dental_8_11_14.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/ID_Individual_Market_Dental_8_11_14.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/ID_Individual_Market_Medical_8_11_14.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/ID_SHOP_Market_Dental_8_11_14.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/ID_SHOP_Market_Medical_8_11_14.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/NM_Individual_Market_Dental_8_11_14.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/NM_Individual_Market_Medical_8_11_14.zip",
+    "type": "archive",
+    "pages": 1
    },
    {
     "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-nv-individual-market-dental.ia68-8jye.csv",
@@ -14496,24 +15205,64 @@
     "pages": 4
    },
    {
+    "url": "https://data.healthcare.gov/datafile/PY2015_OR-Med-Indi-Land-08-03-2015.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2015_OR-Dent-Indi-Land-08-03-2015.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2015_NV-Med-SHOP-Land-08-03-2015.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2015_NV-Med-Indi-Land-08-03-2015.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2015_NV-Dent-SHOP-Land-08-03-2015.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2015_NV-Dent-Indi-Land-08-03-2015.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2015_NM-Med-Indi-Land-08-03-2015.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2015_NM-Dent-Indi-Land-08-03-2015.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2015_Med-SHOP-Land-08-03-2015.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/PY2015_Med-Indi-Land-08-03-2015.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://data.healthcare.gov/datafile/py2024/business_rules_PUF.csv",
     "type": "spreadsheet",
-    "pages": 5
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-nm-individual-market-medical.tfna-vz76.csv",
-    "type": "spreadsheet",
-    "pages": 2
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2024/machine_readable_PUF.xlsx",
-    "type": "spreadsheet",
-    "pages": 1
+    "pages": 7
    },
    {
     "url": "https://data.healthcare.gov/datafile/py2024/service_area_PUF.csv",
     "type": "spreadsheet",
-    "pages": 2
+    "pages": 6
    },
    {
     "url": "https://data.healthcare.gov/datafile/benefits-cost-sharing-puf-2016.rtj8-qhma.csv",
@@ -14526,19 +15275,9 @@
     "pages": 2
    },
    {
-    "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-shop-market-medical.nyb9-erui.csv",
-    "type": "spreadsheet",
-    "pages": 3
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/benefits-and-cost-sharing-puf-2014.rf29-2dgg.csv",
-    "type": "spreadsheet",
-    "pages": 2
-   },
-   {
     "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-or-individual-market-medical.nc54-t2vu.csv",
     "type": "spreadsheet",
-    "pages": 2
+    "pages": 3
    },
    {
     "url": "https://data.healthcare.gov/datafile/PY2015_Dent-SHOP-Land-_08-03-2015.pdf",
@@ -14574,26 +15313,6 @@
     "url": "https://data.healthcare.gov/datafile/PY2015_NV-Dent-SHOP-Land-08-13-2015.zip",
     "type": "archive",
     "pages": 1
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/PY2015_NV-Dent-Indi-Land-08-13-2015.zip",
-    "type": "archive",
-    "pages": 1
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/PY2015_NM-Med-Indi-Land-08-13-2015.zip",
-    "type": "archive",
-    "pages": 1
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/PY2015_Med-Indi-Land-08-13-2015.zip",
-    "type": "archive",
-    "pages": 1
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/service-area-puf-2017.nbg4-75xg.csv",
-    "type": "spreadsheet",
-    "pages": 3
    },
    {
     "url": "https://data.healthcare.gov/datafile/Individual_Market_Medical_07_27_2020.xlsx.zip",
@@ -14651,215 +15370,280 @@
     "pages": 3
    },
    {
+    "url": "https://data.healthcare.gov/datafile/plan-attributes-puf-2019.ci52-tugt.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/network-puf-2019.dtns-y2t8.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/business-rules-puf-2019.vf3k-stxb.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/ry2013-mlr-dataset-20140716.f73t-ceqr.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/SHOP_Market_Medical_07_25_2019.xlsx",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/SHOP_Market_Dental_07_25_2019.xlsx",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/Individual_Market_Dental_07_25_2019.xlsx",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/Individual_Market_Medical_07_25_2019.xlsx",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/states.9fpx-2mzv.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
     "url": "https://data.healthcare.gov/datafile/2016-qhp-landscape-hi-individual-market-dental.jb55-ezf9.csv",
     "type": "spreadsheet",
     "pages": 1
    },
    {
-    "url": "https://data.healthcare.gov/datafile/2015-qhp-landscape-nm-individual-market-dental.9hay-v3sx.csv",
-    "type": "spreadsheet",
-    "pages": 3
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2026/shop_market_dental.zip",
-    "type": "archive",
-    "pages": 2
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2023/shop_market_dental.zip",
-    "type": "archive",
-    "pages": 1
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/py2023/individual_market_dental.zip",
-    "type": "archive",
-    "pages": 2
-   },
-   {
-    "url": "https://data.healthcare.gov/datafile/benefits-cost-sharing-puf-2017.np2y-8daw.csv",
+    "url": "https://data.healthcare.gov/datafile/benefits-and-cost-sharing-puf-2020.kq37-29bw.csv",
     "type": "spreadsheet",
     "pages": 1
    },
    {
-    "url": "https://data.healthcare.gov/datafile/py2025/business_rules_PUF.csv",
+    "url": "https://data.healthcare.gov/datafile/business-rules-puf-2020.egd3-t6cg.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/issuer-partner-directory-reference-text.tfpe-r7fa.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/nipr-valid-lines-of-authority-list.wk5a-kdpd.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/ry2018-mlr-dataset-12032019.kfuw-rdvm.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/issuer-and-de-partner-directory.skyj-46j6.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/quality-puf-py2020.g7hv-jbsu.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/benefits-cost-sharing-puf-2019.qpmu-mh2y.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/rate-puf-2019.esht-9tqi.csv",
+    "type": "spreadsheet",
+    "pages": 1
+   },
+   {
+    "url": "https://data.healthcare.gov/datafile/service-area-puf-2019.pumj-kdpm.csv",
     "type": "spreadsheet",
     "pages": 1
    }
   ]
  },
  "plainLanguage": {
-  "pagesChecked": 248,
-  "pagesScored": 22,
-  "medianWordsPerPage": 2129,
-  "medianReadingEase": 37,
-  "medianGrade": 15,
+  "pagesChecked": 307,
+  "pagesScored": 30,
+  "medianWordsPerPage": 1921,
+  "medianReadingEase": 34,
+  "medianGrade": 16,
   "topUnexplainedAcronyms": [
    {
     "acronym": "CSV",
-    "pages": 219
+    "pages": 268
    },
    {
     "acronym": "PY",
-    "pages": 202
+    "pages": 257
    },
    {
     "acronym": "QHP",
-    "pages": 135
+    "pages": 171
    },
    {
     "acronym": "PUF",
-    "pages": 125
+    "pages": 160
    },
    {
     "acronym": "ID",
-    "pages": 123
+    "pages": 156
    },
    {
     "acronym": "AK",
-    "pages": 120
+    "pages": 145
    },
    {
     "acronym": "PPO",
-    "pages": 81
+    "pages": 99
    },
    {
     "acronym": "SADP",
-    "pages": 50
+    "pages": 63
    },
    {
     "acronym": "CCIIO",
-    "pages": 41
+    "pages": 53
    },
    {
     "acronym": "HSA",
-    "pages": 40
+    "pages": 47
    },
    {
     "acronym": "SHOP",
-    "pages": 36
+    "pages": 47
    },
    {
     "acronym": "AM",
-    "pages": 35
-   },
-   {
-    "acronym": "BEST",
-    "pages": 33
+    "pages": 43
    },
    {
     "acronym": "PM",
-    "pages": 32
+    "pages": 40
    },
    {
-    "acronym": "TX",
-    "pages": 28
+    "acronym": "BEST",
+    "pages": 38
+   },
+   {
+    "acronym": "AL",
+    "pages": 34
    }
   ],
   "topMisspellings": [
    {
     "word": "TableOverviewData",
-    "pages": 170
+    "pages": 229
    },
    {
     "word": "DictionaryAPI",
-    "pages": 170
+    "pages": 228
    },
    {
     "word": "rowsFilter",
-    "pages": 149
+    "pages": 197
    },
    {
     "word": "DatasetFilter",
-    "pages": 149
+    "pages": 197
    },
    {
     "word": "DatasetAdd",
-    "pages": 149
+    "pages": 197
    },
    {
     "word": "NameConditionValueColumn",
-    "pages": 149
+    "pages": 197
    },
    {
     "word": "filterResetApply",
-    "pages": 149
+    "pages": 197
    },
    {
     "word": "filtersManage",
-    "pages": 149
+    "pages": 197
    },
    {
     "word": "ColumnsManage",
-    "pages": 149
+    "pages": 197
    },
    {
     "word": "columnsActivate",
-    "pages": 149
+    "pages": 197
    },
    {
     "word": "allDisplay",
-    "pages": 149
+    "pages": 197
    },
    {
     "word": "draggable",
-    "pages": 72
+    "pages": 100
    },
    {
     "word": "SaveCancelReset",
-    "pages": 65
+    "pages": 91
    },
    {
     "word": "ColumnsDisplay",
-    "pages": 64
+    "pages": 89
    },
    {
     "word": "SettingsFull",
-    "pages": 60
+    "pages": 80
    },
    {
     "word": "ScreenDataset",
-    "pages": 58
+    "pages": 77
    },
    {
     "word": "SettingsActivate",
-    "pages": 56
+    "pages": 75
    },
    {
     "word": "levelissuer",
-    "pages": 53
+    "pages": 68
    },
    {
     "word": "componentplan",
-    "pages": 53
+    "pages": 67
    },
    {
     "word": "nameplan",
-    "pages": 52
+    "pages": 64
    },
    {
     "word": "typerating",
-    "pages": 51
+    "pages": 63
    },
    {
     "word": "areachild",
-    "pages": 51
-   },
-   {
-    "word": "offeringsourcecustomer",
-    "pages": 48
+    "pages": 63
    },
    {
     "word": "NameStateConditionIsValue",
-    "pages": 46
+    "pages": 62
    },
    {
-    "word": "localcustomer",
-    "pages": 46
+    "word": "offeringsourcecustomer",
+    "pages": 58
+   },
+   {
+    "word": "NameBusinessYearConditionIsValue",
+    "pages": 57
    }
   ]
  },
  "lighthouse": {
-  "pagesSampled": 51,
+  "pagesSampled": 61,
   "medianPerformance": 10,
   "medianAccessibility": 97,
   "medianBestPractices": 100,
@@ -14964,7 +15748,64 @@
      "https://data.healthcare.gov/dataset/gwq7-ribq?page=2018",
      "https://data.healthcare.gov/dataset/e614aeb8-580e-4aae-9140-cf55b4a22180?page=260",
      "https://data.healthcare.gov/dataset/gmjp-zpzt?page=5",
-     "https://data.healthcare.gov/dataset/55c47876-cfdd-438c-964e-7f88093b7ef2?page=2"
+     "https://data.healthcare.gov/dataset/55c47876-cfdd-438c-964e-7f88093b7ef2?page=2",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=Marketplace+PUF&page=4",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=qhp",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=Marketplace+PUF&page=2",
+     "https://data.healthcare.gov/datasets?page=7",
+     "https://data.healthcare.gov/datasets?page=24",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=Marketplace+PUF&page=3",
+     "https://data.healthcare.gov/dataset/kz5p-dvnx?page=5",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=3",
+     "https://data.healthcare.gov/dataset/bbc5e308-377c-4a05-830e-0ef9b893dc01?page=3",
+     "https://data.healthcare.gov/dataset/8c491ff0-8e6e-4988-b02a-e4736783aed3?page=3",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=qhp&page=3",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=Exchange+PUF&page=2",
+     "https://data.healthcare.gov/dataset/nu23-uv2y?page=5",
+     "https://data.healthcare.gov/dataset/w46c-tnzb?page=4",
+     "https://data.healthcare.gov/dataset/46fdeb9e-921a-4141-a231-1bbe3dd14f61?page=6594",
+     "https://data.healthcare.gov/dataset/bzfi-sbe4?page=5",
+     "https://data.healthcare.gov/dataset/qjjv-y5nm?page=2",
+     "https://data.healthcare.gov/datasets?keyword%5B%5D=SHOP",
+     "https://data.healthcare.gov/dataset/2zrn-hv42?page=3",
+     "https://data.healthcare.gov/dataset/bzfi-sbe4?page=3",
+     "https://data.healthcare.gov/dataset/1cec574b-9353-41cf-9c81-b7c49c482bb2?page=2",
+     "https://data.healthcare.gov/dataset/3edfe68f-b783-4e98-9120-20014dd0fe49?page=2",
+     "https://data.healthcare.gov/dataset/ncbw-vdsn?page=2",
+     "https://data.healthcare.gov/dataset/ca253298-c4ef-4a77-9c44-0de0bbe91941?page=2",
+     "https://data.healthcare.gov/dataset/na7e-pbra?page=4",
+     "https://data.healthcare.gov/dataset/3edfe68f-b783-4e98-9120-20014dd0fe49?page=3",
+     "https://data.healthcare.gov/dataset/np2y-8daw?page=3",
+     "https://data.healthcare.gov/dataset/qxzi-ymfv?page=5",
+     "https://data.healthcare.gov/datasets?keyword%5B%5D=race",
+     "https://data.healthcare.gov/dataset/5i52-vasa?page=1207",
+     "https://data.healthcare.gov/dataset/9hay-v3sx?page=3",
+     "https://data.healthcare.gov/dataset/e164fcba-c5fb-4d81-97a9-882e98a69325?page=3",
+     "https://data.healthcare.gov/dataset/3eup-hrj4?page=4",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=4",
+     "https://data.healthcare.gov/dataset/nu23-uv2y?page=4",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=5",
+     "https://data.healthcare.gov/dataset/sy6b-59wj?page=3",
+     "https://data.healthcare.gov/dataset/9dbef2bc-2fab-4700-8cf3-5501f63c58c3?page=5",
+     "https://data.healthcare.gov/dataset/8060e816-b052-42b3-ad60-9eac699d7c8b?page=5",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=23",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=5",
+     "https://data.healthcare.gov/dataset/xawq-c9wn?page=2",
+     "https://data.healthcare.gov/dataset/d849f3cc-64da-408a-92d8-790ba4973737?page=3",
+     "https://data.healthcare.gov/dataset/ae346fd6-b777-4ba4-ab69-20da698c3a9c?page=2",
+     "https://data.healthcare.gov/dataset/kcsx-yk8u?page=855",
+     "https://data.healthcare.gov/dataset/sm8s-t6mi?page=5",
+     "https://data.healthcare.gov/dataset/kb8w-qg77?page=3",
+     "https://data.healthcare.gov/dataset/wudg-eius?page=2",
+     "https://data.healthcare.gov/dataset/46fdeb9e-921a-4141-a231-1bbe3dd14f61?page=2",
+     "https://data.healthcare.gov/dataset/477ffb11-db39-44ae-9f96-40d9db2ba79f?page=3",
+     "https://data.healthcare.gov/datasets?page=8",
+     "https://data.healthcare.gov/datasets?page=23",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=20",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=19",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=PY2023",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=21",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=Marketplace+PUF"
     ]
    },
    {
@@ -15041,7 +15882,43 @@
      "https://data.healthcare.gov/dataset/qjjv-y5nm?page=19",
      "https://data.healthcare.gov/dataset/gx5c-fhmw?page=16",
      "https://data.healthcare.gov/dataset/8a1786d6-e3cc-43be-bcfa-10e98f514ba4?page=2",
-     "https://data.healthcare.gov/dataset/w46c-tnzb?page=23"
+     "https://data.healthcare.gov/dataset/w46c-tnzb?page=23",
+     "https://data.healthcare.gov/dataset/kz5p-dvnx?page=5",
+     "https://data.healthcare.gov/dataset/nu23-uv2y?page=5",
+     "https://data.healthcare.gov/dataset/w46c-tnzb?page=4",
+     "https://data.healthcare.gov/dataset/qjjv-y5nm?page=2",
+     "https://data.healthcare.gov/dataset/qxzi-ymfv?page=5",
+     "https://data.healthcare.gov/dataset/5i52-vasa?page=1207",
+     "https://data.healthcare.gov/dataset/9hay-v3sx?page=3",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=4",
+     "https://data.healthcare.gov/dataset/nu23-uv2y?page=4",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=5",
+     "https://data.healthcare.gov/dataset/kcsx-yk8u?page=855",
+     "https://data.healthcare.gov/dataset/sm8s-t6mi?page=5",
+     "https://data.healthcare.gov/dataset/enpz-m4q6?page=5",
+     "https://data.healthcare.gov/dataset/nyb9-erui?page=2",
+     "https://data.healthcare.gov/dataset/nc54-t2vu?page=2",
+     "https://data.healthcare.gov/dataset/kcsx-yk8u?page=3",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=2",
+     "https://data.healthcare.gov/dataset/enpz-m4q6?page=3",
+     "https://data.healthcare.gov/dataset/gmjp-zpzt?page=3",
+     "https://data.healthcare.gov/dataset/v8mw-epqh?page=30",
+     "https://data.healthcare.gov/dataset/ctt7-ra7n?page=2",
+     "https://data.healthcare.gov/dataset/2z8b-yxem?page=2",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=4",
+     "https://data.healthcare.gov/dataset/4ej5-srs2?page=2",
+     "https://data.healthcare.gov/dataset/iwmd-wduj?page=3",
+     "https://data.healthcare.gov/dataset/pmxe-irvb?page=4",
+     "https://data.healthcare.gov/dataset/h8gm-uh38?page=4",
+     "https://data.healthcare.gov/dataset/w8x9-aq6p?page=4",
+     "https://data.healthcare.gov/dataset/v7sn-c66v?page=2",
+     "https://data.healthcare.gov/dataset/tfna-vz76?page=4",
+     "https://data.healthcare.gov/dataset/bf8da239-095e-4481-bf60-1f3a9615ce0e?page=4",
+     "https://data.healthcare.gov/dataset/dyfq-xqx7?page=4",
+     "https://data.healthcare.gov/dataset/mvhe-9sy2?page=4",
+     "https://data.healthcare.gov/dataset/h8gm-uh38?page=20",
+     "https://data.healthcare.gov/dataset/gx5c-fhmw?page=2",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=5"
     ]
    },
    {
@@ -15118,7 +15995,43 @@
      "https://data.healthcare.gov/dataset/qjjv-y5nm?page=19",
      "https://data.healthcare.gov/dataset/gx5c-fhmw?page=16",
      "https://data.healthcare.gov/dataset/8a1786d6-e3cc-43be-bcfa-10e98f514ba4?page=2",
-     "https://data.healthcare.gov/dataset/w46c-tnzb?page=23"
+     "https://data.healthcare.gov/dataset/w46c-tnzb?page=23",
+     "https://data.healthcare.gov/dataset/kz5p-dvnx?page=5",
+     "https://data.healthcare.gov/dataset/nu23-uv2y?page=5",
+     "https://data.healthcare.gov/dataset/w46c-tnzb?page=4",
+     "https://data.healthcare.gov/dataset/qjjv-y5nm?page=2",
+     "https://data.healthcare.gov/dataset/qxzi-ymfv?page=5",
+     "https://data.healthcare.gov/dataset/5i52-vasa?page=1207",
+     "https://data.healthcare.gov/dataset/9hay-v3sx?page=3",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=4",
+     "https://data.healthcare.gov/dataset/nu23-uv2y?page=4",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=5",
+     "https://data.healthcare.gov/dataset/kcsx-yk8u?page=855",
+     "https://data.healthcare.gov/dataset/sm8s-t6mi?page=5",
+     "https://data.healthcare.gov/dataset/enpz-m4q6?page=5",
+     "https://data.healthcare.gov/dataset/nyb9-erui?page=2",
+     "https://data.healthcare.gov/dataset/nc54-t2vu?page=2",
+     "https://data.healthcare.gov/dataset/kcsx-yk8u?page=3",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=2",
+     "https://data.healthcare.gov/dataset/enpz-m4q6?page=3",
+     "https://data.healthcare.gov/dataset/gmjp-zpzt?page=3",
+     "https://data.healthcare.gov/dataset/v8mw-epqh?page=30",
+     "https://data.healthcare.gov/dataset/ctt7-ra7n?page=2",
+     "https://data.healthcare.gov/dataset/2z8b-yxem?page=2",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=4",
+     "https://data.healthcare.gov/dataset/4ej5-srs2?page=2",
+     "https://data.healthcare.gov/dataset/iwmd-wduj?page=3",
+     "https://data.healthcare.gov/dataset/pmxe-irvb?page=4",
+     "https://data.healthcare.gov/dataset/h8gm-uh38?page=4",
+     "https://data.healthcare.gov/dataset/w8x9-aq6p?page=4",
+     "https://data.healthcare.gov/dataset/v7sn-c66v?page=2",
+     "https://data.healthcare.gov/dataset/tfna-vz76?page=4",
+     "https://data.healthcare.gov/dataset/bf8da239-095e-4481-bf60-1f3a9615ce0e?page=4",
+     "https://data.healthcare.gov/dataset/dyfq-xqx7?page=4",
+     "https://data.healthcare.gov/dataset/mvhe-9sy2?page=4",
+     "https://data.healthcare.gov/dataset/h8gm-uh38?page=20",
+     "https://data.healthcare.gov/dataset/gx5c-fhmw?page=2",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=5"
     ]
    },
    {
@@ -15205,7 +16118,57 @@
      "https://data.healthcare.gov/dataset/qjjv-y5nm?page=19",
      "https://data.healthcare.gov/dataset/gx5c-fhmw?page=16",
      "https://data.healthcare.gov/dataset/8a1786d6-e3cc-43be-bcfa-10e98f514ba4?page=2",
-     "https://data.healthcare.gov/dataset/w46c-tnzb?page=23"
+     "https://data.healthcare.gov/dataset/w46c-tnzb?page=23",
+     "https://data.healthcare.gov/dataset/kz5p-dvnx?page=5",
+     "https://data.healthcare.gov/dataset/nu23-uv2y?page=5",
+     "https://data.healthcare.gov/dataset/w46c-tnzb?page=4",
+     "https://data.healthcare.gov/dataset/46fdeb9e-921a-4141-a231-1bbe3dd14f61?page=6594",
+     "https://data.healthcare.gov/dataset/bzfi-sbe4?page=5",
+     "https://data.healthcare.gov/dataset/qjjv-y5nm?page=2",
+     "https://data.healthcare.gov/dataset/2zrn-hv42?page=3",
+     "https://data.healthcare.gov/dataset/bzfi-sbe4?page=3",
+     "https://data.healthcare.gov/dataset/np2y-8daw?page=3",
+     "https://data.healthcare.gov/dataset/qxzi-ymfv?page=5",
+     "https://data.healthcare.gov/dataset/5i52-vasa?page=1207",
+     "https://data.healthcare.gov/dataset/9hay-v3sx?page=3",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=4",
+     "https://data.healthcare.gov/dataset/nu23-uv2y?page=4",
+     "https://data.healthcare.gov/dataset/9dbef2bc-2fab-4700-8cf3-5501f63c58c3?page=5",
+     "https://data.healthcare.gov/dataset/8060e816-b052-42b3-ad60-9eac699d7c8b?page=5",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=5",
+     "https://data.healthcare.gov/dataset/xawq-c9wn?page=2",
+     "https://data.healthcare.gov/dataset/kcsx-yk8u?page=855",
+     "https://data.healthcare.gov/dataset/sm8s-t6mi?page=5",
+     "https://data.healthcare.gov/dataset/kb8w-qg77?page=3",
+     "https://data.healthcare.gov/dataset/46fdeb9e-921a-4141-a231-1bbe3dd14f61?page=2",
+     "https://data.healthcare.gov/dataset/0fa89e4e-e206-4b3d-bde5-c4d9246255c5?page=4",
+     "https://data.healthcare.gov/dataset/2zrn-hv42?page=123708",
+     "https://data.healthcare.gov/dataset/enpz-m4q6?page=5",
+     "https://data.healthcare.gov/dataset/nyb9-erui?page=2",
+     "https://data.healthcare.gov/dataset/nc54-t2vu?page=2",
+     "https://data.healthcare.gov/dataset/ymjk-c2ng?page=3",
+     "https://data.healthcare.gov/dataset/kcsx-yk8u?page=3",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=2",
+     "https://data.healthcare.gov/dataset/enpz-m4q6?page=3",
+     "https://data.healthcare.gov/dataset/kb8w-qg77?page=2",
+     "https://data.healthcare.gov/dataset/gmjp-zpzt?page=3",
+     "https://data.healthcare.gov/dataset/v8mw-epqh?page=30",
+     "https://data.healthcare.gov/dataset/db1b95d1-b2e9-4413-8cf5-2f851f80b44f?page=5005",
+     "https://data.healthcare.gov/dataset/af1301a6-77fb-4369-a157-09125608161d?page=2",
+     "https://data.healthcare.gov/dataset/ctt7-ra7n?page=2",
+     "https://data.healthcare.gov/dataset/32q5-vymq?page=5",
+     "https://data.healthcare.gov/dataset/2z8b-yxem?page=2",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=4",
+     "https://data.healthcare.gov/dataset/4ej5-srs2?page=2",
+     "https://data.healthcare.gov/dataset/32q5-vymq?page=4",
+     "https://data.healthcare.gov/dataset/iwmd-wduj?page=3",
+     "https://data.healthcare.gov/dataset/pmxe-irvb?page=4",
+     "https://data.healthcare.gov/dataset/h8gm-uh38?page=4",
+     "https://data.healthcare.gov/dataset/w8x9-aq6p?page=4",
+     "https://data.healthcare.gov/dataset/v7sn-c66v?page=2",
+     "https://data.healthcare.gov/dataset/08f39b98-83cf-47d6-be34-12c0f77b1706?page=3",
+     "https://data.healthcare.gov/dataset/srri-3w2q?page=2",
+     "https://data.healthcare.gov/dataset/tfna-vz76?page=4"
     ]
    },
    {
@@ -15252,7 +16215,13 @@
      "https://data.healthcare.gov/dataset/2z8b-yxem?page=5",
      "https://data.healthcare.gov/dataset/iwmd-wduj?page=2",
      "https://data.healthcare.gov/dataset/iwmd-wduj?page=5",
-     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=3"
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=3",
+     "https://data.healthcare.gov/dataset/qxzi-ymfv?page=5",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=4",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=5",
+     "https://data.healthcare.gov/dataset/2z8b-yxem?page=2",
+     "https://data.healthcare.gov/dataset/iwmd-wduj?page=3",
+     "https://data.healthcare.gov/dataset/tfna-vz76?page=4"
     ]
    },
    {
@@ -15303,7 +16272,26 @@
      "https://data.healthcare.gov/dataset/5p3f-bhu4?page=3",
      "https://data.healthcare.gov/dataset/v7sn-c66v?page=3",
      "https://data.healthcare.gov/dataset/v7sn-c66v?page=3555",
-     "https://data.healthcare.gov/dataset/8a1786d6-e3cc-43be-bcfa-10e98f514ba4?page=2"
+     "https://data.healthcare.gov/dataset/8a1786d6-e3cc-43be-bcfa-10e98f514ba4?page=2",
+     "https://data.healthcare.gov/dataset/qxzi-ymfv?page=5",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=4",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=5",
+     "https://data.healthcare.gov/dataset/kcsx-yk8u?page=855",
+     "https://data.healthcare.gov/dataset/sm8s-t6mi?page=5",
+     "https://data.healthcare.gov/dataset/enpz-m4q6?page=5",
+     "https://data.healthcare.gov/dataset/nc54-t2vu?page=2",
+     "https://data.healthcare.gov/dataset/kcsx-yk8u?page=3",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=2",
+     "https://data.healthcare.gov/dataset/enpz-m4q6?page=3",
+     "https://data.healthcare.gov/dataset/2z8b-yxem?page=2",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=4",
+     "https://data.healthcare.gov/dataset/iwmd-wduj?page=3",
+     "https://data.healthcare.gov/dataset/pmxe-irvb?page=4",
+     "https://data.healthcare.gov/dataset/w8x9-aq6p?page=4",
+     "https://data.healthcare.gov/dataset/v7sn-c66v?page=2",
+     "https://data.healthcare.gov/dataset/tfna-vz76?page=4",
+     "https://data.healthcare.gov/dataset/bf8da239-095e-4481-bf60-1f3a9615ce0e?page=4",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=5"
     ]
    },
    {
@@ -15350,7 +16338,13 @@
      "https://data.healthcare.gov/dataset/2z8b-yxem?page=5",
      "https://data.healthcare.gov/dataset/iwmd-wduj?page=2",
      "https://data.healthcare.gov/dataset/iwmd-wduj?page=5",
-     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=3"
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=3",
+     "https://data.healthcare.gov/dataset/qxzi-ymfv?page=5",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=4",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=5",
+     "https://data.healthcare.gov/dataset/2z8b-yxem?page=2",
+     "https://data.healthcare.gov/dataset/iwmd-wduj?page=3",
+     "https://data.healthcare.gov/dataset/tfna-vz76?page=4"
     ]
    },
    {
@@ -15396,7 +16390,19 @@
      "https://data.healthcare.gov/dataset/enpz-m4q6?page=2145",
      "https://data.healthcare.gov/dataset/v7sn-c66v?page=3",
      "https://data.healthcare.gov/dataset/v7sn-c66v?page=3555",
-     "https://data.healthcare.gov/dataset/8a1786d6-e3cc-43be-bcfa-10e98f514ba4?page=2"
+     "https://data.healthcare.gov/dataset/8a1786d6-e3cc-43be-bcfa-10e98f514ba4?page=2",
+     "https://data.healthcare.gov/dataset/kcsx-yk8u?page=855",
+     "https://data.healthcare.gov/dataset/enpz-m4q6?page=5",
+     "https://data.healthcare.gov/dataset/nc54-t2vu?page=2",
+     "https://data.healthcare.gov/dataset/kcsx-yk8u?page=3",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=2",
+     "https://data.healthcare.gov/dataset/enpz-m4q6?page=3",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=4",
+     "https://data.healthcare.gov/dataset/pmxe-irvb?page=4",
+     "https://data.healthcare.gov/dataset/w8x9-aq6p?page=4",
+     "https://data.healthcare.gov/dataset/v7sn-c66v?page=2",
+     "https://data.healthcare.gov/dataset/bf8da239-095e-4481-bf60-1f3a9615ce0e?page=4",
+     "https://data.healthcare.gov/dataset/ad5c073e-8451-4378-b3d8-4ba189f29cfe?page=5"
     ]
    },
    {

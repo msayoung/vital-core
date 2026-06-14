@@ -1,6 +1,6 @@
 {
  "domain": "www.healthcare.gov",
- "updatedAt": "2026-06-14T15:12:13.434Z",
+ "updatedAt": "2026-06-14T20:00:57.750Z",
  "resources": {
   "http://www.irs.gov/pub/irs-drop/n-12-59.pdf": {
    "type": "pdf",
@@ -360,7 +360,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://www.irs.gov/pub/irs-prior/f8962--2024.pdf": {
    "type": "pdf",
@@ -423,6 +423,16 @@
    "lastPages": 1
   },
   "https://www.cms.gov/CCIIO/Resources/Forms-Reports-and-Other-Resources/Downloads/Uniform-Glossary-01-2020.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://www.cms.gov/marketplace/agents-brokers/files/returning-agents-brokers-guide-plan-year-2025-marketplace-registration-training.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",

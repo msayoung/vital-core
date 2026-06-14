@@ -1,6 +1,6 @@
 {
  "domain": "www.healthcare.gov",
- "updatedAt": "2026-06-14T15:12:13.434Z",
+ "updatedAt": "2026-06-14T20:00:57.750Z",
  "findings": {
   "VS-af36d20c": {
    "engine": "axe-core",
@@ -14,7 +14,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 549
+   "lastPagesAffected": 551
   },
   "VS-9074b4dd": {
    "engine": "axe-core",
@@ -28,7 +28,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 5
+   "lastPagesAffected": 6
   },
   "VS-be8d563e": {
    "engine": "axe-core",
@@ -184,6 +184,20 @@
    "weeksSeen": 1,
    "lastPagesAffected": 12
   },
+  "VS-8806389c": {
+   "engine": "axe-core",
+   "ruleId": "landmark-unique",
+   "summary": "Landmarks should have a unique role or role/label/title (i.e (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Medium",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 11
+  },
   "VS-646b1e0b": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r66",
@@ -212,10 +226,10 @@
    "weeksSeen": 1,
    "lastPagesAffected": 11
   },
-  "VS-8806389c": {
+  "VS-f18df681": {
    "engine": "axe-core",
-   "ruleId": "landmark-unique",
-   "summary": "Landmarks should have a unique role or role/label/title (i.e (WCAG criterion undetermined)",
+   "ruleId": "region",
+   "summary": "All page content should be contained by landmarks (WCAG criterion undetermined)",
    "wcag": null,
    "severity": "Medium",
    "firstSeen": "2026-W24",
@@ -224,7 +238,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 10
+   "lastPagesAffected": 6
   },
   "VS-f054f4a4": {
    "engine": "Siteimprove Alfa",
@@ -239,20 +253,6 @@
    ],
    "weeksSeen": 1,
    "lastPagesAffected": 6
-  },
-  "VS-f18df681": {
-   "engine": "axe-core",
-   "ruleId": "region",
-   "summary": "All page content should be contained by landmarks (WCAG criterion undetermined)",
-   "wcag": null,
-   "severity": "Medium",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 5
   },
   "VS-c18be945": {
    "engine": "Siteimprove Alfa",

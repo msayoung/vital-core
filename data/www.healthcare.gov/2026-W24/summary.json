@@ -1,28 +1,28 @@
 {
  "domain": "www.healthcare.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-14T15:12:13.422Z",
- "pagesScanned": 567,
- "pagesAudited": 567,
+ "generatedAt": "2026-06-14T20:00:57.727Z",
+ "pagesScanned": 569,
+ "pagesAudited": 569,
  "coverage": {
-  "axe": 567,
-  "deprecated-html": 517,
-  "sustainability": 567,
-  "resources": 362,
-  "plain-language": 234,
+  "axe": 569,
+  "deprecated-html": 519,
+  "sustainability": 569,
+  "resources": 364,
+  "plain-language": 236,
   "alfa": 221,
   "lighthouse": 47
  },
  "blocked": null,
  "axe": {
-  "violationTotal": 607,
-  "pagesWithViolations": 550,
-  "pagesScanned": 567,
+  "violationTotal": 614,
+  "pagesWithViolations": 552,
+  "pagesScanned": 569,
   "medianViolations": 1,
   "rules": {
    "aria-valid-attr-value": {
-    "count": 549,
-    "pages": 549,
+    "count": 551,
+    "pages": 551,
     "impact": "critical",
     "help": "ARIA attributes must conform to valid values",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/aria-valid-attr-value?application=axeAPI",
@@ -1201,6 +1201,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.healthcare.gov/small-businesses/choose-and-enroll/paying-your-monthly-premiums",
+      "instances": 1
+     },
+     {
       "url": "https://www.healthcare.gov/glossary/emergency-medical-transportation",
       "instances": 1
      },
@@ -1262,6 +1266,10 @@
      },
      {
       "url": "https://www.healthcare.gov/marketplace-appeals/getting-help",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/agent-broker-quick-start",
       "instances": 1
      },
      {
@@ -2317,8 +2325,8 @@
     ]
    },
    "landmark-unique": {
-    "count": 10,
-    "pages": 10,
+    "count": 11,
+    "pages": 11,
     "impact": "moderate",
     "help": "Landmarks should have a unique role or role/label/title (i.e. accessible name) combination",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-unique?application=axeAPI",
@@ -2353,6 +2361,10 @@
      },
      {
       "url": "https://www.healthcare.gov/medicaid-chip/transfer-to-marketplace",
+      "instances": 1
+     },
+     {
+      "url": "https://www.healthcare.gov/agent-broker-quick-start",
       "instances": 1
      },
      {
@@ -2605,8 +2617,8 @@
     ]
    },
    "image-alt": {
-    "count": 10,
-    "pages": 5,
+    "count": 12,
+    "pages": 6,
     "impact": "critical",
     "help": "Images must have alternative text",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/image-alt?application=axeAPI",
@@ -2630,6 +2642,10 @@
      },
      {
       "url": "https://www.healthcare.gov/",
+      "instances": 2
+     },
+     {
+      "url": "https://www.healthcare.gov/agent-broker-quick-start",
       "instances": 2
      },
      {
@@ -2670,8 +2686,8 @@
     ]
    },
    "region": {
-    "count": 10,
-    "pages": 5,
+    "count": 12,
+    "pages": 6,
     "impact": "moderate",
     "help": "All page content should be contained by landmarks",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
@@ -2694,6 +2710,10 @@
      },
      {
       "url": "https://www.healthcare.gov/",
+      "instances": 2
+     },
+     {
+      "url": "https://www.healthcare.gov/agent-broker-quick-start",
       "instances": 2
      },
      {
@@ -7062,11 +7082,11 @@
   }
  },
  "consensus": {
-  "uniqueIssues": 1529,
+  "uniqueIssues": 1534,
   "consensus": 4,
-  "axeOnly": 591,
+  "axeOnly": 596,
   "alfaOnly": 934,
-  "rawAxe": 595,
+  "rawAxe": 600,
   "rawAlfa": 938,
   "byKey": {
    "act:6a7281": {
@@ -7075,7 +7095,7 @@
      "aria-valid-attr-value"
     ],
     "alfaRules": [],
-    "pages": 549,
+    "pages": 551,
     "engines": "axe"
    },
    "act:ffd0e9": {
@@ -7095,7 +7115,7 @@
      "landmark-unique"
     ],
     "alfaRules": [],
-    "pages": 10,
+    "pages": 11,
     "engines": "axe"
    },
    "axe-core:definition-list": {
@@ -7133,7 +7153,7 @@
     "alfaRules": [
      "sia-r2"
     ],
-    "pages": 5,
+    "pages": 6,
     "engines": "both"
    },
    "axe-core:region": {
@@ -7142,7 +7162,7 @@
      "region"
     ],
     "alfaRules": [],
-    "pages": 5,
+    "pages": 6,
     "engines": "axe"
    },
    "act:a25f45": {
@@ -7283,20 +7303,20 @@
   }
  },
  "sustainability": {
-  "pages": 567,
-  "medianBytes": 3032864,
-  "meanBytes": 3027667,
+  "pages": 569,
+  "medianBytes": 3032973,
+  "meanBytes": 3029272,
   "medianRequests": 103,
-  "totalCo2g": 254.41,
-  "meanCo2g": 0.4487,
-  "totalEnergyWh": 328.77,
-  "meanEnergyWh": 0.5798
+  "totalCo2g": 255.45,
+  "meanCo2g": 0.4489,
+  "totalEnergyWh": 330.86,
+  "meanEnergyWh": 0.5815
  },
  "deprecatedHtml": null,
  "resources": {
-  "total": 60,
+  "total": 61,
   "byType": {
-   "pdf": 59,
+   "pdf": 60,
    "iframe": 1
   },
   "list": [
@@ -7478,7 +7498,7 @@
    {
     "url": "https://www.healthcare.gov/downloads/employer-guide-to-shop.pdf",
     "type": "pdf",
-    "pages": 1
+    "pages": 2
    },
    {
     "url": "https://www.irs.gov/pub/irs-prior/f8962--2024.pdf",
@@ -7512,6 +7532,11 @@
    },
    {
     "url": "https://www.cms.gov/CCIIO/Resources/Forms-Reports-and-Other-Resources/Downloads/Uniform-Glossary-01-2020.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/marketplace/agents-brokers/files/returning-agents-brokers-guide-plan-year-2025-marketplace-registration-training.pdf",
     "type": "pdf",
     "pages": 1
    },
@@ -7603,19 +7628,19 @@
   ]
  },
  "plainLanguage": {
-  "pagesChecked": 234,
-  "pagesScored": 68,
-  "medianWordsPerPage": 135,
+  "pagesChecked": 236,
+  "pagesScored": 70,
+  "medianWordsPerPage": 136,
   "medianReadingEase": 44,
   "medianGrade": 14,
   "topUnexplainedAcronyms": [
    {
     "acronym": "PDF",
-    "pages": 30
+    "pages": 32
    },
    {
     "acronym": "KB",
-    "pages": 30
+    "pages": 32
    },
    {
     "acronym": "IRS",
@@ -7627,7 +7652,7 @@
    },
    {
     "acronym": "TTY",
-    "pages": 17
+    "pages": 18
    },
    {
     "acronym": "SHOP",
@@ -7642,11 +7667,11 @@
     "pages": 11
    },
    {
-    "acronym": "ZIP",
-    "pages": 10
+    "acronym": "ID",
+    "pages": 11
    },
    {
-    "acronym": "ID",
+    "acronym": "ZIP",
     "pages": 10
    },
    {
@@ -7658,11 +7683,11 @@
     "pages": 8
    },
    {
-    "acronym": "COBRA",
-    "pages": 6
+    "acronym": "CMS",
+    "pages": 7
    },
    {
-    "acronym": "CMS",
+    "acronym": "COBRA",
     "pages": 6
    },
    {
@@ -7673,7 +7698,7 @@
   "topMisspellings": [
    {
     "word": "pagePrint",
-    "pages": 39
+    "pages": 40
    },
    {
     "word": "pageCan",
@@ -7681,7 +7706,7 @@
    },
    {
     "word": "pre",
-    "pages": 10
+    "pages": 11
    },
    {
     "word": "taxesEmail",
@@ -7708,6 +7733,10 @@
     "pages": 7
    },
    {
+    "word": "isn",
+    "pages": 7
+   },
+   {
     "word": "creditJob",
     "pages": 7
    },
@@ -7716,11 +7745,11 @@
     "pages": 6
    },
    {
-    "word": "isn",
-    "pages": 6
+    "word": "HRAs",
+    "pages": 5
    },
    {
-    "word": "HRAs",
+    "word": "insuranceEmail",
     "pages": 5
    },
    {
@@ -7734,10 +7763,6 @@
    {
     "word": "creditMarketplace",
     "pages": 5
-   },
-   {
-    "word": "insuranceEmail",
-    "pages": 4
    },
    {
     "word": "pageHealth",
@@ -7818,7 +7843,8 @@
     "status": 503,
     "reason": "HTTP 503",
     "foundOn": [
-     "https://www.healthcare.gov/small-businesses/agents-and-brokers"
+     "https://www.healthcare.gov/small-businesses/agents-and-brokers",
+     "https://www.healthcare.gov/agent-broker-quick-start"
     ]
    }
   ]
