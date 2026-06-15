@@ -1,7 +1,7 @@
 {
  "domain": "www.cms.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-15T01:26:06.867Z",
+ "generatedAt": "2026-06-15T11:25:31.166Z",
  "pagesScanned": 2629,
  "pagesAudited": 1844,
  "coverage": {
@@ -35645,6 +35645,8 @@
    }
   ]
  },
+ "standards": null,
+ "security": null,
  "plainLanguage": {
   "pagesChecked": 451,
   "pagesScored": 155,
@@ -35716,103 +35718,278 @@
   "topMisspellings": [
    {
     "word": "cms",
-    "pages": 58
+    "pages": 58,
+    "examplePages": [
+     "https://www.cms.gov/newsroom/press-releases/cms-releases-new-tools-streamline-certification-labs-testing-covid-19",
+     "http://cms.gov/acronyms?page=7",
+     "https://www.cms.gov/medicare/quality/long-term-care-hospital/ltch-quality-reporting-reconsideration-and-exception-extension",
+     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=18&chapter=190&labOnly=labonlyncd&ncdid=103&ncdver=1&sortBy=chapter",
+     "https://www.cms.gov/newsroom/news-alert/news-alert-marketplace-weekly-enrollment-snapshot-week-2"
+    ]
    },
    {
     "word": "www",
-    "pages": 54
+    "pages": 54,
+    "examplePages": [
+     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=18&chapter=190&labOnly=labonlyncd&ncdid=103&ncdver=1&sortBy=chapter",
+     "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FJAN_2009_NDC_HCPCS_Crosswalk_Files.zip",
+     "https://www.cms.gov/newsroom/news-alert/news-alert-marketplace-weekly-enrollment-snapshot-week-2",
+     "https://www.cms.gov/apps/ama/license.asp?file=%2Ffiles%2Fzip%2Flist-codes-effective-january-1-2020-published-december-2-2019",
+     "http://www.cms.gov/medicare-coverage-database/view/mcdoc-public-comments.aspx?MCDId=31"
+    ]
    },
    {
     "word": "hhs",
-    "pages": 36
+    "pages": 36,
+    "examplePages": [
+     "http://cms.gov/acronyms?page=7",
+     "https://www.cms.gov/medicare/quality/long-term-care-hospital/ltch-quality-reporting-reconsideration-and-exception-extension",
+     "https://www.cms.gov/data-research/monitoring-programs/medicare-fee-service-compliance-programs/prior-authorization-and-pre-claim-review-initiatives/prior-authorization-process-certain-durable-medical-equipment-prosthetics-orthotics-and-supplies",
+     "https://www.cms.gov/medicare-coverage-database/view/nca.aspx?ncaid=239",
+     "https://www.cms.gov/medicare/health-safety-standards/quality-safety-oversight-general-information/internet-quality-improvement-evaluation-system-iqies"
+    ]
    },
    {
     "word": "http",
-    "pages": 34
+    "pages": 34,
+    "examplePages": [
+     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=18&chapter=190&labOnly=labonlyncd&ncdid=103&ncdver=1&sortBy=chapter",
+     "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FJAN_2009_NDC_HCPCS_Crosswalk_Files.zip",
+     "https://www.cms.gov/apps/ama/license.asp?file=%2Ffiles%2Fzip%2Flist-codes-effective-january-1-2020-published-december-2-2019",
+     "http://www.cms.gov/medicare-coverage-database/view/mcdoc-public-comments.aspx?MCDId=31",
+     "https://www.cms.gov/apps/aha/license.asp?file=%2Ffiles%2Fzip%2Fioce-qtrly-data-files-v231r0.zip"
+    ]
    },
    {
     "word": "Transmittals",
-    "pages": 33
+    "pages": 33,
+    "examplePages": [
+     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=18&chapter=190&labOnly=labonlyncd&ncdid=103&ncdver=1&sortBy=chapter",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2024-transmittals?items_per_page=25&order=field_dyna_issue_date&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2024-transmittals?items_per_page=25&order=field_dyna_issue_date&page=5&sort=asc",
+     "http://cms.gov/medicare/enrollment-renewal/providers-suppliers/hospitals-center",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2021-transmittals?page=0"
+    ]
    },
    {
     "word": "NCDs",
-    "pages": 28
+    "pages": 28,
+    "examplePages": [
+     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=18&chapter=190&labOnly=labonlyncd&ncdid=103&ncdver=1&sortBy=chapter",
+     "https://www.cms.gov/medicare-coverage-database/reports/national-coverage-annual-report.aspx?docType=all&year=2026",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/transmittals/r11426bp",
+     "https://www.cms.gov/medicare-coverage-database/view/nca.aspx?ncaid=239",
+     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=179&sortBy=status&status=all"
+    ]
    },
    {
     "word": "procurements",
-    "pages": 26
+    "pages": 26,
+    "examplePages": [
+     "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FJAN_2009_NDC_HCPCS_Crosswalk_Files.zip",
+     "https://www.cms.gov/apps/ama/license.asp?file=%2Ffiles%2Fzip%2Flist-codes-effective-january-1-2020-published-december-2-2019",
+     "https://www.cms.gov/apps/aha/license.asp?file=%2Ffiles%2Fzip%2Fioce-qtrly-data-files-v231r0.zip",
+     "https://www.cms.gov/apps/aha/license.asp?file=%2Ffiles%2Fzip%2Fi%2Foce-mf-software-package-v251r0.zip",
+     "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FJan06pricing.zip"
+    ]
    },
    {
     "word": "ama",
-    "pages": 25
+    "pages": 25,
+    "examplePages": [
+     "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FJAN_2009_NDC_HCPCS_Crosswalk_Files.zip",
+     "https://www.cms.gov/apps/ama/license.asp?file=%2Ffiles%2Fzip%2Flist-codes-effective-january-1-2020-published-december-2-2019",
+     "https://www.cms.gov/apps/aha/license.asp?file=%2Ffiles%2Fzip%2Fioce-qtrly-data-files-v231r0.zip",
+     "https://www.cms.gov/apps/aha/license.asp?file=%2Ffiles%2Fzip%2Fi%2Foce-mf-software-package-v251r0.zip",
+     "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FJan06pricing.zip"
+    ]
    },
    {
     "word": "cpt",
-    "pages": 25
+    "pages": 25,
+    "examplePages": [
+     "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FJAN_2009_NDC_HCPCS_Crosswalk_Files.zip",
+     "https://www.cms.gov/apps/ama/license.asp?file=%2Ffiles%2Fzip%2Flist-codes-effective-january-1-2020-published-december-2-2019",
+     "https://www.cms.gov/apps/aha/license.asp?file=%2Ffiles%2Fzip%2Fioce-qtrly-data-files-v231r0.zip",
+     "https://www.cms.gov/apps/aha/license.asp?file=%2Ffiles%2Fzip%2Fi%2Foce-mf-software-package-v251r0.zip",
+     "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FJan06pricing.zip"
+    ]
    },
    {
     "word": "merchantability",
-    "pages": 25
+    "pages": 25,
+    "examplePages": [
+     "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FJAN_2009_NDC_HCPCS_Crosswalk_Files.zip",
+     "https://www.cms.gov/apps/ama/license.asp?file=%2Ffiles%2Fzip%2Flist-codes-effective-january-1-2020-published-december-2-2019",
+     "https://www.cms.gov/apps/aha/license.asp?file=%2Ffiles%2Fzip%2Fioce-qtrly-data-files-v231r0.zip",
+     "https://www.cms.gov/apps/aha/license.asp?file=%2Ffiles%2Fzip%2Fi%2Foce-mf-software-package-v251r0.zip",
+     "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FJan06pricing.zip"
+    ]
    },
    {
     "word": "https",
-    "pages": 24
+    "pages": 24,
+    "examplePages": [
+     "https://www.cms.gov/newsroom/news-alert/news-alert-marketplace-weekly-enrollment-snapshot-week-2",
+     "https://www.cms.gov/medicare/health-safety-standards/quality-safety-oversight-general-information/internet-quality-improvement-evaluation-system-iqies",
+     "https://www.cms.gov/data-research/cms-data/cms-data-principles-and-operating-norms",
+     "https://www.cms.gov/newsroom/press-releases/centers-medicare-medicaid-services-releases-reports-performance-exchanges-individual-health",
+     "https://www.cms.gov/newsroom/fact-sheets/fiscal-year-fy-2022-medicare-hospital-inpatient-prospective-payment-system-ipps-long-term-care-0"
+    ]
    },
    {
     "word": "Orthotics",
-    "pages": 15
+    "pages": 15,
+    "examplePages": [
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2013-transmittals-items/r2261cp",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2024-transmittals?items_per_page=25&order=field_dyna_issue_date&sort=asc",
+     "https://www.cms.gov/data-research/monitoring-programs/medicare-fee-service-compliance-programs/prior-authorization-and-pre-claim-review-initiatives/prior-authorization-process-certain-durable-medical-equipment-prosthetics-orthotics-and-supplies",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=0&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2016-transmittals?items_per_page=25&order=field_dyna_issue_date&page=5&sort=asc"
+    ]
    },
    {
     "word": "CMS",
-    "pages": 15
+    "pages": 15,
+    "examplePages": [
+     "https://www.cms.gov/medicare-coverage-database/view/nca.aspx?ncaid=239",
+     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=179&sortBy=status&status=all",
+     "https://www.cms.gov/medicare/enrollment-renewal/special-needs-plans",
+     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=49&sortBy=status&status=all",
+     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=136&sortBy=status&status=all"
+    ]
    },
    {
     "word": "pre",
-    "pages": 14
+    "pages": 14,
+    "examplePages": [
+     "https://www.cms.gov/regulations-and-guidance/administrative-simplification/versions5010andd0/5010-national-calls-items/cms1254312",
+     "https://www.cms.gov/priorities/key-initiatives/open-payments/program-participants/covered-recipients",
+     "https://www.cms.gov/medicare-coverage-database/details/medicare-coverage-document-details.aspx?MCDId=17",
+     "https://www.cms.gov/priorities/health-equity/rural-health/reports-publications",
+     "https://www.cms.gov/data-research/statistics-trends-and-reports/health-plans-reports-files-data/state-county"
+    ]
    },
    {
     "word": "Prosthetics",
-    "pages": 14
+    "pages": 14,
+    "examplePages": [
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2013-transmittals-items/r2261cp",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2024-transmittals?items_per_page=25&order=field_dyna_issue_date&sort=asc",
+     "https://www.cms.gov/data-research/monitoring-programs/medicare-fee-service-compliance-programs/prior-authorization-and-pre-claim-review-initiatives/prior-authorization-process-certain-durable-medical-equipment-prosthetics-orthotics-and-supplies",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=0&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2016-transmittals?items_per_page=25&order=field_dyna_issue_date&page=5&sort=asc"
+    ]
    },
    {
     "word": "Ctrl",
-    "pages": 14
+    "pages": 14,
+    "examplePages": [
+     "https://www.cms.gov/medicare-coverage-database/view/nca.aspx?ncaid=239",
+     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=179&sortBy=status&status=all",
+     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=49&sortBy=status&status=all",
+     "http://www.cms.gov/medicare-coverage-database/view/cal.aspx?bc=17&calid=88&ncacaldoctype=all&sortBy=status&status=all",
+     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=136&sortBy=status&status=all"
+    ]
    },
    {
     "word": "pdf",
-    "pages": 12
+    "pages": 12,
+    "examplePages": [
+     "https://www.cms.gov/medicare/quality/initiatives/hospital-quality-initiative/measure-methodology",
+     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=18&chapter=190&labOnly=labonlyncd&ncdid=103&ncdver=1&sortBy=chapter",
+     "http://cms.gov/medicare/enrollment-renewal/health-plans/cost",
+     "https://www.cms.gov/newsroom/press-releases/centers-medicare-medicaid-services-releases-reports-performance-exchanges-individual-health",
+     "http://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=142&ncdver=1"
+    ]
    },
    {
     "word": "Memoranda",
-    "pages": 11
+    "pages": 11,
+    "examplePages": [
+     "https://www.cms.gov/medicare-coverage-database/view/nca.aspx?ncaid=239",
+     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=179&sortBy=status&status=all",
+     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=49&sortBy=status&status=all",
+     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=136&sortBy=status&status=all",
+     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?ncaid=66"
+    ]
    },
    {
     "word": "Howden",
-    "pages": 9
+    "pages": 9,
+    "examplePages": [
+     "https://www.cms.gov/newsroom/press-releases/cms-releases-new-tools-streamline-certification-labs-testing-covid-19",
+     "https://www.cms.gov/newsroom/news-alert/news-alert-marketplace-weekly-enrollment-snapshot-week-2",
+     "https://www.cms.gov/newsroom/press-releases/centers-medicare-medicaid-services-releases-reports-performance-exchanges-individual-health",
+     "https://www.cms.gov/newsroom/press-releases/cms-announces-opportunity-apply-navigator-grants-federally-facilitated-state-partnership",
+     "https://www.cms.gov/newsroom/fact-sheets/proposed-policy-payment-quality-provisions-changes-medicare-physician-fee-schedule-calendar-year-1"
+    ]
    },
    {
     "word": "NCAs",
-    "pages": 9
+    "pages": 9,
+    "examplePages": [
+     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=18&chapter=190&labOnly=labonlyncd&ncdid=103&ncdver=1&sortBy=chapter",
+     "https://www.cms.gov/medicare-coverage-database/reports/national-coverage-annual-report.aspx?docType=all&year=2026",
+     "http://www.cms.gov/medicare-coverage-database/basket/basket.aspx",
+     "https://www.cms.gov/cms-guide-medical-technology-companies-and-other-interested-parties/coverage/national-coverage-determination-process-timeline",
+     "http://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=142&ncdver=1"
+    ]
    },
    {
     "word": "CALs",
-    "pages": 9
+    "pages": 9,
+    "examplePages": [
+     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=18&chapter=190&labOnly=labonlyncd&ncdid=103&ncdver=1&sortBy=chapter",
+     "https://www.cms.gov/medicare-coverage-database/reports/national-coverage-annual-report.aspx?docType=all&year=2026",
+     "http://www.cms.gov/medicare-coverage-database/basket/basket.aspx",
+     "https://www.cms.gov/cms-guide-medical-technology-companies-and-other-interested-parties/coverage/national-coverage-determination-process-timeline",
+     "http://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=142&ncdver=1"
+    ]
    },
    {
     "word": "LCDs",
-    "pages": 9
+    "pages": 9,
+    "examplePages": [
+     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=18&chapter=190&labOnly=labonlyncd&ncdid=103&ncdver=1&sortBy=chapter",
+     "https://www.cms.gov/medicare-coverage-database/reports/national-coverage-annual-report.aspx?docType=all&year=2026",
+     "http://www.cms.gov/medicare-coverage-database/basket/basket.aspx",
+     "http://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=142&ncdver=1",
+     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=18&chapter=190&labOnly=labonlyncd&ncdid=46&ncdver=1&sortBy=chapter"
+    ]
    },
    {
     "word": "ResourcesResources",
-    "pages": 8
+    "pages": 8,
+    "examplePages": [
+     "https://www.cms.gov/medicare/medicaid-coordination/states/resource-library?items_per_page=25&order=field_dyna_cpi_audience&page=1&sort=asc",
+     "https://www.cms.gov/priorities/key-initiatives/open-payments/program-participants/covered-recipients",
+     "https://www.cms.gov/medicare-medicaid-coordination/fraud-prevention/medicaid-integrity-program/education/resource-library/personal-care-and-support-services-key-message-and-tips-providers",
+     "https://www.cms.gov/openpayments/program-participants/reporting-entities/data-submission-and-attestation",
+     "https://www.cms.gov/medicare/medicaid-coordination/states/resource-library?items_per_page=25&order=title_1&sort=asc"
+    ]
    },
    {
     "word": "transmittals",
-    "pages": 8
+    "pages": 8,
+    "examplePages": [
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=0&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2013-transmittals?items_per_page=25&order=field_dyna_release_date&page=6&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2013-transmittals?items_per_page=25&order=field_dyna_transmittal_number&page=7&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2013-transmittals?page=10",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_revision_date&page=7&sort=asc"
+    ]
    },
    {
     "word": "OHEISubscribe",
-    "pages": 7
+    "pages": 7,
+    "examplePages": [
+     "http://cms.gov/priorities/key-initiatives/burden-reduction/customer-engagement",
+     "https://www.cms.gov/priorities/key-initiatives/burden-reduction/administrative-simplification/operating-rules/eligibility-claim-status",
+     "https://www.cms.gov/priorities/burden-reduction/overview/interoperability/frequently-asked-questions/compliance-enforcement",
+     "https://www.cms.gov/priorities/burden-reduction/overview/interoperability/frequently-asked-questions/admission-discharge-transfer-patient-event-notification-conditions-participation-cop-42-cfr-482-24d",
+     "http://cms.gov/priorities/burden-reduction/overview/customer-engagement/dialysis-facility-engagement"
+    ]
    }
   ]
  },
@@ -35822,7 +35999,14 @@
   "medianAccessibility": 100,
   "medianBestPractices": 100,
   "medianSeo": 92,
-  "medianAgentic": null
+  "medianAgentic": null,
+  "metrics": {
+   "firstContentfulPaintMs": 1872,
+   "largestContentfulPaintMs": 5028,
+   "speedIndexMs": 2668,
+   "totalBlockingTimeMs": 398,
+   "cumulativeLayoutShift": 0.066
+  }
  },
  "linkCheck": {
   "brokenCount": 107,

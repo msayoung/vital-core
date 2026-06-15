@@ -1,7 +1,7 @@
 {
  "domain": "www.healthcare.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-15T01:26:07.793Z",
+ "generatedAt": "2026-06-15T11:25:32.768Z",
  "pagesScanned": 569,
  "pagesAudited": 569,
  "coverage": {
@@ -7627,6 +7627,8 @@
    }
   ]
  },
+ "standards": null,
+ "security": null,
  "plainLanguage": {
   "pagesChecked": 236,
   "pagesScored": 70,
@@ -7698,103 +7700,270 @@
   "topMisspellings": [
    {
     "word": "pagePrint",
-    "pages": 40
+    "pages": 40,
+    "examplePages": [
+     "https://www.healthcare.gov/health-coverage-exemptions/exemptions-from-the-fee",
+     "https://www.healthcare.gov/small-businesses/choose-and-enroll/qualify-for-shop-marketplace",
+     "https://www.healthcare.gov/why-coverage-is-important/coverage-protects-you",
+     "https://www.healthcare.gov/taxes-2019/marketplace-plan-with-savings",
+     "https://www.healthcare.gov/small-businesses/agents-and-brokers"
+    ]
    },
    {
     "word": "pageCan",
-    "pages": 35
+    "pages": 35,
+    "examplePages": [
+     "https://www.healthcare.gov/health-coverage-exemptions/exemptions-from-the-fee",
+     "https://www.healthcare.gov/small-businesses/choose-and-enroll/qualify-for-shop-marketplace",
+     "https://www.healthcare.gov/why-coverage-is-important/coverage-protects-you",
+     "https://www.healthcare.gov/taxes-2019/marketplace-plan-with-savings",
+     "https://www.healthcare.gov/small-businesses/agents-and-brokers"
+    ]
    },
    {
     "word": "pre",
-    "pages": 11
+    "pages": 11,
+    "examplePages": [
+     "https://www.healthcare.gov/glossary/pre-existing-condition-exclusion-period-individual-policy",
+     "https://www.healthcare.gov/glossary/high-risk-pool-plan-state",
+     "https://www.healthcare.gov/glossary/creditable-coverage",
+     "https://www.healthcare.gov/glossary/pre-existing-condition-job-based-coverage",
+     "https://www.healthcare.gov/health-care-law-protections/rights-and-protections"
+    ]
    },
    {
     "word": "taxesEmail",
-    "pages": 9
+    "pages": 9,
+    "examplePages": [
+     "https://www.healthcare.gov/taxes-2023/marketplace-plan-with-savings",
+     "https://www.healthcare.gov/taxes-2024/other-health-coverage",
+     "https://www.healthcare.gov/taxes-2024/job-based-coverage",
+     "https://www.healthcare.gov/taxes-2024/marketplace-plan-without-savings",
+     "https://www.healthcare.gov/taxes-2022/other-health-coverage"
+    ]
    },
    {
     "word": "coverageNo",
-    "pages": 8
+    "pages": 8,
+    "examplePages": [
+     "https://www.healthcare.gov/taxes-2023/marketplace-plan-with-savings",
+     "https://www.healthcare.gov/taxes-2024/other-health-coverage",
+     "https://www.healthcare.gov/taxes-2024/job-based-coverage",
+     "https://www.healthcare.gov/taxes-2024/marketplace-plan-without-savings",
+     "https://www.healthcare.gov/taxes-2022/other-health-coverage"
+    ]
    },
    {
     "word": "coverageEmail",
-    "pages": 8
+    "pages": 8,
+    "examplePages": [
+     "https://www.healthcare.gov/taxes-2023/marketplace-plan-with-savings",
+     "https://www.healthcare.gov/preventive-care-benefits",
+     "https://www.healthcare.gov/taxes-2024/other-health-coverage",
+     "https://www.healthcare.gov/taxes-2024/job-based-coverage",
+     "https://www.healthcare.gov/taxes-2024/marketplace-plan-without-savings"
+    ]
    },
    {
     "word": "doesn",
-    "pages": 8
+    "pages": 8,
+    "examplePages": [
+     "https://www.healthcare.gov/part-time-workers",
+     "https://www.healthcare.gov/coverage-outside-open-enrollment",
+     "https://www.healthcare.gov/taxes-2024/job-based-coverage",
+     "https://www.healthcare.gov/taxes-2023/job-based-coverage",
+     "https://www.healthcare.gov/glossary/stand-alone-dental-plan"
+    ]
    },
    {
     "word": "copayments",
-    "pages": 8
+    "pages": 8,
+    "examplePages": [
+     "https://www.healthcare.gov/glossary/qualified-health-plan",
+     "https://www.healthcare.gov/choose-a-plan/out-of-pocket-costs",
+     "https://www.healthcare.gov/glossary/out-of-network-copayment",
+     "https://www.healthcare.gov/glossary/out-of-pocket-costs",
+     "https://www.healthcare.gov/health-care-law-protections/doctor-choice-emergency-room-access"
+    ]
    },
    {
     "word": "planA",
-    "pages": 7
+    "pages": 7,
+    "examplePages": [
+     "https://www.healthcare.gov/glossary/cafeteria-plan",
+     "https://www.healthcare.gov/glossary/network-plan",
+     "https://www.healthcare.gov/glossary/multi-state-plan",
+     "https://www.healthcare.gov/glossary/limited-cost-sharing-plan",
+     "https://www.healthcare.gov/glossary/flexible-benefits-plan"
+    ]
    },
    {
     "word": "isn",
-    "pages": 7
+    "pages": 7,
+    "examplePages": [
+     "https://www.healthcare.gov/qsehra",
+     "https://www.healthcare.gov/part-time-workers",
+     "https://www.healthcare.gov/glossary/medicare",
+     "https://www.healthcare.gov/ichra",
+     "https://www.healthcare.gov/small-businesses/choose-and-enroll/paying-your-monthly-premiums"
+    ]
    },
    {
     "word": "creditJob",
-    "pages": 7
+    "pages": 7,
+    "examplePages": [
+     "https://www.healthcare.gov/taxes-2023/marketplace-plan-with-savings",
+     "https://www.healthcare.gov/taxes-2024/other-health-coverage",
+     "https://www.healthcare.gov/taxes-2024/marketplace-plan-without-savings",
+     "https://www.healthcare.gov/taxes-2022/other-health-coverage",
+     "https://www.healthcare.gov/taxes-2022/marketplace-plan-without-savings"
+    ]
    },
    {
     "word": "aren",
-    "pages": 6
+    "pages": 6,
+    "examplePages": [
+     "https://www.healthcare.gov/preventive-care-women",
+     "https://www.healthcare.gov/part-time-workers",
+     "https://www.healthcare.gov/glossary/alimony",
+     "https://www.healthcare.gov/small-businesses/provide-shop-coverage/shop-marketplace-overview",
+     "https://www.healthcare.gov/glossary/medicare-advantage-medicare-part-c"
+    ]
    },
    {
     "word": "HRAs",
-    "pages": 5
+    "pages": 5,
+    "examplePages": [
+     "https://www.healthcare.gov/glossary/health-reimbursement-account-hra",
+     "https://www.healthcare.gov/qsehra",
+     "https://www.healthcare.gov/coverage-outside-open-enrollment",
+     "https://www.healthcare.gov/ichra",
+     "https://www.healthcare.gov/job-based-help"
+    ]
    },
    {
     "word": "insuranceEmail",
-    "pages": 5
+    "pages": 5,
+    "examplePages": [
+     "https://www.healthcare.gov/small-businesses/choose-and-enroll/qualify-for-shop-marketplace",
+     "https://www.healthcare.gov/more-savings",
+     "https://www.healthcare.gov/choose-a-plan/out-of-pocket-costs",
+     "https://www.healthcare.gov/small-businesses/choose-and-enroll/paying-your-monthly-premiums",
+     "https://www.healthcare.gov/small-businesses/provide-shop-coverage/shop-marketplace-overview"
+    ]
    },
    {
     "word": "coverageOther",
-    "pages": 5
+    "pages": 5,
+    "examplePages": [
+     "https://www.healthcare.gov/taxes-2023/marketplace-plan-with-savings",
+     "https://www.healthcare.gov/taxes-2024/marketplace-plan-without-savings",
+     "https://www.healthcare.gov/taxes-2022/marketplace-plan-without-savings",
+     "https://www.healthcare.gov/taxes-2024/marketplace-plan-with-savings",
+     "https://www.healthcare.gov/taxes-2022/no-health-coverage"
+    ]
    },
    {
     "word": "protectionsEmail",
-    "pages": 5
+    "pages": 5,
+    "examplePages": [
+     "https://www.healthcare.gov/health-care-law-protections/rights-and-protections",
+     "https://www.healthcare.gov/health-care-law-protections/doctor-choice-emergency-room-access",
+     "https://www.healthcare.gov/health-care-law-protections/summary-of-benefits-and-coverage",
+     "https://www.healthcare.gov/health-care-law-protections/rate-review",
+     "https://www.healthcare.gov/health-care-law-protections"
+    ]
    },
    {
     "word": "creditMarketplace",
-    "pages": 5
+    "pages": 5,
+    "examplePages": [
+     "https://www.healthcare.gov/taxes-2024/other-health-coverage",
+     "https://www.healthcare.gov/taxes-2024/job-based-coverage",
+     "https://www.healthcare.gov/taxes-2022/other-health-coverage",
+     "https://www.healthcare.gov/taxes-2022/no-health-coverage",
+     "https://www.healthcare.gov/taxes-2023/job-based-coverage"
+    ]
    },
    {
     "word": "pageHealth",
-    "pages": 4
+    "pages": 4,
+    "examplePages": [
+     "https://www.healthcare.gov/why-coverage-is-important/coverage-protects-you",
+     "https://www.healthcare.gov/qsehra",
+     "https://www.healthcare.gov/ichra",
+     "https://www.healthcare.gov/job-based-help"
+    ]
    },
    {
     "word": "creditsYou",
-    "pages": 4
+    "pages": 4,
+    "examplePages": [
+     "https://www.healthcare.gov/taxes-2019/marketplace-plan-with-savings",
+     "https://www.healthcare.gov/taxes-2021/marketplace-plan-without-savings",
+     "https://www.healthcare.gov/taxes-2020/marketplace-plan-without-savings",
+     "https://www.healthcare.gov/taxes-2018/marketplace-plan-with-savings"
+    ]
    },
    {
     "word": "coverageIf",
-    "pages": 4
+    "pages": 4,
+    "examplePages": [
+     "https://www.healthcare.gov/glossary/exemption-certificate-number-ecn",
+     "https://www.healthcare.gov/people-with-disabilities/no-disability-benefits-no-coverage",
+     "https://www.healthcare.gov/taxes-2022/no-health-coverage",
+     "https://www.healthcare.gov/people-with-disabilities/ssi-and-medicaid"
+    ]
    },
    {
     "word": "didn",
-    "pages": 4
+    "pages": 4,
+    "examplePages": [
+     "https://www.healthcare.gov/glossary/exemption-certificate-number-ecn",
+     "https://www.healthcare.gov/coverage-outside-open-enrollment",
+     "https://www.healthcare.gov/taxes-2021/no-health-coverage",
+     "https://www.healthcare.gov/taxes-2022/no-health-coverage"
+    ]
    },
    {
     "word": "creditYou",
-    "pages": 4
+    "pages": 4,
+    "examplePages": [
+     "https://www.healthcare.gov/taxes-2023/marketplace-plan-with-savings",
+     "https://www.healthcare.gov/taxes-2024/marketplace-plan-without-savings",
+     "https://www.healthcare.gov/taxes-2022/marketplace-plan-without-savings",
+     "https://www.healthcare.gov/taxes-2024/marketplace-plan-with-savings"
+    ]
    },
    {
     "word": "StatementLog",
-    "pages": 4
+    "pages": 4,
+    "examplePages": [
+     "https://www.healthcare.gov/taxes-2023/marketplace-plan-with-savings",
+     "https://www.healthcare.gov/taxes-2024/marketplace-plan-without-savings",
+     "https://www.healthcare.gov/taxes-2022/marketplace-plan-without-savings",
+     "https://www.healthcare.gov/taxes-2024/marketplace-plan-with-savings"
+    ]
    },
    {
     "word": "usConfirm",
-    "pages": 4
+    "pages": 4,
+    "examplePages": [
+     "https://www.healthcare.gov/taxes-2023/marketplace-plan-with-savings",
+     "https://www.healthcare.gov/taxes-2024/marketplace-plan-without-savings",
+     "https://www.healthcare.gov/taxes-2022/marketplace-plan-without-savings",
+     "https://www.healthcare.gov/taxes-2024/marketplace-plan-with-savings"
+    ]
    },
    {
     "word": "glossaryOut",
-    "pages": 4
+    "pages": 4,
+    "examplePages": [
+     "https://www.healthcare.gov/glossary/out-of-network-copayment",
+     "https://www.healthcare.gov/glossary/out-of-pocket-costs",
+     "https://www.healthcare.gov/glossary/out-of-pocket-estimate",
+     "https://www.healthcare.gov/glossary/out-of-network-coinsurance"
+    ]
    }
   ]
  },
@@ -7804,7 +7973,14 @@
   "medianAccessibility": 100,
   "medianBestPractices": 77,
   "medianSeo": 92,
-  "medianAgentic": null
+  "medianAgentic": null,
+  "metrics": {
+   "firstContentfulPaintMs": 2544,
+   "largestContentfulPaintMs": 13986,
+   "speedIndexMs": 5405,
+   "totalBlockingTimeMs": 1211,
+   "cumulativeLayoutShift": 0.033
+  }
  },
  "linkCheck": {
   "brokenCount": 2,

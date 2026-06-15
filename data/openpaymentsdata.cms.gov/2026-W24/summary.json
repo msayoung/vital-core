@@ -1,7 +1,7 @@
 {
  "domain": "openpaymentsdata.cms.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-15T01:26:07.420Z",
+ "generatedAt": "2026-06-15T11:25:32.172Z",
  "pagesScanned": 237,
  "pagesAudited": 206,
  "coverage": {
@@ -3298,6 +3298,8 @@
  },
  "deprecatedHtml": null,
  "resources": null,
+ "standards": null,
+ "security": null,
  "plainLanguage": {
   "pagesChecked": 55,
   "pagesScored": 4,
@@ -3374,7 +3376,14 @@
   "medianAccessibility": 100,
   "medianBestPractices": 100,
   "medianSeo": 100,
-  "medianAgentic": null
+  "medianAgentic": null,
+  "metrics": {
+   "firstContentfulPaintMs": 5386,
+   "largestContentfulPaintMs": 15853,
+   "speedIndexMs": 5399,
+   "totalBlockingTimeMs": 848,
+   "cumulativeLayoutShift": 1
+  }
  },
  "linkCheck": {
   "brokenCount": 7,

@@ -1,6 +1,6 @@
 {
  "domain": "data.medicaid.gov",
- "updatedAt": "2026-06-15T01:26:07.779Z",
+ "updatedAt": "2026-06-15T11:25:32.742Z",
  "findings": {
   "VS-8806389c": {
    "engine": "axe-core",
@@ -9,12 +9,13 @@
    "wcag": null,
    "severity": "High",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
+   "lastSeen": "2026-W25",
    "_weeks": [
-    "2026-W24"
+    "2026-W24",
+    "2026-W25"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 1963
+   "weeksSeen": 2,
+   "lastPagesAffected": 666
   },
   "VS-a0bdbdf6": {
    "engine": "axe-core",
@@ -23,12 +24,13 @@
    "wcag": "1.3.1",
    "severity": "High",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
+   "lastSeen": "2026-W25",
    "_weeks": [
-    "2026-W24"
+    "2026-W24",
+    "2026-W25"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 7
+   "weeksSeen": 2,
+   "lastPagesAffected": 1
   },
   "VS-cc981723": {
    "engine": "axe-core",
@@ -51,12 +53,13 @@
    "wcag": null,
    "severity": "Medium",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
+   "lastSeen": "2026-W25",
    "_weeks": [
-    "2026-W24"
+    "2026-W24",
+    "2026-W25"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 1003
+   "weeksSeen": 2,
+   "lastPagesAffected": 198
   },
   "VS-cb53cc4d": {
    "engine": "Siteimprove Alfa",
@@ -65,12 +68,13 @@
    "wcag": "2.5.8",
    "severity": "Medium",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
+   "lastSeen": "2026-W25",
    "_weeks": [
-    "2026-W24"
+    "2026-W24",
+    "2026-W25"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 1003
+   "weeksSeen": 2,
+   "lastPagesAffected": 198
   },
   "VS-f6cf30ff": {
    "engine": "Siteimprove Alfa",
@@ -79,12 +83,13 @@
    "wcag": "1.3.1",
    "severity": "Medium",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
+   "lastSeen": "2026-W25",
    "_weeks": [
-    "2026-W24"
+    "2026-W24",
+    "2026-W25"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 914
+   "weeksSeen": 2,
+   "lastPagesAffected": 164
   },
   "VS-fa44f293": {
    "engine": "axe-core",
@@ -93,12 +98,13 @@
    "wcag": null,
    "severity": "Medium",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
+   "lastSeen": "2026-W25",
    "_weeks": [
-    "2026-W24"
+    "2026-W24",
+    "2026-W25"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 68
+   "weeksSeen": 2,
+   "lastPagesAffected": 24
   },
   "VS-7118fead": {
    "engine": "Siteimprove Alfa",
@@ -107,12 +113,13 @@
    "wcag": null,
    "severity": "Medium",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
+   "lastSeen": "2026-W25",
    "_weeks": [
-    "2026-W24"
+    "2026-W24",
+    "2026-W25"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 22
+   "weeksSeen": 2,
+   "lastPagesAffected": 9
   },
   "VS-f7dba940": {
    "engine": "Siteimprove Alfa",

@@ -1,7 +1,7 @@
 {
  "domain": "www.medicare.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-15T01:26:07.023Z",
+ "generatedAt": "2026-06-15T11:25:31.474Z",
  "pagesScanned": 1171,
  "pagesAudited": 1158,
  "coverage": {
@@ -13578,6 +13578,8 @@
    }
   ]
  },
+ "standards": null,
+ "security": null,
  "plainLanguage": {
   "pagesChecked": 315,
   "pagesScored": 176,
@@ -13649,103 +13651,278 @@
   "topMisspellings": [
    {
     "word": "haveHow",
-    "pages": 55
+    "pages": 55,
+    "examplePages": [
+     "https://medicare.gov/coverage/blood-sugar-control-solutions",
+     "https://medicare.gov/coverage/abdominal-aortic-aneurysm-screenings",
+     "https://medicare.gov/coverage/osteoporosis-drugs",
+     "https://medicare.gov/coverage/hospice-care",
+     "https://medicare.gov/coverage/emergency-department-services"
+    ]
    },
    {
     "word": "chargesIf",
-    "pages": 55
+    "pages": 55,
+    "examplePages": [
+     "https://medicare.gov/coverage/blood-sugar-control-solutions",
+     "https://medicare.gov/coverage/abdominal-aortic-aneurysm-screenings",
+     "https://medicare.gov/coverage/osteoporosis-drugs",
+     "https://medicare.gov/coverage/hospice-care",
+     "https://medicare.gov/coverage/emergency-department-services"
+    ]
    },
    {
     "word": "assignmentThe",
-    "pages": 55
+    "pages": 55,
+    "examplePages": [
+     "https://medicare.gov/coverage/blood-sugar-control-solutions",
+     "https://medicare.gov/coverage/abdominal-aortic-aneurysm-screenings",
+     "https://medicare.gov/coverage/osteoporosis-drugs",
+     "https://medicare.gov/coverage/hospice-care",
+     "https://medicare.gov/coverage/emergency-department-services"
+    ]
    },
    {
     "word": "facilityWhere",
-    "pages": 55
+    "pages": 55,
+    "examplePages": [
+     "https://medicare.gov/coverage/blood-sugar-control-solutions",
+     "https://medicare.gov/coverage/abdominal-aortic-aneurysm-screenings",
+     "https://medicare.gov/coverage/osteoporosis-drugs",
+     "https://medicare.gov/coverage/hospice-care",
+     "https://medicare.gov/coverage/emergency-department-services"
+    ]
    },
    {
     "word": "doesn",
-    "pages": 45
+    "pages": 45,
+    "examplePages": [
+     "https://medicare.gov/prescription-payment-plan/will-this-help-me",
+     "https://medicare.gov/coverage/prostate-cancer-screenings",
+     "https://medicare.gov/coverage/welcome-to-medicare-preventive-visit",
+     "https://medicare.gov/basics/get-started-with-medicare/other-paths/medicare-marketplace",
+     "https://medicare.gov/health-drug-plans/part-d/what-drug-plans-cover/how-drug-plans-work"
+    ]
    },
    {
     "word": "las",
-    "pages": 41
+    "pages": 41,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/10050-SB",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL3N0YWZmaW5nIn19",
+     "https://www.medicare.gov/publication-ordering/10116-S"
+    ]
    },
    {
     "word": "que",
-    "pages": 33
+    "pages": 33,
+    "examplePages": [
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL3N0YWZmaW5nIn19",
+     "https://medicare.gov/publication-ordering/12203-S",
+     "https://www.medicare.gov/publication-ordering/11022-S"
+    ]
    },
    {
     "word": "Medigap",
-    "pages": 31
+    "pages": 31,
+    "examplePages": [
+     "https://medicare.gov/basics/get-started-with-medicare/get-more-coverage",
+     "https://medicare.gov/publications/search/all-non-english-pubs",
+     "https://medicare.gov/basics/get-started-with-medicare/after-65",
+     "https://medicare.gov/publications/search/all-non-english-pubs?page=1",
+     "https://medicare.gov/basics/get-started-with-medicare/other-paths/medicare-marketplace"
+    ]
    },
    {
     "word": "los",
-    "pages": 30
+    "pages": 30,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/10050-SB",
+     "https://medicare.gov/publication-ordering/12200-S",
+     "https://www.medicare.gov/publication-ordering/11022-S",
+     "https://www.medicare.gov/publication-ordering/11361-S",
+     "https://www.medicare.gov/publication-ordering/10116-S"
+    ]
    },
    {
     "word": "servicios",
-    "pages": 28
+    "pages": 28,
+    "examplePages": [
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL3N0YWZmaW5nIn19",
+     "https://www.medicare.gov/publication-ordering/11022-S",
+     "https://www.medicare.gov/publication-ordering/10116-S"
+    ]
    },
    {
     "word": "una",
-    "pages": 28
+    "pages": 28,
+    "examplePages": [
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/publication-ordering/11045-S",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL3N0YWZmaW5nIn19",
+     "https://medicare.gov/publication-ordering/12203-S"
+    ]
    },
    {
     "word": "Esta",
-    "pages": 27
+    "pages": 27,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/11173-S",
+     "https://medicare.gov/publication-ordering/12200-S",
+     "https://www.medicare.gov/publication-ordering/02179-S",
+     "https://www.medicare.gov/publication-ordering/12188-S",
+     "https://medicare.gov/publication-ordering/12192-S"
+    ]
    },
    {
     "word": "explica",
-    "pages": 27
+    "pages": 27,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/11173-S",
+     "https://medicare.gov/publication-ordering/12200-S",
+     "https://www.medicare.gov/publication-ordering/02179-S",
+     "https://medicare.gov/publication-ordering/12203-S",
+     "https://www.medicare.gov/publication-ordering/11022-S"
+    ]
    },
    {
     "word": "puede",
-    "pages": 24
+    "pages": 24,
+    "examplePages": [
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL3N0YWZmaW5nIn19",
+     "https://www.medicare.gov/publication-ordering/11022-S",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii8ifX0%3D"
+    ]
    },
    {
     "word": "sobre",
-    "pages": 22
+    "pages": 22,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/10050-SB",
+     "https://www.medicare.gov/publication-ordering/11359-S",
+     "https://medicare.gov/publication-ordering/10111-S",
+     "https://www.medicare.gov/publication-ordering/11361-S",
+     "https://medicare.gov/publication-ordering/11575-S"
+    ]
    },
    {
     "word": "Este",
-    "pages": 22
+    "pages": 22,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/11359-S",
+     "https://medicare.gov/publication-ordering/10111-S",
+     "https://www.medicare.gov/publication-ordering/11045-S",
+     "https://medicare.gov/publication-ordering/12203-S",
+     "https://www.medicare.gov/publication-ordering/11022-S"
+    ]
    },
    {
     "word": "necesita",
-    "pages": 21
+    "pages": 21,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/11173-S",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL3N0YWZmaW5nIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii8ifX0%3D"
+    ]
    },
    {
     "word": "vez",
-    "pages": 21
+    "pages": 21,
+    "examplePages": [
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL3N0YWZmaW5nIn19",
+     "https://medicare.gov/publication-ordering/12203-S",
+     "https://www.medicare.gov/publication-ordering/12203-S"
+    ]
    },
    {
     "word": "folleto",
-    "pages": 20
+    "pages": 20,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/11359-S",
+     "https://medicare.gov/publication-ordering/10111-S",
+     "https://www.medicare.gov/publication-ordering/11045-S",
+     "https://medicare.gov/publication-ordering/12203-S",
+     "https://www.medicare.gov/publication-ordering/11022-S"
+    ]
    },
    {
     "word": "identidad",
-    "pages": 20
+    "pages": 20,
+    "examplePages": [
+     "https://medicare.gov/publication-ordering/10111-S",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL3N0YWZmaW5nIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii8ifX0%3D"
+    ]
    },
    {
     "word": "verificaci",
-    "pages": 20
+    "pages": 20,
+    "examplePages": [
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL3N0YWZmaW5nIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii8ifX0%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9SG9tZUhlYWx0aCJ9fQ%3D%3D"
+    ]
    },
    {
     "word": "seguros",
-    "pages": 20
+    "pages": 20,
+    "examplePages": [
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19",
+     "https://www.medicare.gov/publication-ordering/02179-S",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL3N0YWZmaW5nIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii8ifX0%3D"
+    ]
    },
    {
     "word": "opciones",
-    "pages": 20
+    "pages": 20,
+    "examplePages": [
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL3N0YWZmaW5nIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii8ifX0%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9SG9tZUhlYWx0aCJ9fQ%3D%3D"
+    ]
    },
    {
     "word": "aren",
-    "pages": 19
+    "pages": 19,
+    "examplePages": [
+     "https://medicare.gov/coverage/hospice-care",
+     "https://medicare.gov/health-drug-plans/part-d/what-drug-plans-cover/pharmacies",
+     "https://medicare.gov/basics/your-medicare-rights/your-protections",
+     "https://medicare.gov/coverage/colonoscopies",
+     "https://medicare.gov/basics/get-started-with-medicare/get-more-coverage/joining-a-plan"
+    ]
    },
    {
     "word": "Inicie",
-    "pages": 19
+    "pages": 19,
+    "examplePages": [
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL3N0YWZmaW5nIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii8ifX0%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9SG9tZUhlYWx0aCJ9fQ%3D%3D"
+    ]
    }
   ]
  },
@@ -13755,7 +13932,14 @@
   "medianAccessibility": 100,
   "medianBestPractices": 54,
   "medianSeo": 92,
-  "medianAgentic": null
+  "medianAgentic": null,
+  "metrics": {
+   "firstContentfulPaintMs": 7417,
+   "largestContentfulPaintMs": 16922,
+   "speedIndexMs": 7543,
+   "totalBlockingTimeMs": 972,
+   "cumulativeLayoutShift": 0.012
+  }
  },
  "linkCheck": {
   "brokenCount": 5,

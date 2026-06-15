@@ -1,7 +1,7 @@
 {
  "domain": "www.medicaid.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-15T01:26:07.166Z",
+ "generatedAt": "2026-06-15T11:25:31.700Z",
  "pagesScanned": 2828,
  "pagesAudited": 2781,
  "coverage": {
@@ -75675,6 +75675,8 @@
    }
   ]
  },
+ "standards": null,
+ "security": null,
  "plainLanguage": {
   "pagesChecked": 963,
   "pagesScored": 217,
@@ -75746,103 +75748,278 @@
   "topMisspellings": [
    {
     "word": "https",
-    "pages": 623
+    "pages": 623,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-1-004-2",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8417",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481"
+    ]
    },
    {
     "word": "Changelog",
-    "pages": 619
+    "pages": 619,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-1-004-2",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8417",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481"
+    ]
    },
    {
     "word": "DateData",
-    "pages": 618
+    "pages": 618,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-1-004-2",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8417",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481"
+    ]
    },
    {
     "word": "entriesPreviousNext",
-    "pages": 548
+    "pages": 548,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8417",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2180"
+    ]
    },
    {
     "word": "VersionValidation",
-    "pages": 427
+    "pages": 427,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8417",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2180",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7354",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3096"
+    ]
    },
    {
     "word": "RuleActionFieldBeforeAfter",
-    "pages": 427
+    "pages": 427,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8417",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2180",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7354",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3096"
+    ]
    },
    {
     "word": "entriesPrevious",
-    "pages": 192
+    "pages": 192,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-1-004-2",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008285",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003193"
+    ]
    },
    {
     "word": "VersionData",
-    "pages": 134
+    "pages": 134,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008285",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003193",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004122"
+    ]
    },
    {
     "word": "ElementActionFieldBeforeAfter",
-    "pages": 134
+    "pages": 134,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008285",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003193",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004122"
+    ]
    },
    {
     "word": "yyyy",
-    "pages": 92
+    "pages": 92,
+    "examplePages": [
+     "https://www.medicaid.gov/federal-policy-guidance?page=5",
+     "https://www.medicaid.gov/faq?f1=Affordable+Care+Act&f2=Preventive+Services&f3=0&f4=0&f5=0&f6=0&fcf=&fd=05%2F22%2F2012&page=0&sb=-published&sl=yes&td=05%2F11%2F2018",
+     "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=991&page=2&q=",
+     "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list?entry=30488&page=3",
+     "https://www.medicaid.gov/chip/state-program-information/chip-spa?filter%5Bfield_state%5D%5Bin%5D%5B%5D=791&q="
+    ]
    },
    {
     "word": "Minimun",
-    "pages": 50
+    "pages": 50,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-1-004-2",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-58-001-1",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-31-008-8",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-1-014-14",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-23-026-26"
+    ]
    },
    {
     "word": "VersionDQMActionFieldBeforeAfter",
-    "pages": 50
+    "pages": 50,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-1-004-2",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-58-001-1",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-31-008-8",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-1-014-14",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-23-026-26"
+    ]
    },
    {
     "word": "MACPro",
-    "pages": 20
+    "pages": 20,
+    "examplePages": [
+     "https://www.medicaid.gov/chip/state-program-information/chip-spa?filter%5Bfield_state%5D%5Bin%5D%5B%5D=791&q=",
+     "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_approval_date%5D%5Bgte%5D=&filter%5Bfield_approval_date%5D%5Blte%5D=&filter%5Bfield_effective_date%5D%5Bgte%5D=&filter%5Bfield_effective_date%5D%5Blte%5D=&filter%5Bfield_state%5D%5Bin%5D%5B0%5D=1041&limit=10&page=0&q=&sort=field_approval_date%3Adesc",
+     "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_approval_date%5D%5Bgte%5D=&filter%5Bfield_approval_date%5D%5Blte%5D=&filter%5Bfield_effective_date%5D%5Bgte%5D=&filter%5Bfield_effective_date%5D%5Blte%5D=&filter%5Bfield_state%5D%5Bin%5D%5B0%5D=1026&limit=10&page=0&q=&sort=field_approval_date%3Adesc",
+     "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=711&page=2&q=",
+     "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B%5D=806&q="
+    ]
    },
    {
     "word": "capitated",
-    "pages": 19
+    "pages": 19,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8745",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8722",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008290",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003076",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx007250"
+    ]
    },
    {
     "word": "recoupment",
-    "pages": 18
+    "pages": 18,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008285",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004122",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx006196",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8714",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008290"
+    ]
    },
    {
     "word": "resubmission",
-    "pages": 18
+    "pages": 18,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7323",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7258",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7348",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7716",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7895"
+    ]
    },
    {
     "word": "tmsis",
-    "pages": 14
+    "pages": 14,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl002019",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2384",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/ftx-financial-transaction/individual-capitation-pmpm",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/elg-eligible/primary-demographics-eligibility",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/cot-claim-other/claim-line-record-ot"
+    ]
    },
    {
     "word": "www",
-    "pages": 13
+    "pages": 13,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl002019",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv004068",
+     "https://www.medicaid.gov/faq?fcf=40825&page=83&sl=yes",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/ftx-financial-transaction/individual-capitation-pmpm",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/elg-eligible/primary-demographics-eligibility"
+    ]
    },
    {
     "word": "cms",
-    "pages": 12
+    "pages": 12,
+    "examplePages": [
+     "https://www.medicaid.gov/faq?f1=Affordable+Care+Act&f2=Preventive+Services&f3=0&f4=0&f5=0&f6=0&fcf=&fd=05%2F22%2F2012&page=0&sb=-published&sl=yes&td=05%2F11%2F2018",
+     "https://www.medicaid.gov/medicaid/prescription-drugs/drug-utilization-review/antipsychotic-medication-use-children",
+     "https://www.medicaid.gov/medicaid/prescription-drugs/state-prescription-drug-resources/340b-drug-pricing-program",
+     "https://www.medicaid.gov/faq?entry=47417&page=5",
+     "https://www.medicaid.gov/medicaid/prescription-drugs/pharmacy-pricing"
+    ]
    },
    {
     "word": "InformationIn",
-    "pages": 12
+    "pages": 12,
+    "examplePages": [
+     "https://www.medicaid.gov/chip/state-program-information/chip-spa?filter%5Bfield_state%5D%5Bin%5D%5B%5D=791&q=",
+     "https://www.medicaid.gov/chip/state-program-information/chip-spa?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=811&page=0&q=",
+     "https://www.medicaid.gov/chip/state-program-information/chip-spa?filter%5Bfield_state%5D%5Bin%5D%5B%5D=896&q=",
+     "https://www.medicaid.gov/chip/state-program-information/chip-spa?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=786&page=1&q=",
+     "https://www.medicaid.gov/chip/state-program-information/chip-spa?filter%5Bfield_state%5D%5Bin%5D%5B%5D=991&q="
+    ]
    },
    {
     "word": "hhs",
-    "pages": 11
+    "pages": 11,
+    "examplePages": [
+     "https://www.medicaid.gov/faq?f1=Affordable+Care+Act&f2=Preventive+Services&f3=0&f4=0&f5=0&f6=0&fcf=&fd=05%2F22%2F2012&page=0&sb=-published&sl=yes&td=05%2F11%2F2018",
+     "https://www.medicaid.gov/medicaid/prescription-drugs/drug-utilization-review/antipsychotic-medication-use-children",
+     "https://www.medicaid.gov/medicaid/prescription-drugs/state-prescription-drug-resources/340b-drug-pricing-program",
+     "https://www.medicaid.gov/faq?entry=47417&page=5",
+     "https://www.medicaid.gov/medicaid/prescription-drugs/pharmacy-pricing"
+    ]
    },
    {
     "word": "Capitated",
-    "pages": 11
+    "pages": 11,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008290",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003076",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx007250",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-841",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8752"
+    ]
    },
    {
     "word": "monthDefine",
-    "pages": 9
+    "pages": 9,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-23-026-26",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-31-010-10",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-7-001-1",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-16-003-3",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-15-005-5"
+    ]
    },
    {
     "word": "cutover",
-    "pages": 9
+    "pages": 9,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg003051",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2384",
+     "https://www.medicaid.gov/medicaid/data-systems/macbis/medicaid-chip-research-files/transformed-medicaid-statistical-information-system-t-msis-analytic-files-taf",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg005100"
+    ]
    },
    {
     "word": "dataguide",
-    "pages": 9
+    "pages": 9,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl002019",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/ftx-financial-transaction/individual-capitation-pmpm",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/elg-eligible/primary-demographics-eligibility",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/cot-claim-other/claim-line-record-ot",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg020241"
+    ]
    }
   ]
  },
@@ -75852,7 +76029,14 @@
   "medianAccessibility": 99,
   "medianBestPractices": 96,
   "medianSeo": 92,
-  "medianAgentic": null
+  "medianAgentic": null,
+  "metrics": {
+   "firstContentfulPaintMs": 1991,
+   "largestContentfulPaintMs": 2443,
+   "speedIndexMs": 1991,
+   "totalBlockingTimeMs": 328,
+   "cumulativeLayoutShift": 0
+  }
  },
  "linkCheck": {
   "brokenCount": 2,

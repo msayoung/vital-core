@@ -1,7 +1,7 @@
 {
  "domain": "data.cms.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-15T01:26:07.569Z",
+ "generatedAt": "2026-06-15T11:25:32.383Z",
  "pagesScanned": 2500,
  "pagesAudited": 2167,
  "coverage": {
@@ -35003,6 +35003,8 @@
    }
   ]
  },
+ "standards": null,
+ "security": null,
  "plainLanguage": {
   "pagesChecked": 696,
   "pagesScored": 50,
@@ -35074,103 +35076,278 @@
   "topMisspellings": [
    {
     "word": "updatesView",
-    "pages": 384
+    "pages": 384,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/datasets?theme%5B0%5D=Physician+office+visit+costs",
+     "https://data.cms.gov/provider-data/topics/long-term-care-hospitals/measures",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3"
+    ]
    },
    {
     "word": "pageData",
-    "pages": 384
+    "pages": 384,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/datasets?theme%5B0%5D=Physician+office+visit+costs",
+     "https://data.cms.gov/provider-data/topics/long-term-care-hospitals/measures",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3"
+    ]
    },
    {
     "word": "pageViewing",
-    "pages": 384
+    "pages": 384,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/datasets?theme%5B0%5D=Physician+office+visit+costs",
+     "https://data.cms.gov/provider-data/topics/long-term-care-hospitals/measures",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3"
+    ]
    },
    {
     "word": "TableOverviewData",
-    "pages": 360
+    "pages": 360,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/apyc-v239?page=4"
+    ]
    },
    {
     "word": "DictionaryAPI",
-    "pages": 342
+    "pages": 342,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/apyc-v239?page=4"
+    ]
    },
    {
     "word": "DetailsArchived",
-    "pages": 299
+    "pages": 299,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/apyc-v239?page=4"
+    ]
    },
    {
     "word": "DataLast",
-    "pages": 299
+    "pages": 299,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/apyc-v239?page=4"
+    ]
    },
    {
     "word": "rowsFilter",
-    "pages": 299
+    "pages": 299,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/apyc-v239?page=4"
+    ]
    },
    {
     "word": "DatasetFilter",
-    "pages": 299
+    "pages": 299,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/apyc-v239?page=4"
+    ]
    },
    {
     "word": "DatasetAdd",
-    "pages": 299
+    "pages": 299,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/apyc-v239?page=4"
+    ]
    },
    {
     "word": "NameConditionValueColumn",
-    "pages": 299
+    "pages": 299,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/apyc-v239?page=4"
+    ]
    },
    {
     "word": "filterResetApply",
-    "pages": 299
+    "pages": 299,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/apyc-v239?page=4"
+    ]
    },
    {
     "word": "filtersManage",
-    "pages": 299
+    "pages": 299,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/apyc-v239?page=4"
+    ]
    },
    {
     "word": "ColumnsManage",
-    "pages": 299
+    "pages": 299,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/apyc-v239?page=4"
+    ]
    },
    {
     "word": "columnsActivate",
-    "pages": 299
+    "pages": 299,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/apyc-v239?page=4"
+    ]
    },
    {
     "word": "allDisplay",
-    "pages": 299
+    "pages": 299,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=4",
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/apyc-v239?page=4"
+    ]
    },
    {
     "word": "https",
-    "pages": 176
+    "pages": 176,
+    "examplePages": [
+     "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-quarterly-part-d-spending-by-drug/data",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/medicare-shared-savings-program/county-level-aggregate-expenditure-and-risk-score-data-on-assignable-beneficiaries/data/2023",
+     "https://data.cms.gov/provider-summary-by-type-of-service/medicare-durable-medical-equipment-devices-supplies/medicare-durable-medical-equipment-devices-supplies-by-geography-and-service/data/2018",
+     "https://data.cms.gov/quality-of-care/payroll-based-journal-employee-detail-nursing-home-staffing/data/q3-2024"
+    ]
    },
    {
     "word": "govA",
-    "pages": 175
+    "pages": 175,
+    "examplePages": [
+     "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-quarterly-part-d-spending-by-drug/data",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/medicare-shared-savings-program/county-level-aggregate-expenditure-and-risk-score-data-on-assignable-beneficiaries/data/2023",
+     "https://data.cms.gov/provider-summary-by-type-of-service/medicare-durable-medical-equipment-devices-supplies/medicare-durable-medical-equipment-devices-supplies-by-geography-and-service/data/2018",
+     "https://data.cms.gov/quality-of-care/payroll-based-journal-employee-detail-nursing-home-staffing/data/q3-2024"
+    ]
    },
    {
     "word": "rowsRows",
-    "pages": 149
+    "pages": 149,
+    "examplePages": [
+     "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-quarterly-part-d-spending-by-drug/data",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/medicare-shared-savings-program/county-level-aggregate-expenditure-and-risk-score-data-on-assignable-beneficiaries/data/2023",
+     "https://data.cms.gov/provider-summary-by-type-of-service/medicare-durable-medical-equipment-devices-supplies/medicare-durable-medical-equipment-devices-supplies-by-geography-and-service/data/2018",
+     "https://data.cms.gov/quality-of-care/payroll-based-journal-employee-detail-nursing-home-staffing/data/q3-2024"
+    ]
    },
    {
     "word": "SearchManage",
-    "pages": 149
+    "pages": 149,
+    "examplePages": [
+     "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-quarterly-part-d-spending-by-drug/data",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/medicare-shared-savings-program/county-level-aggregate-expenditure-and-risk-score-data-on-assignable-beneficiaries/data/2023",
+     "https://data.cms.gov/provider-summary-by-type-of-service/medicare-durable-medical-equipment-devices-supplies/medicare-durable-medical-equipment-devices-supplies-by-geography-and-service/data/2018",
+     "https://data.cms.gov/quality-of-care/payroll-based-journal-employee-detail-nursing-home-staffing/data/q3-2024"
+    ]
    },
    {
     "word": "ColumnsFilter",
-    "pages": 149
+    "pages": 149,
+    "examplePages": [
+     "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-quarterly-part-d-spending-by-drug/data",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/medicare-shared-savings-program/county-level-aggregate-expenditure-and-risk-score-data-on-assignable-beneficiaries/data/2023",
+     "https://data.cms.gov/provider-summary-by-type-of-service/medicare-durable-medical-equipment-devices-supplies/medicare-durable-medical-equipment-devices-supplies-by-geography-and-service/data/2018",
+     "https://data.cms.gov/quality-of-care/payroll-based-journal-employee-detail-nursing-home-staffing/data/q3-2024"
+    ]
    },
    {
     "word": "ExportBasic",
-    "pages": 149
+    "pages": 149,
+    "examplePages": [
+     "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-quarterly-part-d-spending-by-drug/data",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/medicare-shared-savings-program/county-level-aggregate-expenditure-and-risk-score-data-on-assignable-beneficiaries/data/2023",
+     "https://data.cms.gov/provider-summary-by-type-of-service/medicare-durable-medical-equipment-devices-supplies/medicare-durable-medical-equipment-devices-supplies-by-geography-and-service/data/2018",
+     "https://data.cms.gov/quality-of-care/payroll-based-journal-employee-detail-nursing-home-staffing/data/q3-2024"
+    ]
    },
    {
     "word": "FilteringAdvanced",
-    "pages": 149
+    "pages": 149,
+    "examplePages": [
+     "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-quarterly-part-d-spending-by-drug/data",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/medicare-shared-savings-program/county-level-aggregate-expenditure-and-risk-score-data-on-assignable-beneficiaries/data/2023",
+     "https://data.cms.gov/provider-summary-by-type-of-service/medicare-durable-medical-equipment-devices-supplies/medicare-durable-medical-equipment-devices-supplies-by-geography-and-service/data/2018",
+     "https://data.cms.gov/quality-of-care/payroll-based-journal-employee-detail-nursing-home-staffing/data/q3-2024"
+    ]
    },
    {
     "word": "FilteringSelect",
-    "pages": 149
+    "pages": 149,
+    "examplePages": [
+     "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-quarterly-part-d-spending-by-drug/data",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/medicare-shared-savings-program/county-level-aggregate-expenditure-and-risk-score-data-on-assignable-beneficiaries/data/2023",
+     "https://data.cms.gov/provider-summary-by-type-of-service/medicare-durable-medical-equipment-devices-supplies/medicare-durable-medical-equipment-devices-supplies-by-geography-and-service/data/2018",
+     "https://data.cms.gov/quality-of-care/payroll-based-journal-employee-detail-nursing-home-staffing/data/q3-2024"
+    ]
    },
    {
     "word": "columnSelect",
-    "pages": 149
+    "pages": 149,
+    "examplePages": [
+     "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-quarterly-part-d-spending-by-drug/data",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/medicare-shared-savings-program/county-level-aggregate-expenditure-and-risk-score-data-on-assignable-beneficiaries/data/2023",
+     "https://data.cms.gov/provider-summary-by-type-of-service/medicare-durable-medical-equipment-devices-supplies/medicare-durable-medical-equipment-devices-supplies-by-geography-and-service/data/2018",
+     "https://data.cms.gov/quality-of-care/payroll-based-journal-employee-detail-nursing-home-staffing/data/q3-2024"
+    ]
    }
   ]
  },
@@ -35180,7 +35357,14 @@
   "medianAccessibility": 96,
   "medianBestPractices": 100,
   "medianSeo": 92,
-  "medianAgentic": null
+  "medianAgentic": null,
+  "metrics": {
+   "firstContentfulPaintMs": 9494,
+   "largestContentfulPaintMs": 12381,
+   "speedIndexMs": 9497,
+   "totalBlockingTimeMs": 803,
+   "cumulativeLayoutShift": 0
+  }
  },
  "linkCheck": {
   "brokenCount": 8,

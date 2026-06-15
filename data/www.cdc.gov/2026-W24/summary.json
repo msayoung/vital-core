@@ -1,7 +1,7 @@
 {
  "domain": "www.cdc.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-15T01:26:07.460Z",
+ "generatedAt": "2026-06-15T11:25:32.222Z",
  "pagesScanned": 833,
  "pagesAudited": 812,
  "coverage": {
@@ -21989,6 +21989,8 @@
    }
   ]
  },
+ "standards": null,
+ "security": null,
  "plainLanguage": {
   "pagesChecked": 345,
   "pagesScored": 299,
@@ -22060,103 +22062,278 @@
   "topMisspellings": [
    {
     "word": "LinkedIn",
-    "pages": 102
+    "pages": 102,
+    "examplePages": [
+     "https://www.cdc.gov/continuing-education/php/types-of-ce/index.html",
+     "https://www.cdc.gov/project-firstline/programs/index.html",
+     "https://www.cdc.gov/flu/whats-new/2023-2024-flu-vaccine-benefits.html",
+     "https://www.cdc.gov/healthy-swimming/toolkit/chloramines-and-pool-operation.html",
+     "https://www.cdc.gov/physical-activity-education/staying-healthy/index.html"
+    ]
    },
    {
     "word": "cdc",
-    "pages": 41
+    "pages": 41,
+    "examplePages": [
+     "https://www.cdc.gov/places/communication-resources/index.html",
+     "https://www.cdc.gov/pcd/issues/2005/nov/05_0075.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00033013.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00001972.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00049452.htm"
+    ]
    },
    {
     "word": "Zoonotic",
-    "pages": 29
+    "pages": 29,
+    "examplePages": [
+     "https://www.cdc.gov/project-firstline/programs/index.html",
+     "https://www.cdc.gov/healthy-swimming/toolkit/chloramines-and-pool-operation.html",
+     "https://www.cdc.gov/rocky-mountain-spotted-fever/hcp/data-research/index.html",
+     "https://www.cdc.gov/me-cfs/awareness-day/index.html",
+     "https://www.cdc.gov/nors/about/surveillance-systems.html"
+    ]
    },
    {
     "word": "mmwrq",
-    "pages": 26
+    "pages": 26,
+    "examplePages": [
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00033013.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00001972.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00049452.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00026130.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00000026.htm"
+    ]
    },
    {
     "word": "http",
-    "pages": 24
+    "pages": 24,
+    "examplePages": [
+     "https://www.cdc.gov/pcd/issues/2019/2019_TOC.htm",
+     "https://www.cdc.gov/places/communication-resources/index.html",
+     "https://www.cdc.gov/pcd/issues/2005/nov/05_0075.htm",
+     "https://www.cdc.gov/pcd/issues/2023/22_0307.htm",
+     "https://www.cdc.gov/pcd/issues/2023/23_0056.htm"
+    ]
    },
    {
     "word": "Espa",
-    "pages": 22
+    "pages": 22,
+    "examplePages": [
+     "https://www.cdc.gov/flu/whats-new/2023-2024-flu-vaccine-benefits.html",
+     "https://www.cdc.gov/healthy-swimming/toolkit/chloramines-and-pool-operation.html",
+     "https://www.cdc.gov/covid/communication/vaccines-children-teens.html",
+     "https://www.cdc.gov/tornadoes/safety/stay-safe-during-a-tornado-safety.html",
+     "https://www.cdc.gov/cyclosporiasis/hcp/clinical-overview/index.html"
+    ]
    },
    {
     "word": "www",
-    "pages": 20
+    "pages": 20,
+    "examplePages": [
+     "https://www.cdc.gov/places/communication-resources/index.html",
+     "https://www.cdc.gov/pcd/issues/2005/nov/05_0075.htm",
+     "https://www.cdc.gov/pcd/issues/2023/22_0307.htm",
+     "https://www.cdc.gov/pcd/issues/2008/oct/07_0164.htm",
+     "https://www.cdc.gov/cyclosporiasis/hcp/clinical-overview/index.html"
+    ]
    },
    {
     "word": "MailStop",
-    "pages": 19
+    "pages": 19,
+    "examplePages": [
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00033013.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00049452.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00026130.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00046202.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00001887.htm"
+    ]
    },
    {
     "word": "Prev",
-    "pages": 18
+    "pages": 18,
+    "examplePages": [
+     "https://www.cdc.gov/pcd/issues/2019/2019_TOC.htm",
+     "https://www.cdc.gov/pcd/issues/2005/nov/05_0075.htm",
+     "https://www.cdc.gov/pcd/issues/2023/22_0307.htm",
+     "https://www.cdc.gov/pcd/issues/2023/23_0056.htm",
+     "https://www.cdc.gov/pcd/issues/2008/oct/07_0164.htm"
+    ]
    },
    {
     "word": "Healthand",
-    "pages": 18
+    "pages": 18,
+    "examplePages": [
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00033013.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00049452.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00026130.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00046202.htm",
+     "https://www.cdc.gov/mmwr/preview/mmwrhtml/00001887.htm"
+    ]
    },
    {
     "word": "doi",
-    "pages": 17
+    "pages": 17,
+    "examplePages": [
+     "https://www.cdc.gov/pcd/issues/2019/2019_TOC.htm",
+     "https://www.cdc.gov/pcd/issues/2023/22_0307.htm",
+     "https://www.cdc.gov/heads-up/response/index.html",
+     "https://www.cdc.gov/pcd/issues/2023/23_0056.htm",
+     "https://www.cdc.gov/pcd/issues/2019/18_0337.htm"
+    ]
    },
    {
     "word": "pcd",
-    "pages": 17
+    "pages": 17,
+    "examplePages": [
+     "https://www.cdc.gov/pcd/issues/2019/2019_TOC.htm",
+     "https://www.cdc.gov/pcd/issues/2005/nov/05_0075.htm",
+     "https://www.cdc.gov/pcd/issues/2023/22_0307.htm",
+     "https://www.cdc.gov/pcd/issues/2023/23_0056.htm",
+     "https://www.cdc.gov/pcd/issues/2008/oct/07_0164.htm"
+    ]
    },
    {
     "word": "del",
-    "pages": 17
+    "pages": 17,
+    "examplePages": [
+     "https://www.cdc.gov/chlamydia/es/about/acerca-de-las-infecciones-por-clamidia.html",
+     "https://www.cdc.gov/herpes/es/about/acerca-del-herpes-genital.html",
+     "https://www.cdc.gov/niosh/falls/es/about/acerca-de-las-caidas-en-el-lugar-de-trabajo.html",
+     "https://www.cdc.gov/mycoplasma/es/infeccion-por-mycoplasma-pneumoniae.html",
+     "https://www.cdc.gov/asthma/about/index.html"
+    ]
    },
    {
     "word": "olFor",
-    "pages": 14
+    "pages": 14,
+    "examplePages": [
+     "https://www.cdc.gov/healthy-swimming/toolkit/chloramines-and-pool-operation.html",
+     "https://www.cdc.gov/tornadoes/safety/stay-safe-during-a-tornado-safety.html",
+     "https://www.cdc.gov/cyclosporiasis/hcp/clinical-overview/index.html",
+     "https://www.cdc.gov/asthma/about/index.html",
+     "https://www.cdc.gov/ovarian-cancer/about/index.html"
+    ]
    },
    {
     "word": "Puntos",
-    "pages": 11
+    "pages": 11,
+    "examplePages": [
+     "https://www.cdc.gov/chlamydia/es/about/acerca-de-las-infecciones-por-clamidia.html",
+     "https://www.cdc.gov/herpes/es/about/acerca-del-herpes-genital.html",
+     "https://www.cdc.gov/niosh/falls/es/about/acerca-de-las-caidas-en-el-lugar-de-trabajo.html",
+     "https://www.cdc.gov/chickenpox/es/vaccination-impact/impacto-del-programa-de-vacunacion-contra-la-varicela-en-los-estados-unidos.html",
+     "https://www.cdc.gov/birth-defects/es/about/labio-hendido-y-paladar-hendido.html"
+    ]
    },
    {
     "word": "clave",
-    "pages": 11
+    "pages": 11,
+    "examplePages": [
+     "https://www.cdc.gov/chlamydia/es/about/acerca-de-las-infecciones-por-clamidia.html",
+     "https://www.cdc.gov/herpes/es/about/acerca-del-herpes-genital.html",
+     "https://www.cdc.gov/niosh/falls/es/about/acerca-de-las-caidas-en-el-lugar-de-trabajo.html",
+     "https://www.cdc.gov/chickenpox/es/vaccination-impact/impacto-del-programa-de-vacunacion-contra-la-varicela-en-los-estados-unidos.html",
+     "https://www.cdc.gov/birth-defects/es/about/labio-hendido-y-paladar-hendido.html"
+    ]
    },
    {
     "word": "todos",
-    "pages": 10
+    "pages": 10,
+    "examplePages": [
+     "https://www.cdc.gov/chlamydia/es/about/acerca-de-las-infecciones-por-clamidia.html",
+     "https://www.cdc.gov/herpes/es/about/acerca-del-herpes-genital.html",
+     "https://www.cdc.gov/niosh/falls/es/about/acerca-de-las-caidas-en-el-lugar-de-trabajo.html",
+     "https://www.cdc.gov/chickenpox/es/vaccination-impact/impacto-del-programa-de-vacunacion-contra-la-varicela-en-los-estados-unidos.html",
+     "https://www.cdc.gov/birth-defects/es/about/labio-hendido-y-paladar-hendido.html"
+    ]
    },
    {
     "word": "las",
-    "pages": 10
+    "pages": 10,
+    "examplePages": [
+     "https://www.cdc.gov/chlamydia/es/about/acerca-de-las-infecciones-por-clamidia.html",
+     "https://www.cdc.gov/mycoplasma/es/infeccion-por-mycoplasma-pneumoniae.html",
+     "https://www.cdc.gov/yellow-fever/php/resources/index.html",
+     "https://www.cdc.gov/lyme/es/prevention/index.html",
+     "https://www.cdc.gov/trichomoniasis/es/about/acerca-de-la-tricomoniasis.html"
+    ]
    },
    {
     "word": "https",
-    "pages": 10
+    "pages": 10,
+    "examplePages": [
+     "https://www.cdc.gov/physical-activity-education/staying-healthy/index.html",
+     "https://www.cdc.gov/places/communication-resources/index.html",
+     "https://www.cdc.gov/heads-up/response/index.html",
+     "https://www.cdc.gov/cyclosporiasis/hcp/clinical-overview/index.html",
+     "https://www.cdc.gov/parasites/cme/malaria_101"
+    ]
    },
    {
     "word": "que",
-    "pages": 9
+    "pages": 9,
+    "examplePages": [
+     "https://www.cdc.gov/chlamydia/es/about/acerca-de-las-infecciones-por-clamidia.html",
+     "https://www.cdc.gov/herpes/es/about/acerca-del-herpes-genital.html",
+     "https://www.cdc.gov/mycoplasma/es/infeccion-por-mycoplasma-pneumoniae.html",
+     "https://www.cdc.gov/chickenpox/es/vaccination-impact/impacto-del-programa-de-vacunacion-contra-la-varicela-en-los-estados-unidos.html",
+     "https://www.cdc.gov/birth-defects/es/about/labio-hendido-y-paladar-hendido.html"
+    ]
    },
    {
     "word": "Archivo",
-    "pages": 8
+    "pages": 8,
+    "examplePages": [
+     "https://www.cdc.gov/pcd/issues/2005/nov/05_0075.htm",
+     "https://www.cdc.gov/pcd/issues/2008/oct/07_0164.htm",
+     "https://www.cdc.gov/pcd/issues/2011/nov/11_0029.htm",
+     "https://www.cdc.gov/pcd/issues/2006/apr/cover.htm",
+     "https://www.cdc.gov/pcd/issues/2008/oct/07_0180_es.htm"
+    ]
    },
    {
     "word": "meros",
-    "pages": 8
+    "pages": 8,
+    "examplePages": [
+     "https://www.cdc.gov/pcd/issues/2005/nov/05_0075.htm",
+     "https://www.cdc.gov/pcd/issues/2008/oct/07_0164.htm",
+     "https://www.cdc.gov/pcd/issues/2011/nov/11_0029.htm",
+     "https://www.cdc.gov/pcd/issues/2006/apr/cover.htm",
+     "https://www.cdc.gov/pcd/issues/2008/oct/07_0180_es.htm"
+    ]
    },
    {
     "word": "espa",
-    "pages": 8
+    "pages": 8,
+    "examplePages": [
+     "https://www.cdc.gov/pcd/issues/2005/nov/05_0075.htm",
+     "https://www.cdc.gov/pcd/issues/2008/oct/07_0164.htm",
+     "https://www.cdc.gov/pcd/issues/2011/nov/11_0029.htm",
+     "https://www.cdc.gov/pcd/issues/2006/apr/cover.htm",
+     "https://www.cdc.gov/pcd/issues/2008/oct/07_0180_es.htm"
+    ]
    },
    {
     "word": "sobre",
-    "pages": 7
+    "pages": 7,
+    "examplePages": [
+     "https://www.cdc.gov/chlamydia/es/about/acerca-de-las-infecciones-por-clamidia.html",
+     "https://www.cdc.gov/herpes/es/about/acerca-del-herpes-genital.html",
+     "https://www.cdc.gov/spanish/niosh/pubsnum-sp.html",
+     "https://www.cdc.gov/trichomoniasis/es/about/acerca-de-la-tricomoniasis.html",
+     "https://www.cdc.gov/pcd/issues/2008/oct/07_0180_es.htm"
+    ]
    },
    {
     "word": "htm",
-    "pages": 7
+    "pages": 7,
+    "examplePages": [
+     "https://www.cdc.gov/pcd/issues/2005/nov/05_0075.htm",
+     "https://www.cdc.gov/pcd/issues/2008/oct/07_0164.htm",
+     "https://www.cdc.gov/niosh/anthrax/php/surface-sampling/index.html",
+     "https://www.cdc.gov/pcd/issues/2011/nov/11_0029.htm",
+     "https://www.cdc.gov/pcd/issues/2025/23_0444e.htm"
+    ]
    }
   ]
  },
@@ -22166,7 +22343,14 @@
   "medianAccessibility": 100,
   "medianBestPractices": 100,
   "medianSeo": 100,
-  "medianAgentic": null
+  "medianAgentic": null,
+  "metrics": {
+   "firstContentfulPaintMs": 1225,
+   "largestContentfulPaintMs": 2886,
+   "speedIndexMs": 4395,
+   "totalBlockingTimeMs": 144,
+   "cumulativeLayoutShift": 0.044
+  }
  },
  "linkCheck": {
   "brokenCount": 104,
