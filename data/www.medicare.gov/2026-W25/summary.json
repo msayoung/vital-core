@@ -1,30 +1,30 @@
 {
  "domain": "www.medicare.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-15T17:46:49.799Z",
- "pagesScanned": 866,
- "pagesAudited": 855,
+ "generatedAt": "2026-06-15T20:05:58.653Z",
+ "pagesScanned": 966,
+ "pagesAudited": 953,
  "coverage": {
-  "axe": 855,
-  "resources": 855,
-  "standards": 122,
-  "lighthouse": 132,
-  "sustainability": 642,
-  "deprecated-html": 636,
-  "alfa": 248,
-  "plain-language": 398,
-  "security": 23
+  "axe": 953,
+  "plain-language": 446,
+  "resources": 953,
+  "standards": 169,
+  "lighthouse": 155,
+  "sustainability": 675,
+  "deprecated-html": 651,
+  "alfa": 278,
+  "security": 39
  },
  "blocked": null,
  "axe": {
-  "violationTotal": 38,
-  "pagesWithViolations": 32,
-  "pagesScanned": 855,
+  "violationTotal": 43,
+  "pagesWithViolations": 37,
+  "pagesScanned": 953,
   "medianViolations": 0,
   "rules": {
    "heading-order": {
-    "count": 23,
-    "pages": 23,
+    "count": 26,
+    "pages": 26,
     "impact": "moderate",
     "help": "Heading levels should only increase by one",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
@@ -32,11 +32,15 @@
      "best-practice"
     ],
     "examplePages": [
+     "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
      "https://medicare.gov/publications/search/all-non-english-pubs",
-     "https://medicare.gov/publications/search/all-non-english-pubs?page=5",
-     "https://www.medicare.gov/publications/search/all-non-english-pubs?page=1"
+     "https://medicare.gov/publications/search/all-non-english-pubs?page=5"
     ],
     "affectedPages": [
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
+      "instances": 1
+     },
      {
       "url": "https://medicare.gov/publications/search/all-non-english-pubs",
       "instances": 1
@@ -98,6 +102,14 @@
       "instances": 1
      },
      {
+      "url": "https://medicare.gov/basics/end-stage-renal-disease",
+      "instances": 1
+     },
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=8",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicare.gov/publications/search/all-non-english-pubs?page=4",
       "instances": 1
      },
@@ -132,6 +144,11 @@
     ],
     "instances": [
      {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
+      "target": ".layout__column.ds-l-col--12 > h3:nth-child(1)",
+      "html": "<h3>Polish</h3>"
+     },
+     {
       "url": "https://medicare.gov/publications/search/all-non-english-pubs",
       "target": ".layout__column.ds-l-col--12 > h3:nth-child(1)",
       "html": "<h3>Amharic</h3>"
@@ -150,11 +167,42 @@
       "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=1",
       "target": ".layout__column.ds-l-col--12 > h3:nth-child(1)",
       "html": "<h3>Chinese</h3>"
+     }
+    ]
+   },
+   "empty-table-header": {
+    "count": 2,
+    "pages": 2,
+    "impact": "minor",
+    "help": "Table header text should not be empty",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/empty-table-header?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://medicare.gov/account/login/help",
+     "https://www.medicare.gov/account/login/help"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://medicare.gov/account/login/help",
+      "instances": 1
      },
      {
-      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=10",
-      "target": ".layout__column.ds-l-col--12 > h3",
-      "html": "<h3>Spanish</h3>"
+      "url": "https://www.medicare.gov/account/login/help",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://medicare.gov/account/login/help",
+      "target": "thead > tr > th:nth-child(1)",
+      "html": "<th class=\"\">&nbsp;</th>"
+     },
+     {
+      "url": "https://www.medicare.gov/account/login/help",
+      "target": "thead > tr > th:nth-child(1)",
+      "html": "<th class=\"\">&nbsp;</th>"
      }
     ]
    },
@@ -205,8 +253,8 @@
     ]
    },
    "frame-title": {
-    "count": 3,
-    "pages": 3,
+    "count": 4,
+    "pages": 4,
     "impact": "serious",
     "help": "Frames must have an accessible name",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/frame-title?application=axeAPI",
@@ -217,7 +265,7 @@
     "examplePages": [
      "https://www.medicare.gov/providers-services/claims-appeals-complaints/appeals/original-medicare",
      "https://medicare.gov/coverage/suction-pumps",
-     "https://medicare.gov/health-drug-plans/health-plans/your-coverage-options/plan-marketing-rules"
+     "https://www.medicare.gov/basics/get-started-with-medicare"
     ],
     "affectedPages": [
      {
@@ -226,6 +274,10 @@
      },
      {
       "url": "https://medicare.gov/coverage/suction-pumps",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/basics/get-started-with-medicare",
       "instances": 1
      },
      {
@@ -241,6 +293,11 @@
      },
      {
       "url": "https://medicare.gov/coverage/suction-pumps",
+      "target": "iframe[height=\"100%\"]",
+      "html": "<iframe data-src=\"https://surveys.cms.gov/jfe/form/SV_9LbdFueyKSYZ2nk?Q_CHL=si&amp;Q_CanScreenCapture=1\" width=\"100%\" height=\"100%\" frameborder=\"0\" name=\"survey-iframe-SI_6tbIx8xW9ShoDfU\" data-name=\"e"
+     },
+     {
+      "url": "https://www.medicare.gov/basics/get-started-with-medicare",
       "target": "iframe[height=\"100%\"]",
       "html": "<iframe data-src=\"https://surveys.cms.gov/jfe/form/SV_9LbdFueyKSYZ2nk?Q_CHL=si&amp;Q_CanScreenCapture=1\" width=\"100%\" height=\"100%\" frameborder=\"0\" name=\"survey-iframe-SI_6tbIx8xW9ShoDfU\" data-name=\"e"
      },
@@ -337,49 +394,23 @@
       "html": "<p>Complete this form to file a complaint about your Medicare health or drug plan.</p>"
      }
     ]
-   },
-   "empty-table-header": {
-    "count": 1,
-    "pages": 1,
-    "impact": "minor",
-    "help": "Table header text should not be empty",
-    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/empty-table-header?application=axeAPI",
-    "tags": [
-     "best-practice"
-    ],
-    "examplePages": [
-     "https://www.medicare.gov/account/login/help"
-    ],
-    "affectedPages": [
-     {
-      "url": "https://www.medicare.gov/account/login/help",
-      "instances": 1
-     }
-    ],
-    "instances": [
-     {
-      "url": "https://www.medicare.gov/account/login/help",
-      "target": "thead > tr > th:nth-child(1)",
-      "html": "<th class=\"\">&nbsp;</th>"
-     }
-    ]
    }
   }
  },
  "alfa": {
-  "failedTotal": 12276,
-  "pagesWithFailures": 248,
-  "pagesScanned": 248,
+  "failedTotal": 13830,
+  "pagesWithFailures": 278,
+  "pagesScanned": 278,
   "medianFailures": 49,
   "rules": {
    "sia-r73": {
-    "count": 2544,
-    "pages": 244,
+    "count": 2821,
+    "pages": 273,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r73",
     "examplePages": [
      "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
      "https://www.medicare.gov/publication-ordering/12207",
-     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/qualifying-for-help-with-costs/extra-help-annual-eligibility-decision"
+     "https://medicare.gov/publications/search/all-non-english-pubs?page=4"
     ],
     "affectedPages": [
      {
@@ -389,6 +420,10 @@
      {
       "url": "https://www.medicare.gov/publication-ordering/12207",
       "instances": 3
+     },
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
+      "instances": 30
      },
      {
       "url": "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/qualifying-for-help-with-costs/extra-help-annual-eligibility-decision",
@@ -405,6 +440,10 @@
      {
       "url": "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
       "instances": 4
+     },
+     {
+      "url": "https://www.medicare.gov/providers-services/original-medicare/nursing-homes/return-to-community",
+      "instances": 1
      },
      {
       "url": "https://medicare.gov/basics/get-started-with-medicare",
@@ -443,6 +482,10 @@
       "instances": 24
      },
      {
+      "url": "https://www.medicare.gov/care-compare?providerType=DialysisFacility",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicare.gov/prescription-payment-plan/will-this-help-me",
       "instances": 26
      },
@@ -453,6 +496,14 @@
      {
       "url": "https://www.medicare.gov/coverage/popular-topics",
       "instances": 9
+     },
+     {
+      "url": "https://medicare.gov/health-drug-plans",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicare.gov/coverage/insulin",
+      "instances": 16
      },
      {
       "url": "https://medicare.gov/health-drug-plans/health-plans",
@@ -471,8 +522,16 @@
       "instances": 17
      },
      {
+      "url": "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-automatically-qualify-automatically-enroll",
+      "instances": 8
+     },
+     {
       "url": "https://www.medicare.gov/coverage/eye-exams-routine",
       "instances": 14
+     },
+     {
+      "url": "https://www.medicare.gov/coverage/preventive-screening-services",
+      "instances": 11
      },
      {
       "url": "https://medicare.gov/publication-ordering/12113",
@@ -495,6 +554,10 @@
       "instances": 8
      },
      {
+      "url": "https://www.medicare.gov/coverage/suction-pumps",
+      "instances": 16
+     },
+     {
       "url": "https://www.medicare.gov/publication-ordering/11359-S",
       "instances": 3
      },
@@ -509,6 +572,10 @@
      {
       "url": "https://medicare.gov/health-drug-plans/health-plans/your-health-plan-options/HMO",
       "instances": 8
+     },
+     {
+      "url": "https://medicare.gov/coverage/surgery",
+      "instances": 10
      },
      {
       "url": "https://www.medicare.gov/publication-ordering/11579",
@@ -627,6 +694,10 @@
       "instances": 1
      },
      {
+      "url": "https://medicare.gov/health-drug-plans/part-d/what-drug-plans-cover/how-drug-plans-work",
+      "instances": 24
+     },
+     {
       "url": "https://medicare.gov/publication-ordering/11377",
       "instances": 3
      },
@@ -703,6 +774,10 @@
       "instances": 16
      },
      {
+      "url": "https://www.medicare.gov/publication-ordering/11534-S",
+      "instances": 3
+     },
+     {
       "url": "https://medicare.gov/health-drug-plans/medigap/ready-to-buy/how",
       "instances": 12
      },
@@ -713,6 +788,10 @@
      {
       "url": "https://medicare.gov/providers-services/claims-appeals-complaints/claims/check-status",
       "instances": 3
+     },
+     {
+      "url": "https://www.medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-loss-of-eligibility",
+      "instances": 8
      },
      {
       "url": "https://www.medicare.gov/health-drug-plans/medigap/basics/coverage",
@@ -759,8 +838,16 @@
       "instances": 9
      },
      {
+      "url": "https://medicare.gov/health-drug-plans/medigap/ready-to-buy/change-policies",
+      "instances": 9
+     },
+     {
       "url": "https://medicare.gov/coverage/supplies",
       "instances": 12
+     },
+     {
+      "url": "https://www.medicare.gov/basics/forms-publications-mailings/mailings/other-mailings/your-medicare-account",
+      "instances": 11
      },
      {
       "url": "https://www.medicare.gov/publication-ordering/12113",
@@ -779,6 +866,10 @@
       "instances": 17
      },
      {
+      "url": "https://www.medicare.gov/claims-appeals/file-a-complaint-grievance/filing-complaints-about-a-doctor-hospital-or-provider",
+      "instances": 27
+     },
+     {
       "url": "https://medicare.gov/coverage/blood-services",
       "instances": 14
      },
@@ -787,12 +878,20 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicare.gov/publication-ordering/02174",
+      "instances": 3
+     },
+     {
       "url": "https://medicare.gov/publication-ordering/11546-S",
       "instances": 3
      },
      {
       "url": "https://medicare.gov/providers-services/original-medicare/nursing-homes",
       "instances": 10
+     },
+     {
+      "url": "https://www.medicare.gov/health-drug-plans/health-plans/costs",
+      "instances": 5
      },
      {
       "url": "https://medicare.gov/coverage/mental-health-substance-use-disorder",
@@ -815,6 +914,14 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlcnR5cGU9bnVyc2luZ2hvbWUifX0%3D",
+      "instances": 4
+     },
+     {
+      "url": "https://medicare.gov/coverage/occupational-therapy-services",
+      "instances": 13
+     },
+     {
       "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=7",
       "instances": 30
      },
@@ -828,6 +935,10 @@
      },
      {
       "url": "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9SG9tZUhlYWx0aCJ9fQ%3D%3D",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicare.gov/my/account-settings?client_id=max&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Faccount-settings%2F",
       "instances": 4
      },
      {
@@ -907,6 +1018,10 @@
       "instances": 4
      },
      {
+      "url": "https://medicare.gov/publication-ordering/10111",
+      "instances": 3
+     },
+     {
       "url": "https://www.medicare.gov/care-compare",
       "instances": 1
      },
@@ -951,6 +1066,10 @@
       "instances": 11
      },
      {
+      "url": "https://medicare.gov/basics/end-stage-renal-disease",
+      "instances": 1
+     },
+     {
       "url": "https://medicare.gov/coverage/cataract-surgery",
       "instances": 11
      },
@@ -971,6 +1090,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicare.gov/health-drug-plans/medigap/basics/compare-plan-benefits",
+      "instances": 11
+     },
+     {
       "url": "https://medicare.gov/coverage/canes",
       "instances": 17
      },
@@ -985,6 +1108,10 @@
      {
       "url": "https://www.medicare.gov/coverage/medical-nutrition-therapy-services",
       "instances": 17
+     },
+     {
+      "url": "https://www.medicare.gov/coverage/principal-care-management-services",
+      "instances": 12
      },
      {
       "url": "https://www.medicare.gov/publication-ordering/11022-LE",
@@ -1027,6 +1154,14 @@
       "instances": 15
      },
      {
+      "url": "https://medicare.gov/coverage/obesity-behavioral-therapy",
+      "instances": 16
+     },
+     {
+      "url": "https://www.medicare.gov/basics/get-started-with-medicare/sign-up",
+      "instances": 5
+     },
+     {
       "url": "https://medicare.gov/about-us/contact-medicare",
       "instances": 5
      },
@@ -1063,6 +1198,10 @@
       "instances": 13
      },
      {
+      "url": "https://medicare.gov/coverage/acupuncture",
+      "instances": 15
+     },
+     {
       "url": "https://www.medicare.gov/health-drug-plans/medigap/basics/how-medigap-works",
       "instances": 8
      },
@@ -1073,6 +1212,10 @@
      {
       "url": "https://www.medicare.gov/health-drug-plans/medigap",
       "instances": 6
+     },
+     {
+      "url": "https://medicare.gov/publication-ordering/11318",
+      "instances": 3
      },
      {
       "url": "https://medicare.gov/providers-services/claims-appeals-complaints/appeals",
@@ -1117,6 +1260,10 @@
      {
       "url": "https://medicare.gov/coverage/rural-health-clinic-services",
       "instances": 10
+     },
+     {
+      "url": "https://medicare.gov/publication-ordering/12039",
+      "instances": 3
      },
      {
       "url": "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvaW5mb3JtYXRpb24tZm9yLXByb3ZpZGVycyJ9fQ%3D%3D",
@@ -1388,13 +1535,13 @@
     ]
    },
    "sia-r111": {
-    "count": 9131,
-    "pages": 248,
+    "count": 10302,
+    "pages": 278,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r111",
     "examplePages": [
      "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
      "https://www.medicare.gov/publication-ordering/12207",
-     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/qualifying-for-help-with-costs/extra-help-annual-eligibility-decision"
+     "https://medicare.gov/publications/search/all-non-english-pubs?page=4"
     ],
     "affectedPages": [
      {
@@ -1404,6 +1551,10 @@
      {
       "url": "https://www.medicare.gov/publication-ordering/12207",
       "instances": 38
+     },
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
+      "instances": 74
      },
      {
       "url": "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/qualifying-for-help-with-costs/extra-help-annual-eligibility-decision",
@@ -1420,6 +1571,10 @@
      {
       "url": "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
       "instances": 9
+     },
+     {
+      "url": "https://www.medicare.gov/providers-services/original-medicare/nursing-homes/return-to-community",
+      "instances": 38
      },
      {
       "url": "https://medicare.gov/basics/get-started-with-medicare",
@@ -1458,6 +1613,10 @@
       "instances": 42
      },
      {
+      "url": "https://www.medicare.gov/care-compare?providerType=DialysisFacility",
+      "instances": 9
+     },
+     {
       "url": "https://www.medicare.gov/prescription-payment-plan/will-this-help-me",
       "instances": 40
      },
@@ -1468,6 +1627,14 @@
      {
       "url": "https://www.medicare.gov/coverage/popular-topics",
       "instances": 77
+     },
+     {
+      "url": "https://medicare.gov/health-drug-plans",
+      "instances": 39
+     },
+     {
+      "url": "https://www.medicare.gov/coverage/insulin",
+      "instances": 47
      },
      {
       "url": "https://medicare.gov/health-drug-plans/health-plans",
@@ -1486,8 +1653,16 @@
       "instances": 45
      },
      {
+      "url": "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-automatically-qualify-automatically-enroll",
+      "instances": 39
+     },
+     {
       "url": "https://www.medicare.gov/coverage/eye-exams-routine",
       "instances": 42
+     },
+     {
+      "url": "https://www.medicare.gov/coverage/preventive-screening-services",
+      "instances": 72
      },
      {
       "url": "https://medicare.gov/publication-ordering/12113",
@@ -1510,6 +1685,10 @@
       "instances": 38
      },
      {
+      "url": "https://www.medicare.gov/coverage/suction-pumps",
+      "instances": 40
+     },
+     {
       "url": "https://www.medicare.gov/publication-ordering/11359-S",
       "instances": 38
      },
@@ -1524,6 +1703,10 @@
      {
       "url": "https://medicare.gov/health-drug-plans/health-plans/your-health-plan-options/HMO",
       "instances": 39
+     },
+     {
+      "url": "https://medicare.gov/coverage/surgery",
+      "instances": 44
      },
      {
       "url": "https://www.medicare.gov/publication-ordering/11579",
@@ -1642,6 +1825,10 @@
       "instances": 1
      },
      {
+      "url": "https://medicare.gov/health-drug-plans/part-d/what-drug-plans-cover/how-drug-plans-work",
+      "instances": 38
+     },
+     {
       "url": "https://medicare.gov/publication-ordering/11377",
       "instances": 38
      },
@@ -1718,6 +1905,10 @@
       "instances": 39
      },
      {
+      "url": "https://www.medicare.gov/publication-ordering/11534-S",
+      "instances": 38
+     },
+     {
       "url": "https://medicare.gov/health-drug-plans/medigap/ready-to-buy/how",
       "instances": 40
      },
@@ -1728,6 +1919,10 @@
      {
       "url": "https://medicare.gov/providers-services/claims-appeals-complaints/claims/check-status",
       "instances": 38
+     },
+     {
+      "url": "https://www.medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-loss-of-eligibility",
+      "instances": 39
      },
      {
       "url": "https://www.medicare.gov/health-drug-plans/medigap/basics/coverage",
@@ -1774,8 +1969,16 @@
       "instances": 37
      },
      {
+      "url": "https://medicare.gov/health-drug-plans/medigap/ready-to-buy/change-policies",
+      "instances": 40
+     },
+     {
       "url": "https://medicare.gov/coverage/supplies",
       "instances": 39
+     },
+     {
+      "url": "https://www.medicare.gov/basics/forms-publications-mailings/mailings/other-mailings/your-medicare-account",
+      "instances": 46
      },
      {
       "url": "https://www.medicare.gov/publication-ordering/12113",
@@ -1794,6 +1997,10 @@
       "instances": 38
      },
      {
+      "url": "https://www.medicare.gov/claims-appeals/file-a-complaint-grievance/filing-complaints-about-a-doctor-hospital-or-provider",
+      "instances": 40
+     },
+     {
       "url": "https://medicare.gov/coverage/blood-services",
       "instances": 40
      },
@@ -1802,12 +2009,20 @@
       "instances": 7
      },
      {
+      "url": "https://www.medicare.gov/publication-ordering/02174",
+      "instances": 38
+     },
+     {
       "url": "https://medicare.gov/publication-ordering/11546-S",
       "instances": 38
      },
      {
       "url": "https://medicare.gov/providers-services/original-medicare/nursing-homes",
       "instances": 45
+     },
+     {
+      "url": "https://www.medicare.gov/health-drug-plans/health-plans/costs",
+      "instances": 38
      },
      {
       "url": "https://medicare.gov/coverage/mental-health-substance-use-disorder",
@@ -1830,6 +2045,14 @@
       "instances": 9
      },
      {
+      "url": "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlcnR5cGU9bnVyc2luZ2hvbWUifX0%3D",
+      "instances": 9
+     },
+     {
+      "url": "https://medicare.gov/coverage/occupational-therapy-services",
+      "instances": 39
+     },
+     {
       "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=7",
       "instances": 83
      },
@@ -1844,6 +2067,10 @@
      {
       "url": "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9SG9tZUhlYWx0aCJ9fQ%3D%3D",
       "instances": 9
+     },
+     {
+      "url": "https://www.medicare.gov/my/account-settings?client_id=max&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Faccount-settings%2F",
+      "instances": 7
      },
      {
       "url": "https://www.medicare.gov/coverage/sleep-studies",
@@ -1879,6 +2106,10 @@
      },
      {
       "url": "https://www.medicare.gov/coverage/artificial-eyes-limbs",
+      "instances": 37
+     },
+     {
+      "url": "https://www.medicare.gov/coverage/search",
       "instances": 37
      },
      {
@@ -1926,6 +2157,10 @@
       "instances": 8
      },
      {
+      "url": "https://medicare.gov/publication-ordering/10111",
+      "instances": 38
+     },
+     {
       "url": "https://www.medicare.gov/care-compare",
       "instances": 9
      },
@@ -1970,6 +2205,10 @@
       "instances": 38
      },
      {
+      "url": "https://medicare.gov/basics/end-stage-renal-disease",
+      "instances": 48
+     },
+     {
       "url": "https://medicare.gov/coverage/cataract-surgery",
       "instances": 37
      },
@@ -1990,6 +2229,10 @@
       "instances": 37
      },
      {
+      "url": "https://www.medicare.gov/health-drug-plans/medigap/basics/compare-plan-benefits",
+      "instances": 38
+     },
+     {
       "url": "https://medicare.gov/coverage/canes",
       "instances": 39
      },
@@ -2004,6 +2247,10 @@
      {
       "url": "https://www.medicare.gov/coverage/medical-nutrition-therapy-services",
       "instances": 48
+     },
+     {
+      "url": "https://www.medicare.gov/coverage/principal-care-management-services",
+      "instances": 38
      },
      {
       "url": "https://www.medicare.gov/publication-ordering/11022-LE",
@@ -2046,6 +2293,14 @@
       "instances": 40
      },
      {
+      "url": "https://medicare.gov/coverage/obesity-behavioral-therapy",
+      "instances": 40
+     },
+     {
+      "url": "https://www.medicare.gov/basics/get-started-with-medicare/sign-up",
+      "instances": 42
+     },
+     {
       "url": "https://medicare.gov/about-us/contact-medicare",
       "instances": 37
      },
@@ -2086,6 +2341,10 @@
       "instances": 41
      },
      {
+      "url": "https://medicare.gov/coverage/acupuncture",
+      "instances": 40
+     },
+     {
       "url": "https://www.medicare.gov/health-drug-plans/medigap/basics/how-medigap-works",
       "instances": 38
      },
@@ -2096,6 +2355,10 @@
      {
       "url": "https://www.medicare.gov/health-drug-plans/medigap",
       "instances": 40
+     },
+     {
+      "url": "https://medicare.gov/publication-ordering/11318",
+      "instances": 38
      },
      {
       "url": "https://medicare.gov/providers-services/claims-appeals-complaints/appeals",
@@ -2143,6 +2406,10 @@
      },
      {
       "url": "https://medicare.gov/coverage/rural-health-clinic-services",
+      "instances": 38
+     },
+     {
+      "url": "https://medicare.gov/publication-ordering/12039",
       "instances": 38
      },
      {
@@ -2419,17 +2686,21 @@
     ]
    },
    "sia-r17": {
-    "count": 217,
-    "pages": 212,
+    "count": 244,
+    "pages": 239,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r17",
     "examplePages": [
      "https://www.medicare.gov/publication-ordering/12207",
-     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/qualifying-for-help-with-costs/extra-help-annual-eligibility-decision",
-     "https://www.medicare.gov/basics/report-a-death"
+     "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
+     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/qualifying-for-help-with-costs/extra-help-annual-eligibility-decision"
     ],
     "affectedPages": [
      {
       "url": "https://www.medicare.gov/publication-ordering/12207",
+      "instances": 1
+     },
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
       "instances": 1
      },
      {
@@ -2442,6 +2713,10 @@
      },
      {
       "url": "https://www.medicare.gov/coverage/nursing-home-care",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/providers-services/original-medicare/nursing-homes/return-to-community",
       "instances": 1
      },
      {
@@ -2485,6 +2760,14 @@
       "instances": 1
      },
      {
+      "url": "https://medicare.gov/health-drug-plans",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/coverage/insulin",
+      "instances": 1
+     },
+     {
       "url": "https://medicare.gov/health-drug-plans/health-plans",
       "instances": 1
      },
@@ -2501,7 +2784,15 @@
       "instances": 1
      },
      {
+      "url": "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-automatically-qualify-automatically-enroll",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicare.gov/coverage/eye-exams-routine",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/coverage/preventive-screening-services",
       "instances": 1
      },
      {
@@ -2525,6 +2816,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicare.gov/coverage/suction-pumps",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicare.gov/publication-ordering/11359-S",
       "instances": 1
      },
@@ -2538,6 +2833,10 @@
      },
      {
       "url": "https://medicare.gov/health-drug-plans/health-plans/your-health-plan-options/HMO",
+      "instances": 1
+     },
+     {
+      "url": "https://medicare.gov/coverage/surgery",
       "instances": 1
      },
      {
@@ -2645,6 +2944,10 @@
       "instances": 1
      },
      {
+      "url": "https://medicare.gov/health-drug-plans/part-d/what-drug-plans-cover/how-drug-plans-work",
+      "instances": 1
+     },
+     {
       "url": "https://medicare.gov/publication-ordering/11377",
       "instances": 1
      },
@@ -2709,6 +3012,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicare.gov/publication-ordering/11534-S",
+      "instances": 1
+     },
+     {
       "url": "https://medicare.gov/health-drug-plans/medigap/ready-to-buy/how",
       "instances": 1
      },
@@ -2718,6 +3025,10 @@
      },
      {
       "url": "https://medicare.gov/providers-services/claims-appeals-complaints/claims/check-status",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-loss-of-eligibility",
       "instances": 1
      },
      {
@@ -2757,7 +3068,15 @@
       "instances": 1
      },
      {
+      "url": "https://medicare.gov/health-drug-plans/medigap/ready-to-buy/change-policies",
+      "instances": 1
+     },
+     {
       "url": "https://medicare.gov/coverage/supplies",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/basics/forms-publications-mailings/mailings/other-mailings/your-medicare-account",
       "instances": 1
      },
      {
@@ -2777,7 +3096,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicare.gov/claims-appeals/file-a-complaint-grievance/filing-complaints-about-a-doctor-hospital-or-provider",
+      "instances": 1
+     },
+     {
       "url": "https://medicare.gov/coverage/blood-services",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/publication-ordering/02174",
       "instances": 1
      },
      {
@@ -2786,6 +3113,10 @@
      },
      {
       "url": "https://medicare.gov/providers-services/original-medicare/nursing-homes",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/health-drug-plans/health-plans/costs",
       "instances": 1
      },
      {
@@ -2802,6 +3133,10 @@
      },
      {
       "url": "https://medicare.gov/health-drug-plans/part-d/using-drug-coverage",
+      "instances": 1
+     },
+     {
+      "url": "https://medicare.gov/coverage/occupational-therapy-services",
       "instances": 1
      },
      {
@@ -2845,6 +3180,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicare.gov/coverage/search",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicare.gov/prescription-payment-plan/examples",
       "instances": 1
      },
@@ -2881,6 +3220,10 @@
       "instances": 1
      },
      {
+      "url": "https://medicare.gov/publication-ordering/10111",
+      "instances": 1
+     },
+     {
       "url": "https://medicare.gov/publication-ordering/11022-S",
       "instances": 1
      },
@@ -2913,6 +3256,10 @@
       "instances": 1
      },
      {
+      "url": "https://medicare.gov/basics/end-stage-renal-disease",
+      "instances": 1
+     },
+     {
       "url": "https://medicare.gov/coverage/cataract-surgery",
       "instances": 1
      },
@@ -2929,6 +3276,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicare.gov/health-drug-plans/medigap/basics/compare-plan-benefits",
+      "instances": 1
+     },
+     {
       "url": "https://medicare.gov/coverage/canes",
       "instances": 1
      },
@@ -2942,6 +3293,10 @@
      },
      {
       "url": "https://www.medicare.gov/coverage/medical-nutrition-therapy-services",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/coverage/principal-care-management-services",
       "instances": 1
      },
      {
@@ -2977,6 +3332,14 @@
       "instances": 1
      },
      {
+      "url": "https://medicare.gov/coverage/obesity-behavioral-therapy",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/basics/get-started-with-medicare/sign-up",
+      "instances": 1
+     },
+     {
       "url": "https://medicare.gov/about-us/contact-medicare",
       "instances": 1
      },
@@ -3009,6 +3372,10 @@
       "instances": 1
      },
      {
+      "url": "https://medicare.gov/coverage/acupuncture",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicare.gov/health-drug-plans/medigap/basics/how-medigap-works",
       "instances": 1
      },
@@ -3018,6 +3385,10 @@
      },
      {
       "url": "https://www.medicare.gov/health-drug-plans/medigap",
+      "instances": 1
+     },
+     {
+      "url": "https://medicare.gov/publication-ordering/11318",
       "instances": 1
      },
      {
@@ -3062,6 +3433,10 @@
      },
      {
       "url": "https://medicare.gov/coverage/rural-health-clinic-services",
+      "instances": 1
+     },
+     {
+      "url": "https://medicare.gov/publication-ordering/12039",
       "instances": 1
      },
      {
@@ -3284,6 +3659,11 @@
       "html": null
      },
      {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
+      "target": "<div class=\"search-block__content\" aria-hidden=\"true\" id=\"search_form_block-content\">",
+      "html": null
+     },
+     {
       "url": "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/qualifying-for-help-with-costs/extra-help-annual-eligibility-decision",
       "target": "<div class=\"search-block__content\" aria-hidden=\"true\" id=\"search_form_block-content\">",
       "html": null
@@ -3297,30 +3677,104 @@
       "url": "https://www.medicare.gov/coverage/nursing-home-care",
       "target": "<div class=\"search-block__content\" aria-hidden=\"true\" id=\"search_form_block-content\">",
       "html": null
+     }
+    ]
+   },
+   "sia-r53": {
+    "count": 8,
+    "pages": 8,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r53",
+    "examplePages": [
+     "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
+     "https://www.medicare.gov/publications/search/all-non-english-pubs?page=1",
+     "https://medicare.gov/publications/search/all-non-english-pubs?page=10"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
+      "instances": 1
      },
      {
-      "url": "https://medicare.gov/basics/get-started-with-medicare",
-      "target": "<div class=\"search-block__content\" aria-hidden=\"true\" id=\"search_form_block-content\">",
+      "url": "https://www.medicare.gov/publications/search/all-non-english-pubs?page=1",
+      "instances": 1
+     },
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=10",
+      "instances": 1
+     },
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=7",
+      "instances": 1
+     },
+     {
+      "url": "https://medicare.gov/basics/end-stage-renal-disease",
+      "instances": 1
+     },
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=9",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/publications/search/all-non-english-pubs?page=3",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/publications/search/all-non-english-pubs?page=5",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
+      "target": "<h3>",
+      "html": null
+     },
+     {
+      "url": "https://www.medicare.gov/publications/search/all-non-english-pubs?page=1",
+      "target": "<h3>",
+      "html": null
+     },
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=10",
+      "target": "<h3>",
+      "html": null
+     },
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=7",
+      "target": "<h3>",
+      "html": null
+     },
+     {
+      "url": "https://medicare.gov/basics/end-stage-renal-disease",
+      "target": "<h3>",
       "html": null
      }
     ]
    },
    "sia-r78": {
-    "count": 91,
-    "pages": 74,
+    "count": 101,
+    "pages": 83,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r78",
     "examplePages": [
+     "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
      "https://www.medicare.gov/coverage/nursing-home-care",
-     "https://medicare.gov/coverage/hospice-care",
-     "https://www.medicare.gov/coverage/mental-health-substance-use-disorder"
+     "https://medicare.gov/coverage/hospice-care"
     ],
     "affectedPages": [
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
+      "instances": 2
+     },
      {
       "url": "https://www.medicare.gov/coverage/nursing-home-care",
       "instances": 1
      },
      {
       "url": "https://medicare.gov/coverage/hospice-care",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/coverage/insulin",
       "instances": 1
      },
      {
@@ -3336,8 +3790,20 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicare.gov/coverage/preventive-screening-services",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicare.gov/publications/search/all-non-english-pubs?page=1",
       "instances": 4
+     },
+     {
+      "url": "https://www.medicare.gov/coverage/suction-pumps",
+      "instances": 1
+     },
+     {
+      "url": "https://medicare.gov/coverage/surgery",
+      "instances": 1
      },
      {
       "url": "https://medicare.gov/coverage/depression-screening",
@@ -3432,6 +3898,10 @@
       "instances": 2
      },
      {
+      "url": "https://medicare.gov/coverage/occupational-therapy-services",
+      "instances": 1
+     },
+     {
       "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=7",
       "instances": 6
      },
@@ -3496,6 +3966,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicare.gov/coverage/principal-care-management-services",
+      "instances": 1
+     },
+     {
       "url": "https://medicare.gov/coverage/respiratory-syncytial-virus-rsv-shot",
       "instances": 1
      },
@@ -3504,11 +3978,19 @@
       "instances": 1
      },
      {
+      "url": "https://medicare.gov/coverage/obesity-behavioral-therapy",
+      "instances": 1
+     },
+     {
       "url": "https://medicare.gov/prescription-payment-plan",
       "instances": 1
      },
      {
       "url": "https://medicare.gov/coverage/electrocardiogram-ekg-or-ecg-screenings",
+      "instances": 1
+     },
+     {
+      "url": "https://medicare.gov/coverage/acupuncture",
       "instances": 1
      },
      {
@@ -3614,6 +4096,16 @@
     ],
     "instances": [
      {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
+      "target": "<h3>",
+      "html": null
+     },
+     {
+      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=4",
+      "target": "<h3>",
+      "html": null
+     },
+     {
       "url": "https://www.medicare.gov/coverage/nursing-home-care",
       "target": "<h2 class=\"text-align-center ds-u-padding-x--4 ds-u-md-padding-x--0 ds-u-margin-bottom--0\">",
       "html": null
@@ -3624,35 +4116,29 @@
       "html": null
      },
      {
-      "url": "https://www.medicare.gov/coverage/mental-health-substance-use-disorder",
-      "target": "<h2>",
-      "html": null
-     },
-     {
-      "url": "https://www.medicare.gov/coverage/mental-health-substance-use-disorder",
-      "target": "<h2>",
-      "html": null
-     },
-     {
-      "url": "https://www.medicare.gov/coverage/flu-shots",
+      "url": "https://www.medicare.gov/coverage/insulin",
       "target": "<h2 class=\"text-align-center ds-u-padding-x--4 ds-u-md-padding-x--0 ds-u-margin-bottom--0\">",
       "html": null
      }
     ]
    },
    "sia-r66": {
-    "count": 219,
-    "pages": 16,
+    "count": 273,
+    "pages": 19,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r66",
     "examplePages": [
      "https://www.medicare.gov/account/create-account",
-     "https://www.medicare.gov/coverage/popular-topics",
-     "https://www.medicare.gov/coverage/mental-health-substance-use-disorder"
+     "https://www.medicare.gov/care-compare?providerType=DialysisFacility",
+     "https://www.medicare.gov/coverage/popular-topics"
     ],
     "affectedPages": [
      {
       "url": "https://www.medicare.gov/account/create-account",
       "instances": 3
+     },
+     {
+      "url": "https://www.medicare.gov/care-compare?providerType=DialysisFacility",
+      "instances": 6
      },
      {
       "url": "https://www.medicare.gov/coverage/popular-topics",
@@ -3683,12 +4169,20 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicare.gov/coverage/search",
+      "instances": 36
+     },
+     {
       "url": "https://www.medicare.gov/prescription-payment-plan/examples",
       "instances": 6
      },
      {
       "url": "https://www.medicare.gov/care-compare",
       "instances": 5
+     },
+     {
+      "url": "https://medicare.gov/basics/end-stage-renal-disease",
+      "instances": 12
      },
      {
       "url": "https://www.medicare.gov/providers-services/claims-appeals-complaints/appeals/original-medicare/denial-part-a-hospital-status",
@@ -3732,13 +4226,13 @@
       "html": null
      },
      {
-      "url": "https://www.medicare.gov/coverage/popular-topics",
-      "target": "text: \"Home\"",
+      "url": "https://www.medicare.gov/care-compare?providerType=DialysisFacility",
+      "target": "text: \"Basics\"",
       "html": null
      },
      {
-      "url": "https://www.medicare.gov/coverage/popular-topics",
-      "target": "text: \"What's covered?\"",
+      "url": "https://www.medicare.gov/care-compare?providerType=DialysisFacility",
+      "target": "text: \"Health & Drug Plans\"",
       "html": null
      }
     ]
@@ -3790,9 +4284,80 @@
      }
     ]
    },
+   "sia-r87": {
+    "count": 8,
+    "pages": 8,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r87",
+    "examplePages": [
+     "https://www.medicare.gov/care-compare?providerType=DialysisFacility",
+     "https://www.medicare.gov/care-compare?guidedSearch=Hospital",
+     "https://www.medicare.gov/care-compare?guidedSearch=NursingHome"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.medicare.gov/care-compare?providerType=DialysisFacility",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/care-compare?guidedSearch=Hospital",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/care-compare?guidedSearch=NursingHome",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/care-compare/resources/information-for-providers",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/care-compare",
+      "instances": 1
+     },
+     {
+      "url": "https://medicare.gov/care-compare?guidedSearch=Hospital",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/care-compare?providertype=nursinghome",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicare.gov/care-compare/resources/resources-and-information",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.medicare.gov/care-compare?providerType=DialysisFacility",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
+     },
+     {
+      "url": "https://www.medicare.gov/care-compare?guidedSearch=Hospital",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
+     },
+     {
+      "url": "https://www.medicare.gov/care-compare?guidedSearch=NursingHome",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
+     },
+     {
+      "url": "https://www.medicare.gov/care-compare/resources/information-for-providers",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
+     },
+     {
+      "url": "https://www.medicare.gov/care-compare",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
+     }
+    ]
+   },
    "sia-r69": {
-    "count": 34,
-    "pages": 7,
+    "count": 46,
+    "pages": 8,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r69",
     "examplePages": [
      "https://www.medicare.gov/coverage/mental-health-substance-use-disorder",
@@ -3815,6 +4380,10 @@
      {
       "url": "https://www.medicare.gov/prescription-payment-plan/examples",
       "instances": 6
+     },
+     {
+      "url": "https://medicare.gov/basics/end-stage-renal-disease",
+      "instances": 12
      },
      {
       "url": "https://www.medicare.gov/providers-services/claims-appeals-complaints/appeals/original-medicare/denial-part-a-hospital-status",
@@ -3853,69 +4422,6 @@
      {
       "url": "https://www.medicare.gov/providers-services/claims-appeals-complaints/appeals/original-medicare",
       "target": "text: \"Level 2 appeals: Qualified Independent Contractor (QIC) Reconsideration\"",
-      "html": null
-     }
-    ]
-   },
-   "sia-r53": {
-    "count": 6,
-    "pages": 6,
-    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r53",
-    "examplePages": [
-     "https://www.medicare.gov/publications/search/all-non-english-pubs?page=1",
-     "https://medicare.gov/publications/search/all-non-english-pubs?page=10",
-     "https://medicare.gov/publications/search/all-non-english-pubs?page=7"
-    ],
-    "affectedPages": [
-     {
-      "url": "https://www.medicare.gov/publications/search/all-non-english-pubs?page=1",
-      "instances": 1
-     },
-     {
-      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=10",
-      "instances": 1
-     },
-     {
-      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=7",
-      "instances": 1
-     },
-     {
-      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=9",
-      "instances": 1
-     },
-     {
-      "url": "https://www.medicare.gov/publications/search/all-non-english-pubs?page=3",
-      "instances": 1
-     },
-     {
-      "url": "https://www.medicare.gov/publications/search/all-non-english-pubs?page=5",
-      "instances": 1
-     }
-    ],
-    "instances": [
-     {
-      "url": "https://www.medicare.gov/publications/search/all-non-english-pubs?page=1",
-      "target": "<h3>",
-      "html": null
-     },
-     {
-      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=10",
-      "target": "<h3>",
-      "html": null
-     },
-     {
-      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=7",
-      "target": "<h3>",
-      "html": null
-     },
-     {
-      "url": "https://medicare.gov/publications/search/all-non-english-pubs?page=9",
-      "target": "<h3>",
-      "html": null
-     },
-     {
-      "url": "https://www.medicare.gov/publications/search/all-non-english-pubs?page=3",
-      "target": "<h3>",
       "html": null
      }
     ]
@@ -4018,73 +4524,6 @@
      }
     ]
    },
-   "sia-r87": {
-    "count": 7,
-    "pages": 7,
-    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r87",
-    "examplePages": [
-     "https://www.medicare.gov/care-compare?guidedSearch=Hospital",
-     "https://www.medicare.gov/care-compare?guidedSearch=NursingHome",
-     "https://www.medicare.gov/care-compare/resources/information-for-providers"
-    ],
-    "affectedPages": [
-     {
-      "url": "https://www.medicare.gov/care-compare?guidedSearch=Hospital",
-      "instances": 1
-     },
-     {
-      "url": "https://www.medicare.gov/care-compare?guidedSearch=NursingHome",
-      "instances": 1
-     },
-     {
-      "url": "https://www.medicare.gov/care-compare/resources/information-for-providers",
-      "instances": 1
-     },
-     {
-      "url": "https://www.medicare.gov/care-compare",
-      "instances": 1
-     },
-     {
-      "url": "https://medicare.gov/care-compare?guidedSearch=Hospital",
-      "instances": 1
-     },
-     {
-      "url": "https://www.medicare.gov/care-compare?providertype=nursinghome",
-      "instances": 1
-     },
-     {
-      "url": "https://www.medicare.gov/care-compare/resources/resources-and-information",
-      "instances": 1
-     }
-    ],
-    "instances": [
-     {
-      "url": "https://www.medicare.gov/care-compare?guidedSearch=Hospital",
-      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
-     },
-     {
-      "url": "https://www.medicare.gov/care-compare?guidedSearch=NursingHome",
-      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
-     },
-     {
-      "url": "https://www.medicare.gov/care-compare/resources/information-for-providers",
-      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
-     },
-     {
-      "url": "https://www.medicare.gov/care-compare",
-      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
-     },
-     {
-      "url": "https://medicare.gov/care-compare?guidedSearch=Hospital",
-      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
-     }
-    ]
-   },
    "sia-r57": {
     "count": 15,
     "pages": 2,
@@ -4129,12 +4568,12 @@
   }
  },
  "consensus": {
-  "uniqueIssues": 861,
+  "uniqueIssues": 968,
   "consensus": 0,
-  "axeOnly": 34,
-  "alfaOnly": 827,
-  "rawAxe": 34,
-  "rawAlfa": 827,
+  "axeOnly": 39,
+  "alfaOnly": 929,
+  "rawAxe": 39,
+  "rawAlfa": 929,
   "byKey": {
    "axe-core:heading-order": {
     "actRuleId": null,
@@ -4142,7 +4581,16 @@
      "heading-order"
     ],
     "alfaRules": [],
-    "pages": 23,
+    "pages": 26,
+    "engines": "axe"
+   },
+   "axe-core:empty-table-header": {
+    "actRuleId": null,
+    "axeRules": [
+     "empty-table-header"
+    ],
+    "alfaRules": [],
+    "pages": 2,
     "engines": "axe"
    },
    "axe-core:page-has-heading-one": {
@@ -4160,7 +4608,7 @@
      "frame-title"
     ],
     "alfaRules": [],
-    "pages": 3,
+    "pages": 4,
     "engines": "axe"
    },
    "axe-core:landmark-one-main": {
@@ -4181,22 +4629,13 @@
     "pages": 2,
     "engines": "axe"
    },
-   "axe-core:empty-table-header": {
-    "actRuleId": null,
-    "axeRules": [
-     "empty-table-header"
-    ],
-    "alfaRules": [],
-    "pages": 1,
-    "engines": "axe"
-   },
    "alfa:sia-r73": {
     "actRuleId": null,
     "axeRules": [],
     "alfaRules": [
      "sia-r73"
     ],
-    "pages": 244,
+    "pages": 273,
     "engines": "alfa"
    },
    "alfa:sia-r111": {
@@ -4205,7 +4644,7 @@
     "alfaRules": [
      "sia-r111"
     ],
-    "pages": 248,
+    "pages": 278,
     "engines": "alfa"
    },
    "act:6cfa84": {
@@ -4214,7 +4653,16 @@
     "alfaRules": [
      "sia-r17"
     ],
-    "pages": 212,
+    "pages": 239,
+    "engines": "alfa"
+   },
+   "alfa:sia-r53": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r53"
+    ],
+    "pages": 8,
     "engines": "alfa"
    },
    "alfa:sia-r78": {
@@ -4223,7 +4671,7 @@
     "alfaRules": [
      "sia-r78"
     ],
-    "pages": 74,
+    "pages": 83,
     "engines": "alfa"
    },
    "alfa:sia-r66": {
@@ -4232,7 +4680,7 @@
     "alfaRules": [
      "sia-r66"
     ],
-    "pages": 16,
+    "pages": 19,
     "engines": "alfa"
    },
    "alfa:sia-r80": {
@@ -4253,22 +4701,22 @@
     "pages": 1,
     "engines": "alfa"
    },
+   "alfa:sia-r87": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r87"
+    ],
+    "pages": 8,
+    "engines": "alfa"
+   },
    "alfa:sia-r69": {
     "actRuleId": null,
     "axeRules": [],
     "alfaRules": [
      "sia-r69"
     ],
-    "pages": 7,
-    "engines": "alfa"
-   },
-   "alfa:sia-r53": {
-    "actRuleId": null,
-    "axeRules": [],
-    "alfaRules": [
-     "sia-r53"
-    ],
-    "pages": 6,
+    "pages": 8,
     "engines": "alfa"
    },
    "act:2ee8b8": {
@@ -4289,15 +4737,6 @@
     "pages": 2,
     "engines": "alfa"
    },
-   "alfa:sia-r87": {
-    "actRuleId": null,
-    "axeRules": [],
-    "alfaRules": [
-     "sia-r87"
-    ],
-    "pages": 7,
-    "engines": "alfa"
-   },
    "alfa:sia-r57": {
     "actRuleId": null,
     "axeRules": [],
@@ -4310,21 +4749,21 @@
   }
  },
  "sustainability": {
-  "pages": 642,
-  "medianBytes": 6968675,
-  "meanBytes": 7088527,
+  "pages": 675,
+  "medianBytes": 6966750,
+  "meanBytes": 7084537,
   "medianRequests": 110,
-  "totalCo2g": 674.43,
-  "meanCo2g": 1.0505,
-  "totalEnergyWh": 1365.25,
-  "meanEnergyWh": 2.1266
+  "totalCo2g": 708.7,
+  "meanCo2g": 1.0499,
+  "totalEnergyWh": 1434.62,
+  "meanEnergyWh": 2.1254
  },
  "deprecatedHtml": null,
  "resources": {
-  "total": 869,
+  "total": 943,
   "byType": {
-   "iframe": 97,
-   "pdf": 716,
+   "iframe": 111,
+   "pdf": 776,
    "audio": 54,
    "image": 1,
    "archive": 1
@@ -4333,32 +4772,157 @@
    {
     "url": "https://apps.use2.us-gov-pure.cloud/messenger/thirdparty-plugins.html",
     "type": "iframe",
-    "pages": 855
+    "pages": 953
    },
    {
     "url": "https://apps.use2.us-gov-pure.cloud/genesys-bootstrap/hub.html",
     "type": "iframe",
-    "pages": 855
+    "pages": 953
    },
    {
     "url": "https://apps.use2.us-gov-pure.cloud/messenger/messenger.html",
     "type": "iframe",
-    "pages": 855
+    "pages": 953
    },
    {
     "url": "https://apps.use2.us-gov-pure.cloud/messenger/messenger-renderer.html",
     "type": "iframe",
-    "pages": 855
+    "pages": 953
+   },
+   {
+    "url": "https://medicare.gov/publications/11575-POL-medicare-supplement-insurance.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://medicare.gov/publications/12026-Polish-Understanding-Medicare-Advantage-Plans.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://medicare.gov/publications/12207-pol-a-quick-guide-to-medicare-medicaid.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/10126-por-get-help-with-your-medicare-costs-getting-started.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11022-POR-Medicare-Diabetes-Coverage.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11220-por-your-yearly-medicare-review.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11575-POR-medicare-supplement-insurance.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/12026-Portuguese-Understanding-Medicare-Advantage-Plans.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/12207-por-a-quick-guide-to-medicare-medicaid.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/10126-r-get-help-with-your-medicare-costs-getting-started.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11022-R-Medicare-Diabetes-Coverage.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11220-r-your-yearly-medicare-review.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11575-R-medicare-supplement-insurance.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/12026-Russian-Understanding-Medicare-Advantage-Plans.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/12207-r-a-quick-guide-to-medicare-medicaid.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11318_s.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/10126-t-get-help-with-your-medicare-costs-getting-started.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11022-T-Medicares-Diabetes-Coverage.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11220-t-your-yearly-medicare-review.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11575-T-medicare-supplement-insurance.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/12026-Tagalog-Understanding-Medicare-Advantage-Plans.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/12207-t-a-quick-guide-to-medicare-medicaid.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/10126-v-get-help-with-your-medicare-costs-getting-started.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11022-V-Medicare-Diabetes-Coverage.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11220-v-your-yearly-medicare-review.pdf",
+    "type": "pdf",
+    "pages": 1
    },
    {
     "url": "https://www.cms.gov/Medicare/CMS-Forms/CMS-Forms/downloads/cms1490s-english.pdf",
     "type": "pdf",
-    "pages": 1
+    "pages": 2
    },
    {
     "url": "https://www.cms.gov/Medicare/CMS-Forms/CMS-Forms/Downloads/CMS1490S-Spanish.pdf",
     "type": "pdf",
-    "pages": 1
+    "pages": 2
    },
    {
     "url": "https://medicare.gov/publications/10126-amh-get-help-with-your-medicare-costs-getting-started.pdf",
@@ -4673,22 +5237,22 @@
    {
     "url": "https://www.medicare.gov/publications/11389-Medicare-Getting-Started.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://www.medicare.gov/publications/11579-medicare-costs.pdf",
     "type": "pdf",
-    "pages": 4
+    "pages": 5
    },
    {
     "url": "https://www.medicare.gov/publications/02154-medicare-hospice-benefits.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://www.medicare.gov/publications/11219-Understanding-Medicare-Advantage-Medicare-Drug-Plan-Enrollment-Periods.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://www.cms.gov/Medicare/Prescription-Drug-Coverage/LimitedIncomeandResources/downloads/11267.pdf",
@@ -4701,9 +5265,19 @@
     "pages": 2
    },
    {
+    "url": "https://4468676.fls.doubleclick.net/activityi;src=4468676;type=newto0;cat=cmsnt0;rcb=13;qty=1;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fusing-medicare;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=ICA;gtm=45fe66b0v9190238220za200zb9131934939zd9131934939xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938469~117776794~118131810~119456239~119456247;epver=2;dc_random=1781547773_1FFhpDieRNWk5OeHTCAV9gcRYTv-jn5Avw;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fusing-medicare?",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://14886935.fls.doubleclick.net/activityi;src=14886935;type=invmedia;cat=getst0;rcb=19;ord=1988773220357;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fusing-medicare;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66b0v9195911042za200zb9131934939zd9131934939xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~118131810~119392696~119392704~119456239~119456247;epver=2;dc_random=1781547774_7Xv4OCLy68_TyCmgzgm71ws45BPkACd5Pw;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fusing-medicare?",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/files/document/model-example-hospice-election-statement-march-2024.pdf",
     "type": "pdf",
-    "pages": 1
+    "pages": 2
    },
    {
     "url": "https://medicare.gov/publications/11575-V-medicare-supplement-insurance.pdf",
@@ -4841,6 +5415,11 @@
     "pages": 2
    },
    {
+    "url": "https://www.medicare.gov/publications/12172-3-things-to-know-about-medicare-insulin-costs.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
     "url": "https://www.cms.gov/Medicare/Prescription-Drug-Coverage/LimitedIncomeandResources/downloads/11429.pdf",
     "type": "pdf",
     "pages": 1
@@ -4877,11 +5456,6 @@
    },
    {
     "url": "https://www.medicare.gov/publications/11435-Medicare-Hospital-Benefits.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
-    "url": "https://www.medicare.gov/publications/12172-3-things-to-know-about-medicare-insulin-costs.pdf",
     "type": "pdf",
     "pages": 1
    },
@@ -4984,6 +5558,16 @@
     "url": "https://4468676.fls.doubleclick.net/activityi;src=4468676;type=fraud0;cat=fraud0;rcb=7;qty=1;npa=0;auiddc=16969860.1781518924;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Freporting-medicare-fraud-and-abuse%2Fprivacy-practices-original-medicare;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=YCA;gtm=45fe66b0h2v9190238220za200zb9131934939zd9131934939xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938469~119456239~119456247;epver=2;dc_random=1781528076_ZVVn6nvcMxm5Hba4Wx6HHpEeo_Yhgtk8Pg;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Freporting-medicare-fraud-and-abuse%2Fprivacy-practices-original-medicare?",
     "type": "iframe",
     "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/Medicare/Prescription-Drug-Coverage/LimitedIncomeandResources/downloads/11166.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.cms.gov/Medicare/Prescription-Drug-Coverage/LimitedIncomeandResources/Downloads/11166-S.pdf",
+    "type": "pdf",
+    "pages": 2
    },
    {
     "url": "https://www.cms.gov/Medicare/Prescription-Drug-Coverage/LimitedIncomeandResources/downloads/11443.pdf",
@@ -5256,9 +5840,19 @@
     "pages": 2
    },
    {
+    "url": "https://4468676.fls.doubleclick.net/activityi;src=4468676;type=newto0;cat=cmsnt0;rcb=3;qty=1;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage%2Fjoining-a-plan;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=ICA;gtm=45fe66b0v9190238220za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938466~115938468~118131810~119456239~119456247;epver=2;dc_random=1781548425_vAlHpt0nZ2-jpqqnQyeXt-DSAp5T3C06aw;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage%2Fjoining-a-plan?",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://14886935.fls.doubleclick.net/activityi;src=14886935;type=invmedia;cat=getst0;rcb=13;ord=2921762888925;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage%2Fjoining-a-plan;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66b0v9195911042za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938468~118131810~119392696~119392704~119456239~119456247;epver=2;dc_random=1781548425_2GCH4w4DD4cFtDjU08cpqxbo9EHyrLZdkQ;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage%2Fjoining-a-plan?",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/medicare/cms-forms/cms-forms/downloads/cms10106.pdf",
     "type": "pdf",
-    "pages": 2
+    "pages": 3
    },
    {
     "url": "https://14886935.fls.doubleclick.net/activityi;src=14886935;type=invmedia;cat=getst0;rcb=0;ord=3193202043040;npa=0;auiddc=16969860.1781518924;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage%2Fyour-coverage-options;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66a1v9195911042za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938468~119456239~119456247;epver=2;dc_random=1781522723_xalzwwa2DMypE0AED18ryffeSdrv1r01-g;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage%2Fyour-coverage-options?",
@@ -5273,6 +5867,16 @@
    {
     "url": "https://www.medicare.gov/publications/part-b-id-medicare-card-letter-508.pdf?linkit_matcher=1",
     "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://4468676.fls.doubleclick.net/activityi;src=4468676;type=newto0;cat=cmsnt0;rcb=6;qty=1;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fmedicare-basics%2Fworking-past-65%2Fcobra-coverage;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=ICA;gtm=45fe66b0v9190238220za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938469~118131810~119392697~119392705~119456239~119456247~119483306;epver=2;dc_random=1781546322_hnO0Z1L_Dkh_0G1aiLzt6ahD0wyevBa-bA;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fmedicare-basics%2Fworking-past-65%2Fcobra-coverage?",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://14886935.fls.doubleclick.net/activityi;src=14886935;type=invmedia;cat=getst0;rcb=2;ord=4124531350933;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fmedicare-basics%2Fworking-past-65%2Fcobra-coverage;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66b0v9195911042za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938469~118131810~119392697~119392705~119400888~119400892~119456239~119456247;epver=2;dc_random=1781546322_varb-OAhMKWY2u1mCAc4FxvFUm3cuZvGYw;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fmedicare-basics%2Fworking-past-65%2Fcobra-coverage?",
+    "type": "iframe",
     "pages": 1
    },
    {
@@ -5428,7 +6032,7 @@
    {
     "url": "https://www.medicare.gov/sites/default/files/Medicare_card_new.jpg",
     "type": "image",
-    "pages": 4
+    "pages": 6
    },
    {
     "url": "https://www.cms.gov/Medicare/CMS-Forms/CMS-Forms/downloads/cms1696.pdf",
@@ -5443,12 +6047,12 @@
    {
     "url": "https://www.hhs.gov/sites/default/files/OMHA-100.pdf",
     "type": "pdf",
-    "pages": 4
+    "pages": 6
    },
    {
     "url": "https://www.hhs.gov/sites/default/files/dab101.pdf",
     "type": "pdf",
-    "pages": 4
+    "pages": 6
    },
    {
     "url": "https://www.medicare.gov/publications/12177-2023-02-508.pdf?linkit_matcher=1",
@@ -5606,16 +6210,6 @@
     "pages": 1
    },
    {
-    "url": "https://medicare.gov/publications/11575-POL-medicare-supplement-insurance.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
-    "url": "https://medicare.gov/publications/12026-Polish-Understanding-Medicare-Advantage-Plans.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
     "url": "https://www.medicare.gov/media/skilled-nursing-facility-checklist.pdf",
     "type": "pdf",
     "pages": 4
@@ -5628,6 +6222,11 @@
    {
     "url": "https://4468676.fls.doubleclick.net/activityi;src=4468676;type=newto0;cat=cmsnt0;rcb=14;qty=1;npa=0;auiddc=1107925047.1781530173;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fusing-medicare;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=YCA;gtm=45fe66a1v9190238220za200zb9131934939zd9131934939xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938468~119456239~119456247;epver=2;dc_random=1781534868_3yzLRm7cCW10erNFM9EGL9VimNwRoEnU1Q;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fusing-medicare?",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.ssa.gov/forms/ssa-1026b-ocr-sm-inst.pdf",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -5763,12 +6362,12 @@
    {
     "url": "https://medicare.gov/publications/10050-medicare-and-you.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://medicare.gov/publications/10050-le-medicare-and-you.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 4
    },
    {
     "url": "https://medicare.gov/publications/11357-home-health-getting-started.pdf",
@@ -5996,6 +6595,16 @@
     "pages": 2
    },
    {
+    "url": "https://www.cms.gov/Medicare/Prescription-Drug-Coverage/LimitedIncomeandResources/downloads/11198.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.cms.gov/Medicare/Prescription-Drug-Coverage/LimitedIncomeandResources/Downloads/11198-S.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
     "url": "https://www.cms.gov/medicare/provider-enrollment-and-certification/certificationandcomplianc/downloads/usersguide.pdf",
     "type": "pdf",
     "pages": 2
@@ -6073,6 +6682,41 @@
    {
     "url": "https://14886935.fls.doubleclick.net/activityi;src=14886935;type=invmedia;cat=getst0;rcb=16;ord=4196452364200;npa=0;auiddc=1107925047.1781530173;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=YFA;gtm=45fe66a1v9195911042za200zb9131934939zd9131934939xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938469~118395334~119456239~119456247;epver=2;dc_random=1781539070_cdCpU5dPEQnDTu1xfu5_bwMWjU_XW6aigA;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage?",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicare.gov/media/12095-Eng-Span-letter-508.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicare.gov/media/12096-Eng-Span-letter-508.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicare.gov/media/12097-Eng-Span-letter-508.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicare.gov/media/12098-Eng-Span-letter-508.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicare.gov/media/12099-Eng-Span-letter-508.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicare.gov/media/12100-Eng-Span-letter-508.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicare.gov/media/12101-Eng-Span-letter-508.pdf",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -6492,6 +7136,16 @@
    },
    {
     "url": "https://14886935.fls.doubleclick.net/activityi;src=14886935;type=invmedia;cat=getst0;rcb=2;ord=8315488418263;npa=0;auiddc=16969860.1781518924;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fbefore-65;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=YFA;gtm=45fe66b0h2v9195911042za200zb9131934939zd9131934939xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938469~118395334~119456239~119456247;epver=2;dc_random=1781527306_ZPGjS10Qt75DS_GnIRm0iIFgWqZXrKdUqA;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fbefore-65?",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://4468676.fls.doubleclick.net/activityi;src=4468676;type=newto0;cat=cmsnt0;rcb=11;qty=1;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fusing-medicare%2Fhow-to-get-medicare-services;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=ICA;gtm=45fe66b0v9190238220za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118131810~119392697~119392705~119456239~119456247;epver=2;dc_random=1781547123_UItR3bMFY6P7lH038FBp2VSPX0zy2TtA6w;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fusing-medicare%2Fhow-to-get-medicare-services?",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://14886935.fls.doubleclick.net/activityi;src=14886935;type=invmedia;cat=getst0;rcb=11;ord=8018411529934;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fusing-medicare%2Fhow-to-get-medicare-services;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66b0v9195911042za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~118131810~119392697~119392705~119400888~119400892~119456239~119456247;epver=2;dc_random=1781547123_d0HJluT6oY1261Y7X4u0qDlaKsyExNWvKg;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fusing-medicare%2Fhow-to-get-medicare-services?",
     "type": "iframe",
     "pages": 1
    },
@@ -7146,6 +7800,16 @@
     "pages": 2
    },
    {
+    "url": "https://4468676.fls.doubleclick.net/activityi;src=4468676;type=newto0;cat=cmsnt0;rcb=4;qty=1;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage%2Fyour-coverage-options;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=ICA;gtm=45fe66b0v9190238220za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938468~117776794~118131810~119456239~119456247;epver=2;dc_random=1781548801_w1E-NvLSIkmoTDb0IU-M8mz487PTmJ7j2g;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage%2Fyour-coverage-options?",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://14886935.fls.doubleclick.net/activityi;src=14886935;type=invmedia;cat=getst0;rcb=10;ord=3316648909027;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage%2Fyour-coverage-options;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66b0v9195911042za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938468~118131810~119392697~119392705~119456239~119456247;epver=2;dc_random=1781548801_p3M70o7Jl1az2BtL-jxVwOhUAdwjCPltzQ;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage%2Fyour-coverage-options?",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
     "url": "https://www.medicare.gov/publications/12177-losing-medicaid-medicare-could-be-an-option.pdf",
     "type": "pdf",
     "pages": 2
@@ -7256,6 +7920,16 @@
     "pages": 2
    },
    {
+    "url": "https://4468676.fls.doubleclick.net/activityi;src=4468676;type=newto0;cat=cmsnt0;rcb=0;qty=1;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=ICA;gtm=45fe66b0v9190238220za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938469~117776793~118131810~119392697~119392705~119456239~119456247;epver=2;dc_random=1781546251_E37BAiqjFySTdD_jY-eLfibvX62njbeGtA;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare?",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://14886935.fls.doubleclick.net/activityi;src=14886935;type=invmedia;cat=getst0;rcb=19;ord=1043278291469;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66b0v9195911042za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938468~118131810~119392697~119392705~119400888~119400892~119456239~119456247;epver=2;dc_random=1781546251_un_K9icXzgm4W-FCJ1YsYb_AnIkynneQ1g;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare?",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
     "url": "https://4468676.fls.doubleclick.net/activityi;src=4468676;type=newto0;cat=cmsnt0;rcb=9;qty=1;npa=0;auiddc=1188256547.1781487521;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage%2Fjoining-a-plan%2Fspecial-enrollment-periods;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=ICA;gtm=45fe66a1v9190238220za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118395335~119456239~119456247;epver=2;dc_random=1781492997_dhbLhhtYV9SikBASTzgJR0NEtd7VJXxxgQ;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fget-more-coverage%2Fjoining-a-plan%2Fspecial-enrollment-periods?",
     "type": "iframe",
     "pages": 1
@@ -7296,6 +7970,136 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/files/document/cms-10798.pdf",
+    "type": "pdf",
+    "pages": 3
+   },
+   {
+    "url": "https://medicare.gov/publications/portuguese-msn-part-a.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/portuguese-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/russian-msn-part-a.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/russian-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/samoan-msn-part-a.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/samoan-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/tagalog-msn-part-a.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/tagalog-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/tongan-msn-part-a.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/tongan-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/vietnamese-msn-part-a.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/vietnamese-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/arabic-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/armenian-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/farsi-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/greek-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/haitian-creole-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/hindi-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/japanese-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/lao-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/polish-msn-part-b.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11435-S-Medicare-Hospital-Benefits.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11376-s-your-discharge-planning-checklist.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/11546-s-medicare-coordination-of-benefits-getting-started.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://medicare.gov/publications/02179-s-how-medicare-works-with-other-insurance508.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.medicare.gov/publications/12112-understanding-mep-trifold-508c.pdf",
     "type": "pdf",
     "pages": 1
@@ -7323,6 +8127,11 @@
    {
     "url": "https://14886935.fls.doubleclick.net/activityi;src=14886935;type=invmedia;cat=getst0;rcb=0;ord=3186199644221;npa=0;auiddc=1107925047.1781530173;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fsign-up%2Fwhen-does-medicare-coverage-start;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66a1h1v9195911042za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938466~115938468~119456239~119456247;epver=2;dc_random=1781538013_GWpaahrQQAHuxsQCcQuMEQY1wR4HAogw6A;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fsign-up%2Fwhen-does-medicare-coverage-start?",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/medicare/cms-forms/cms-forms/downloads/cms10106S.pdf",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -7461,24 +8270,19 @@
     "pages": 1
    },
    {
-    "url": "https://www.cms.gov/Medicare/Prescription-Drug-Coverage/LimitedIncomeandResources/downloads/11166.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
-    "url": "https://www.cms.gov/Medicare/Prescription-Drug-Coverage/LimitedIncomeandResources/Downloads/11166-S.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
     "url": "https://4468676.fls.doubleclick.net/activityi;src=4468676;type=fraud0;cat=fraud0;rcb=13;qty=1;npa=0;auiddc=16969860.1781518924;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Freporting-medicare-fraud-and-abuse;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=YCA;gtm=45fe66a1v9190238220za200zb9131934939zd9131934939xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938468~117776794~118012008~119392697~119392705~119456239~119456247;epver=2;dc_random=1781526627_EkPD1NzBPA4jQ5bgF65to-Z4siJYyjvnzg;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Freporting-medicare-fraud-and-abuse?",
     "type": "iframe",
     "pages": 1
    },
    {
-    "url": "https://www.cms.gov/files/document/cms-10798.pdf",
-    "type": "pdf",
-    "pages": 2
+    "url": "https://4468676.fls.doubleclick.net/activityi;src=4468676;type=newto0;cat=cmsnt0;rcb=11;qty=1;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fsign-up;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=ICA;gtm=45fe66b0v9190238220za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938469~118131810~119456239~119456247;epver=2;dc_random=1781547997__KivWOlUSZ9qr8kUEAhLqqMSP_y9p0wFnQ;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fsign-up?",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://14886935.fls.doubleclick.net/activityi;src=14886935;type=invmedia;cat=getst0;rcb=5;ord=7694079382071;npa=0;auiddc=26936671.1781546251;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fsign-up;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66b0v9195911042za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938468~118131810~119392696~119392704~119456239~119456247;epver=2;dc_random=1781547997_yNPnsxeXCI8pWb0bw7c2jL7beOcS4Kr_bQ;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fsign-up?",
+    "type": "iframe",
+    "pages": 1
    },
    {
     "url": "https://www.cms.gov/Medicare/CMS-Forms/CMS-Forms/Downloads/CMS10106S.pdf",
@@ -7946,16 +8750,6 @@
     "pages": 1
    },
    {
-    "url": "https://www.cms.gov/Medicare/Prescription-Drug-Coverage/LimitedIncomeandResources/downloads/11198.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
-    "url": "https://www.cms.gov/Medicare/Prescription-Drug-Coverage/LimitedIncomeandResources/Downloads/11198-S.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
     "url": "http://www.cms.gov/cmsforms/downloads/CMS2728.pdf",
     "type": "pdf",
     "pages": 2
@@ -8058,6 +8852,16 @@
    {
     "url": "https://14886935.fls.doubleclick.net/activityi;src=14886935;type=invmedia;cat=getst0;rcb=10;ord=5758493303878;npa=0;auiddc=16969860.1781518924;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fother-paths;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=YFA;gtm=45fe66b0h2v9195911042za200zb9131934939zd9131934939xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~117776793~119456239~119456247;epver=2;dc_random=1781522432_izVWTS_cham6ngSIrnWRFwcNComaIDA7tg;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fother-paths?",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicare.gov/publications/incident-notification-letterenglish.pdf?linkit_matcher=1",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicare.gov/publications/incident-notification-letterspanish.pdf?linkit_matcher=1",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -8674,87 +9478,92 @@
     "url": "https://14886935.fls.doubleclick.net/activityi;src=14886935;type=invmedia;cat=getst0;rcb=12;ord=9435851212467;npa=0;auiddc=1188256547.1781487521;u1=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fmedicare-basics%2Fwhat-does-medicare-cost;gdid=dYmQxMT;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66a1v9195911042za200zb9170335489zd9170335489xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~119456239~119456247;epver=2;dc_random=1781490915_oxi9vamg6LBBNfR41-hxy0HhUty8iMlm_w;_dc_test=1;~oref=https%3A%2F%2Fwww.medicare.gov%2Fbasics%2Fget-started-with-medicare%2Fmedicare-basics%2Fwhat-does-medicare-cost?",
     "type": "iframe",
     "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/Outreach-and-Education/Outreach/Partnerships/downloads/11433.pdf",
+    "type": "pdf",
+    "pages": 1
    }
   ]
  },
  "standards": {
-  "pagesChecked": 122,
+  "pagesChecked": 169,
   "checks": [
    {
     "id": "schema-gov",
     "label": "schema.org GovernmentOrganization markup",
     "pass": 0,
-    "total": 122,
+    "total": 169,
     "rate": 0
    },
    {
     "id": "open-social",
     "label": "Open social presence (Mastodon/Bluesky) linked",
     "pass": 0,
-    "total": 122,
+    "total": 169,
     "rate": 0
    },
    {
     "id": "description",
     "label": "Meta description present",
-    "pass": 71,
-    "total": 122,
-    "rate": 58
+    "pass": 96,
+    "total": 169,
+    "rate": 57
    },
    {
     "id": "canonical",
     "label": "Canonical URL declared",
-    "pass": 106,
-    "total": 122,
-    "rate": 87
+    "pass": 145,
+    "total": 169,
+    "rate": 86
    },
    {
     "id": "hreflang",
     "label": "hreflang alternates declared",
-    "pass": 106,
-    "total": 122,
-    "rate": 87
+    "pass": 145,
+    "total": 169,
+    "rate": 86
    },
    {
     "id": "open-graph",
     "label": "Open Graph tags (5/6)",
-    "pass": 106,
-    "total": 122,
-    "rate": 87
+    "pass": 145,
+    "total": 169,
+    "rate": 86
    },
    {
     "id": "twitter-card",
     "label": "Twitter card metadata",
-    "pass": 106,
-    "total": 122,
-    "rate": 87
+    "pass": 145,
+    "total": 169,
+    "rate": 86
    },
    {
     "id": "title",
     "label": "Page has a <title>",
-    "pass": 122,
-    "total": 122,
+    "pass": 169,
+    "total": 169,
     "rate": 100
    },
    {
     "id": "charset",
     "label": "Character encoding declared",
-    "pass": 122,
-    "total": 122,
+    "pass": 169,
+    "total": 169,
     "rate": 100
    },
    {
     "id": "lang",
     "label": "Document language (lang) set",
-    "pass": 122,
-    "total": 122,
+    "pass": 169,
+    "total": 169,
     "rate": 100
    },
    {
     "id": "viewport",
     "label": "Responsive viewport (zoom not disabled)",
-    "pass": 122,
-    "total": 122,
+    "pass": 169,
+    "total": 169,
     "rate": 100
    }
   ],
@@ -8815,58 +9624,58 @@
   "total": 8
  },
  "plainLanguage": {
-  "pagesChecked": 398,
-  "pagesScored": 234,
-  "medianWordsPerPage": 225,
-  "medianReadingEase": 38,
+  "pagesChecked": 446,
+  "pagesScored": 260,
+  "medianWordsPerPage": 217,
+  "medianReadingEase": 39,
   "medianGrade": 15,
   "topUnexplainedAcronyms": [
    {
     "acronym": "ZIP",
-    "pages": 59
+    "pages": 67
    },
    {
     "acronym": "ID",
-    "pages": 48
+    "pages": 54
    },
    {
     "acronym": "VA",
-    "pages": 44
+    "pages": 49
    },
    {
     "acronym": "IRS",
-    "pages": 42
+    "pages": 47
    },
    {
     "acronym": "TTY",
-    "pages": 29
+    "pages": 34
    },
    {
     "acronym": "PDF",
-    "pages": 29
+    "pages": 33
    },
    {
     "acronym": "CMS",
-    "pages": 18
+    "pages": 19
    },
    {
     "acronym": "KB",
-    "pages": 12
+    "pages": 16
    },
    {
     "acronym": "COVID",
-    "pages": 9
-   },
-   {
-    "acronym": "ED",
-    "pages": 9
+    "pages": 11
    },
    {
     "acronym": "LE",
-    "pages": 9
+    "pages": 11
    },
    {
     "acronym": "DME",
+    "pages": 10
+   },
+   {
+    "acronym": "ED",
     "pages": 9
    },
    {
@@ -8885,7 +9694,7 @@
   "topMisspellings": [
    {
     "word": "haveHow",
-    "pages": 108,
+    "pages": 117,
     "examplePages": [
      "https://medicare.gov/coverage/opioid-use-disorder-treatment-services",
      "https://www.medicare.gov/coverage/home-health-services",
@@ -8896,7 +9705,7 @@
    },
    {
     "word": "chargesIf",
-    "pages": 108,
+    "pages": 117,
     "examplePages": [
      "https://medicare.gov/coverage/opioid-use-disorder-treatment-services",
      "https://www.medicare.gov/coverage/home-health-services",
@@ -8907,7 +9716,7 @@
    },
    {
     "word": "assignmentThe",
-    "pages": 108,
+    "pages": 117,
     "examplePages": [
      "https://medicare.gov/coverage/opioid-use-disorder-treatment-services",
      "https://www.medicare.gov/coverage/home-health-services",
@@ -8918,7 +9727,7 @@
    },
    {
     "word": "facilityWhere",
-    "pages": 108,
+    "pages": 117,
     "examplePages": [
      "https://medicare.gov/coverage/opioid-use-disorder-treatment-services",
      "https://www.medicare.gov/coverage/home-health-services",
@@ -8929,29 +9738,29 @@
    },
    {
     "word": "doesn",
-    "pages": 50,
+    "pages": 54,
     "examplePages": [
+     "https://www.medicare.gov/providers-services/original-medicare/nursing-homes/return-to-community",
      "https://www.medicare.gov/health-drug-plans/part-d/basics/choose-coverage",
      "https://www.medicare.gov/health-drug-plans/part-d/what-drug-plans-cover/how-drug-plans-work",
      "https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/how-does-medicare-work",
-     "https://www.medicare.gov/coverage/eye-exams-routine",
-     "https://www.medicare.gov/basics/costs/pay-premiums/medicare-easy-pay"
+     "https://www.medicare.gov/coverage/eye-exams-routine"
     ]
    },
    {
     "word": "Medigap",
-    "pages": 42,
+    "pages": 48,
     "examplePages": [
      "https://www.medicare.gov/basics/costs",
      "https://www.medicare.gov/coverage/home-health-services",
      "https://medicare.gov/publications/search/all-non-english-pubs?page=5",
      "https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/how-does-medicare-work",
-     "https://medicare.gov/publications/search/all-non-english-pubs?page=3"
+     "https://medicare.gov/coverage/surgery"
     ]
    },
    {
     "word": "las",
-    "pages": 37,
+    "pages": 41,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -8961,19 +9770,8 @@
     ]
    },
    {
-    "word": "servicios",
-    "pages": 31,
-    "examplePages": [
-     "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
-     "https://medicare.gov/publication-ordering/10988-S",
-     "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
-     "https://medicare.gov/publications/search/all-non-english-pubs?page=5",
-     "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9SG9tZUhlYWx0aCJ9fQ%3D%3D"
-    ]
-   },
-   {
     "word": "que",
-    "pages": 30,
+    "pages": 34,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -8983,8 +9781,19 @@
     ]
    },
    {
+    "word": "servicios",
+    "pages": 33,
+    "examplePages": [
+     "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
+     "https://medicare.gov/publication-ordering/10988-S",
+     "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
+     "https://medicare.gov/publications/search/all-non-english-pubs?page=5",
+     "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9SG9tZUhlYWx0aCJ9fQ%3D%3D"
+    ]
+   },
+   {
     "word": "una",
-    "pages": 30,
+    "pages": 33,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -8995,7 +9804,7 @@
    },
    {
     "word": "necesita",
-    "pages": 26,
+    "pages": 28,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9006,7 +9815,7 @@
    },
    {
     "word": "Esta",
-    "pages": 26,
+    "pages": 28,
     "examplePages": [
      "https://medicare.gov/publication-ordering/10988-S",
      "https://www.medicare.gov/publication-ordering/11173-S",
@@ -9017,7 +9826,7 @@
    },
    {
     "word": "puede",
-    "pages": 25,
+    "pages": 27,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9028,7 +9837,7 @@
    },
    {
     "word": "verificaci",
-    "pages": 25,
+    "pages": 27,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9039,7 +9848,7 @@
    },
    {
     "word": "seguros",
-    "pages": 25,
+    "pages": 27,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9050,7 +9859,7 @@
    },
    {
     "word": "Conozca",
-    "pages": 25,
+    "pages": 27,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9061,7 +9870,7 @@
    },
    {
     "word": "Inicie",
-    "pages": 24,
+    "pages": 26,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9072,7 +9881,7 @@
    },
    {
     "word": "sesi",
-    "pages": 24,
+    "pages": 26,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9083,7 +9892,7 @@
    },
    {
     "word": "cree",
-    "pages": 24,
+    "pages": 26,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9094,7 +9903,7 @@
    },
    {
     "word": "cuenta",
-    "pages": 24,
+    "pages": 26,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9105,7 +9914,7 @@
    },
    {
     "word": "MedicareUna",
-    "pages": 24,
+    "pages": 26,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9116,7 +9925,7 @@
    },
    {
     "word": "vez",
-    "pages": 24,
+    "pages": 26,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9127,7 +9936,7 @@
    },
    {
     "word": "tenga",
-    "pages": 24,
+    "pages": 26,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9138,7 +9947,7 @@
    },
    {
     "word": "usar",
-    "pages": 24,
+    "pages": 26,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9149,7 +9958,7 @@
    },
    {
     "word": "cualquiera",
-    "pages": 24,
+    "pages": 26,
     "examplePages": [
      "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
      "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D",
@@ -9161,22 +9970,22 @@
   ]
  },
  "lighthouse": {
-  "pagesSampled": 132,
+  "pagesSampled": 155,
   "medianPerformance": 38,
   "medianAccessibility": 100,
   "medianBestPractices": 54,
   "medianSeo": 92,
   "medianAgentic": null,
   "metrics": {
-   "firstContentfulPaintMs": 7144,
-   "largestContentfulPaintMs": 18278,
-   "speedIndexMs": 7356,
-   "totalBlockingTimeMs": 893,
+   "firstContentfulPaintMs": 7147,
+   "largestContentfulPaintMs": 18133,
+   "speedIndexMs": 7368,
+   "totalBlockingTimeMs": 909,
    "cumulativeLayoutShift": 0
   }
  },
  "linkCheck": {
-  "brokenCount": 14,
+  "brokenCount": 16,
   "broken": [
    {
     "url": "https://www.cms.gov/medicare-coverage-database/search.aspx",
@@ -9289,6 +10098,22 @@
     "foundOn": [
      "https://medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps"
     ]
+   },
+   {
+    "url": "https://www.medicare.gov/sso/authorize?client_id=mct&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.medicare.gov/sso/authorize?client_id=mct&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D"
+    ]
+   },
+   {
+    "url": "https://www.medicare.gov/sso/authorize?client_id=mct&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D&Lang=es-mx",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.medicare.gov/sso/authorize?client_id=mct&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D"
+    ]
    }
   ]
  },
@@ -9299,6 +10124,14 @@
   },
   {
    "url": "https://medicare.gov/coverage/nebulizers-nebulizer-medications",
+   "status": 404
+  },
+  {
+   "url": "https://www.medicare.gov/coverage/nebulizers-nebulizer-medications",
+   "status": 404
+  },
+  {
+   "url": "https://medicare.gov/mental-health-substance-use-disorder",
    "status": 404
   }
  ]
