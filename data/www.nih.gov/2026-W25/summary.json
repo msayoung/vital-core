@@ -1,26 +1,26 @@
 {
  "domain": "www.nih.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-15T11:25:32.835Z",
- "pagesScanned": 72,
- "pagesAudited": 3,
+ "generatedAt": "2026-06-15T14:01:09.208Z",
+ "pagesScanned": 77,
+ "pagesAudited": 4,
  "coverage": {
-  "axe": 3,
+  "axe": 4,
   "plain-language": 2,
-  "deprecated-html": 3,
-  "resources": 3,
-  "sustainability": 3
+  "deprecated-html": 4,
+  "resources": 4,
+  "sustainability": 4
  },
  "blocked": null,
  "axe": {
-  "violationTotal": 33,
-  "pagesWithViolations": 3,
-  "pagesScanned": 3,
+  "violationTotal": 40,
+  "pagesWithViolations": 4,
+  "pagesScanned": 4,
   "medianViolations": 7,
   "rules": {
    "heading-order": {
-    "count": 3,
-    "pages": 3,
+    "count": 4,
+    "pages": 4,
     "impact": "moderate",
     "help": "Heading levels should only increase by one",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
@@ -29,12 +29,16 @@
     ],
     "examplePages": [
      "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome",
-     "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking",
-     "https://www.nih.gov/news-events/nih-research-matters/millions-us-kids-live-parents-substance-use-disorders"
+     "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return",
+     "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking"
     ],
     "affectedPages": [
      {
       "url": "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return",
       "instances": 1
      },
      {
@@ -53,6 +57,11 @@
       "html": "<h3>Tracking how the environment affects health</h3>"
      },
      {
+      "url": "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return",
+      "target": ".callout__text > h3",
+      "html": "<h3>At a Glance</h3>"
+     },
+     {
       "url": "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking",
       "target": ".callout__text > h3",
       "html": "<h3>At a Glance</h3>"
@@ -65,8 +74,8 @@
     ]
    },
    "landmark-unique": {
-    "count": 3,
-    "pages": 3,
+    "count": 4,
+    "pages": 4,
     "impact": "moderate",
     "help": "Landmarks should have a unique role or role/label/title (i.e. accessible name) combination",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-unique?application=axeAPI",
@@ -75,12 +84,16 @@
     ],
     "examplePages": [
      "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome",
-     "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking",
-     "https://www.nih.gov/news-events/nih-research-matters/millions-us-kids-live-parents-substance-use-disorders"
+     "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return",
+     "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking"
     ],
     "affectedPages": [
      {
       "url": "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return",
       "instances": 1
      },
      {
@@ -99,6 +112,11 @@
       "html": "<div class=\"search-block-form usa-form block block-search container-inline\" data-drupal-selector=\"search-block-form\" id=\"block-nih2-uswds-search\" role=\"search\">"
      },
      {
+      "url": "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return",
+      "target": "#block-nih2-uswds-search",
+      "html": "<div class=\"search-block-form usa-form block block-search container-inline\" data-drupal-selector=\"search-block-form\" id=\"block-nih2-uswds-search\" role=\"search\">"
+     },
+     {
       "url": "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking",
       "target": "#block-nih2-uswds-search",
       "html": "<div class=\"search-block-form usa-form block block-search container-inline\" data-drupal-selector=\"search-block-form\" id=\"block-nih2-uswds-search\" role=\"search\">"
@@ -111,8 +129,8 @@
     ]
    },
    "link-in-text-block": {
-    "count": 24,
-    "pages": 3,
+    "count": 28,
+    "pages": 4,
     "impact": "serious",
     "help": "Links must be distinguishable without relying on color",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-in-text-block?application=axeAPI",
@@ -122,13 +140,17 @@
     ],
     "examplePages": [
      "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome",
-     "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking",
-     "https://www.nih.gov/news-events/nih-research-matters/millions-us-kids-live-parents-substance-use-disorders"
+     "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return",
+     "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking"
     ],
     "affectedPages": [
      {
       "url": "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome",
       "instances": 16
+     },
+     {
+      "url": "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return",
+      "instances": 4
      },
      {
       "url": "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking",
@@ -156,20 +178,20 @@
       "html": "<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/31248544\" class=\"ext\" data-extlink=\"\" target=\"_blank\" rel=\"noopener nofollow noreferrer\" title=\"(opens in a new window)\">Stress-Associated Neurobiological "
      },
      {
-      "url": "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking",
-      "target": "p:nth-child(17) > a[data-extlink=\"\"][target=\"_blank\"][rel=\"noopener nofollow noreferrer\"]",
-      "html": "<a href=\"https://pubmed.ncbi.nlm.nih.gov/42070571/\" class=\"ext\" data-extlink=\"\" target=\"_blank\" rel=\"noopener nofollow noreferrer\" title=\"(opens in a new window)\">"
+      "url": "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return",
+      "target": "p:nth-child(18) > a[data-extlink=\"\"][target=\"_blank\"][rel=\"noopener nofollow noreferrer\"]",
+      "html": "<a href=\"https://pubmed.ncbi.nlm.nih.gov/35063323/\" class=\"ext\" data-extlink=\"\" target=\"_blank\" rel=\"noopener nofollow noreferrer\" title=\"(opens in a new window)\">Recidivism and mortality after in-jai"
      },
      {
-      "url": "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking",
+      "url": "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return",
       "target": "p:nth-child(3) > a:nth-child(2)",
       "html": "<a href=\"https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison\">Office of Communications and Public Liaison</a>"
      }
     ]
    },
    "region": {
-    "count": 3,
-    "pages": 3,
+    "count": 4,
+    "pages": 4,
     "impact": "moderate",
     "help": "All page content should be contained by landmarks",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
@@ -178,12 +200,16 @@
     ],
     "examplePages": [
      "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome",
-     "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking",
-     "https://www.nih.gov/news-events/nih-research-matters/millions-us-kids-live-parents-substance-use-disorders"
+     "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return",
+     "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking"
     ],
     "affectedPages": [
      {
       "url": "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return",
       "instances": 1
      },
      {
@@ -198,6 +224,11 @@
     "instances": [
      {
       "url": "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome",
+      "target": "#system-breadcrumb",
+      "html": "<h2 id=\"system-breadcrumb\" class=\"visually-hidden\">Breadcrumb</h2>"
+     },
+     {
+      "url": "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return",
       "target": "#system-breadcrumb",
       "html": "<h2 id=\"system-breadcrumb\" class=\"visually-hidden\">Breadcrumb</h2>"
      },
@@ -223,11 +254,11 @@
   "rules": {}
  },
  "consensus": {
-  "uniqueIssues": 12,
+  "uniqueIssues": 16,
   "consensus": 0,
-  "axeOnly": 12,
+  "axeOnly": 16,
   "alfaOnly": 0,
-  "rawAxe": 12,
+  "rawAxe": 16,
   "rawAlfa": 0,
   "byKey": {
    "axe-core:heading-order": {
@@ -236,7 +267,7 @@
      "heading-order"
     ],
     "alfaRules": [],
-    "pages": 3,
+    "pages": 4,
     "engines": "axe"
    },
    "axe-core:landmark-unique": {
@@ -245,7 +276,7 @@
      "landmark-unique"
     ],
     "alfaRules": [],
-    "pages": 3,
+    "pages": 4,
     "engines": "axe"
    },
    "axe-core:link-in-text-block": {
@@ -254,7 +285,7 @@
      "link-in-text-block"
     ],
     "alfaRules": [],
-    "pages": 3,
+    "pages": 4,
     "engines": "axe"
    },
    "axe-core:region": {
@@ -263,30 +294,35 @@
      "region"
     ],
     "alfaRules": [],
-    "pages": 3,
+    "pages": 4,
     "engines": "axe"
    }
   }
  },
  "sustainability": {
-  "pages": 3,
-  "medianBytes": 1252848,
-  "meanBytes": 1270998,
+  "pages": 4,
+  "medianBytes": 1251989,
+  "meanBytes": 969811,
   "medianRequests": 80,
   "totalCo2g": 0.57,
-  "meanCo2g": 0.1884,
-  "totalEnergyWh": 1.14,
-  "meanEnergyWh": 0.3813
+  "meanCo2g": 0.1437,
+  "totalEnergyWh": 1.16,
+  "meanEnergyWh": 0.291
  },
  "deprecatedHtml": null,
  "resources": {
-  "total": 3,
+  "total": 4,
   "byType": {
-   "image": 3
+   "image": 4
   },
   "list": [
    {
     "url": "https://www.nih.gov/sites/default/files/2026-06/20260609-collage.jpg",
+    "type": "image",
+    "pages": 1
+   },
+   {
+    "url": "https://www.nih.gov/sites/default/files/2025-03/20220208-opioids.jpg",
     "type": "image",
     "pages": 1
    },
@@ -563,6 +599,10 @@
    "status": 403
   },
   {
+   "url": "https://www.nih.gov/news-events/nih-research-matters/lack-buprenorphine-access-adolescents-residential-facilities",
+   "status": 403
+  },
+  {
    "url": "https://www.nih.gov/privacy-policy",
    "status": 403
   },
@@ -600,6 +640,10 @@
   },
   {
    "url": "https://www.nih.gov/news-events/nih-research-matters/people-taking-semaglutide-had-lower-risk-suicidal-thoughts",
+   "status": 403
+  },
+  {
+   "url": "https://www.nih.gov/news-events/nih-research-matters/measuring-ultra-processed-foods-diet",
    "status": 403
   },
   {
@@ -644,14 +688,6 @@
   },
   {
    "url": "https://www.nih.gov/about-nih/who-we-are/nih-director",
-   "status": 403
-  },
-  {
-   "url": "https://www.nih.gov/nondiscrimination-notice",
-   "status": 403
-  },
-  {
-   "url": "https://www.nih.gov/nih-website-archives",
    "status": 403
   }
  ]

@@ -1,7 +1,7 @@
 {
  "domain": "www.healthcare.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-15T11:25:32.789Z",
+ "generatedAt": "2026-06-15T14:01:09.154Z",
  "pagesScanned": 569,
  "pagesAudited": 569,
  "coverage": {
@@ -2727,12 +2727,12 @@
      {
       "url": "https://www.healthcare.gov/medicaid-chip",
       "target": ".QSIPopOver > div:nth-child(1)",
-      "html": "<div tabindex=\"0\" style=\"top: 0px; left: 0px; position: absolute; z-index: 2000000002; width: 700px; height: 453px; background-color: transparent; border-width: 0px; border-color: rgb(51, 51, 51); bor"
+      "html": "<div tabindex=\"0\" style=\"top: 0px; left: 0px; position: absolute; z-index: 2000000000; width: 700px; height: 453px; background-color: transparent; border-width: 0px; border-color: rgb(51, 51, 51); bor"
      },
      {
       "url": "https://www.healthcare.gov/medicaid-chip",
       "target": ".QSIPopOver > div:nth-child(2)",
-      "html": "<div tabindex=\"0\" style=\"top: 12px; left: 662px; position: absolute; z-index: 2000000004; width: 25px; height: 25px; background-color: transparent; border-width: 0px; border-color: rgb(0, 0, 0); borde"
+      "html": "<div tabindex=\"0\" style=\"top: 12px; left: 662px; position: absolute; z-index: 2000000002; width: 25px; height: 25px; background-color: transparent; border-width: 0px; border-color: rgb(0, 0, 0); borde"
      }
     ]
    },
@@ -6136,13 +6136,13 @@
  },
  "sustainability": {
   "pages": 569,
-  "medianBytes": 3031446,
-  "meanBytes": 3022392,
+  "medianBytes": 3030291,
+  "meanBytes": 3020455,
   "medianRequests": 103,
-  "totalCo2g": 254.87,
-  "meanCo2g": 0.4479,
-  "totalEnergyWh": 515.92,
-  "meanEnergyWh": 0.9067
+  "totalCo2g": 254.7,
+  "meanCo2g": 0.4476,
+  "totalEnergyWh": 515.59,
+  "meanEnergyWh": 0.9061
  },
  "deprecatedHtml": null,
  "resources": {
@@ -6632,7 +6632,7 @@
     "pages": 1
    },
    {
-    "url": "https://8209133.fls.doubleclick.net/activityi;src=8209133;type=2022;cat=2022-008;ord=318447094138.22003?",
+    "url": "https://8209133.fls.doubleclick.net/activityi;src=8209133;type=2022;cat=2022-008;ord=9099695220339.498?",
     "type": "iframe",
     "pages": 1
    },
@@ -6657,7 +6657,7 @@
     "pages": 1
    },
    {
-    "url": "https://8209133.fls.doubleclick.net/activityi;src=8209133;type=2022;cat=2022-005;ord=3305554293433.527?",
+    "url": "https://8209133.fls.doubleclick.net/activityi;src=8209133;type=2022;cat=2022-005;ord=5696841328482.967?",
     "type": "iframe",
     "pages": 1
    },
@@ -8103,17 +8103,17 @@
  },
  "lighthouse": {
   "pagesSampled": 57,
-  "medianPerformance": 43,
+  "medianPerformance": 42,
   "medianAccessibility": 100,
   "medianBestPractices": 77,
   "medianSeo": 92,
   "medianAgentic": null,
   "metrics": {
-   "firstContentfulPaintMs": 2517,
-   "largestContentfulPaintMs": 13878,
-   "speedIndexMs": 5312,
-   "totalBlockingTimeMs": 1239,
-   "cumulativeLayoutShift": 0.046
+   "firstContentfulPaintMs": 2520,
+   "largestContentfulPaintMs": 13828,
+   "speedIndexMs": 5421,
+   "totalBlockingTimeMs": 1299,
+   "cumulativeLayoutShift": 0.05
   }
  },
  "linkCheck": {

@@ -1,6 +1,6 @@
 {
  "domain": "www.nih.gov",
- "updatedAt": "2026-06-15T11:25:32.839Z",
+ "updatedAt": "2026-06-15T14:01:09.210Z",
  "pages": {
   "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome": {
    "pageId": "07d5b55feda1555b",
@@ -645,6 +645,51 @@
    "pageId": "f2dda3856dcc01d7",
    "lastWeek": "2026-W25",
    "lastScannedAt": "2026-06-15T10:52:15.989Z",
+   "status": 403,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.nih.gov/news-events/nih-research-matters/lack-buprenorphine-access-adolescents-residential-facilities": {
+   "pageId": "122ea952af2169ab",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T13:16:40.308Z",
+   "status": 403,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.nih.gov/news-events/nih-research-matters/treatment-opioid-use-disorder-jail-reduces-risk-return": {
+   "pageId": "202c74357e944778",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T13:16:29.810Z",
+   "status": 200,
+   "axeViolations": 7,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nih.gov/news-events/nih-research-matters/measuring-ultra-processed-foods-diet": {
+   "pageId": "35fa166843a5beda",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T13:16:36.979Z",
+   "status": 403,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.nih.gov/news-events/nih-research-matters/infant-rare-disease-receives-customized-gene-therapy": {
+   "pageId": "7b7d7504380aa10f",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T13:16:43.860Z",
+   "status": 403,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.nih.gov/news-events/nih-research-matters/telehealth-improves-treatment-opioid-use-disorder": {
+   "pageId": "dee515cb788e72f1",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T13:16:33.454Z",
    "status": 403,
    "axeViolations": null,
    "alfaFailures": null,

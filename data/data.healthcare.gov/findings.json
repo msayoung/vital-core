@@ -1,6 +1,6 @@
 {
  "domain": "data.healthcare.gov",
- "updatedAt": "2026-06-15T11:25:32.160Z",
+ "updatedAt": "2026-06-15T14:01:08.416Z",
  "findings": {
   "VS-a0bdbdf6": {
    "engine": "axe-core",
@@ -38,11 +38,12 @@
    "wcag": "4.1.2",
    "severity": "High",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
+   "lastSeen": "2026-W25",
    "_weeks": [
-    "2026-W24"
+    "2026-W24",
+    "2026-W25"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPagesAffected": 1
   },
   "VS-646b1e0b": {
@@ -58,7 +59,7 @@
     "2026-W25"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 179
+   "lastPagesAffected": 238
   },
   "VS-2208081b": {
    "engine": "Siteimprove Alfa",
@@ -73,7 +74,7 @@
     "2026-W25"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 179
+   "lastPagesAffected": 238
   },
   "VS-cb53cc4d": {
    "engine": "Siteimprove Alfa",
@@ -88,7 +89,7 @@
     "2026-W25"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 179
+   "lastPagesAffected": 238
   },
   "VS-f6cf30ff": {
    "engine": "Siteimprove Alfa",
@@ -103,7 +104,7 @@
     "2026-W25"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 162
+   "lastPagesAffected": 218
   },
   "VS-7118fead": {
    "engine": "Siteimprove Alfa",
@@ -132,7 +133,7 @@
     "2026-W25"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 1
+   "lastPagesAffected": 2
   },
   "VS-d25f622d": {
    "engine": "axe-core",
@@ -214,11 +215,12 @@
    "wcag": null,
    "severity": "Medium",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
+   "lastSeen": "2026-W25",
    "_weeks": [
-    "2026-W24"
+    "2026-W24",
+    "2026-W25"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPagesAffected": 1
   },
   "VS-f2542d87": {
@@ -298,11 +300,12 @@
    "wcag": null,
    "severity": "Low",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
+   "lastSeen": "2026-W25",
    "_weeks": [
-    "2026-W24"
+    "2026-W24",
+    "2026-W25"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPagesAffected": 1
   }
  }
