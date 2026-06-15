@@ -1,6 +1,6 @@
 {
  "domain": "data.healthcare.gov",
- "updatedAt": "2026-06-14T20:00:57.341Z",
+ "updatedAt": "2026-06-15T01:26:07.410Z",
  "resources": {
   "https://data.healthcare.gov/datafile/2015-qhp-landscape-nm-individual-market-medical.tfna-vz76.csv": {
    "type": "spreadsheet",
@@ -241,6 +241,106 @@
    ],
    "weeksSeen": 1,
    "lastPages": 4
+  },
+  "https://data.healthcare.gov/datafile/plan-attributes-puf-2018.9epp-mpe8.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/business-rules-puf-2018.k9rw-hjvp.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/network-puf-2018.mfay-6hbn.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/mlr-ry2016-socrata-dataset-01192018.jg62-irbb.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/rate-puf-2015.r3nu-ebdw.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/benefits-and-cost-sharing-puf.i982-vm9r.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/plan-attributes-puf.ium9-pv2r.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/business-rules-puf.v4vv-f44q.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/service-area-puf.cuxs-34br.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/network-puf.5w58-urjn.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
   },
   "https://data.healthcare.gov/datafile/py2025/plan_id_crosswalk_PUF.csv": {
    "type": "spreadsheet",
@@ -502,6 +602,106 @@
    "weeksSeen": 1,
    "lastPages": 3
   },
+  "https://data.healthcare.gov/datafile/PY2016_NM-Med-Indi-Land-11-19-2015.zip": {
+   "type": "archive",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.healthcare.gov/datafile/PY2016_NM-Dent-Indi-Land-11-19-2015.zip": {
+   "type": "archive",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.healthcare.gov/datafile/mlr-ry2014-socrata-dataset-10302015.pszf-56pp.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 7
+  },
+  "https://data.healthcare.gov/datafile/PY2015_OR-Med-Indi-Land-08-03-2015.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.healthcare.gov/datafile/PY2015_OR-Dent-Indi-Land-08-03-2015.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.healthcare.gov/datafile/PY2015_NV-Med-SHOP-Land-08-03-2015.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.healthcare.gov/datafile/PY2015_NV-Med-Indi-Land-08-03-2015.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.healthcare.gov/datafile/PY2015_NV-Dent-SHOP-Land-08-03-2015.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.healthcare.gov/datafile/PY2015_NV-Dent-Indi-Land-08-03-2015.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
+  "https://data.healthcare.gov/datafile/PY2015_NM-Med-Indi-Land-08-03-2015.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2
+  },
   "https://data.healthcare.gov/datafile/2015-qhp-landscape-individual-market-medical.mp8z-jtg7.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
@@ -531,16 +731,6 @@
    ],
    "weeksSeen": 1,
    "lastPages": 9
-  },
-  "https://data.healthcare.gov/datafile/mlr-ry2014-socrata-dataset-10302015.pszf-56pp.csv": {
-   "type": "spreadsheet",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 6
   },
   "https://data.healthcare.gov/datafile/localhelp/prod/helpers.csv": {
    "type": "spreadsheet",
@@ -620,7 +810,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://data.healthcare.gov/datafile/Med-Ind-Landscape.pdf": {
    "type": "pdf",
@@ -640,7 +830,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 2
+   "lastPages": 3
   },
   "https://data.healthcare.gov/datafile/Med-SHOP-Landscape.pdf": {
    "type": "pdf",
@@ -840,7 +1030,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/quality-puf-2021-data.kxde-2cd8.csv": {
    "type": "spreadsheet",
@@ -850,7 +1040,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/SHOP_Market_Medical_07_27_2020.xlsx.zip": {
    "type": "archive",
@@ -860,7 +1050,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/SHOP_Market_Dental_07_27_2020.xlsx.zip": {
    "type": "archive",
@@ -870,7 +1060,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/py2026/machine_readable_PUF.xlsx": {
    "type": "spreadsheet",
@@ -963,26 +1153,6 @@
    "lastPages": 1
   },
   "https://data.healthcare.gov/datafile/PY2016_NV-Dent-Indi-Land-11-19-2015.zip": {
-   "type": "archive",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://data.healthcare.gov/datafile/PY2016_NM-Med-Indi-Land-11-19-2015.zip": {
-   "type": "archive",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://data.healthcare.gov/datafile/PY2016_NM-Dent-Indi-Land-11-19-2015.zip": {
    "type": "archive",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",
@@ -2062,76 +2232,6 @@
    "weeksSeen": 1,
    "lastPages": 4
   },
-  "https://data.healthcare.gov/datafile/PY2015_OR-Med-Indi-Land-08-03-2015.pdf": {
-   "type": "pdf",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://data.healthcare.gov/datafile/PY2015_OR-Dent-Indi-Land-08-03-2015.pdf": {
-   "type": "pdf",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://data.healthcare.gov/datafile/PY2015_NV-Med-SHOP-Land-08-03-2015.pdf": {
-   "type": "pdf",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://data.healthcare.gov/datafile/PY2015_NV-Med-Indi-Land-08-03-2015.pdf": {
-   "type": "pdf",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://data.healthcare.gov/datafile/PY2015_NV-Dent-SHOP-Land-08-03-2015.pdf": {
-   "type": "pdf",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://data.healthcare.gov/datafile/PY2015_NV-Dent-Indi-Land-08-03-2015.pdf": {
-   "type": "pdf",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
-  "https://data.healthcare.gov/datafile/PY2015_NM-Med-Indi-Land-08-03-2015.pdf": {
-   "type": "pdf",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 1
-  },
   "https://data.healthcare.gov/datafile/PY2015_NM-Dent-Indi-Land-08-03-2015.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W24",
@@ -2140,7 +2240,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/PY2015_Med-SHOP-Land-08-03-2015.pdf": {
    "type": "pdf",
@@ -2150,7 +2250,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/PY2015_Med-Indi-Land-08-03-2015.pdf": {
    "type": "pdf",
@@ -2160,7 +2260,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/py2024/business_rules_PUF.csv": {
    "type": "spreadsheet",
@@ -2220,7 +2320,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/PY2015_Dent-Indi-Land-08-03-2015.pdf": {
    "type": "pdf",
@@ -2230,7 +2330,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/PY2015_OR-Med-Indi-Land-08-13-2015.zip": {
    "type": "archive",
@@ -2240,7 +2340,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/PY2015_OR-Dent-Indi-Land-08-13-2015.zip": {
    "type": "archive",
@@ -2250,7 +2350,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/PY2015_NV-Med-SHOP-Land-08-13-2015.zip": {
    "type": "archive",
@@ -2260,7 +2360,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/PY2015_NV-Med-Indi-Land-08-13-2015.zip": {
    "type": "archive",
@@ -2270,7 +2370,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/PY2015_NV-Dent-SHOP-Land-08-13-2015.zip": {
    "type": "archive",
@@ -2280,7 +2380,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/Individual_Market_Medical_07_27_2020.xlsx.zip": {
    "type": "archive",
@@ -2290,7 +2390,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/Individual_Market_Dental_07_27_2020.xlsx.zip": {
    "type": "archive",
@@ -2300,7 +2400,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/Med-SHOP-Lndscp-IN-072720-508.pdf": {
    "type": "pdf",
@@ -2310,7 +2410,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/Den-SHOP-Lndscp-IN-072720-508.pdf": {
    "type": "pdf",
@@ -2320,7 +2420,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/Med-Ind-Lndscp-IN-072720-508.pdf": {
    "type": "pdf",
@@ -2330,7 +2430,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/plan-id-crosswalk-puf-2020.p7h5-7vyf.csv": {
    "type": "spreadsheet",
@@ -2340,7 +2440,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPages": 1
+   "lastPages": 2
   },
   "https://data.healthcare.gov/datafile/service-area-puf-2020.8kxw-8r6g.csv": {
    "type": "spreadsheet",
@@ -2483,6 +2583,86 @@
    "lastPages": 1
   },
   "https://data.healthcare.gov/datafile/2016-qhp-landscape-hi-individual-market-dental.jb55-ezf9.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/mlr-ry2017-socrata-dataset-20181031.abhi-yds7.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/qhp-landscape-individual-market-medical.b8in-sz6k.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/plan-id-crosswalk-puf-2019.ciet-nbd9.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/quality-puf-py2019.ajej-zg7p.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/response-codes.3thg-9i7f.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/benefits-cost-sharing-puf-2018.afk4-e2ai.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/rate-puf-2018.7956-2yzc.csv": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1
+  },
+  "https://data.healthcare.gov/datafile/service-area-puf-2018.2s43-xj6q.csv": {
    "type": "spreadsheet",
    "firstSeen": "2026-W24",
    "lastSeen": "2026-W24",

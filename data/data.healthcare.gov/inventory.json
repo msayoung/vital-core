@@ -1,6 +1,6 @@
 {
  "domain": "data.healthcare.gov",
- "updatedAt": "2026-06-14T20:00:57.328Z",
+ "updatedAt": "2026-06-15T01:26:07.397Z",
  "pages": {
   "https://data.healthcare.gov/dataset/brrf-yhzh?page=2": {
    "pageId": "001593511fb49616",
@@ -16651,6 +16651,51 @@
    "axeViolations": 0,
    "alfaFailures": 41,
    "hasIssues": true
+  },
+  "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=8": {
+   "pageId": "09a1a0dc2495d429",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:47:33.260Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 93,
+   "hasIssues": true
+  },
+  "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=17": {
+   "pageId": "1087022feadf933d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:47:28.211Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://data.healthcare.gov/datasets?page=9": {
+   "pageId": "b15b07058e7dc6c2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:40:24.329Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=18": {
+   "pageId": "c04926c1d4a5ce61",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:40:14.606Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=7": {
+   "pageId": "cd14bd54542ecf19",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:40:19.477Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
   }
  }
 }

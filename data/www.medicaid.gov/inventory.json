@@ -1,6 +1,6 @@
 {
  "domain": "www.medicaid.gov",
- "updatedAt": "2026-06-14T20:00:57.197Z",
+ "updatedAt": "2026-06-15T01:26:07.261Z",
  "pages": {
   "https://www.medicaid.gov/medicaid/long-term-services-supports/money-follows-person": {
    "pageId": "005ddaa055ebe3c3",
@@ -20051,6 +20051,5406 @@
    "lastScannedAt": "2026-06-14T19:31:47.365Z",
    "status": 200,
    "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7317": {
+   "pageId": "00391dba8fd1357f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:15.090Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002041": {
+   "pageId": "0209a48bc3e02050",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:29.448Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9005": {
+   "pageId": "0233c9ba2b8818aa",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:46:59.305Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/covered-ct-qtrly-budget-neut-rpt-jan-mar-2024.xlsm": {
+   "pageId": "027499b2fd7436d9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:00.163Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481": {
+   "pageId": "02b60f837b6bb63f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:03.690Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6738": {
+   "pageId": "036976e300e85b83",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:04:11.277Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002116": {
+   "pageId": "0504176b789e7e6a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:51:38.870Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002076": {
+   "pageId": "0531309c1315e91e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:54:16.229Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7675": {
+   "pageId": "0536fd4a15902c97",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:10:11.749Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003193": {
+   "pageId": "05b9b640e326505a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:59:58.197Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-58-001-1": {
+   "pageId": "05cdb6fde1ed1327",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:50:16.267Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-1-084-84": {
+   "pageId": "06f3dbd88bd5b8de",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:10:15.412Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx001012": {
+   "pageId": "0752fb91db069406",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:29.610Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002077": {
+   "pageId": "077487aed469cb59",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:48:33.126Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-769": {
+   "pageId": "08856aa04e6c6857",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:10:07.918Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8933": {
+   "pageId": "08ce93d14d62c846",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:59.655Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6501": {
+   "pageId": "092b6d4d2c66c410",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:52:28.296Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6499": {
+   "pageId": "0954e938302d2780",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:06:42.111Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6204": {
+   "pageId": "097317c38862a5f9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:21.801Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=826&page=28&q=": {
+   "pageId": "09ce82fa42e843bf",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:55.477Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002082": {
+   "pageId": "09e9c081d5f0b5b2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:33.664Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004122": {
+   "pageId": "0a02f5f24752e94c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:37.612Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1703": {
+   "pageId": "0a70c7c79c283409",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:55.796Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/chip/state-program-information/chip-spa?page=6": {
+   "pageId": "0ae903dd4f763585",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:42.420Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7123": {
+   "pageId": "0baeeb2ad107876e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:46:40.066Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008304": {
+   "pageId": "0bb50068e33ecab4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:40:28.127Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2408": {
+   "pageId": "0bc049799fe2f3ff",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:58:45.640Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-886": {
+   "pageId": "0c107bcb8411b3b0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:04:57.386Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7005": {
+   "pageId": "0c32d3ef464d29cf",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:04:06.830Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7053": {
+   "pageId": "0c760a61446686f0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:08:25.537Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/chip/state-program-information/chip-spa?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=811&page=0&q=": {
+   "pageId": "0e01fe073ab2511c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:40:49.662Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=871&page=18&q=": {
+   "pageId": "0e0889bcd895dc4f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:39.802Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": 107,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095390": {
+   "pageId": "0e68ada0dc465a72",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:57:15.700Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-81-031-31": {
+   "pageId": "0fcd10db625c6e4c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:05.209Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8496": {
+   "pageId": "100a336eda38fedc",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:56:39.171Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7599": {
+   "pageId": "10287440af7f02c8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:24.155Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003264": {
+   "pageId": "104526cbef03dd2d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:04.982Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8991": {
+   "pageId": "1131acc0f5662683",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:46:19.612Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1168": {
+   "pageId": "129f9fb1907cfdc0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:02:02.888Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-1-014-14": {
+   "pageId": "12a52dc330304e76",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:01:20.288Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-23-037-37": {
+   "pageId": "12b82eb33ddcceb6",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:41:47.312Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 93,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2262": {
+   "pageId": "13ca85c6bdd5533c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:52:56.997Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl006086": {
+   "pageId": "13f6ea4d4c54a6d5",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:48:42.154Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2805": {
+   "pageId": "146cf1ab88dd9af6",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:50:20.119Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg005088": {
+   "pageId": "14f7ec2e22f317b8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:56:02.306Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-742": {
+   "pageId": "153a87c164fc3703",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:30.404Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg005092": {
+   "pageId": "15f47744c9de813d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:51:18.831Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7545": {
+   "pageId": "1630276ff5549bd9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:02:38.956Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002178": {
+   "pageId": "164af29c0cfeeb8c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:02:57.558Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv008113": {
+   "pageId": "166d5690b2bffd59",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:49:14.938Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-20-004-4": {
+   "pageId": "18534651436c4555",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:01:46.244Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9176": {
+   "pageId": "18cdbcac63ae11bf",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:02:11.042Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8522": {
+   "pageId": "18d281042dfca598",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:58:33.780Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003222": {
+   "pageId": "19033ff5c9e32ccc",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:01:27.850Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2140": {
+   "pageId": "194335cb07833bd2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:10:31.435Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8414": {
+   "pageId": "19658fb4a11af347",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:48.864Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg003051": {
+   "pageId": "19d01b4a01491f7a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:11:15.690Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008290": {
+   "pageId": "1af7a5b53c0f8506",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:34.190Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 63,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1043": {
+   "pageId": "1b02a381fba27a52",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:11.226Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6533": {
+   "pageId": "1b153f39aa274785",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:51.686Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2348": {
+   "pageId": "1b717e5f98e12665",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:56:30.746Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6564": {
+   "pageId": "1b92ec6596480f28",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:46:04.253Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1156": {
+   "pageId": "1bcab1bfbd9e3bf8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:50:48.839Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2051": {
+   "pageId": "1e1aa1a2f7d37f3d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:57:50.982Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1776": {
+   "pageId": "1ece26e750a65105",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:18.997Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8422": {
+   "pageId": "1edeb71bae510f4c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:00.159Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/mt-HELP-program-qtrly-budget-neutrality-wkb-jan-mar-2021.xlsm": {
+   "pageId": "1f4aa18909835379",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:59:26.612Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-18-007-7": {
+   "pageId": "1f897b117b56fbea",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:38.448Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 77,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003076": {
+   "pageId": "1ff9ebe103f48b85",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:46:08.222Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095364": {
+   "pageId": "2044b7883e1878d5",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:00:25.893Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-31-010-10": {
+   "pageId": "2048da746cc4a3ae",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:49:11.025Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8107": {
+   "pageId": "2069cececd230bfa",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:26.319Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9064": {
+   "pageId": "208d762eea2a3102",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:51:38.957Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg005083": {
+   "pageId": "2105d123bb88e281",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:48:58.962Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-511": {
+   "pageId": "214537cddc814955",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:58:10.452Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008307": {
+   "pageId": "21bfb8c8521454d6",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:51:46.396Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt003216": {
+   "pageId": "21f851d1aaed7556",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:48:12.960Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-7-017-5": {
+   "pageId": "22ae694cc50a8226",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:52:31.948Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6483": {
+   "pageId": "240625b631bcd1cf",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:37.011Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8924": {
+   "pageId": "2475e73def6eaf11",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:37.216Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6782": {
+   "pageId": "24b04967c19f03c8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:03:22.720Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2003": {
+   "pageId": "24b6573d2f3bc7c2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:43.177Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003167": {
+   "pageId": "24d26bb5cebbd476",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:06:58.614Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/resources-for-states/disaster-response-toolkit/federal-disaster-resources?page=2": {
+   "pageId": "24ec3eecb214b3de",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:47.309Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002039": {
+   "pageId": "24fce8dd703962d7",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:41:08.374Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 67,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7348": {
+   "pageId": "25138db2ca53f0be",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:59:53.804Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/faq?f%5B0%5D=sub_topic_faq_library_facet%3A1921&f%5B1%5D=sub_topic_faq_library_facet%3A1976&page=3&sl=yes": {
+   "pageId": "252086c942133ea9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:57:08.610Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9121": {
+   "pageId": "2554bdbee6e1faa9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:50:12.607Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005190": {
+   "pageId": "25e582404ea48826",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:00:51.638Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7871": {
+   "pageId": "25e76dd4a15c4b28",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:48.315Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2993": {
+   "pageId": "26c6a68f2999789c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:56.141Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095373": {
+   "pageId": "279932adcafbb5df",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:47.646Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 64,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6153": {
+   "pageId": "27d4229f6da8aea3",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:17.867Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002244": {
+   "pageId": "291a166d2bbed235",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:58:53.257Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 65,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6880": {
+   "pageId": "292839c7b0d81c2e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:57:35.672Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1436": {
+   "pageId": "2953392c75a48f12",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:59:28.733Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8446": {
+   "pageId": "297c109f7a02902f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:54:08.676Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-85-023-23": {
+   "pageId": "2ad418fff6f3121b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:51:30.455Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/quality-of-care/core-set-data-dashboard/main?focusStates=%5B%22NH%22%5D": {
+   "pageId": "2afbaeea9b981b6e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:02:49.072Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 1312,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7196": {
+   "pageId": "2b1d1b1cab5d5922",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:14.111Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6813": {
+   "pageId": "2b60d45f646e40ae",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:50:04.599Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8135": {
+   "pageId": "2c1ae6ae094e5cea",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:08:04.990Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2425": {
+   "pageId": "2cd6b91e960b5a5a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:01:39.352Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 41,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9129": {
+   "pageId": "2d081c0abcb1829c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:04.400Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6942": {
+   "pageId": "2d48edbec7b00feb",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:54.411Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6736": {
+   "pageId": "2e398529fd13f2e7",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:00:41.792Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/federal-policy-guidance?f%5B0%5D=fpg_topics_facet%3A741&f%5B1%5D=fpg_topics_facet%3A856&f%5B2%5D=fpg_topics_facet%3A2696&f%5B3%5D=fpg_topics_facet%3A8591&f%5B4%5D=fpg_topics_facet%3A8611&page=2": {
+   "pageId": "2ec89731c78325bb",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:42.455Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-7816": {
+   "pageId": "301422bd9f41fa04",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:53:32.057Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-14-001-1": {
+   "pageId": "30b096fab04516ea",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:57:46.332Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 114,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002025": {
+   "pageId": "31a531bf66bd0e2e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:41:51.929Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 67,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1614": {
+   "pageId": "31dda3eda013b3d4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:59:34.033Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8646": {
+   "pageId": "3222c62f116614d7",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:07.861Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-994": {
+   "pageId": "328b1e6c4900f440",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:34.212Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/faq?fcf=40825&page=82&sl=yes": {
+   "pageId": "329178c6b5f713a7",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:04.393Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095391": {
+   "pageId": "32c969fd65c1ea07",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:41:56.533Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6142": {
+   "pageId": "341b0a81e5265937",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:51.486Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_approval_date%5D%5Bgte%5D=&filter%5Bfield_approval_date%5D%5Blte%5D=&filter%5Bfield_effective_date%5D%5Bgte%5D=&filter%5Bfield_effective_date%5D%5Blte%5D=&filter%5Bfield_state%5D%5Bin%5D%5B0%5D=1026&limit=10&page=0&q=&sort=field_approval_date%3Adesc": {
+   "pageId": "3447292b121782df",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:55:35.127Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": 100,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9017": {
+   "pageId": "345043b53de7a2c6",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:27.555Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx002038": {
+   "pageId": "34705e30562ed119",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:57:23.676Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002181": {
+   "pageId": "350cbfa586e7e767",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:51:05.988Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx006234": {
+   "pageId": "35a7ae31d0dad6b6",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:48:21.084Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002190": {
+   "pageId": "35d145a87ce94d29",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:32.633Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?f%5B0%5D=state%3A696&f%5B1%5D=state%3A851&f%5B2%5D=state%3A891&page=0&search_api_fulltext=Prescription+Drug+VBP": {
+   "pageId": "35edd1f5a2546078",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:10:43.519Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr003037": {
+   "pageId": "36504d83478b27c0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:58.240Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1562": {
+   "pageId": "371750a545848dc6",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:00:53.774Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-4-043-43": {
+   "pageId": "3737d0876536a7b0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:56:09.979Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2905": {
+   "pageId": "37db67d1634844fa",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:54:12.418Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7895": {
+   "pageId": "38247ae5b9e1d2f1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:54.277Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-22-007-5": {
+   "pageId": "382de5017817c912",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:03:01.295Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1660": {
+   "pageId": "386196950e18e815",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:36.822Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-8669": {
+   "pageId": "386d7487c8acb433",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:20.285Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8382": {
+   "pageId": "3872c71b54779677",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:56:35.876Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6781": {
+   "pageId": "38e54521b452c21d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:32.367Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9073": {
+   "pageId": "39017ef164e6d1fb",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:59.908Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx007250": {
+   "pageId": "390733da6dbf07a0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:49:42.636Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 63,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7370": {
+   "pageId": "3924ede31e6f621a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:03:47.154Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl002019": {
+   "pageId": "3a2596891deaa47b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:42.648Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 63,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002043": {
+   "pageId": "3a44c13d96928b3b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:10:58.909Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 69,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8270": {
+   "pageId": "3ae712f592a8ffae",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:00:22.019Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7850": {
+   "pageId": "3afcdb4d76b168b4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:02:25.979Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1191": {
+   "pageId": "3b6258f8b28bd8fd",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:01:50.134Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-7921": {
+   "pageId": "3ba37bfce7b22297",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:41:35.291Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 87,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6464": {
+   "pageId": "3bafd51afdc59a91",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:06:30.765Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9168": {
+   "pageId": "3cb7822016bc4083",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:00:05.330Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-003-3": {
+   "pageId": "3ccae07f3f54b5ab",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:54:24.548Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 110,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002053": {
+   "pageId": "3d37063067419cf6",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:56:52.490Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx001014": {
+   "pageId": "3e08b33a3dfa0493",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:41:39.840Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx007277": {
+   "pageId": "3e47bbb2d8584007",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:51:10.010Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002291": {
+   "pageId": "3eb55433039530e2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:56:40.001Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003272": {
+   "pageId": "3ee694c29dbf868c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:52:17.350Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg001014": {
+   "pageId": "417a3c8d8674b6b9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:49:02.918Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=726&page=1&q=": {
+   "pageId": "422ad60f6ffe22fe",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:22.460Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/prv-1-013-4": {
+   "pageId": "426bed5b3140a11f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:01:53.876Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8199": {
+   "pageId": "42a63c923dae8d5b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:56:43.002Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx006210": {
+   "pageId": "42b79e108efd7907",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:48:39.867Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg002022": {
+   "pageId": "42d87e4fca6cfd24",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:43.877Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-935": {
+   "pageId": "4326823c3c9257b7",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:02:02.236Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002072": {
+   "pageId": "43cf5ebb1b6da9eb",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:41:02.569Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7421": {
+   "pageId": "4435e6c2f5d2848c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:06:23.068Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002087": {
+   "pageId": "44a9a66c3cc13351",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:13.001Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl006077": {
+   "pageId": "4593ac1a4f31ac9c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:56:34.514Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7432": {
+   "pageId": "46ae6a80c65e85ae",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:03:54.661Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-11-045-45": {
+   "pageId": "475f6da04b8972dd",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:54.414Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6641": {
+   "pageId": "48b96fae0f7eb7c3",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:51.369Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx003152": {
+   "pageId": "49bd8bfc11f053f4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:00.472Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-717": {
+   "pageId": "49d753cc9206e35a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:02:06.036Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7557": {
+   "pageId": "4a06c81853b3db47",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:48:43.780Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2071": {
+   "pageId": "4a5ede77628f7e15",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:05:03.205Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/vt-global-commitment-to-health-smi-annual-avail-assment-2021.xlsm": {
+   "pageId": "4b8966a06a882c65",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:59:31.396Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/el-13-001-1": {
+   "pageId": "4c24abf7b27c8857",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:10:35.376Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2682": {
+   "pageId": "4c76f0b6a68e016b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:49:01.988Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2812": {
+   "pageId": "4ca5e34b7e8cf05b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:12.553Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8348": {
+   "pageId": "4d0c52a4905be51c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:50:28.297Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/federal-policy-guidance?f%5B0%5D=fpg_topics_facet%3A936&f%5B1%5D=fpg_topics_facet%3A1511&f%5B2%5D=fpg_topics_facet%3A3261&f%5B3%5D=fpg_topics_facet%3A8891&page=111": {
+   "pageId": "4d160cf5c68977b0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:51:31.903Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl003034": {
+   "pageId": "4d7b4ba833b225a9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:47:27.581Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg005090": {
+   "pageId": "4d8193f87d7bbf51",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:41.687Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1008": {
+   "pageId": "4dd1ef827af07a5f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:54:32.863Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv001005": {
+   "pageId": "4de6ec78cbeded00",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:01:31.739Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9042": {
+   "pageId": "4e1b5f47d9d83afb",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:08.716Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6356": {
+   "pageId": "4fda3ce25e6ab439",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:25.905Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8026": {
+   "pageId": "506fbe8eab21d419",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:41.441Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3171": {
+   "pageId": "50ceb5750f3f4bce",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:04:15.625Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/mn-pmap-qrtly-budget-neut-wkb-jan-mar-2023.xlsm": {
+   "pageId": "50ea4168d426bd89",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:09.136Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6696": {
+   "pageId": "5139c3598f8b5d11",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:46:47.905Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7688": {
+   "pageId": "5189fc55c554d890",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:46:27.825Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 41,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8046": {
+   "pageId": "51ab210d7e146ddc",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:10.441Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2629": {
+   "pageId": "523385df73ac0f84",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:20.129Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9130": {
+   "pageId": "52496bb67f1c0017",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:57:48.209Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx002061": {
+   "pageId": "535fa7d54ec27770",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:43:21.985Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7290": {
+   "pageId": "53b79ad510243306",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:03:28.256Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-1-024-2": {
+   "pageId": "53beb40dc3bea4d4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:58.910Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-8757": {
+   "pageId": "540a45489448e800",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:51:34.132Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 87,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8256": {
+   "pageId": "54ee984f6acc2659",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:46.294Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6250": {
+   "pageId": "55747de55ff0f7f6",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:46:32.362Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2455": {
+   "pageId": "5647a56b80965261",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:55:04.048Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2337": {
+   "pageId": "56a8a70da3fde2e2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:57:43.828Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 41,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8826": {
+   "pageId": "56b7f030433b30a1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:08:48.798Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-7646": {
+   "pageId": "5730bc357c1d897c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:56:14.445Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8227": {
+   "pageId": "57ed624c359a9e96",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:59:41.458Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/quality-of-care/core-set-data-dashboard/main?focusStates=%5B%22ND%22%5D": {
+   "pageId": "57f59af015560e1b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:19.325Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-46-008-8": {
+   "pageId": "5871d6aee4369553",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:54:20.805Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/faq?fcf=40825&page=83&sl=yes": {
+   "pageId": "588147842c5c231f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:43:02.018Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3127": {
+   "pageId": "58cae1b4c071d652",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:00:17.021Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8919": {
+   "pageId": "58dc210ed69423b7",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:16.847Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7780": {
+   "pageId": "591fb83af9115874",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:57:31.836Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8662": {
+   "pageId": "5953e943cc47f066",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:56:23.094Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1499": {
+   "pageId": "599ab052917b9bb1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:23.465Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7750": {
+   "pageId": "5a61dbc7e0457f96",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:36.038Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv007100": {
+   "pageId": "5a796debbad2ed90",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:58:57.967Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8436": {
+   "pageId": "5a818a3de992be45",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:59:19.844Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8387": {
+   "pageId": "5ab6028b70311cee",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:03.071Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-10-015-15": {
+   "pageId": "5b7aabd0e5a6161a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:51:01.958Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx002041": {
+   "pageId": "5bcb4c5640f812db",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:10:19.301Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-22-014-14": {
+   "pageId": "5c1e9e38f4fc179e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:47.605Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001012": {
+   "pageId": "5d0626f2f7909d1f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:51:57.483Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2324": {
+   "pageId": "5d3d0e826eb24469",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:03:32.676Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7116": {
+   "pageId": "5da3c656ab0e23a3",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:30.425Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr003044": {
+   "pageId": "5ddbfbdec3ccc93f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:53.091Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1207": {
+   "pageId": "5eee5f8f65a7201f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:51:42.779Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7275": {
+   "pageId": "5fba16855ae35085",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:08:33.677Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx006211": {
+   "pageId": "5fe61f7cb9dc91be",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:36.546Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 65,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-477": {
+   "pageId": "6003d5a467d3fece",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:03:18.805Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv004069": {
+   "pageId": "606cabd428b7b004",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:49.205Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005165": {
+   "pageId": "618be9e174f5f2a7",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:01:47.528Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8703": {
+   "pageId": "626ce57d73148280",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:59:17.395Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx006208": {
+   "pageId": "6282119111da5f2c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:47:42.936Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv003045": {
+   "pageId": "62e7589b3442d402",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:52:12.505Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx001011": {
+   "pageId": "6320b7655743eea9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:30.913Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6368": {
+   "pageId": "632490f45e744d7a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:59:23.787Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip004332": {
+   "pageId": "63a8ea9ef3a9068b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:51:53.645Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6429": {
+   "pageId": "6402de64d885f683",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:25.693Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr001002": {
+   "pageId": "647a6694c2afea69",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:48:37.009Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 65,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/prv-3-005-1": {
+   "pageId": "6499c926380b56af",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:17.212Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl006079": {
+   "pageId": "656f555a18bb9f54",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:49:49.627Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002094": {
+   "pageId": "65789f0a3c5150a9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:20.051Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 67,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9229": {
+   "pageId": "6584feaab06864bc",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:11:08.273Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx007254": {
+   "pageId": "6613ca6a07d18c7a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:52:02.278Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7259": {
+   "pageId": "681a1acfaca1bf21",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:34.679Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg005100": {
+   "pageId": "695a413281b40f88",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:12.656Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 67,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-7-001-1": {
+   "pageId": "69dd92bcaf072083",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:41:43.616Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-414": {
+   "pageId": "6a30aaa13760cb10",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:52:44.623Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003071": {
+   "pageId": "6a787628d409ad4d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:40:05.574Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 64,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-4-003-3": {
+   "pageId": "6b734b0759f63cbd",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:40:31.978Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2816": {
+   "pageId": "6b8caf058faee52c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:59:45.407Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7331": {
+   "pageId": "6e9e4e62b7be47f0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:59:30.257Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-22-003-4": {
+   "pageId": "6f6e094f0c35562b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:44.743Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/quality-of-care/core-set-data-dashboard/main?focusStates=%5B%22OK%22%5D": {
+   "pageId": "6fe472e4c1765576",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:02:45.487Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8759": {
+   "pageId": "703068466d25dd9b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:59:09.228Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-1-003-17": {
+   "pageId": "70a9335b821f2434",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:43:39.849Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 77,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6729": {
+   "pageId": "718fbfb66838632f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:49:41.336Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6805": {
+   "pageId": "7285957f8d2d8499",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:27.069Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2871": {
+   "pageId": "72bc8b1555d33ddd",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:58:38.158Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-634": {
+   "pageId": "7373b4bb591f5749",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:00.713Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1435": {
+   "pageId": "7377871fb7fd3b8e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:48:35.511Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6735": {
+   "pageId": "73adbab024fc1ccd",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:55:10.118Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg010146": {
+   "pageId": "73cdcd3b79575b90",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:55.453Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002033": {
+   "pageId": "740f12c72594db44",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:06.989Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7656": {
+   "pageId": "746233d9c04ae427",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:58.767Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx003108": {
+   "pageId": "750725664c373150",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:48:06.734Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 67,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-7820": {
+   "pageId": "77ca85d344519cbd",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:49:56.841Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8235": {
+   "pageId": "77f3261747071d27",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:27.540Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-29-002-2": {
+   "pageId": "78961f6fa4c8228b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:49:18.793Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-1-010-24": {
+   "pageId": "7a99ada0e1e5bfd9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:41:12.865Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8458": {
+   "pageId": "7b5c981fab886cd8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:48:31.734Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1774": {
+   "pageId": "7ba0104c8be51bf0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:01:43.715Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095369": {
+   "pageId": "7c096794282944f8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:51:22.819Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-721": {
+   "pageId": "7c404261923eb651",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:46.035Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2620": {
+   "pageId": "7c455753053e8e9d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:52:35.806Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-625": {
+   "pageId": "7c59bcb01012000b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:52:16.339Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx002049": {
+   "pageId": "7cbaa2fc21181f00",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:43:06.168Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2368": {
+   "pageId": "7de5e0e20a349f62",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:38.760Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002131": {
+   "pageId": "7e7fab3f8b97c41e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:55:00.236Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6260": {
+   "pageId": "7e86e6bdc513434c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:51:57.346Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx006226": {
+   "pageId": "7e9c6fa886dc7ed7",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:41.085Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6970": {
+   "pageId": "7f887c8a7be15c8a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:57:27.672Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1818": {
+   "pageId": "7fa4d702697af62b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:52:23.870Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-15-001-1": {
+   "pageId": "8067bb4b97d2d64f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:57:35.171Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 98,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2020": {
+   "pageId": "80c60a5e96686e76",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:57:00.963Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-81-002-2": {
+   "pageId": "80e2149b8af476a1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:00:21.268Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 72,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002173": {
+   "pageId": "812a27b67373ca05",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:47:51.467Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-810": {
+   "pageId": "81bf957d38fd9408",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:01.532Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg005278": {
+   "pageId": "81d0918916e993cb",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:52:12.688Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6493": {
+   "pageId": "82d0d4055ad6b659",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:57:03.764Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/prv-5-002-2": {
+   "pageId": "83111052deb76cd3",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:48:09.128Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3154": {
+   "pageId": "8365bc1be69c7901",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:27.965Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8657": {
+   "pageId": "84504be4343a049d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:58:49.451Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-11-031-31": {
+   "pageId": "8472c9809834c3f7",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:43:17.244Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 72,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005153": {
+   "pageId": "848aa3715fe3fbe9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:59:01.926Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9190": {
+   "pageId": "84ff386f3bf15a50",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:04:23.429Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv003046": {
+   "pageId": "85a454eb841d21fc",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:01:16.611Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1002": {
+   "pageId": "85c7677984d91097",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:57:31.520Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2048": {
+   "pageId": "85cf97b7812ec623",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:49:25.771Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-22-008-7": {
+   "pageId": "8611a411da34ff21",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:56:47.963Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-652": {
+   "pageId": "86c1ee4cdf05945e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:12.648Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7644": {
+   "pageId": "878445fecbee1b24",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:53:52.188Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004112": {
+   "pageId": "87940eb2e4e33e6e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:33.701Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1401": {
+   "pageId": "87b7e4ce6ee688d9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:55:29.402Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7754": {
+   "pageId": "885adeed25527b1a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:59:37.712Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6334": {
+   "pageId": "88eab310b2ccce77",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:50:52.649Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8329": {
+   "pageId": "8972eb2d1cac9c70",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:59:42.790Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-8760": {
+   "pageId": "89b8649a234c7860",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:52:24.890Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 87,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7756": {
+   "pageId": "8a10dbb8d2835137",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:02:43.415Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/elg-eligible/file-header-record-eligibility": {
+   "pageId": "8a1cff9814d880ac",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:47.447Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1505": {
+   "pageId": "8a8384d6e4e17c34",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:02:26.394Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-16-003-3": {
+   "pageId": "8abecb0e5adb19f5",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:06:34.435Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl005063": {
+   "pageId": "8b58c16d197cb37b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:00:59.459Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 65,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt004278": {
+   "pageId": "8bba8b02606d1342",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:51:26.678Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6068": {
+   "pageId": "8bbb5a209e03a987",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:50:24.448Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?f%5B0%5D=state%3A696&f%5B1%5D=state%3A851&f%5B2%5D=state%3A891&page=4&search_api_fulltext=Prescription+Drug+VBP": {
+   "pageId": "8bcd86d2dcc14aaf",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:52:08.170Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/el-1-040-47": {
+   "pageId": "8bcdb45c87ce2528",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:01.195Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8977": {
+   "pageId": "8c449933670542b9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:10:23.218Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?f%5B0%5D=state%3A911&page=3": {
+   "pageId": "8cc7d1e5353cad6c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:50:40.753Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 87,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003170": {
+   "pageId": "8d8bdfe900ec35c8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:49.761Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 70,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7294": {
+   "pageId": "8daee04ef825059a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:01:31.766Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1682": {
+   "pageId": "8dcce5321ec6655c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:00.649Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-425": {
+   "pageId": "8eaa5143e216ac8b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:10:27.545Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-25-002-1": {
+   "pageId": "8efece23211fb60a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:55:18.012Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6274": {
+   "pageId": "8f1a56cb9fb633f4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:03:39.300Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8544": {
+   "pageId": "8f406b68c567accf",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:21.399Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3079": {
+   "pageId": "904f953b4c2266bf",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:00:55.742Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8950": {
+   "pageId": "904fe9b43d7e63d3",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:01:04.375Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg016209": {
+   "pageId": "90e2a2cd1cd2690d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:00:09.710Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/el-2-001-1": {
+   "pageId": "90e56824255064d8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:32.912Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2700": {
+   "pageId": "9111cc91b386e76c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:52:01.225Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005182": {
+   "pageId": "917617a4659bd4e2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:58:28.984Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 65,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6194": {
+   "pageId": "94f83afd488a86fd",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:58:14.284Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1175": {
+   "pageId": "957b28e5aed4bf96",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:10:39.284Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6144": {
+   "pageId": "9606880a4f4c3728",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:51:11.479Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl006076": {
+   "pageId": "970065caef36382b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:25.682Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002017": {
+   "pageId": "973d4d4522ea90e7",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:08:37.631Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-16-010-10": {
+   "pageId": "9863cbdd5ba50ad0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:49:45.013Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 81,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-10-012-12": {
+   "pageId": "99359e56918ab937",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:47:59.269Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6442": {
+   "pageId": "99d377f1a97e1b91",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:48:47.539Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg008126": {
+   "pageId": "99ea96310fe98576",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:06:10.539Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=806&page=5&q=": {
+   "pageId": "9a18e2560449e3c4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:02:39.610Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2890": {
+   "pageId": "9b3bfc729a09558b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:04:34.264Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/cot-claim-other/claim-line-record-ot": {
+   "pageId": "9b9e9e9807ec6542",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:57:27.281Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-17-002-2": {
+   "pageId": "9bb76615bf0b7a03",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:12.644Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 87,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002290": {
+   "pageId": "9c217130eeac45f8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:08:29.950Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg005094": {
+   "pageId": "9c89f7cd96697979",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:03:14.235Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 69,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1087": {
+   "pageId": "9cc83d22d816f280",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:55:13.918Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6949": {
+   "pageId": "9cd1390b93d8d378",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:03:36.410Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx002047": {
+   "pageId": "9d0cb88a9428e46e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:11.222Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8372": {
+   "pageId": "9d65a20ca85998a4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:57:04.795Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-46-006-6": {
+   "pageId": "9d94d038ca03a762",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:12.698Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002065": {
+   "pageId": "9e27a580e2b5d459",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:08:01.159Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/el-1-015-14": {
+   "pageId": "9e911500ad3dcea2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:02:34.449Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 99,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-9226": {
+   "pageId": "9eaf5053b957e71f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:08.897Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6549": {
+   "pageId": "9eb04f5d4494ab79",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:59:49.931Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6983": {
+   "pageId": "9ed4280c560e06ce",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:04:19.481Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx003138": {
+   "pageId": "9f12722cdbc41e1d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:54:48.515Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx006212": {
+   "pageId": "9f76a0bf97a83d5f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:52:56.658Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7254": {
+   "pageId": "a00a7ac8f0d93e6e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:49:29.635Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7318": {
+   "pageId": "a09a318015e59041",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:31.292Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6727": {
+   "pageId": "a0f88780c2783615",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:04:53.442Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6875": {
+   "pageId": "a11700e1e102e5de",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:49:13.220Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8735": {
+   "pageId": "a120cb650b326787",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:02:15.669Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1849": {
+   "pageId": "a1a9b9cf14f5119d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:24.680Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003080": {
+   "pageId": "a1b275e733d40195",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:52:37.410Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx006203": {
+   "pageId": "a1b70214b947f4c7",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:28.961Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 64,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv009119": {
+   "pageId": "a2202463efdedee1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:51:27.158Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-32-015-15": {
+   "pageId": "a26df2837acd397a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:38.670Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx007236": {
+   "pageId": "a2e3522fb6453ec6",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:51:15.151Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl006080": {
+   "pageId": "a2e796302f781fd1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:40:23.504Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 64,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx001015": {
+   "pageId": "a36f46e9bb8a1f4c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:49:22.822Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr007089": {
+   "pageId": "a377edac31293b9f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:49:07.005Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-1-019-10": {
+   "pageId": "a3c1e67fce98dc5f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:40:19.646Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-8640": {
+   "pageId": "a40ec63d85e8dcb1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:49:26.566Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8293": {
+   "pageId": "a4187f1f2c913d44",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:33.563Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1860": {
+   "pageId": "a429084f3a13cca4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:07.469Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002126": {
+   "pageId": "a42f33c9dd349b23",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:25.128Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8748": {
+   "pageId": "a450876716e157ba",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:46:44.014Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-338": {
+   "pageId": "a4bba5cda9858f5d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:04:02.859Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003189": {
+   "pageId": "a5b266d14ec90d7b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:02:22.070Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7571": {
+   "pageId": "a6ce81ed46c814f3",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:05:07.789Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-774": {
+   "pageId": "a6e445223506e516",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:52:48.556Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7988": {
+   "pageId": "a705628b75dfa8f1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:57:22.994Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9131": {
+   "pageId": "a784cb5ac620dfd3",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:57:08.722Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8081": {
+   "pageId": "a7eba8f70e2aafa1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:51:19.055Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2047": {
+   "pageId": "a8109763b385639a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:03:31.196Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx003110": {
+   "pageId": "a8a1ca3d27176902",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:05.185Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx004200": {
+   "pageId": "a8a7f8d7b73e1081",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:02:10.449Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1715": {
+   "pageId": "a8a97038b542df1d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:10:04.115Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-7-011-11": {
+   "pageId": "a90bfc27487e3ae1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:00:36.975Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/or-proj-independence-quar-bdget-neut-rprt-feb-apr-2024.xlsm": {
+   "pageId": "a97ee143d168e874",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:22.400Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8391": {
+   "pageId": "a98db9e39390ef54",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:42.502Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-2-001-12": {
+   "pageId": "aa2a26aaf292ea35",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:12.424Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr004058": {
+   "pageId": "aad4d6fc6889644a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:33.167Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=726&page=2&q=": {
+   "pageId": "aba19398cebe4b87",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:02:53.079Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2204": {
+   "pageId": "abb7cd49474ac3fe",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:47.001Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003176": {
+   "pageId": "abb99eddebf76c34",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:57.252Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6388": {
+   "pageId": "acb978d2aecaabbd",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:46:51.709Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2207": {
+   "pageId": "ad1fbcef8925a685",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:52:40.088Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 41,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8893": {
+   "pageId": "ad61695a2be001b8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:03.726Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002112": {
+   "pageId": "ada68c2bca880419",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:40:58.183Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr002030": {
+   "pageId": "ae31a0e4c6ee4864",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:11.681Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-31-009-9": {
+   "pageId": "ae63c0504ec7eff4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:00:32.503Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 108,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003070": {
+   "pageId": "ae6d01d2bbd27450",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:56:06.239Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2782": {
+   "pageId": "aea3fdb52236f819",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:03:47.539Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6957": {
+   "pageId": "aea889a6361c2e75",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:01:55.248Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8721": {
+   "pageId": "af0bae97728f18e1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:01:14.973Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8896": {
+   "pageId": "b015275f4927bd35",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:59:34.924Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-11-024-24": {
+   "pageId": "b0a171a473bf9a55",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:16.176Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6430": {
+   "pageId": "b0d75fdad5d34cb6",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:56:26.884Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg010155": {
+   "pageId": "b139d99d16ed3764",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:06:50.707Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2273": {
+   "pageId": "b1599a2b414831a4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:01:35.549Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002147": {
+   "pageId": "b1dba4dc05dfa17a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:03:09.439Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 77,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002308": {
+   "pageId": "b237563a0ce21aef",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:00:18.105Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2965": {
+   "pageId": "b284e42b3679aaaf",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:56.289Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 41,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002199": {
+   "pageId": "b2c7fc648df9bc14",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:53:56.010Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 67,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6293": {
+   "pageId": "b2e0d11c5ed3b8e5",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:16.365Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1031": {
+   "pageId": "b4b72423b7a405ca",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:10.528Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7170": {
+   "pageId": "b4d6a885ad99b01e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:02:07.258Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-79-010-10": {
+   "pageId": "b4fb0863eacd4016",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:37.783Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-50-006-6": {
+   "pageId": "b4fe409d24283fa9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:51:49.784Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9001": {
+   "pageId": "b56c8f7220ac726a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:47.543Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8206": {
+   "pageId": "b58259763c4fa2f6",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:54:00.553Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8067": {
+   "pageId": "b58956cabb330d22",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:03:59.017Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8383": {
+   "pageId": "b5f1534c9aaf35c6",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:04:45.223Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6956": {
+   "pageId": "b695f5d0d3651edb",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:16.441Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-2-001-1": {
+   "pageId": "b6eb9cf587b4e217",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:40:10.935Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002023": {
+   "pageId": "b76ce7534ce23b61",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:41:16.788Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1712": {
+   "pageId": "b863365ae65889bb",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:51:07.122Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 41,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6176": {
+   "pageId": "b8757f39d65735e8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:18.794Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002131": {
+   "pageId": "b8b139784fa88057",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:44:16.548Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7905": {
+   "pageId": "b96d1d82974cdb35",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:56:44.001Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl001007": {
+   "pageId": "b97f69d41885acfd",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:56:10.531Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1867": {
+   "pageId": "b9a7b7b3f3edc2ae",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:08:52.571Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008291": {
+   "pageId": "b9ba1e3bc23e2b83",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:48:17.182Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/elg-eligible/eligibility-determinants": {
+   "pageId": "ba2a5d95d30af9cc",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:59:38.679Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008302": {
+   "pageId": "baea5a8536ed615a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:52:33.515Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/technical-instructions/cms-technical-instructions-provider-classification-requirements-in-tmsis": {
+   "pageId": "bb2b04dcec5d18bd",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:00:29.708Z",
+   "status": 200,
+   "axeViolations": 5,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7220": {
+   "pageId": "bb70a13d8b926a71",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:25.896Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1683": {
+   "pageId": "bc628b1536f78bca",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:44.897Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/ky-qtrly-budget-neutrality-rpt-apr-june-2024-08112025.xlsm": {
+   "pageId": "bd30ce864681ea6b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:52.772Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2921": {
+   "pageId": "bd3d7c1fa5b439d4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:55:21.879Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7364": {
+   "pageId": "bd469b2c41dce4f1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:01:18.724Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-1-017-8": {
+   "pageId": "bdf1841c10a42003",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:11:19.721Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 77,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-14-002-7": {
+   "pageId": "be5a8e0331ce8402",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:49.607Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 91,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8928": {
+   "pageId": "be5f051b7c6ae547",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:50:56.559Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/in-healthy-indiana-plan-support-20-budget-neut-wkb-oct-dec-2020.xlsm": {
+   "pageId": "bf0e25673acbd08d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:56:27.999Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7120": {
+   "pageId": "bf9e96e322b34858",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:59:54.618Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002134": {
+   "pageId": "bfa7491b04faea5f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:49:31.436Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv002022": {
+   "pageId": "bfffc46d72d21a68",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:06.745Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1134": {
+   "pageId": "c0fe6d9d1ed4c336",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:35.019Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6132": {
+   "pageId": "c10adf97ab01d30e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:48:58.214Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=971&page=0&q=": {
+   "pageId": "c12a24acc12c4819",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:43:45.562Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx007259": {
+   "pageId": "c18fe84212c395fc",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:04.991Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3139": {
+   "pageId": "c1b0c4ddd836acf9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:09.088Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003066": {
+   "pageId": "c1b9519a29772569",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:20.216Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8962": {
+   "pageId": "c2a0c719d1ad5776",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:01:12.729Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002229": {
+   "pageId": "c307bf3cdf1cee0e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:48:03.362Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7549": {
+   "pageId": "c3923e2dc689aea4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:58.440Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/mn-pmap-qrtly-budget-neut-wkb-jul-sep-2021.xlsm": {
+   "pageId": "c39a320ea031efef",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:55:06.652Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095397": {
+   "pageId": "c5c0eb013057bff5",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:48:29.107Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg018236": {
+   "pageId": "c5dc2c8319e87f31",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:03:27.163Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6379": {
+   "pageId": "c5e4ca5e862a92b9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:02:18.296Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-38-001-1": {
+   "pageId": "c66be83b9ff55dba",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:43:36.163Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7914": {
+   "pageId": "c6b748f0bfa70c92",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:54:04.367Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-9-014-14": {
+   "pageId": "c8c9def3a42177b1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:43:25.608Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2453": {
+   "pageId": "c8e5a2d4b54c0f95",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:11:03.883Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 41,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7033": {
+   "pageId": "c9e9866ebb8d4c19",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:51:22.830Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg008127": {
+   "pageId": "ca3e77f58fb37aa4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:02.632Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list?f%5B0%5D=waiver_state_facet%3A736&f%5B1%5D=waiver_state_facet%3A756&f%5B2%5D=waiver_state_facet%3A956&f%5B3%5D=waiver_state_facet%3A1001&items_per_page=10&page=68&sl=yes&usid=AL": {
+   "pageId": "cb7271eda83b054e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:59:11.075Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg001012": {
+   "pageId": "cbdfc1d3bd6b804d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:13.506Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6395": {
+   "pageId": "cc4850655f641c27",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:46:55.574Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002174": {
+   "pageId": "cc8f9d097cf416a0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:46:24.174Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-4-029-29": {
+   "pageId": "cca18d3bb3f18547",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:41:31.522Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-675": {
+   "pageId": "ccd77e33e3c6f91d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:55:55.316Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002052": {
+   "pageId": "ccdaa3759d6f04c3",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:57:39.827Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg003046": {
+   "pageId": "cd5b2dbef986ca61",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:54:44.699Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6982": {
+   "pageId": "ce22594a05591509",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:17.482Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-46-001-1": {
+   "pageId": "ce7512e77c6c9c3f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:47:46.919Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-339": {
+   "pageId": "ce9a5adbced0cd07",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:08:08.774Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-11-052-52": {
+   "pageId": "ced48123eaaf5a01",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:47:55.274Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1859": {
+   "pageId": "cf08d7d98366dbc4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:46:36.308Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx009355": {
+   "pageId": "cffa0f7cd09f4da0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:48:25.124Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8698": {
+   "pageId": "d02735d0d151d0e9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:40.556Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8408": {
+   "pageId": "d0deec30f1416dc1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:57:19.713Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002151": {
+   "pageId": "d10068b90387f654",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:03:23.573Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 67,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003198": {
+   "pageId": "d1459087da78e9c8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:35.887Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 67,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6868": {
+   "pageId": "d1539f4dab6a01cd",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:02:30.215Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8150": {
+   "pageId": "d22d7bcf1cade445",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:59:13.030Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1255": {
+   "pageId": "d268c2d5a98e91ef",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:53:47.987Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3106": {
+   "pageId": "d2fd3d36ffc9ed06",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:59:05.570Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-4-004-4": {
+   "pageId": "d3e6054363f30855",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:40:14.772Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 106,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-85-021-21": {
+   "pageId": "d417f1fd534fd43f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:40:54.138Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7659": {
+   "pageId": "d43429cc0099e5a4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:00:46.249Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-7-020-8": {
+   "pageId": "d4d742ba060422ec",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:24.724Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv002033": {
+   "pageId": "d502a7cf21393a97",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:06:26.910Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-26-006-6": {
+   "pageId": "d54da0da544140a4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:53:13.297Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-7755": {
+   "pageId": "d582df991438c888",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:58:41.848Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr010116": {
+   "pageId": "d5c71fe086f2286f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:06:54.648Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6327": {
+   "pageId": "d6ac0755625c989e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:02.500Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8922": {
+   "pageId": "d6bf4643fe89d365",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:00:13.722Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8515": {
+   "pageId": "d7a3455ba0109be0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:33.419Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9024": {
+   "pageId": "d7d12c3009132036",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:59.407Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6348": {
+   "pageId": "d7ec63b9bce60412",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:04:14.398Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1921": {
+   "pageId": "d81b1199f67d2e53",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:16.345Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9158": {
+   "pageId": "d84681abdc620ff0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:15.068Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list?f%5B0%5D=waiver_state_facet%3A1051&items_per_page=50&page=67": {
+   "pageId": "d8a758261c21caa2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:43.656Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6946": {
+   "pageId": "d8e406e0de6d51cf",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:55:25.643Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-1-023-1": {
+   "pageId": "d918529e31d6ccd6",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:52:52.594Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1572": {
+   "pageId": "d91c9ecc61bd39d7",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:23.805Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx004207": {
+   "pageId": "d92ebc653a267b2a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:49:47.623Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7484": {
+   "pageId": "d941407e194cb583",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:49:53.453Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-7926": {
+   "pageId": "d967ab5c0179d036",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:00:13.233Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7288": {
+   "pageId": "d9d7192b48718f71",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:56.137Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-536": {
+   "pageId": "d9ec1cc0030dc7ba",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:54:40.845Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002040": {
+   "pageId": "da28b55e65c0f6c3",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:28.773Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6637": {
+   "pageId": "da547d35dea82edc",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:58:25.055Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7151": {
+   "pageId": "daca28b36bb2e649",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:59.953Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1117": {
+   "pageId": "db87d3fa5234ff3a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:56:31.768Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-1540": {
+   "pageId": "dbc69d04e33296fd",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:59.542Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg020240": {
+   "pageId": "dbd0e840a3aec3fe",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:54:36.892Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003270": {
+   "pageId": "dc7cfec28341a37f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:45.558Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg009142": {
+   "pageId": "dca6166e1ac21e9a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:53:28.344Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7928": {
+   "pageId": "dce8030af129cc62",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:52:19.929Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-795": {
+   "pageId": "dd3075dd05f29bb5",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:03:35.498Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002300": {
+   "pageId": "dd5692884ac16c6d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:59:50.600Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-656": {
+   "pageId": "dd80246e26a11048",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:53:36.750Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx009336": {
+   "pageId": "dd87e3a87e610a40",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:52:41.550Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1119": {
+   "pageId": "dd8a27dee8ba0b90",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:50.490Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7244": {
+   "pageId": "ddcb0870b7a39c7e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:07.529Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B%5D=731&q=": {
+   "pageId": "ddd9fd4400f45a28",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:42.146Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": 94,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-988": {
+   "pageId": "de6aa9a7836e7aa3",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:03:43.049Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8611": {
+   "pageId": "dece14db895c8762",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:11:12.015Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl002027": {
+   "pageId": "df15b36cc745ba25",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:21.201Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8902": {
+   "pageId": "dfbdcd7bf8ed5e70",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:57:19.381Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9029": {
+   "pageId": "dfcf43255b77d9ca",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:03:05.199Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1437": {
+   "pageId": "dfe51065ad41b58e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:59:46.672Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-19-004-5": {
+   "pageId": "e07ea58f46a447f5",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:53:09.641Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002179": {
+   "pageId": "e0854107cfb4a37d",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:42:08.714Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-1-022-13": {
+   "pageId": "e0a24feac831f9f2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:04:49.461Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2907": {
+   "pageId": "e1232fc228ca5dd5",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:10:48.176Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1620": {
+   "pageId": "e1280879d55f5eb9",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:08.464Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1823": {
+   "pageId": "e26440cac5d31aa8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:52.167Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6994": {
+   "pageId": "e3198e051cf487b4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:06:46.708Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008297": {
+   "pageId": "e35f60a8223d20d2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:57:52.097Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 64,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7253": {
+   "pageId": "e3a9d2dadb288759",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:29.769Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-447": {
+   "pageId": "e4f75223a79d77f3",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:55.864Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-771": {
+   "pageId": "e4ffff39a789c4bb",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:57:55.316Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2774": {
+   "pageId": "e510c5dbd050b53b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:09:17.286Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-23-003-4": {
+   "pageId": "e64a5d6c50a00fa8",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:53:24.167Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg009143": {
+   "pageId": "e659f0b34b03a950",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:29.922Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003175": {
+   "pageId": "e6af6698f5f4147b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:53:04.759Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2412": {
+   "pageId": "e77791312b85479e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:48:20.974Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7446": {
+   "pageId": "e77f4c51c7b635b2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:56:57.202Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/el-1-012_1-27": {
+   "pageId": "e7cf40bc2ed37b2f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:05:51.303Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 101,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1813": {
+   "pageId": "e7d1cea6d93b6f55",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:49:21.920Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6299": {
+   "pageId": "e7ea884fe0b6d69a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:56:46.791Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003164": {
+   "pageId": "e80d28fbdbbe3228",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:25.360Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 65,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003262": {
+   "pageId": "e8428fdb045d6c82",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:48:46.141Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3161": {
+   "pageId": "e9a66be5bf9dd6d1",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:52:53.101Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1077": {
+   "pageId": "e9cd711fa90319c4",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:03:08.718Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003259": {
+   "pageId": "ea3961a1aedd4029",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:51:14.023Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7249": {
+   "pageId": "ea9660e2215c9769",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:00:49.982Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002132": {
+   "pageId": "ebffe90927056086",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:37.681Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8236": {
+   "pageId": "ed142a926e06caab",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:49:17.586Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002085": {
+   "pageId": "ed18d3e9bcb06d80",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:03:58.498Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8380": {
+   "pageId": "ed9010aaf14b45dc",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:22.525Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6378": {
+   "pageId": "edfef7bc499896e0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:00:40.847Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl006075": {
+   "pageId": "ee64267ee4ab3928",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:02:14.466Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7235": {
+   "pageId": "f04f36e7b841eded",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:58:06.051Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6754": {
+   "pageId": "f08749e790dc44b0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:28.568Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8731": {
+   "pageId": "f2510fe68123c9f5",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:50:08.756Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003256": {
+   "pageId": "f2ffad851eef5968",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:07:55.322Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 70,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-2-003-3": {
+   "pageId": "f35f1950fefd7d54",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:03:50.837Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002156": {
+   "pageId": "f3be72573fc954f2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:50:08.904Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 67,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004119": {
+   "pageId": "f449201d35b0789f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:01:26.949Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 63,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7138": {
+   "pageId": "f48fd82d4c70a8ad",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:55:59.775Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2036": {
+   "pageId": "f4d3d12e87fbe393",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:55.271Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6807": {
+   "pageId": "f5aaab6f634a6035",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:54:08.733Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1069": {
+   "pageId": "f5e357b75b51b9af",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:08:56.361Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002309": {
+   "pageId": "f6da24f882abeb45",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:01:51.380Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx003180": {
+   "pageId": "f7263dfd3860e022",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:59:15.740Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9075": {
+   "pageId": "f76cf696a622140f",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:50.081Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2334": {
+   "pageId": "f787e7bbd57e2a4e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:01:35.625Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9060": {
+   "pageId": "f806f84267128f32",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:55:20.711Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/wi-badgercare-reform-bn-qtrly-rpt-jul-sep-2020.xlsm": {
+   "pageId": "f87ff8e8b5c56780",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:40.332Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9144": {
+   "pageId": "f88a9a6bdde7bd18",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:45:52.384Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-524": {
+   "pageId": "f8ad654ee2d0dfd0",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:01:57.789Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6624": {
+   "pageId": "f8f106923338e4aa",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:48:02.785Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8633": {
+   "pageId": "f90f50d4e9a1c983",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:06:38.315Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004117": {
+   "pageId": "f92d2f8f12c0e35c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:56:18.431Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2498": {
+   "pageId": "f96c10c4c8109d87",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:54:29.117Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr005067": {
+   "pageId": "f9ba0860da2ef3af",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:03:12.533Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6739": {
+   "pageId": "f9f5fda5a6932658",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:58:31.365Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg015207": {
+   "pageId": "fac47022e349866b",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:53:00.633Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg003040": {
+   "pageId": "fb1532c12abbe70a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:49:53.046Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx002044": {
+   "pageId": "fb9fe4a131add02a",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:41:27.790Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1273": {
+   "pageId": "fbb0c94c9894d452",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:01:22.530Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 41,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-7441": {
+   "pageId": "fc00415ae8fc2f0c",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:01:59.075Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8577": {
+   "pageId": "fc651027aa3eaf7e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:01:23.995Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6952": {
+   "pageId": "fd284051cb054df7",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:47:51.438Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-7445": {
+   "pageId": "fdcacba402e0030e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:52:29.270Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-7-013-1": {
+   "pageId": "fde16fb30a18579e",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T20:53:19.926Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002099": {
+   "pageId": "febb7f15b00d1c69",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T21:52:21.213Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_approval_date%5D%5Bgte%5D=&filter%5Bfield_approval_date%5D%5Blte%5D=&filter%5Bfield_effective_date%5D%5Bgte%5D=&filter%5Bfield_effective_date%5D%5Blte%5D=&filter%5Bfield_state%5D%5Bin%5D%5B0%5D=1026&limit=10&page=4&q=&sort=field_approval_date%3Adesc": {
+   "pageId": "ff7ca60249b68226",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:08:20.916Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx009328": {
+   "pageId": "ffd54635c4438ce2",
+   "lastWeek": "2026-W24",
+   "lastScannedAt": "2026-06-14T22:00:09.527Z",
+   "status": 200,
+   "axeViolations": 14,
    "alfaFailures": null,
    "hasIssues": true
   }

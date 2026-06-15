@@ -1,6 +1,6 @@
 {
  "domain": "data.cms.gov",
- "updatedAt": "2026-06-14T20:00:57.584Z",
+ "updatedAt": "2026-06-15T01:26:07.657Z",
  "findings": {
   "VS-fab92378": {
    "engine": "axe-core",
@@ -14,7 +14,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 127
+   "lastPagesAffected": 129
   },
   "VS-fafffee0": {
    "engine": "axe-core",
@@ -42,7 +42,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1202
+   "lastPagesAffected": 1264
   },
   "VS-c613c153": {
    "engine": "axe-core",
@@ -56,7 +56,21 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 521
+   "lastPagesAffected": 565
+  },
+  "VS-be8d563e": {
+   "engine": "axe-core",
+   "ruleId": "color-contrast",
+   "summary": "Elements must meet minimum color contrast ratio thresholds (WCAG 1.4.3)",
+   "wcag": "1.4.3",
+   "severity": "High",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 12
   },
   "VS-8ade3360": {
    "engine": "axe-core",
@@ -71,20 +85,6 @@
    ],
    "weeksSeen": 1,
    "lastPagesAffected": 12
-  },
-  "VS-be8d563e": {
-   "engine": "axe-core",
-   "ruleId": "color-contrast",
-   "summary": "Elements must meet minimum color contrast ratio thresholds (WCAG 1.4.3)",
-   "wcag": "1.4.3",
-   "severity": "High",
-   "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
-   "_weeks": [
-    "2026-W24"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 11
   },
   "VS-6175596b": {
    "engine": "axe-core",
@@ -196,7 +196,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1025
+   "lastPagesAffected": 1077
   },
   "VS-cb53cc4d": {
    "engine": "Siteimprove Alfa",
@@ -210,7 +210,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1025
+   "lastPagesAffected": 1077
   },
   "VS-aa242c2d": {
    "engine": "Siteimprove Alfa",
@@ -224,7 +224,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 788
+   "lastPagesAffected": 805
   },
   "VS-646b1e0b": {
    "engine": "Siteimprove Alfa",
@@ -238,7 +238,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 737
+   "lastPagesAffected": 751
   },
   "VS-f7e99f4b": {
    "engine": "Siteimprove Alfa",
@@ -252,7 +252,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 563
+   "lastPagesAffected": 564
   },
   "VS-e05344b9": {
    "engine": "Siteimprove Alfa",
@@ -280,7 +280,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 279
+   "lastPagesAffected": 297
   },
   "VS-f7dba940": {
    "engine": "Siteimprove Alfa",
@@ -294,7 +294,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 238
+   "lastPagesAffected": 273
   },
   "VS-f054f4a4": {
    "engine": "Siteimprove Alfa",
@@ -308,7 +308,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 227
+   "lastPagesAffected": 231
   },
   "VS-f6cf30ff": {
    "engine": "Siteimprove Alfa",
@@ -322,7 +322,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 176
+   "lastPagesAffected": 205
   },
   "VS-a48e6078": {
    "engine": "Siteimprove Alfa",
@@ -336,7 +336,7 @@
     "2026-W24"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 103
+   "lastPagesAffected": 104
   },
   "VS-fbf54eba": {
    "engine": "Siteimprove Alfa",
