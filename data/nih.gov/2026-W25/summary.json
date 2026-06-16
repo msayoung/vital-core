@@ -1,28 +1,28 @@
 {
  "domain": "nih.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-16T14:47:52.633Z",
- "pagesScanned": 68,
- "pagesAudited": 5,
+ "generatedAt": "2026-06-16T18:01:38.856Z",
+ "pagesScanned": 103,
+ "pagesAudited": 6,
  "coverage": {
-  "sustainability": 16,
-  "axe": 5,
-  "plain-language": 4,
-  "resources": 5,
+  "sustainability": 23,
+  "axe": 6,
+  "plain-language": 5,
+  "resources": 6,
   "standards": 4,
   "alfa": 2,
   "security": 1
  },
  "blocked": null,
  "axe": {
-  "violationTotal": 42,
-  "pagesWithViolations": 5,
-  "pagesScanned": 5,
+  "violationTotal": 45,
+  "pagesWithViolations": 6,
+  "pagesScanned": 6,
   "medianViolations": 3,
   "rules": {
    "link-in-text-block": {
-    "count": 33,
-    "pages": 5,
+    "count": 34,
+    "pages": 6,
     "impact": "serious",
     "help": "Links must be distinguishable without relying on color",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-in-text-block?application=axeAPI",
@@ -33,7 +33,7 @@
     "examplePages": [
      "https://nih.gov/about-nih",
      "https://nih.gov/about-nih/budget",
-     "https://nih.gov/about-nih/organization/nih-leadership"
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
     ],
     "affectedPages": [
      {
@@ -43,6 +43,10 @@
      {
       "url": "https://nih.gov/about-nih/budget",
       "instances": 17
+     },
+     {
+      "url": "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries",
+      "instances": 1
      },
      {
       "url": "https://nih.gov/about-nih/organization/nih-leadership",
@@ -79,9 +83,9 @@
       "html": "<a href=\"https://irp.nih.gov/\" class=\"ext\" data-extlink=\"\" target=\"_blank\" rel=\"noopener nofollow noreferrer\" title=\"(opens in a new window)\">nearly 6,000 scientists in its own laboratories</a>"
      },
      {
-      "url": "https://nih.gov/about-nih/organization/nih-leadership",
-      "target": ".text-formatted.field--name-field-uswds-body.field--type-text-long > p:nth-child(1) > a:nth-child(1)",
-      "html": "<a href=\"/institutes-nih/nih-office-director\">Office of the Director</a>"
+      "url": "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries",
+      "target": ".usa-identifier__identity-disclaimer > a[href$=\"hhs.gov/\"]",
+      "html": "<a href=\"https://www.hhs.gov/\" class=\"ext\" data-extlink=\"\" target=\"_blank\" rel=\"noopener nofollow noreferrer\" title=\"(opens in a new window)\">Department of Health and Human Services</a>"
      }
     ]
    },
@@ -122,8 +126,8 @@
     ]
    },
    "heading-order": {
-    "count": 2,
-    "pages": 2,
+    "count": 3,
+    "pages": 3,
     "impact": "moderate",
     "help": "Heading levels should only increase by one",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
@@ -132,11 +136,16 @@
     ],
     "examplePages": [
      "https://nih.gov/about-nih/budget",
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries",
      "https://nih.gov/about-nih/nih-almanac/leadership/nih-directors"
     ],
     "affectedPages": [
      {
       "url": "https://nih.gov/about-nih/budget",
+      "instances": 1
+     },
+     {
+      "url": "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries",
       "instances": 1
      },
      {
@@ -151,6 +160,11 @@
       "html": "<h3>Research for the People</h3>"
      },
      {
+      "url": "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries",
+      "target": "h4",
+      "html": "<h4><strong>Xavier Becerra,</strong>&nbsp;Secretary, HHS</h4>"
+     },
+     {
       "url": "https://nih.gov/about-nih/nih-almanac/leadership/nih-directors",
       "target": "h3",
       "html": "<h3 class=\"thumbnail-teaser__heading\">Jay Bhattacharya, M.D., Ph.D.</h3>"
@@ -158,8 +172,8 @@
     ]
    },
    "region": {
-    "count": 4,
-    "pages": 4,
+    "count": 5,
+    "pages": 5,
     "impact": "moderate",
     "help": "All page content should be contained by landmarks",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
@@ -168,12 +182,16 @@
     ],
     "examplePages": [
      "https://nih.gov/about-nih/budget",
-     "https://nih.gov/about-nih/organization/nih-leadership",
-     "https://nih.gov/"
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries",
+     "https://nih.gov/about-nih/organization/nih-leadership"
     ],
     "affectedPages": [
      {
       "url": "https://nih.gov/about-nih/budget",
+      "instances": 1
+     },
+     {
+      "url": "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries",
       "instances": 1
      },
      {
@@ -192,6 +210,11 @@
     "instances": [
      {
       "url": "https://nih.gov/about-nih/budget",
+      "target": "#system-breadcrumb",
+      "html": "<h2 id=\"system-breadcrumb\" class=\"visually-hidden\">Breadcrumb</h2>"
+     },
+     {
+      "url": "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries",
       "target": "#system-breadcrumb",
       "html": "<h2 id=\"system-breadcrumb\" class=\"visually-hidden\">Breadcrumb</h2>"
      },
@@ -578,11 +601,11 @@
   }
  },
  "consensus": {
-  "uniqueIssues": 29,
+  "uniqueIssues": 32,
   "consensus": 1,
-  "axeOnly": 13,
+  "axeOnly": 16,
   "alfaOnly": 15,
-  "rawAxe": 14,
+  "rawAxe": 17,
   "rawAlfa": 16,
   "byKey": {
    "axe-core:link-in-text-block": {
@@ -591,7 +614,7 @@
      "link-in-text-block"
     ],
     "alfaRules": [],
-    "pages": 5,
+    "pages": 6,
     "engines": "axe"
    },
    "axe-core:page-has-heading-one": {
@@ -609,7 +632,7 @@
      "heading-order"
     ],
     "alfaRules": [],
-    "pages": 2,
+    "pages": 3,
     "engines": "axe"
    },
    "axe-core:region": {
@@ -618,7 +641,7 @@
      "region"
     ],
     "alfaRules": [],
-    "pages": 4,
+    "pages": 5,
     "engines": "axe"
    },
    "act:ffd0e9": {
@@ -707,14 +730,14 @@
   }
  },
  "sustainability": {
-  "pages": 16,
+  "pages": 23,
   "medianBytes": 66247,
-  "meanBytes": 244910,
+  "meanBytes": 190534,
   "medianRequests": 7,
-  "totalCo2g": 0.58,
-  "meanCo2g": 0.0363,
-  "totalEnergyWh": 1.18,
-  "meanEnergyWh": 0.0735
+  "totalCo2g": 0.65,
+  "meanCo2g": 0.0282,
+  "totalEnergyWh": 1.32,
+  "meanEnergyWh": 0.0572
  },
  "deprecatedHtml": null,
  "resources": null,
@@ -856,10 +879,10 @@
   "total": 8
  },
  "plainLanguage": {
-  "pagesChecked": 4,
-  "pagesScored": 3,
-  "medianWordsPerPage": 367,
-  "medianReadingEase": 38.5,
+  "pagesChecked": 5,
+  "pagesScored": 4,
+  "medianWordsPerPage": 275,
+  "medianReadingEase": 43,
   "medianGrade": 12,
   "topUnexplainedAcronyms": [
    {
@@ -897,6 +920,104 @@
     "pages": 1,
     "examplePages": [
      "https://nih.gov/about-nih/budget"
+    ]
+   },
+   {
+    "word": "Becerra",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
+    ]
+   },
+   {
+    "word": "Oveta",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
+    ]
+   },
+   {
+    "word": "Culp",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
+    ]
+   },
+   {
+    "word": "Flemming",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
+    ]
+   },
+   {
+    "word": "Ribicoff",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
+    ]
+   },
+   {
+    "word": "Celebrezze",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
+    ]
+   },
+   {
+    "word": "Weinberger",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
+    ]
+   },
+   {
+    "word": "Califano",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
+    ]
+   },
+   {
+    "word": "Schweiker",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
+    ]
+   },
+   {
+    "word": "Shalala",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
+    ]
+   },
+   {
+    "word": "Leavitt",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
+    ]
+   },
+   {
+    "word": "Sebelius",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
+    ]
+   },
+   {
+    "word": "Burwell",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
+    ]
+   },
+   {
+    "word": "Azar",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/nih-almanac/department-health-human-services-secretaries"
     ]
    },
    {
@@ -982,6 +1103,10 @@
  },
  "errorPages": [
   {
+   "url": "https://nih.gov/about-nih/nih-almanac/lasker-awards",
+   "status": 403
+  },
+  {
    "url": "https://nih.gov/health-information/nih-clinical-research-trials-you",
    "status": 403
   },
@@ -998,11 +1123,31 @@
    "status": 403
   },
   {
+   "url": "https://nih.gov/about-nih/nih-almanac/deputy-directors",
+   "status": 403
+  },
+  {
    "url": "https://www.nih.gov/news-events/news-releases/nih-launches-new-office-advance-human-based-research-reduce-animal-use",
    "status": 403
   },
   {
    "url": "https://nih.gov/research-training/research-resources",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/about-nih/nih-almanac/bernadine-healy-md",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/about-nih/nih-almanac/about-nih-almanac",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/about-nih/nih-almanac/robert-q-marston-md",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/about-nih/nih-almanac/lewis-ryers-thompson-md",
    "status": 403
   },
   {
@@ -1026,7 +1171,15 @@
    "status": 403
   },
   {
+   "url": "https://nih.gov/about-nih/nih-almanac/ruth-kirschstein-md",
+   "status": 403
+  },
+  {
    "url": "https://nih.gov/health-information/your-healthiest-self-wellness-toolkits",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/about-nih/nih-almanac/photo-galleries",
    "status": 403
   },
   {
@@ -1046,40 +1199,9 @@
    "status": 403
   },
   {
-   "url": "https://nih.gov/institutes-nih/directors-nih-institutes-centers",
-   "status": 403
-  },
-  {
-   "url": "https://nih.gov/news-events/images-b-roll",
-   "status": 403
-  },
-  {
-   "url": "https://www.nih.gov/news-events/news-releases/dr-raymond-jacobson-selected-director-nih-center-scientific-review",
-   "status": 403
-  },
-  {
-   "url": "https://nih.gov/accessibility",
-   "status": 403
-  },
-  {
-   "url": "https://nih.gov/nih-website-archives",
-   "status": 403
-  },
-  {
-   "url": "https://nih.gov/about-nih/organization/history",
-   "status": 403
-  },
-  {
-   "url": "https://nih.gov/research-training/medical-research-initiatives",
-   "status": 403
-  },
-  {
-   "url": "https://nih.gov/virtual-tour",
-   "status": 403
-  },
-  {
-   "url": "https://nih.gov/about-nih/nih-almanac",
+   "url": "https://nih.gov/about-nih/nih-almanac/george-walter-mccoy-md",
    "status": 403
   }
- ]
+ ],
+ "tech": null
 }
