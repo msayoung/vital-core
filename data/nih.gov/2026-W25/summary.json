@@ -1,25 +1,27 @@
 {
  "domain": "nih.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-16T12:24:42.936Z",
- "pagesScanned": 1,
- "pagesAudited": 1,
+ "generatedAt": "2026-06-16T14:18:54.507Z",
+ "pagesScanned": 63,
+ "pagesAudited": 4,
  "coverage": {
-  "axe": 1,
-  "plain-language": 1,
-  "resources": 1,
-  "standards": 1
+  "sustainability": 14,
+  "axe": 4,
+  "plain-language": 4,
+  "resources": 4,
+  "standards": 3,
+  "alfa": 2
  },
  "blocked": null,
  "axe": {
-  "violationTotal": 3,
-  "pagesWithViolations": 1,
-  "pagesScanned": 1,
-  "medianViolations": 3,
+  "violationTotal": 39,
+  "pagesWithViolations": 4,
+  "pagesScanned": 4,
+  "medianViolations": 9,
   "rules": {
    "link-in-text-block": {
-    "count": 1,
-    "pages": 1,
+    "count": 32,
+    "pages": 4,
     "impact": "serious",
     "help": "Links must be distinguishable without relying on color",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-in-text-block?application=axeAPI",
@@ -28,9 +30,23 @@
      "wcag141"
     ],
     "examplePages": [
-     "https://nih.gov/"
+     "https://nih.gov/about-nih",
+     "https://nih.gov/about-nih/budget",
+     "https://nih.gov/about-nih/organization/nih-leadership"
     ],
     "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih",
+      "instances": 1
+     },
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "instances": 17
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "instances": 13
+     },
      {
       "url": "https://nih.gov/",
       "instances": 1
@@ -38,15 +54,35 @@
     ],
     "instances": [
      {
-      "url": "https://nih.gov/",
+      "url": "https://nih.gov/about-nih",
       "target": ".usa-identifier__identity-disclaimer > a[href$=\"hhs.gov/\"]",
       "html": "<a href=\"https://www.hhs.gov/\" class=\"ext\" data-extlink=\"\" target=\"_blank\" rel=\"noopener nofollow noreferrer\" title=\"(opens in a new window)\">Department of Health and Human Services</a>"
+     },
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "a[href$=\"grants.nih.gov/\"][data-extlink=\"\"][target=\"_blank\"]:nth-child(2)",
+      "html": "<a href=\"https://grants.nih.gov/\" class=\"ext\" data-extlink=\"\" target=\"_blank\" rel=\"noopener nofollow noreferrer\" title=\"(opens in a new window)\">extramural research</a>"
+     },
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "a[href$=\"grants.nih.gov/\"][data-extlink=\"\"][target=\"_blank\"]:nth-child(4)",
+      "html": "<a href=\"https://grants.nih.gov/\" class=\"ext\" data-extlink=\"\" target=\"_blank\" rel=\"noopener nofollow noreferrer\" title=\"(opens in a new window)\">competitive grants</a>"
+     },
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "a[href$=\"irp.nih.gov/\"]",
+      "html": "<a href=\"https://irp.nih.gov/\" class=\"ext\" data-extlink=\"\" target=\"_blank\" rel=\"noopener nofollow noreferrer\" title=\"(opens in a new window)\">nearly 6,000 scientists in its own laboratories</a>"
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": ".text-formatted.field--name-field-uswds-body.field--type-text-long > p:nth-child(1) > a:nth-child(1)",
+      "html": "<a href=\"/institutes-nih/nih-office-director\">Office of the Director</a>"
      }
     ]
    },
    "page-has-heading-one": {
-    "count": 1,
-    "pages": 1,
+    "count": 2,
+    "pages": 2,
     "impact": "moderate",
     "help": "Page should contain a level-one heading",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/page-has-heading-one?application=axeAPI",
@@ -54,15 +90,25 @@
      "best-practice"
     ],
     "examplePages": [
+     "https://nih.gov/about-nih",
      "https://nih.gov/"
     ],
     "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih",
+      "instances": 1
+     },
      {
       "url": "https://nih.gov/",
       "instances": 1
      }
     ],
     "instances": [
+     {
+      "url": "https://nih.gov/about-nih",
+      "target": "html",
+      "html": "<html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" class=\" js\">"
+     },
      {
       "url": "https://nih.gov/",
       "target": "html",
@@ -70,9 +116,35 @@
      }
     ]
    },
-   "region": {
+   "heading-order": {
     "count": 1,
     "pages": 1,
+    "impact": "moderate",
+    "help": "Heading levels should only increase by one",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://nih.gov/about-nih/budget"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": ".text-formatted.field--name-field-uswds-body.field--type-text-long > h3:nth-child(1)",
+      "html": "<h3>Research for the People</h3>"
+     }
+    ]
+   },
+   "region": {
+    "count": 3,
+    "pages": 3,
     "impact": "moderate",
     "help": "All page content should be contained by landmarks",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
@@ -80,9 +152,19 @@
      "best-practice"
     ],
     "examplePages": [
+     "https://nih.gov/about-nih/budget",
+     "https://nih.gov/about-nih/organization/nih-leadership",
      "https://nih.gov/"
     ],
     "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "instances": 1
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "instances": 1
+     },
      {
       "url": "https://nih.gov/",
       "instances": 1
@@ -90,28 +172,394 @@
     ],
     "instances": [
      {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "#system-breadcrumb",
+      "html": "<h2 id=\"system-breadcrumb\" class=\"visually-hidden\">Breadcrumb</h2>"
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "#system-breadcrumb",
+      "html": "<h2 id=\"system-breadcrumb\" class=\"visually-hidden\">Breadcrumb</h2>"
+     },
+     {
       "url": "https://nih.gov/",
       "target": "#block-herohomepage > .grid-container",
       "html": "<div class=\"grid-container\">"
+     }
+    ]
+   },
+   "empty-heading": {
+    "count": 1,
+    "pages": 1,
+    "impact": "minor",
+    "help": "Headings should not be empty",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/empty-heading?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "h2:nth-child(10)",
+      "html": "<h2>&nbsp;</h2>"
      }
     ]
    }
   }
  },
  "alfa": {
-  "failedTotal": 0,
-  "pagesWithFailures": 0,
-  "pagesScanned": 0,
-  "medianFailures": null,
-  "rules": {}
+  "failedTotal": 197,
+  "pagesWithFailures": 2,
+  "pagesScanned": 2,
+  "medianFailures": 99,
+  "rules": {
+   "sia-r66": {
+    "count": 105,
+    "pages": 2,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r66",
+    "examplePages": [
+     "https://nih.gov/about-nih/budget",
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "instances": 53
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "instances": 52
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "text: \"Health Information\"",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "text: \"Grants & Funding\"",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "text: \"News & Events\"",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "text: \"Health Information\"",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "text: \"Grants & Funding\"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r53": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r53",
+    "examplePages": [
+     "https://nih.gov/about-nih/budget"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "<h3>",
+      "html": null
+     }
+    ]
+   },
+   "sia-r73": {
+    "count": 6,
+    "pages": 2,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r73",
+    "examplePages": [
+     "https://nih.gov/about-nih/budget",
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "instances": 3
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "instances": 3
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "<p class=\"usa-banner__header-text\">",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "<p class=\"usa-identifier__identity-domain\">",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "<p class=\"usa-identifier__identity-disclaimer\" aria-label=\"Official website of the Department of Health and Human Services\">",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "<p class=\"usa-banner__header-text\">",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "<p class=\"usa-identifier__identity-domain\">",
+      "html": null
+     }
+    ]
+   },
+   "sia-r62": {
+    "count": 23,
+    "pages": 2,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r62",
+    "examplePages": [
+     "https://nih.gov/about-nih/budget",
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "instances": 10
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "instances": 13
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "<a href=\"https://irp.nih.gov/\" class=\"ext\" data-extlink=\"\" target=\"_blank\">",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "<a href=\"https://officeofbudget.od.nih.gov\" class=\"ext\" data-extlink=\"\" target=\"_blank\">",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "<a href=\"https://report.nih.gov/index.aspx\" class=\"ext\" data-extlink=\"\" target=\"_blank\">",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "<a href=\"https://www.hhs.gov/\" class=\"ext\" data-extlink=\"\" target=\"_blank\">",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "<a href=\"/about-nih/nih-director/congressional-testimonies\">",
+      "html": null
+     }
+    ]
+   },
+   "sia-r18": {
+    "count": 4,
+    "pages": 2,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r18",
+    "examplePages": [
+     "https://nih.gov/about-nih/budget",
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "instances": 2
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "instances": 2
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "@aria-label=\"Descripción de la agencia\"",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "@aria-label=\"Official website of the Department of Health and Human Services\"",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "@aria-label=\"Descripción de la agencia\"",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "@aria-label=\"Official website of the Department of Health and Human Services\"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r61": {
+    "count": 2,
+    "pages": 2,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r61",
+    "examplePages": [
+     "https://nih.gov/about-nih/budget",
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "instances": 1
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
+     }
+    ]
+   },
+   "sia-r57": {
+    "count": 2,
+    "pages": 2,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r57",
+    "examplePages": [
+     "https://nih.gov/about-nih/budget",
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "instances": 1
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "text: \"Breadcrumb\"",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "text: \"Breadcrumb\"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r111": {
+    "count": 53,
+    "pages": 2,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r111",
+    "examplePages": [
+     "https://nih.gov/about-nih/budget",
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "instances": 27
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "instances": 26
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "<a href=\"/virtual-tour\">",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "<a href=\"https://salud.nih.gov/\">",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/budget",
+      "target": "<a href=\"/\" class=\"usa-breadcrumb__link\">",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "<a href=\"/virtual-tour\">",
+      "html": null
+     },
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "<a href=\"https://salud.nih.gov/\">",
+      "html": null
+     }
+    ]
+   },
+   "sia-r64": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r64",
+    "examplePages": [
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://nih.gov/about-nih/organization/nih-leadership",
+      "target": "<h2>",
+      "html": null
+     }
+    ]
+   }
+  }
  },
  "consensus": {
-  "uniqueIssues": 3,
-  "consensus": 0,
-  "axeOnly": 3,
-  "alfaOnly": 0,
-  "rawAxe": 3,
-  "rawAlfa": 0,
+  "uniqueIssues": 26,
+  "consensus": 1,
+  "axeOnly": 10,
+  "alfaOnly": 15,
+  "rawAxe": 11,
+  "rawAlfa": 16,
   "byKey": {
    "axe-core:link-in-text-block": {
     "actRuleId": null,
@@ -119,13 +567,22 @@
      "link-in-text-block"
     ],
     "alfaRules": [],
-    "pages": 1,
+    "pages": 4,
     "engines": "axe"
    },
    "axe-core:page-has-heading-one": {
     "actRuleId": null,
     "axeRules": [
      "page-has-heading-one"
+    ],
+    "alfaRules": [],
+    "pages": 2,
+    "engines": "axe"
+   },
+   "axe-core:heading-order": {
+    "actRuleId": null,
+    "axeRules": [
+     "heading-order"
     ],
     "alfaRules": [],
     "pages": 1,
@@ -137,92 +594,184 @@
      "region"
     ],
     "alfaRules": [],
-    "pages": 1,
+    "pages": 3,
     "engines": "axe"
+   },
+   "act:ffd0e9": {
+    "actRuleId": "ffd0e9",
+    "axeRules": [
+     "empty-heading"
+    ],
+    "alfaRules": [
+     "sia-r64"
+    ],
+    "pages": 1,
+    "engines": "both"
+   },
+   "alfa:sia-r66": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r66"
+    ],
+    "pages": 2,
+    "engines": "alfa"
+   },
+   "alfa:sia-r53": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r53"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "alfa:sia-r73": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r73"
+    ],
+    "pages": 2,
+    "engines": "alfa"
+   },
+   "alfa:sia-r62": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r62"
+    ],
+    "pages": 2,
+    "engines": "alfa"
+   },
+   "act:5c01ea": {
+    "actRuleId": "5c01ea",
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r18"
+    ],
+    "pages": 2,
+    "engines": "alfa"
+   },
+   "alfa:sia-r61": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r61"
+    ],
+    "pages": 2,
+    "engines": "alfa"
+   },
+   "alfa:sia-r57": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r57"
+    ],
+    "pages": 2,
+    "engines": "alfa"
+   },
+   "alfa:sia-r111": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r111"
+    ],
+    "pages": 2,
+    "engines": "alfa"
    }
   }
  },
- "sustainability": null,
+ "sustainability": {
+  "pages": 14,
+  "medianBytes": 66247,
+  "meanBytes": 270433,
+  "medianRequests": 7,
+  "totalCo2g": 0.56,
+  "meanCo2g": 0.0401,
+  "totalEnergyWh": 1.14,
+  "meanEnergyWh": 0.0812
+ },
  "deprecatedHtml": null,
  "resources": null,
  "standards": {
-  "pagesChecked": 1,
+  "pagesChecked": 3,
   "checks": [
    {
     "id": "schema-gov",
     "label": "schema.org GovernmentOrganization markup",
     "pass": 0,
-    "total": 1,
+    "total": 3,
     "rate": 0
    },
    {
     "id": "hreflang",
     "label": "hreflang alternates declared",
     "pass": 0,
-    "total": 1,
+    "total": 3,
     "rate": 0
    },
    {
     "id": "open-social",
     "label": "Open social presence (Mastodon/Bluesky) linked",
     "pass": 0,
-    "total": 1,
+    "total": 3,
     "rate": 0
    },
    {
     "id": "canonical",
     "label": "Canonical URL declared",
-    "pass": 1,
-    "total": 1,
+    "pass": 3,
+    "total": 3,
     "rate": 100
    },
    {
     "id": "title",
     "label": "Page has a <title>",
-    "pass": 1,
-    "total": 1,
+    "pass": 3,
+    "total": 3,
     "rate": 100
    },
    {
     "id": "description",
     "label": "Meta description present",
-    "pass": 1,
-    "total": 1,
+    "pass": 3,
+    "total": 3,
     "rate": 100
    },
    {
     "id": "charset",
     "label": "Character encoding declared",
-    "pass": 1,
-    "total": 1,
+    "pass": 3,
+    "total": 3,
     "rate": 100
    },
    {
     "id": "lang",
     "label": "Document language (lang) set",
-    "pass": 1,
-    "total": 1,
+    "pass": 3,
+    "total": 3,
     "rate": 100
    },
    {
     "id": "viewport",
     "label": "Responsive viewport (zoom not disabled)",
-    "pass": 1,
-    "total": 1,
+    "pass": 3,
+    "total": 3,
     "rate": 100
    },
    {
     "id": "open-graph",
     "label": "Open Graph tags (5/6)",
-    "pass": 1,
-    "total": 1,
+    "pass": 3,
+    "total": 3,
     "rate": 100
    },
    {
     "id": "twitter-card",
     "label": "Twitter card metadata",
-    "pass": 1,
-    "total": 1,
+    "pass": 3,
+    "total": 3,
     "rate": 100
    }
   ],
@@ -230,12 +779,32 @@
  },
  "security": null,
  "plainLanguage": {
-  "pagesChecked": 1,
-  "pagesScored": 1,
-  "medianWordsPerPage": 155,
-  "medianReadingEase": 30.5,
-  "medianGrade": 13.8,
+  "pagesChecked": 4,
+  "pagesScored": 3,
+  "medianWordsPerPage": 367,
+  "medianReadingEase": 38.5,
+  "medianGrade": 12,
   "topUnexplainedAcronyms": [
+   {
+    "acronym": "NIH",
+    "pages": 2
+   },
+   {
+    "acronym": "HHS",
+    "pages": 2
+   },
+   {
+    "acronym": "FY",
+    "pages": 1
+   },
+   {
+    "acronym": "PHS",
+    "pages": 1
+   },
+   {
+    "acronym": "ARPA",
+    "pages": 1
+   },
    {
     "acronym": "CSR",
     "pages": 1
@@ -247,6 +816,55 @@
   ],
   "topMisspellings": [
    {
+    "word": "unobligated",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/budget"
+    ]
+   },
+   {
+    "word": "Bhattacharya",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ]
+   },
+   {
+    "word": "Memoli",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ]
+   },
+   {
+    "word": "Lorsch",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ]
+   },
+   {
+    "word": "Kleinstreuer",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ]
+   },
+   {
+    "word": "presidentially",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ]
+   },
+   {
+    "word": "Marston",
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ]
+   },
+   {
     "word": "exposome",
     "pages": 1,
     "examplePages": [
@@ -256,6 +874,135 @@
   ]
  },
  "lighthouse": null,
- "linkCheck": null,
- "errorPages": []
+ "linkCheck": {
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://projectreporter.nih.gov/reporter.cfm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://nih.gov/about-nih/budget"
+    ]
+   },
+   {
+    "url": "https://report.nih.gov/index.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://nih.gov/about-nih/budget"
+    ]
+   },
+   {
+    "url": "https://smrb.od.nih.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ]
+   }
+  ]
+ },
+ "errorPages": [
+  {
+   "url": "https://nih.gov/health-information/nih-clinical-research-trials-you",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/about-nih/organization",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/about-nih/who-we-are/nih-director",
+   "status": 403
+  },
+  {
+   "url": "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome",
+   "status": 403
+  },
+  {
+   "url": "https://www.nih.gov/news-events/news-releases/nih-launches-new-office-advance-human-based-research-reduce-animal-use",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/research-training/research-resources",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/about-nih/nih-director/congressional-testimonies",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/research-training",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/about-nih/nih-turning-discovery-into-health",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/about-nih/get-involved-nih",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/press-room",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/health-information/your-healthiest-self-wellness-toolkits",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/institutes-nih/list-institutes-centers",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/institutes-nih/nih-office-director",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/about-nih/organization/budget",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/news-events/news-releases",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/institutes-nih/directors-nih-institutes-centers",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/news-events/images-b-roll",
+   "status": 403
+  },
+  {
+   "url": "https://www.nih.gov/news-events/news-releases/dr-raymond-jacobson-selected-director-nih-center-scientific-review",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/accessibility",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/nih-website-archives",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/about-nih/organization/history",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/research-training/medical-research-initiatives",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/virtual-tour",
+   "status": 403
+  },
+  {
+   "url": "https://nih.gov/about-nih/nih-almanac",
+   "status": 403
+  }
+ ]
 }
