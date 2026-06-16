@@ -1,6 +1,6 @@
 {
  "domain": "data.cms.gov",
- "updatedAt": "2026-06-16T14:26:05.383Z",
+ "updatedAt": "2026-06-16T14:47:51.909Z",
  "pages": {
   "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/hospice-all-owners/data/q4-2025": {
    "pageId": "000171c07b751c4c",
@@ -157,8 +157,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3": {
    "pageId": "01ad49cd49c85e8f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:43:03.047Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:23:00.248Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -472,11 +472,11 @@
   },
   "https://data.cms.gov/resources/minimum-data-set-frequency-methodology": {
    "pageId": "05b01df58b46aae0",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:59:59.533Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:16.082Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 48,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-data/datasets?keyword%5B%5D=Address": {
@@ -508,12 +508,12 @@
   },
   "https://data.cms.gov/provider-data/dataset/dgck-syfz?page=3": {
    "pageId": "061ae9f291a8500b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:43:29.115Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:16:20.705Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-provider-and-drug/data/2022": {
    "pageId": "0634cc7f65179380",
@@ -823,11 +823,11 @@
   },
   "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/rural-health-clinic-enrollments/data": {
    "pageId": "0970617052d908cd",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:32:07.677Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:32.533Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": null,
+   "alfaFailures": 36,
    "hasIssues": true
   },
   "https://data.cms.gov/summary-statistics-on-use-and-payments/physiciansupplier-procedure-summary/api-docs": {
@@ -1003,12 +1003,12 @@
   },
   "https://data.cms.gov/provider-data/dataset/f4ga-b9gx?page=3": {
    "pageId": "0b39bffe1cadd991",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:24:51.315Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:58.282Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-geographic-comparisons/medicare-advantage-geographic-variation-national-state/data": {
    "pageId": "0b5ff1ab812241ce",
@@ -1174,8 +1174,8 @@
   },
   "https://data.cms.gov/cms-innovation-center-programs/accountable-care-models/aco-reach-aligned-beneficiaries/data/2021": {
    "pageId": "0d7bfac63279ad67",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:33:52.035Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:39.390Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -1210,8 +1210,8 @@
   },
   "https://data.cms.gov/provider-summary-by-type-of-service/medicare-post-acute-care-hospice/medicare-post-acute-care-utilization-inpatient-rehabilitation-facility-by-geography-provider-and-service/data": {
    "pageId": "0dbc4ddd6980801d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:13:52.080Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:15:44.309Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -1336,12 +1336,12 @@
   },
   "https://data.cms.gov/provider-data/dataset/yv7e-xc69?page=5": {
    "pageId": "0ed347cf372de7f3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:16:45.383Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:14:41.776Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/hospice-enrollments/data/q3-2025": {
    "pageId": "0ed8603b33e1f11c",
@@ -1723,11 +1723,11 @@
   },
   "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/rural-health-clinic-all-owners": {
    "pageId": "1313d049fabcb960",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:34:13.987Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:00.246Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 88,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/medicare-alternative-payment-model-adoption": {
@@ -2425,12 +2425,12 @@
   },
   "https://data.cms.gov/provider-data/datasets?keyword%5B%5D=Rehabilitation": {
    "pageId": "1cd6931cda5fefe8",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:31:13.992Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:20.655Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 58,
+   "hasIssues": true
   },
   "https://data.cms.gov/medicare-shared-savings-program/performance-year-financial-and-quality-results/data/2020": {
    "pageId": "1ceead9c321f8da3",
@@ -2488,8 +2488,8 @@
   },
   "https://data.cms.gov/provider-data/search?theme=Home+health+services": {
    "pageId": "1d54872163c91087",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:29:28.491Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:40.167Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2866,11 +2866,11 @@
   },
   "https://data.cms.gov/resources/model-participants-data-dictionary": {
    "pageId": "2248ccc47783cfef",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:36:40.609Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:23:41.185Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 113,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-summary-by-type-of-service/medicare-post-acute-care-hospice/medicare-post-acute-care-utilization-home-health-agency-by-geography-provider-and-service/data/2019": {
@@ -2920,12 +2920,12 @@
   },
   "https://data.cms.gov/provider-data/dataset/0b1a-da3f?page=4": {
    "pageId": "22c5dcfb27e918f0",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:06:17.127Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:02.256Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 40,
+   "hasIssues": true
   },
   "https://data.cms.gov/cms-innovation-center-programs/accountable-care-models/reach-acos": {
    "pageId": "22d73c60ae3cee47",
@@ -2938,8 +2938,8 @@
   },
   "https://data.cms.gov/summary-statistics-on-use-and-payments/program-integrity-market-saturation-by-type-of-service/market-saturation-utilization-state-county": {
    "pageId": "22dc85632548bd3a",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:28:39.057Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:15:03.949Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 88,
@@ -3019,17 +3019,17 @@
   },
   "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/home-health-agency-all-owners/data/q3-2025": {
    "pageId": "23ead5fb8050563f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:50:34.156Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:27.202Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": 36,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/b57ec2f41171410daf4ba4f09433f35f_1767139556/NHSN_DIALYSIS_EVENT.csv": {
    "pageId": "23f236c4743d0d2b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:32:44.131Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:23:35.846Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -3172,8 +3172,8 @@
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/di9i-zzrc/docs": {
    "pageId": "2545af9a9f7838a2",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:18:54.233Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:42.708Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -3181,8 +3181,8 @@
   },
   "https://data.cms.gov/search": {
    "pageId": "2550b70c831438b8",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:19:24.732Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:14:04.036Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 49,
@@ -3379,17 +3379,17 @@
   },
   "https://data.cms.gov/medicare-shared-savings-program/accountable-care-organization-skilled-nursing-facility-affiliates": {
    "pageId": "27a9550c168848e1",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:25:33.729Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:23:09.533Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 80,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/medicare-shared-savings-program/number-of-accountable-care-organization-assigned-beneficiaries-by-county/data/2019-oc1": {
    "pageId": "27bf9390ea9591a4",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:51:32.393Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:22:20.070Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -4027,8 +4027,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/a55e-5b88?page=4": {
    "pageId": "3052a92be0cf79b9",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:42:28.167Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:32.273Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 41,
@@ -4423,8 +4423,8 @@
   },
   "https://data.cms.gov/cms-innovation-center-programs/accountable-care-models/cpc-initiative-participating-primary-care-practices/data": {
    "pageId": "359ec9270a9d20a8",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:18:02.467Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:11.977Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": 36,
@@ -4639,12 +4639,12 @@
   },
   "https://data.cms.gov/provider-data/datasets?keyword%5B%5D=Clinical+Outcomes": {
    "pageId": "3851a7808b6044c1",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:31:18.643Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:23:33.074Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 42,
+   "hasIssues": true
   },
   "https://data.cms.gov/provider-characteristics/medicare-provider-supplier-enrollment/medicare-fee-for-service-public-provider-enrollment/api-docs": {
    "pageId": "38547fa73e6de492",
@@ -5116,12 +5116,12 @@
   },
   "https://data.cms.gov/provider-data/dataset/xubh-q36u?page=2": {
    "pageId": "3f1909e8470e66bf",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:13:59.666Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:22:37.037Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.cms.gov/resources/aco-reach-model-data-dictionary": {
    "pageId": "3f47b0f33e2877bc",
@@ -5512,8 +5512,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/hbf-map": {
    "pageId": "452975d1d790a3a3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:20:54.291Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:16:15.121Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -5647,8 +5647,8 @@
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/83125b23109ce3c691538fbd028a937a_1778861754/NH_QualityMsr_MDS_May2026.csv": {
    "pageId": "46fa52fb21358fe8",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:24:38.008Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:22:14.986Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -5692,8 +5692,8 @@
   },
   "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/managing-clinician-aggregation-group-performance/data/december-2023": {
    "pageId": "475e458bae012a0d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:19:50.925Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:39.903Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -6511,8 +6511,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/x663-bwbj?page=2": {
    "pageId": "5148f837d1c87111",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:24:22.304Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:10:38.536Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -6628,11 +6628,11 @@
   },
   "https://data.cms.gov/provider-summary-by-type-of-service/medicare-post-acute-care-hospice/medicare-post-acute-care-utilization-skilled-nursing-facility-by-geography-provider-and-service/api-docs": {
    "pageId": "52f66133a63c7755",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:48:43.581Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:23:54.092Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 31,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/hospital-change-of-ownership-owner-information/data/q2-2025": {
@@ -7510,8 +7510,8 @@
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/43825e12dc0c923df9ba5cbdf473c9d5_1777413954/Healthcare_Associated_Infections-Hospital.csv": {
    "pageId": "5dee004053edd38f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:49:00.095Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:20:57.736Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -7582,8 +7582,8 @@
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/069d-826b/docs": {
    "pageId": "5e7a956513189663",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:18:13.105Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:10:15.014Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -7753,11 +7753,11 @@
   },
   "https://data.cms.gov/resources/opioid-treatment-program-providers-data-dictionary": {
    "pageId": "606672e600b7d324",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:37:34.587Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:09.505Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 81,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/resources/comprehensive-esrd-care-model-data-dictionary-2016": {
@@ -7843,11 +7843,11 @@
   },
   "https://data.cms.gov/datasets?keyword%5B0%5D=Outpatient&page=2": {
    "pageId": "6143b73fdfd995ed",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:12:20.976Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:20.171Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": 20,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/resources/medicare-quarterly-part-d-spending-by-drug-data-dictionary": {
@@ -8347,11 +8347,11 @@
   },
   "https://data.cms.gov/summary-statistics-on-use-and-payments/program-integrity-market-saturation-by-type-of-service/market-saturation-utilization-core-based-statistical-areas/data": {
    "pageId": "66f5bc694dabce1a",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:28:37.996Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:10:25.858Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": null,
+   "alfaFailures": 36,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/hospice-all-owners/data/q2-2025": {
@@ -8473,20 +8473,20 @@
   },
   "https://data.cms.gov/provider-data/dataset/95rg-2usp?page=5": {
    "pageId": "68cfc431e71066a3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:49:20.145Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:44.200Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.cms.gov/datasets?page=5&theme%5B0%5D=Physician+office+visit+costs": {
    "pageId": "68f296d96882d63e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:34:08.018Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:10:43.749Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": null,
+   "alfaFailures": 20,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-data/dataset/fykj-qjee?page=33516": {
@@ -8770,8 +8770,8 @@
   },
   "https://data.cms.gov/provider-summary-by-type-of-service/medicare-inpatient-hospitals/medicare-inpatient-hospitals-by-provider-and-service/api-docs": {
    "pageId": "6d76ff4ae7cde233",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:34:33.816Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:06.343Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 31,
@@ -8824,8 +8824,8 @@
   },
   "https://data.cms.gov/provider-data/search?theme=Inpatient+rehabilitation+facilities": {
    "pageId": "6e3a1d1a41ef6afd",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:20:56.626Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:32.477Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -9454,11 +9454,11 @@
   },
   "https://data.cms.gov/provider-summary-by-type-of-service/medicare-inpatient-hospitals/medicare-inpatient-hospitals-by-provider/data/2022": {
    "pageId": "7560e01a69f7ce69",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:23:21.098Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:16:03.534Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": null,
+   "alfaFailures": 36,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-data/dataset/n0yb-util": {
@@ -9778,11 +9778,11 @@
   },
   "https://data.cms.gov/resources/next-generation-aco-model-data-dictionary-2019": {
    "pageId": "7a496d3a1600cb2d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:53:03.600Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:56.908Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": 142,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/cms-innovation-center-programs/cms-innovation-models-overview/innovation-center-webinars-and-forums": {
@@ -10255,8 +10255,8 @@
   },
   "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-hospital-non-hospital-facilities": {
    "pageId": "808df632ee125d3e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:47:04.087Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:24:43.629Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -11578,11 +11578,11 @@
   },
   "https://data.cms.gov/provider-summary-by-type-of-service/medicare-durable-medical-equipment-devices-supplies/medicare-durable-medical-equipment-devices-supplies-by-supplier-and-service/api-docs": {
    "pageId": "90d92af9b9ed254f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:47:21.945Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:25:34.984Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 31,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-data/dataset/84jm-wiui?page=3": {
@@ -11641,8 +11641,8 @@
   },
   "https://data.cms.gov/provider-data/datasets?keyword%5B%5D=Provider+Data": {
    "pageId": "9193339f7c9d450f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:37:13.457Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:52.469Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -12505,12 +12505,12 @@
   },
   "https://data.cms.gov/provider-data/dataset/5zdx-ny2x?page=2": {
    "pageId": "9c5f7a36812d6ba9",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:10:06.311Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:14:12.952Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.cms.gov/medicare-value-based-payment-modifier-program/value-modifier/data": {
    "pageId": "9c8ab2b970d84fb0",
@@ -12577,8 +12577,8 @@
   },
   "https://data.cms.gov/provider-summary-by-type-of-service/medicare-inpatient-hospitals/hospital-service-area/data/2023": {
    "pageId": "9d0b745a8c85c6be",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:30:41.828Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:15:21.913Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -12622,8 +12622,8 @@
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/wkfw-kthe/docs": {
    "pageId": "9d9372ad7665f2f3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:25:04.269Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:25:08.913Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -12757,8 +12757,8 @@
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/muwa-iene/docs": {
    "pageId": "9f7b60467951a888",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:46:00.863Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:34.152Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -12793,8 +12793,8 @@
   },
   "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/hospital-price-transparency-enforcement-activities-and-outcomes/data/january-2025": {
    "pageId": "9fef9f2c31bf6887",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:24:32.267Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:25:50.959Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -12856,8 +12856,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/59mq-zhts?page=3": {
    "pageId": "a0d9256fcfa31425",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:41:55.045Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:12.430Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -12874,8 +12874,8 @@
   },
   "https://data.cms.gov/provider-characteristics/medicare-provider-supplier-enrollment/medicare-provider-and-supplier-taxonomy-crosswalk/api-docs": {
    "pageId": "a0fb0189b4cc35cf",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:48:49.657Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:03.792Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 31,
@@ -12973,12 +12973,12 @@
   },
   "https://data.cms.gov/provider-data/dataset/56d7-4994?page=490": {
    "pageId": "a2323c80a4494a42",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:13:32.883Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:20:03.101Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.cms.gov/provider-data/dataset/shr?page=303": {
    "pageId": "a23a628f98bb8a7b",
@@ -13036,11 +13036,11 @@
   },
   "https://data.cms.gov/provider-summary-by-type-of-service/medicare-post-acute-care-hospice/medicare-post-acute-care-utilization-skilled-nursing-facility-by-geography-and-provider/data": {
    "pageId": "a3058f305c31643b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:13:01.474Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:16:46.594Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": null,
+   "alfaFailures": 36,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-geography-and-drug": {
@@ -13090,8 +13090,8 @@
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/0ddf-4325/docs": {
    "pageId": "a39b180ba738d295",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:38:05.975Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:25:29.604Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -13315,11 +13315,11 @@
   },
   "https://data.cms.gov/cms-innovation-center-programs/cms-innovation-models-overview/innovation-center-data-and-reports/api-docs": {
    "pageId": "a5c6cfde365e9743",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:45:30.406Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:25:13.704Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 31,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/quality-of-care/facility-level-minimum-data-set-frequency/data/q1-2025": {
@@ -13423,8 +13423,8 @@
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/s5pj-hua3/docs": {
    "pageId": "a76acc19d3f19a2e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:39:07.864Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:25:39.085Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -14026,8 +14026,8 @@
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/a212e8d9a0e8d36ebee28b8334485334_1778861750/NH_FireSafetyCitations_May2026.csv": {
    "pageId": "aeee40a0fce01b32",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:46:22.897Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:20:56.218Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -14035,11 +14035,11 @@
   },
   "https://data.cms.gov/resources/hospital-service-area-data-dictionary": {
    "pageId": "aef10b02aa1dac2d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:38:50.842Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:24:35.334Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 61,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-data/dataset/029b-dd7e?page=3": {
@@ -14143,8 +14143,8 @@
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/medrec/docs": {
    "pageId": "b02a8923a0b8473b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:32:52.553Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:01.124Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -14179,8 +14179,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/rs6n-9qwg?page=3": {
    "pageId": "b106374f3dc31d84",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:11:23.509Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:25:44.065Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -14251,8 +14251,8 @@
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/bcb6f4d505a2bfc3b43663e31221fdff_1766534742/HHVBP_Cohort_PerformanceYear_2024.csv": {
    "pageId": "b1a13119e4af8a74",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:09:04.220Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:25:37.064Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -14458,8 +14458,8 @@
   },
   "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/rural-health-clinic-enrollments/data/q1-2026": {
    "pageId": "b473ddeace4f6281",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:13:58.557Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:45.637Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -14629,8 +14629,8 @@
   },
   "https://data.cms.gov/provider-data/archived-data/physician-office-visit-costs": {
    "pageId": "b6fb24be831dcc4c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:47:40.346Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:24:30.186Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -14710,8 +14710,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/0330-b6e0?page=1719": {
    "pageId": "b84c746e1e281707",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:32:22.584Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:37.898Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -15097,8 +15097,8 @@
   },
   "https://data.cms.gov/provider-compliance/public-reporting-of-missing-digital-contact-information/data/q3-2025": {
    "pageId": "bd18d6545256c964",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:29:58.383Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:15:27.774Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -15313,8 +15313,8 @@
   },
   "https://data.cms.gov/quality-of-care/nursing-home-chain-performance-measures/data": {
    "pageId": "c0ff8987455d91cc",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:39:37.520Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:23:47.211Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -15907,8 +15907,8 @@
   },
   "https://data.cms.gov/provider-data/datasets?keyword%5B%5D=Catheter+Associated+Urinary+Tract+Infections": {
    "pageId": "c8a7ac923ac98ebd",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:06:43.634Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:26.569Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -16078,11 +16078,11 @@
   },
   "https://data.cms.gov/resources/medicare-advantage-geographic-variation-national-state-data-dictionary-0": {
    "pageId": "ca8697ec9ebf9a92",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:42:54.523Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:11.452Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": 171,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/1b118c65400c5bb0aa8fb19b94a7a6a2_1775505953/HH_MeasureDateRange_Apr2026.csv": {
@@ -16150,11 +16150,11 @@
   },
   "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-service-type-reports/medicare-telehealth-trends/data": {
    "pageId": "cb6382618059c82d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:35:14.283Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:06.359Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": 36,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/bs2r-24vh/docs": {
@@ -16168,8 +16168,8 @@
   },
   "https://data.cms.gov/quality-of-care/medicare-dialysis-facilities/data/2023": {
    "pageId": "cbce604333c38ed8",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:46:25.612Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:24:10.432Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": 36,
@@ -16375,8 +16375,8 @@
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/ifjz-ge4w/docs": {
    "pageId": "cf2b7a72c6420949",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:49:41.733Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:27.096Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -16402,12 +16402,12 @@
   },
   "https://data.cms.gov/provider-data/topics/home-health-services/about-the-data": {
    "pageId": "cfad44ddf065c26b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:33:27.844Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:23:25.829Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 74,
+   "hasIssues": true
   },
   "https://data.cms.gov/medicare-value-based-payment-modifier-program": {
    "pageId": "cfb413baa718a373",
@@ -17086,11 +17086,11 @@
   },
   "https://data.cms.gov/tools/market-saturation-utilization-core-based-statistical-areas-mapping-tool": {
    "pageId": "d83129a25a7c6738",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:15:04.675Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:48.684Z",
    "status": 200,
    "axeViolations": 8,
-   "alfaFailures": 60,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-data/api/1/search?page-size=100&theme=Home%2520health%2520services": {
@@ -17104,8 +17104,8 @@
   },
   "https://data.cms.gov/covid-19/medicare-covid-19-hospitalization-trends/data": {
    "pageId": "d8657a4862f95de8",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:25:32.564Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:05.760Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -17356,11 +17356,11 @@
   },
   "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-geographic-comparisons/medicare-geographic-variation-by-hospital-referral-region": {
    "pageId": "dae2f34867d246fa",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:23:02.066Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:00.267Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 79,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-data/dataset/0330-b6e0?page=4": {
@@ -18364,8 +18364,8 @@
   },
   "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/hospital-change-of-ownership/data/q2-2025": {
    "pageId": "ea14691617333b88",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:46:46.879Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:42.288Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -18769,8 +18769,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/27ea-46a8?page=3": {
    "pageId": "ee4b9a68dcd300f6",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:15:06.071Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:37.819Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -18922,12 +18922,12 @@
   },
   "https://data.cms.gov/provider-data/dataset/nasn-k89k?page=2": {
    "pageId": "ef9f2385b245e6e0",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:27:03.430Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:38.936Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.cms.gov/resources/transportation-and-mobility-barriers-data-dictionary": {
    "pageId": "efd69f9daa84aee3",
@@ -19381,11 +19381,11 @@
   },
   "https://data.cms.gov/resources/pioneer-aco-model-performance-year-2012-2014-data-dictionary": {
    "pageId": "f6d6190b39655094",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:42:22.297Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:59.366Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": 241,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/yc9t-dgbk/docs": {
@@ -19471,8 +19471,8 @@
   },
   "https://data.cms.gov/cms-innovation-center-programs/pioneer-aco-model": {
    "pageId": "f7a2838629b05681",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:41:34.980Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:22:25.386Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 59,
@@ -19786,8 +19786,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/nrth-mfg3": {
    "pageId": "fb2e7a134756d534",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:27:51.275Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:50.799Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -20227,8 +20227,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/48nr-hqxx?page=2": {
    "pageId": "03dee5f3920778ae",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T20:47:59.942Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:24:23.422Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -20353,8 +20353,8 @@
   },
   "https://data.cms.gov/provider-summary-by-type-of-service/medicare-post-acute-care-hospice/medicare-post-acute-care-utilization-home-health-agency-by-geography-provider-and-service/data/2020": {
    "pageId": "0e2ca0f730c62c79",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:08:13.670Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:02.639Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -20434,8 +20434,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/strr?page=5": {
    "pageId": "124a82c0993a6ea6",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T20:47:18.453Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:53.924Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -21217,8 +21217,8 @@
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/9edb8fc369e3adecc5c8d50906d2ffc9_1764720378/FY_2026_SNF_VBP_Aggregate_Performance.csv": {
    "pageId": "6c3eca95c55bb250",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:04:16.919Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:14:06.659Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -21235,8 +21235,8 @@
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/q9vs-r7wp/docs": {
    "pageId": "6cb2e684f63c42a2",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:50:35.491Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:27.342Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -21244,8 +21244,8 @@
   },
   "https://data.cms.gov/provider-summary-by-type-of-service/medicare-outpatient-hospitals/medicare-outpatient-hospitals-by-provider-and-service/data/2020": {
    "pageId": "6e76727826f4e067",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:11:34.120Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:22:31.167Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -21514,8 +21514,8 @@
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items": {
    "pageId": "961c272a86f8c017",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:01:02.061Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:01.329Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -21550,17 +21550,17 @@
   },
   "https://data.cms.gov/provider-data/dataset/iy27-wz37?page=3": {
    "pageId": "99b0597765efb5f5",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T20:48:11.260Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:50.630Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.cms.gov/provider-data/dataset/strr?page=3": {
    "pageId": "9bab9bf7db899b4c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T20:48:59.749Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:17.488Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -21856,8 +21856,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/complete_qip_data?page=5": {
    "pageId": "c3bdae4428e4ccbc",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:49:59.261Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:14:53.037Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -21910,8 +21910,8 @@
   },
   "https://data.cms.gov/provider-data/topics/nursing-homes/data-sources": {
    "pageId": "c66adb98bbddf53e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:05:14.477Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:10:19.924Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -21946,8 +21946,8 @@
   },
   "https://data.cms.gov/sites/default/files/2026-04/HHA_Additional_Addresses_2026.04.01.csv": {
    "pageId": "ca260722da37cbaa",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:07:59.568Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:14:34.327Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -21955,8 +21955,8 @@
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/3d267e89dc34ca3a928554b9c73775ef_1770163577/FY2024_Percent_Change_in_Medicare_Payments.csv": {
    "pageId": "cff567fd4aa33337",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T20:59:50.546Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:14:08.265Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -22081,8 +22081,8 @@
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/utgq-v46w/docs": {
    "pageId": "da110de46559a3ac",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:50:19.915Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:19.861Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -22108,8 +22108,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/gxki-hrr8?page=4": {
    "pageId": "dbf84d3c54bca9a3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:49:28.688Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:56.652Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -22225,12 +22225,12 @@
   },
   "https://data.cms.gov/provider-data/dataset/77hc-ibv8?page=5": {
    "pageId": "e4cd86fe86694e18",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T20:59:17.920Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:25:05.131Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/qatj-nmws/docs": {
    "pageId": "e4fe1f2680e34cca",
@@ -22252,8 +22252,8 @@
   },
   "https://data.cms.gov/provider-data/dataset/ifjz-ge4w?page=3": {
    "pageId": "e65bdb155a986dba",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:12:33.554Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:16.031Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -22369,11 +22369,11 @@
   },
   "https://data.cms.gov/medicare-shared-savings-program/accountable-care-organization-participants/data/2022": {
    "pageId": "f4fcb39b11e5e42a",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:02:39.689Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:10:58.599Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": 36,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.cms.gov/provider-data/dataset/dgck-syfz?page=5": {
@@ -22468,8 +22468,8 @@
   },
   "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/y2hd-n93e/docs": {
    "pageId": "fd33d45df7fe2d2a",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:09:18.648Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:34.924Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -22495,8 +22495,8 @@
   },
   "https://data.cms.gov/provider-data/sites/default/files/resources/0d05846745cd16da053621113257f19b_1778861767/Skilled_Nursing_Facility_Quality_Reporting_Program_Provider_Data_May2026.csv": {
    "pageId": "ffcba6079cef3dab",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:08:37.778Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:44.374Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
