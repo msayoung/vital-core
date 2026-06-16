@@ -1,6 +1,6 @@
 {
  "domain": "data.medicaid.gov",
- "updatedAt": "2026-06-15T20:06:00.101Z",
+ "updatedAt": "2026-06-16T11:18:44.116Z",
  "findings": {
   "VS-8806389c": {
    "engine": "axe-core",
@@ -15,7 +15,7 @@
     "2026-W25"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 973
+   "lastPagesAffected": 1520
   },
   "VS-a0bdbdf6": {
    "engine": "axe-core",
@@ -30,7 +30,7 @@
     "2026-W25"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 2
+   "lastPagesAffected": 5
   },
   "VS-cc981723": {
    "engine": "axe-core",
@@ -39,12 +39,13 @@
    "wcag": "1.1.1",
    "severity": "High",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
+   "lastSeen": "2026-W25",
    "_weeks": [
-    "2026-W24"
+    "2026-W24",
+    "2026-W25"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 2
+   "weeksSeen": 2,
+   "lastPagesAffected": 1
   },
   "VS-2208081b": {
    "engine": "Siteimprove Alfa",
@@ -59,7 +60,7 @@
     "2026-W25"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 299
+   "lastPagesAffected": 461
   },
   "VS-cb53cc4d": {
    "engine": "Siteimprove Alfa",
@@ -74,7 +75,7 @@
     "2026-W25"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 299
+   "lastPagesAffected": 461
   },
   "VS-f6cf30ff": {
    "engine": "Siteimprove Alfa",
@@ -89,7 +90,7 @@
     "2026-W25"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 255
+   "lastPagesAffected": 395
   },
   "VS-fa44f293": {
    "engine": "axe-core",
@@ -104,7 +105,7 @@
     "2026-W25"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 35
+   "lastPagesAffected": 56
   },
   "VS-7118fead": {
    "engine": "Siteimprove Alfa",
@@ -119,7 +120,7 @@
     "2026-W25"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 15
+   "lastPagesAffected": 22
   },
   "VS-f7dba940": {
    "engine": "Siteimprove Alfa",
@@ -171,12 +172,13 @@
    "wcag": "1.1.1",
    "severity": "Medium",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
+   "lastSeen": "2026-W25",
    "_weeks": [
-    "2026-W24"
+    "2026-W24",
+    "2026-W25"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 2
+   "weeksSeen": 2,
+   "lastPagesAffected": 1
   }
  }
 }

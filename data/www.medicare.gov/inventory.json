@@ -1,6 +1,6 @@
 {
  "domain": "www.medicare.gov",
- "updatedAt": "2026-06-15T20:05:58.718Z",
+ "updatedAt": "2026-06-16T11:18:42.443Z",
  "pages": {
   "https://www.medicare.gov/sso/authorize?client_id=mct&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D": {
    "pageId": "001072ec9555c0fa",
@@ -13,12 +13,12 @@
   },
   "https://medicare.gov/medical-equipment-suppliers/note-for-suppliers": {
    "pageId": "00736903e95e684d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:16:14.284Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:07:00.204Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 2,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/coverage/emergency-department-services": {
    "pageId": "00ab2db7382a2996",
@@ -94,12 +94,12 @@
   },
   "https://www.medicare.gov/prescription-payment-plan": {
    "pageId": "033da5bb955f9d0b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:44:19.209Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:13:11.018Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 50,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/health-drug-plans/part-d/basics/costs": {
    "pageId": "0341b1e44c982718",
@@ -112,12 +112,12 @@
   },
   "https://medicare.gov/coverage/alcohol-misuse-screenings-counseling": {
    "pageId": "03593829f4f4b3be",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T02:42:25.821Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:49:19.857Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 56,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/medical-equipment-suppliers/note-for-suppliers": {
    "pageId": "03934bdc1acfaa2e",
@@ -139,17 +139,17 @@
   },
   "https://medicare.gov/basics/get-started-with-medicare/get-more-coverage": {
    "pageId": "0430d2382793128c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T05:38:40.476Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:47:55.466Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 47,
+   "hasIssues": true
   },
   "https://www.medicare.gov/coverage/radiation-therapy": {
    "pageId": "044c271e7c764b7d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:08:50.373Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:49:52.019Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 49,
@@ -238,12 +238,12 @@
   },
   "https://www.medicare.gov/coverage/occupational-therapy-services": {
    "pageId": "060b2ff629e21955",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:13:10.505Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:44:26.446Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 54,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/coverage/nursing-home-care": {
    "pageId": "0756ff37364b448d",
@@ -283,12 +283,12 @@
   },
   "https://www.medicare.gov/care-compare?guidedSearch=HomeHealth": {
    "pageId": "07b3710aa5dd709b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T19:59:32.714Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:08:22.697Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 17,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/publications/search/all-non-english-pubs": {
    "pageId": "07d775378b7bdc6b",
@@ -319,12 +319,12 @@
   },
   "https://www.medicare.gov/coverage/hepatitis-b-virus-hbv-infection-screenings": {
    "pageId": "0814d3ae1dd93101",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:12:58.899Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:32:37.546Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 56,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/basics/get-started-with-medicare": {
    "pageId": "086cd5ab58c4c9a3",
@@ -391,21 +391,21 @@
   },
   "https://www.medicare.gov/medigap-supplemental-insurance-plans": {
    "pageId": "0914327b336a6933",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T16:16:09.758Z",
-   "status": 200,
-   "axeViolations": 0,
-   "alfaFailures": 12,
-   "hasIssues": true
-  },
-  "https://medicare.gov/health-drug-plans/part-d/what-plans-cover/plan-rules/safety-management-programs": {
-   "pageId": "095d289db862e786",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:00:33.454Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:14:10.682Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
    "hasIssues": false
+  },
+  "https://medicare.gov/health-drug-plans/part-d/what-plans-cover/plan-rules/safety-management-programs": {
+   "pageId": "095d289db862e786",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:59:50.751Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 54,
+   "hasIssues": true
   },
   "https://www.medicare.gov/publication-ordering/11931": {
    "pageId": "09891213591d48ec",
@@ -454,12 +454,12 @@
   },
   "https://www.medicare.gov/coverage/monoclonal-antibodies-for-the-treatment-of-early-alzheimers-disease": {
    "pageId": "0a530a0af9a4dd7b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T16:19:06.602Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:22:15.871Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 59,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/publication-ordering/11220": {
    "pageId": "0a590f2e970d9972",
@@ -481,12 +481,12 @@
   },
   "https://medicare.gov/coverage/eye-exams-for-diabetes": {
    "pageId": "0aef280d206dfc88",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:18:31.554Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:39:15.475Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 58,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/providers-services/claims-appeals-complaints/appeals/original-medicare/appeal-part-a-hospital-status-change": {
    "pageId": "0b181ef1eeee2bf8",
@@ -589,8 +589,8 @@
   },
   "https://www.medicare.gov/providers-services/claims-appeals-complaints": {
    "pageId": "0d9c035c2a9c2974",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:38:21.623Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:46:44.916Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 45,
@@ -598,8 +598,8 @@
   },
   "https://www.medicare.gov/coverage/cataract-surgery": {
    "pageId": "0dac0d8653329ead",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:16:14.171Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:51:40.664Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 50,
@@ -616,8 +616,8 @@
   },
   "https://medicare.gov/coverage/telehealth": {
    "pageId": "0de206faef9845a1",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:38:22.085Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:30:51.648Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 53,
@@ -670,8 +670,8 @@
   },
   "https://www.medicare.gov/claims-appeals/how-do-i-file-an-appeal": {
    "pageId": "0f6408fa968009ef",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T16:26:15.075Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:21:06.502Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 55,
@@ -697,8 +697,8 @@
   },
   "https://www.medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/drug-plan-changing-plan-termination": {
    "pageId": "0fdf696ca52b5ec6",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T14:52:21.727Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:02:04.107Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 47,
@@ -769,8 +769,8 @@
   },
   "https://www.medicare.gov/my/eMSN?client_id=max&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2FeMSN": {
    "pageId": "11c6193d0f5ddccc",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:03:01.963Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:39:42.452Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -832,12 +832,12 @@
   },
   "https://medicare.gov/basics/get-started-with-medicare/after-65": {
    "pageId": "13a5df970c7ce81e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T02:55:39.529Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:53:14.011Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 69,
+   "hasIssues": true
   },
   "https://medicare.gov/health-drug-plans/health-plans": {
    "pageId": "13d37bf170120262",
@@ -922,12 +922,12 @@
   },
   "https://www.medicare.gov/coverage/ambulatory-surgical-centers": {
    "pageId": "16683631abe513b7",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:01:58.112Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:25:43.590Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 53,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/basics/reporting-medicare-fraud-and-abuse/privacy-practices-original-medicare": {
    "pageId": "167b5e456b348f0c",
@@ -940,8 +940,8 @@
   },
   "https://www.medicare.gov/coverage/flexible-sigmoidoscopies": {
    "pageId": "1693932f100b921e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:13:57.844Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:47:45.277Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 59,
@@ -958,21 +958,21 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9SW5wYXRpZW50UmVoYWJpbGl0YXRpb24ifX0%3D": {
    "pageId": "175faaabbcac639d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T19:51:52.729Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:40:58.720Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 13,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/basics/get-started-with-medicare/before-65": {
    "pageId": "176496bb4b5b6ed7",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:14:31.477Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:38:41.244Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 64,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-automatically-qualify-automatically-enroll": {
    "pageId": "17b5a42a05b0a270",
@@ -1039,8 +1039,8 @@
   },
   "https://medicare.gov/coverage/e-visits": {
    "pageId": "18bdc063386dd5b9",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:47:34.059Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:42:42.851Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 57,
@@ -1111,12 +1111,12 @@
   },
   "https://medicare.gov/about-us/plain-writing": {
    "pageId": "19d68e5ee0b26237",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:27:52.903Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:36:21.653Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 56,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/coverage/pancreas-transplants": {
    "pageId": "1a03c6afef0f2d13",
@@ -1192,12 +1192,12 @@
   },
   "https://medicare.gov/publication-ordering/11377-S": {
    "pageId": "1c5919519062e93a",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:20:26.233Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:30:01.450Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 42,
+   "hasIssues": true
   },
   "https://medicare.gov/coverage/long-term-care-hospital-services": {
    "pageId": "1c7dbf22e3db0261",
@@ -1246,8 +1246,8 @@
   },
   "https://medicare.gov/health-drug-plans/medigap/basics/compare-plan-benefits/massachusetts": {
    "pageId": "1e1c50a0e18e2881",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:13:58.716Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:13:02.205Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -1318,12 +1318,12 @@
   },
   "https://www.medicare.gov/publication-ordering/11173": {
    "pageId": "1fee53ff810975b5",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:08:52.300Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:42:07.113Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 42,
+   "hasIssues": true
   },
   "https://medicare.gov/coverage/surgery": {
    "pageId": "1ff8edfe02f0cb4c",
@@ -1381,12 +1381,12 @@
   },
   "https://www.medicare.gov/basics/costs/help/drug-costs": {
    "pageId": "213b3b5e9ddd0941",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:23:06.576Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:03:32.657Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 66,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/publication-ordering/11376-S": {
    "pageId": "223afe7ed463c727",
@@ -1426,8 +1426,8 @@
   },
   "https://www.medicare.gov/publication-ordering/12217-S": {
    "pageId": "22b454a6cfd2166e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:51:39.670Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:33:57.544Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 42,
@@ -1552,8 +1552,8 @@
   },
   "https://medicare.gov/publication-ordering/11472-S": {
    "pageId": "276dbf5070a3f68c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:52:52.580Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:47:54.946Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -1588,8 +1588,8 @@
   },
   "https://www.medicare.gov/coverage/hearing-aids": {
    "pageId": "2820c78baafab3cb",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:14:15.909Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:21:57.160Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 52,
@@ -1696,12 +1696,12 @@
   },
   "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-auto-enrollment-retroactive": {
    "pageId": "2acc599990caf7fe",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T13:56:04.701Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:55:53.481Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 47,
+   "hasIssues": true
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9SW5wYXRpZW50UmVoYWJpbGl0YXRpb24ifX0%3D": {
    "pageId": "2ad740badaaa1152",
@@ -1750,8 +1750,8 @@
   },
   "https://www.medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/drug-coverage-new-drug-plan": {
    "pageId": "2bfbc80a7e08557b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T14:54:07.372Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:27:28.361Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 49,
@@ -1786,12 +1786,12 @@
   },
   "https://www.medicare.gov/basics/get-started-with-medicare/whats-next": {
    "pageId": "2d3e981c11644b04",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:16:18.597Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:38:15.790Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 67,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/coverage/behavioral-health-integration-services": {
    "pageId": "2d6dbdd8e62f4730",
@@ -1804,12 +1804,12 @@
   },
   "https://www.medicare.gov/coverage/ostomy-supplies": {
    "pageId": "2d781e785b450ea5",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:08:02.562Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:26:19.105Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 53,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/publication-ordering/10969": {
    "pageId": "2d96fe114fd1f5cc",
@@ -1912,12 +1912,12 @@
   },
   "https://medicare.gov/publication-ordering/12217-S": {
    "pageId": "2ed0768f2f5fe517",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:15:24.562Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:57:54.331Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 42,
+   "hasIssues": true
   },
   "https://medicare.gov/basics/forms-publications-mailings/mailings/help": {
    "pageId": "2ee01f2444701f2a",
@@ -1930,12 +1930,12 @@
   },
   "https://medicare.gov/publication-ordering/10050-V": {
    "pageId": "2ee0c5a6baea0293",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:03:57.527Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:50:29.959Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 42,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/eligibility-help-with-costs-November": {
    "pageId": "2f3e1e4e19e54417",
@@ -1957,8 +1957,8 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19": {
    "pageId": "2fa48ff19c2f6b5e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:59:36.644Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:21:41.862Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2056,17 +2056,17 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL3N0YWZmaW5nIn19": {
    "pageId": "3153ebd2b1647885",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:27:26.737Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:26:52.159Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 11,
+   "hasIssues": true
   },
   "https://medicare.gov/basics/get-started-with-medicare/other-paths/medicare-marketplace": {
    "pageId": "31571ba637b40c4f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:58:15.417Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:22:33.786Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2074,8 +2074,8 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvcmVzb3VyY2VzLWFuZC1pbmZvcm1hdGlvbiJ9fQ%3D%3D": {
    "pageId": "3191212b1c5ceaad",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:46:27.416Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:18:48.169Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2092,8 +2092,8 @@
   },
   "https://www.medicare.gov/my/download-my-data": {
    "pageId": "31995a8ca719d13e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T19:44:20.536Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:07:56.839Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 12,
@@ -2146,17 +2146,17 @@
   },
   "https://www.medicare.gov/basics/forms-publications-mailings/mailings/costs-and-coverage/medicare-premium-bill": {
    "pageId": "33923a5d80d160ea",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:24:14.217Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:28:03.763Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 57,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/publication-ordering/12203-S": {
    "pageId": "33a367fa8a462ec3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T13:52:13.249Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:17:05.414Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2182,8 +2182,8 @@
   },
   "https://www.medicare.gov/publications/search/all-non-english-pubs?page=8": {
    "pageId": "34da84cd42e562ae",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:59:20.610Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:25:44.350Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -2191,8 +2191,8 @@
   },
   "https://www.medicare.gov/about-us/accessibility-nondiscrimination-notice": {
    "pageId": "3519fe450b72ba8b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:22:14.745Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:47:18.994Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 53,
@@ -2326,8 +2326,8 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvaW5mb3JtYXRpb24tZm9yLXByb3ZpZGVycyJ9fQ%3D%3D": {
    "pageId": "37fe11a99b3a0b0d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:49:39.405Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:23:07.617Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2371,12 +2371,12 @@
   },
   "https://medicare.gov/health-drug-plans/medigap/basics/compare-plan-benefits/minnesota": {
    "pageId": "38e62b053620a532",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:37:10.586Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:17:57.101Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 47,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9SG9zcGljZSJ9fQ%3D%3D": {
    "pageId": "38fa02ce8a9ac073",
@@ -2416,12 +2416,12 @@
   },
   "https://www.medicare.gov/health-drug-plans/health-plans/your-health-plan-options/PPO": {
    "pageId": "395eb5ce0bed870d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:01:54.741Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:48:31.219Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 47,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/coverage/foot-care-other": {
    "pageId": "39666ca4c5304191",
@@ -2479,8 +2479,8 @@
   },
   "https://www.medicare.gov/claims-appeals/file-a-complaint-grievance/filing-a-complaint-about-your-quality-of-care": {
    "pageId": "3b45dc029f764f4d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:04:27.173Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:35:19.782Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 68,
@@ -2560,8 +2560,8 @@
   },
   "https://www.medicare.gov/publication-ordering/12203-S": {
    "pageId": "3e2acf313b24639e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:46:49.510Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:49:16.808Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2596,12 +2596,12 @@
   },
   "https://www.medicare.gov/publication-ordering/10116-S": {
    "pageId": "3fdaca655d5eff0d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:40:10.920Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:06:25.027Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 42,
+   "hasIssues": true
   },
   "https://medicare.gov/health-apps/noom": {
    "pageId": "3fe5e7143521225c",
@@ -2614,8 +2614,8 @@
   },
   "https://medicare.gov/coverage/caregiver-training-services": {
    "pageId": "400e368c0d3bcf86",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:44:16.952Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:23:25.221Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2623,8 +2623,8 @@
   },
   "https://medicare.gov/coverage/macular-degeneration-tests-treatment": {
    "pageId": "40475f9b1b1ab5bb",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:48:34.577Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:09:16.138Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2668,12 +2668,12 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9Q29tbXVuaXR5SGVhbHRoQ2VudGVyIn19": {
    "pageId": "40d2964ced6f859a",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:26:18.994Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:04:23.389Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 13,
+   "hasIssues": true
   },
   "https://medicare.gov/coverage/outpatient-hospital-services": {
    "pageId": "412d808b1a204521",
@@ -2704,8 +2704,8 @@
   },
   "https://www.medicare.gov/publication-ordering/11417": {
    "pageId": "42a20f78d93487ca",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:42:12.641Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:32:29.979Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 42,
@@ -2749,12 +2749,12 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvcmVzb3VyY2VzLWFuZC1pbmZvcm1hdGlvbiJ9fQ%3D%3D": {
    "pageId": "43dcee6322c5507b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:03:13.304Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:05:14.714Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 13,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/publication-ordering/12039-S": {
    "pageId": "4408b3d952eef48d",
@@ -2812,12 +2812,12 @@
   },
   "https://medicare.gov/coverage/tdap-vaccines": {
    "pageId": "450788ab5dd56a44",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T02:56:13.896Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:43:51.938Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 53,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/coverage/air-fluidized-beds": {
    "pageId": "450cc18bead1df3a",
@@ -2830,12 +2830,12 @@
   },
   "https://medicare.gov/basics/get-started-with-medicare/medicare-basics": {
    "pageId": "45272d69c16e3511",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T02:53:20.978Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:55:04.004Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 47,
+   "hasIssues": true
   },
   "https://medicare.gov/providers-services/coordinating-care": {
    "pageId": "455d4d6bb083ca0f",
@@ -2884,12 +2884,12 @@
   },
   "https://www.medicare.gov/coverage/commode-chairs": {
    "pageId": "46be642e02100d33",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:03:33.522Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:28:18.217Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 57,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/health-drug-plans/part-d/what-drug-plans-cover": {
    "pageId": "46cf09da1908a9ab",
@@ -2911,8 +2911,8 @@
   },
   "https://medicare.gov/coverage/cardiovascular-behavioral-therapy": {
    "pageId": "46f2e2b09c2a5d55",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:12:44.888Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:41:32.665Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2920,8 +2920,8 @@
   },
   "https://medicare.gov/coverage/commode-chairs": {
    "pageId": "4711c99902af81f8",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T05:23:50.327Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:48:28.922Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2947,8 +2947,8 @@
   },
   "https://medicare.gov/coverage/dental-services": {
    "pageId": "474de65a00ed17da",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T05:42:09.491Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:13:36.852Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2956,12 +2956,12 @@
   },
   "https://www.medicare.gov/basics/forms-publications-mailings/mailings/signing-up/sign-up-for-part-b-package": {
    "pageId": "474effe85f1b892b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:23:57.612Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:19:37.956Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 55,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TnVyc2luZ0hvbWUifX0%3D": {
    "pageId": "475f9744fff7b150",
@@ -3064,8 +3064,8 @@
   },
   "https://medicare.gov/basics/get-started-with-medicare/medicare-basics/working-past-65/cobra-coverage": {
    "pageId": "4a783d988e9ce7b2",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:45:26.636Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:15:54.976Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -3109,12 +3109,12 @@
   },
   "https://medicare.gov/basics/get-started-with-medicare/sign-up": {
    "pageId": "4b6c3ed08c8c35e0",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:05:59.916Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:51:38.313Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 48,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/basics/get-started-with-medicare/using-medicare/how-to-get-medicare-services/information-for-my-situation": {
    "pageId": "4bc60f4ac159758d",
@@ -3163,12 +3163,12 @@
   },
   "https://www.medicare.gov/publication-ordering/11341": {
    "pageId": "4c9575e4959b0ada",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:54:45.781Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:58:05.010Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 42,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/publications/10128-medicare-coverage-of-kidney-dialysis.epub": {
    "pageId": "4d0f7e1c21b3c8a6",
@@ -3244,12 +3244,12 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9SG9zcGl0YWwifX0%3D": {
    "pageId": "4e3c1d223c857e1c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T19:49:33.079Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:29:26.907Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 13,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/medical-equipment-suppliers/access-the-data": {
    "pageId": "4ebaf8431ce02187",
@@ -3262,12 +3262,12 @@
   },
   "https://www.medicare.gov/basics/get-started-with-medicare/sign-up/ready-to-sign-up-for-part-a-part-b": {
    "pageId": "4f0f76e501cd2ed1",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:19:11.894Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:59:16.292Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 60,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps": {
    "pageId": "4f151aad5fd9d222",
@@ -3316,12 +3316,12 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9Q29tbXVuaXR5SGVhbHRoQ2VudGVyIn19": {
    "pageId": "50094c6734b62253",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:37:21.868Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:59:39.055Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 13,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/coverage/multi-target-stool-dna-tests-screening": {
    "pageId": "503287b9f5afc4c6",
@@ -3379,8 +3379,8 @@
   },
   "https://medicare.gov/coverage/kidney-transplants": {
    "pageId": "520032bbfc41ad1e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T05:41:35.243Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:09:52.468Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -3388,12 +3388,12 @@
   },
   "https://www.medicare.gov/eligibilitypremiumcalc": {
    "pageId": "523876ef271f81ea",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:24:04.697Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:37:30.947Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 40,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-loss-of-eligibility": {
    "pageId": "5283a70de1ff4b34",
@@ -3406,8 +3406,8 @@
   },
   "https://medicare.gov/providers-services/original-medicare/part-b": {
    "pageId": "52b49d3876167a23",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T05:06:16.946Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:37:40.417Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -3415,8 +3415,8 @@
   },
   "https://medicare.gov/coverage/cardiovascular-disease-screenings": {
    "pageId": "52b68099c714befa",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T05:42:43.691Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:51:01.422Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 58,
@@ -3442,17 +3442,17 @@
   },
   "https://medicare.gov/coverage/outpatient-medical-surgical-services-supplies": {
    "pageId": "5343a4c4b24531a6",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:36:38.316Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:07:21.798Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 54,
+   "hasIssues": true
   },
   "https://medicare.gov/publication-ordering/11045-S": {
    "pageId": "536378b664de559f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:51:40.517Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:32:01.937Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 42,
@@ -3469,12 +3469,12 @@
   },
   "https://www.medicare.gov/sso/authorize?client_id=mct&lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D": {
    "pageId": "5461f25f9906cc1c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T19:46:04.185Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T21:02:32.319Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 13,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/my/account-settings/get-my-medicare-card": {
    "pageId": "547f481820e3703a",
@@ -3487,8 +3487,8 @@
   },
   "https://medicare.gov/coverage/eye-exams-routine": {
    "pageId": "549f2e3a15cc397c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:08:43.548Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:24:34.214Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -3496,8 +3496,8 @@
   },
   "https://medicare.gov/care-compare?guidedSearch=Hospice": {
    "pageId": "54bc2c03a41176d6",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:11:19.315Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:52:17.329Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -3568,8 +3568,8 @@
   },
   "https://medicare.gov/prescription-payment-plan/before-payment-option": {
    "pageId": "56e992512f5e0301",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:25:25.452Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:15:21.023Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -3595,12 +3595,12 @@
   },
   "https://www.medicare.gov/health-drug-plans/health-plans/your-health-plan-options/SNP": {
    "pageId": "57552f04dc19ace4",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T14:57:08.155Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T21:00:49.411Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 48,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/coverage/ambulance-services": {
    "pageId": "57bb6433354bf6d6",
@@ -3631,12 +3631,12 @@
   },
   "https://www.medicare.gov/health-drug-plans/health-plans/your-health-plan-options/HMO": {
    "pageId": "57f81b8ee4eb0581",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:01:18.787Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:02:58.082Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 48,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/publication-ordering/12192-S": {
    "pageId": "580ab8d084aa62ec",
@@ -3703,8 +3703,8 @@
   },
   "https://medicare.gov/providers-services/disaster-emergency": {
    "pageId": "5935efb088d7372c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:24:01.173Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:31:55.521Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -3973,8 +3973,8 @@
   },
   "https://medicare.gov/coverage/pneumococcal-vaccines": {
    "pageId": "5f01ed355f628647",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:57:20.352Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:51:50.114Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -3991,12 +3991,12 @@
   },
   "https://medicare.gov/": {
    "pageId": "5f3bd04eb53dd926",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T19:55:57.477Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:40:16.497Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 48,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/coverage/supplies": {
    "pageId": "5f420989d83982a6",
@@ -4090,12 +4090,12 @@
   },
   "https://www.medicare.gov/coverage/foot-care-for-diabetes": {
    "pageId": "62432b4dd33b9b09",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:05:44.575Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:20:47.918Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 62,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/coverage/physical-activity-nutrition-risk-assessment": {
    "pageId": "62845617a4c44a09",
@@ -4198,12 +4198,12 @@
   },
   "https://www.medicare.gov/my/eMSN?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2FeMSN%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy": {
    "pageId": "655cad264d0a1505",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:21:10.847Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:02:39.243Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 11,
+   "hasIssues": true
   },
   "https://medicare.gov/coverage/bariatric-surgery": {
    "pageId": "656cdd106a5b3694",
@@ -4225,8 +4225,8 @@
   },
   "https://medicare.gov/health-apps/conversational-ai": {
    "pageId": "6598f88f4aa1e2bb",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:14:15.341Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:12:27.290Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -4243,12 +4243,12 @@
   },
   "https://www.medicare.gov/coverage/community-health-integration-services": {
    "pageId": "663de2b7871e6a0d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:16:37.882Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:45:35.797Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 52,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/publication-ordering/11546-S": {
    "pageId": "66522f0547a928ee",
@@ -4369,8 +4369,8 @@
   },
   "https://www.medicare.gov/my/account-settings?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Faccount-settings%2F%3Fclient_id%3Dmax%26Lang%3Den-us%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy%26client_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy": {
    "pageId": "6a071be001e8a0cd",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:37:16.750Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:35:30.367Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -4405,8 +4405,8 @@
   },
   "https://www.medicare.gov/prescription-payment-plan/before-payment-option": {
    "pageId": "6b040a943ac57e0b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:44:54.007Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:53:24.242Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 61,
@@ -4414,12 +4414,12 @@
   },
   "https://medicare.gov/coverage/chronic-care-management-services": {
    "pageId": "6b1cf3fbce83a5ee",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:59:17.683Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:35:55.864Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 59,
+   "hasIssues": true
   },
   "https://www.medicare.gov/Publications": {
    "pageId": "6b1fbe0d41637b0f",
@@ -4432,12 +4432,12 @@
   },
   "https://www.medicare.gov/archive": {
    "pageId": "6b45f616b35b4ed2",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T16:03:26.526Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:39:08.522Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 37,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/basics/get-started-with-medicare/using-medicare/helpful-tools": {
    "pageId": "6b6b9a6b1094b46e",
@@ -4450,11 +4450,11 @@
   },
   "https://www.medicare.gov/coverage/diabetes-screenings": {
    "pageId": "6bb0c3a805ddae25",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:04:09.193Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:01:47.939Z",
    "status": 200,
-   "axeViolations": 0,
-   "alfaFailures": 65,
+   "axeViolations": 1,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://www.medicare.gov/coverage/respiratory-assist-devices": {
@@ -4468,8 +4468,8 @@
   },
   "https://www.medicare.gov/about-us/plain-writing": {
    "pageId": "6c765fc4be005e01",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:19:53.085Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:09:25.485Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 56,
@@ -4558,12 +4558,12 @@
   },
   "https://www.medicare.gov/coverage/religious-nonmedical-health-care-institution-items-services": {
    "pageId": "6e1ae86fda4b5bf0",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:08:56.335Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:54:04.010Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 57,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/providers-services/original-medicare/nursing-homes/choosing": {
    "pageId": "6e2bd75e5887fafd",
@@ -4594,17 +4594,17 @@
   },
   "https://www.medicare.gov/publication-ordering/11575-S": {
    "pageId": "6e5abc38f6348357",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T05:34:39.220Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:15:21.875Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 42,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/account/login?Lang=es-mx": {
    "pageId": "6e5d1f1f78604050",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:10:07.630Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:11:51.520Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 11,
@@ -4747,12 +4747,12 @@
   },
   "https://www.medicare.gov/publication-ordering/10969-S": {
    "pageId": "7155e05123d7bef3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:10:20.889Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:33:12.324Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 42,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/basics/forms-publications-mailings/mailings/signing-up/get-ready-for-medicare-package": {
    "pageId": "71f153300da6f240",
@@ -4774,8 +4774,8 @@
   },
   "https://medicare.gov/care-compare/resources/information-about-provider-types": {
    "pageId": "722790d5b3e2a4e1",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:20:32.527Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:38:06.070Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -4873,8 +4873,8 @@
   },
   "https://medicare.gov/health-drug-plans/health-plans/your-health-plan-options/compare": {
    "pageId": "735637f5708b8e86",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:55:30.583Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:03:14.797Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -4882,8 +4882,8 @@
   },
   "https://medicare.gov/publication-ordering/10181": {
    "pageId": "7369464bc782f914",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T13:40:36.780Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:30:33.361Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -4909,12 +4909,12 @@
   },
   "https://www.medicare.gov/health-drug-plans/medigap/ready-to-buy/how": {
    "pageId": "73b51ba1aa011aa1",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:08:30.298Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:43:32.739Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 53,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/publication-ordering/11358": {
    "pageId": "740274a16315c3bf",
@@ -4954,8 +4954,8 @@
   },
   "https://medicare.gov/health-apps/welldoc": {
    "pageId": "75d7ae3c4024c5b9",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:17:08.811Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:58:39.675Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 49,
@@ -4999,12 +4999,12 @@
   },
   "https://www.medicare.gov/coverage/enteral-parenteral-nutrition-nutrients-supplies-equipment": {
    "pageId": "7717235d9d56f901",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:11:31.713Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T21:01:58.402Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 48,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TG9uZ1Rlcm1DYXJlIn19": {
    "pageId": "771e2ca238aa04a0",
@@ -5125,8 +5125,8 @@
   },
   "https://medicare.gov/publication-ordering/11045": {
    "pageId": "79e8659008feb72b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:13:05.495Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:36:56.492Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -5143,12 +5143,12 @@
   },
   "https://www.medicare.gov/basics/your-medicare-rights/your-rights": {
    "pageId": "7a6085331a012827",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:20:49.967Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:56:26.547Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 67,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/basics/costs/pay-premiums/online-bill-pay": {
    "pageId": "7a7466c11c3c128e",
@@ -5197,17 +5197,17 @@
   },
   "https://medicare.gov/publication-ordering/10050-SB": {
    "pageId": "7ac85ba60e50bbcc",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:36:30.983Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:50:40.628Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 42,
+   "hasIssues": true
   },
   "https://www.medicare.gov/publication-ordering/11318-S": {
    "pageId": "7ad4a1e4b301890c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T05:28:54.140Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:57:03.124Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -5215,21 +5215,21 @@
   },
   "https://medicare.gov/health-drug-plans/part-d/basics/costs": {
    "pageId": "7ae811f9cb11b82b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:22:56.023Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:07:47.457Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 59,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/talk-to-someone": {
    "pageId": "7b9fad1b1b16b93f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:40:36.683Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:20:31.479Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 48,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/providers-services/claims-appeals-complaints/complaints": {
    "pageId": "7bbb3f64c627941a",
@@ -5242,12 +5242,12 @@
   },
   "https://medicare.gov/coverage/travel-outside-the-u.s.": {
    "pageId": "7bcca058d5c4f8a7",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:50:20.725Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:43:04.102Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 55,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/care-compare/resources/about-this-tool": {
    "pageId": "7c13a3f568f0686e",
@@ -5296,8 +5296,8 @@
   },
   "https://www.medicare.gov/what-medicare-covers/what-part-a-covers/health-care-prescriptions-in-a-nursing-home": {
    "pageId": "7c8a98b9cdec39db",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T19:44:55.947Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:16:29.849Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 47,
@@ -5314,12 +5314,12 @@
   },
   "https://www.medicare.gov/providers-services/original-medicare/part-b": {
    "pageId": "7cf7203bc7ea0329",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:30:40.533Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:36:31.510Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 51,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/publication-ordering/11534": {
    "pageId": "7ddc39d625ec51fb",
@@ -5422,12 +5422,12 @@
   },
   "https://www.medicare.gov/my/account-settings": {
    "pageId": "7fc3683817f4921b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T16:25:39.625Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:54:10.874Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 12,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/publication-ordering/10969": {
    "pageId": "7ff291d361c891e4",
@@ -5620,8 +5620,8 @@
   },
   "https://www.medicare.gov/my/eMSN?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2FeMSN%3Fclient_id%3Dmax%26Lang%3Den-us%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy%26client_id%3Dmax%26Lang%3Den-us%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy%26client_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy": {
    "pageId": "8504c755f6bfbd2e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:45:49.730Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:08:50.956Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -5665,8 +5665,8 @@
   },
   "https://www.medicare.gov/publication-ordering/11360-S": {
    "pageId": "85f1305ee014a900",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:38:20.912Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:25:09.748Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -5683,8 +5683,8 @@
   },
   "https://medicare.gov/coverage/gym-memberships-fitness-programs": {
    "pageId": "86a6c99b78e39c05",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:06:26.485Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:39:50.587Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -5764,8 +5764,8 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D": {
    "pageId": "8892d8865d3be08c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:45:16.825Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:00:25.568Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 13,
@@ -5818,11 +5818,11 @@
   },
   "https://medicare.gov/coverage/cardiac-rehabilitation-programs": {
    "pageId": "8992d3855d6c8a47",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:18:11.844Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:47:09.666Z",
    "status": 200,
-   "axeViolations": 0,
-   "alfaFailures": 56,
+   "axeViolations": 1,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://medicare.gov/coverage/hepatitis-b-virus-hbv-infection-screenings": {
@@ -5863,8 +5863,8 @@
   },
   "https://medicare.gov/coverage/diabetes-self-management-training": {
    "pageId": "8a36e77f26596426",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:08:24.175Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:28:38.563Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -5872,8 +5872,8 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D": {
    "pageId": "8a728c4de28c2732",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:30:56.213Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:29:29.770Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -5917,12 +5917,12 @@
   },
   "https://www.medicare.gov/health-apps/welldoc": {
    "pageId": "8c460762c1949d7d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:01:30.732Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:03:49.134Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 49,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/publication-ordering/11579": {
    "pageId": "8cef46eef8bb69e4",
@@ -5962,21 +5962,21 @@
   },
   "https://www.medicare.gov/my/preventive-services": {
    "pageId": "8d9ebf559ec36914",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T16:22:06.400Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:52:51.185Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 12,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/coverage/dialysis-children": {
    "pageId": "8e5f5ab368e42bd4",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:04:27.685Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:04:27.583Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 64,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/health-drug-plans/health-plans/costs": {
    "pageId": "8ea4506c3a6efd15",
@@ -6070,8 +6070,8 @@
   },
   "https://medicare.gov/coverage/religious-nonmedical-health-care-institution-items-services": {
    "pageId": "915446ad98bbfd17",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:38:57.965Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:06:47.172Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -6097,12 +6097,12 @@
   },
   "https://medicare.gov/publication-ordering/10050-ED": {
    "pageId": "9204ee66635e6ea5",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T05:12:49.576Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:51:15.530Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 42,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/drug-coverage-part-d": {
    "pageId": "9222f0e8dd6018f1",
@@ -6178,12 +6178,12 @@
   },
   "https://www.medicare.gov/coverage/walkers": {
    "pageId": "93dd7e554c65e861",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:05:03.898Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:49:54.711Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 59,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/plain-language": {
    "pageId": "93e7e111e728d41d",
@@ -6232,12 +6232,12 @@
   },
   "https://www.medicare.gov/coverage/pancreas-transplants": {
    "pageId": "94f403962dd7a917",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:10:13.642Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:49:03.487Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 56,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/publication-ordering/11410-S": {
    "pageId": "954405dabb96cf91",
@@ -6421,8 +6421,8 @@
   },
   "https://www.medicare.gov/basics/forms-publications-mailings/mailings/costs-and-coverage/IRMAA-adjustment-notice": {
    "pageId": "98d8edc71b1840c8",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:25:23.809Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T21:00:13.422Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 47,
@@ -6565,8 +6565,8 @@
   },
   "https://www.medicare.gov/publication-ordering/12203": {
    "pageId": "9c95209c7c587819",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:31:13.430Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:31:27.425Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -6619,12 +6619,12 @@
   },
   "https://www.medicare.gov/health-drug-plans/coordination/who-pays-first": {
    "pageId": "9e0477b4ce59f567",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:25:51.904Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:54:38.706Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 90,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9SW5wYXRpZW50UmVoYWJpbGl0YXRpb24ifX0%3D": {
    "pageId": "9e23248679146326",
@@ -6673,8 +6673,8 @@
   },
   "https://medicare.gov/basics/get-started-with-medicare/sign-up/when-can-i-sign-up-for-medicare": {
    "pageId": "9ed1f10ce2708ed3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:25:34.007Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:23:43.086Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -6754,17 +6754,17 @@
   },
   "https://medicare.gov/care-compare?guidedSearch=InpatientRehabilitation": {
    "pageId": "a0330adea9acd8ca",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T13:48:03.734Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:33:47.588Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 17,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/coverage/chemotherapy": {
    "pageId": "a05ad1f588b92224",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:03:15.563Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:19:06.111Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 55,
@@ -6844,8 +6844,8 @@
   },
   "https://www.medicare.gov/coverage/cosmetic-surgery": {
    "pageId": "a340ffdc3419f87c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:03:39.623Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:58:29.932Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 57,
@@ -6862,8 +6862,8 @@
   },
   "https://medicare.gov/basics/get-started-with-medicare/using-medicare/5-tips-for-using-medicare": {
    "pageId": "a381bd0b5a15da0e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:33:27.898Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:10:50.685Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -7024,17 +7024,17 @@
   },
   "https://www.medicare.gov/providers-services/original-medicare/not-covered": {
    "pageId": "a6ccfa17aa93876b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:31:15.988Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:28:52.740Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/coverage/walkers": {
    "pageId": "a6dd0996add78586",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:36:04.004Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:18:31.670Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -7249,8 +7249,8 @@
   },
   "https://www.medicare.gov/care-compare?guidedSearch=LongTermCare": {
    "pageId": "ad0019c7e084bc32",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:01:23.122Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:55:49.205Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 17,
@@ -7366,8 +7366,8 @@
   },
   "https://www.medicare.gov/coverage/hyperbaric-oxygen-therapy": {
    "pageId": "b01a5b513c3b937b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:12:22.958Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:05:36.803Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 53,
@@ -7420,8 +7420,8 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9SG9zcGljZSJ9fQ%3D%3D": {
    "pageId": "b1173356cb9a1c7c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:13:18.685Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:44:41.059Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -7456,12 +7456,12 @@
   },
   "https://www.medicare.gov/basics/costs/help/medicaid": {
    "pageId": "b232dfc527767947",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:22:20.894Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:47:20.488Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 55,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/about-us/other-languages": {
    "pageId": "b2419e88e370186b",
@@ -7474,8 +7474,8 @@
   },
   "https://medicare.gov/basics/costs/medicare-costs/provider-accept-Medicare": {
    "pageId": "b252fdc6de5e1e36",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:37:05.182Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:40:24.584Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -7483,12 +7483,12 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TG9uZ1Rlcm1DYXJlIn19": {
    "pageId": "b26039a310e44f62",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:29:02.778Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:34:56.290Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 13,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/publication-ordering/02110-S": {
    "pageId": "b275a94f70f4d181",
@@ -7510,8 +7510,8 @@
   },
   "https://www.medicare.gov/coverage/opioid-use-disorder-treatment-services": {
    "pageId": "b2e50da77c7c62dd",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:14:56.634Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:12:34.945Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 64,
@@ -7528,11 +7528,11 @@
   },
   "https://www.medicare.gov/coverage/osteoporosis-drugs": {
    "pageId": "b34ca1a3ad2a3503",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:07:56.670Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:28:18.582Z",
    "status": 200,
-   "axeViolations": 0,
-   "alfaFailures": 51,
+   "axeViolations": 1,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://medicare.gov/coverage/wheelchairs-scooters/power-wheelchairs-prior-authorization": {
@@ -7591,8 +7591,8 @@
   },
   "https://www.medicare.gov/coverage/physical-therapy-services": {
    "pageId": "b3f87807718693b9",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:13:04.796Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:13:45.557Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 56,
@@ -7618,8 +7618,8 @@
   },
   "https://medicare.gov/coverage/organ-transplants": {
    "pageId": "b4fd6025d208af18",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:53:13.864Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:45:01.192Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -7690,8 +7690,8 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvbnVyc2luZy1ob21lL2hlYWx0aC1pbnNwZWN0aW9ucyJ9fQ%3D%3D": {
    "pageId": "b72661f149d9635e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:40:47.437Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:17:39.472Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -7699,11 +7699,11 @@
   },
   "https://www.medicare.gov/coverage/outpatient-hospital-services": {
    "pageId": "b782ad664872343d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:08:07.538Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:45:50.639Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 57,
+   "alfaFailures": 58,
    "hasIssues": true
   },
   "https://medicare.gov/health-drug-plans/health-plans/your-health-plan-options/other-medicare-health-plans": {
@@ -7798,12 +7798,12 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvaW5mb3JtYXRpb24tYWJvdXQtcHJvdmlkZXItdHlwZXMifX0%3D": {
    "pageId": "b9ed051f8b41fc3c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T05:20:03.122Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:42:14.429Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 11,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/publication-ordering/11357": {
    "pageId": "b9f510a950a5b49d",
@@ -7816,8 +7816,8 @@
   },
   "https://www.medicare.gov/basics/forms-publications-mailings/mailings/costs-and-coverage/evidence-of-coverage": {
    "pageId": "ba1a251923974ac7",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:25:29.580Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:28:53.247Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 46,
@@ -7888,8 +7888,8 @@
   },
   "https://www.medicare.gov/care-compare?guidedSearch=InpatientRehabilitation": {
    "pageId": "bd3714f6b6e78c50",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:00:46.348Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:33:20.307Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 17,
@@ -7915,8 +7915,8 @@
   },
   "https://medicare.gov/coverage/multi-target-stool-dna-tests-screening": {
    "pageId": "bdb336c82f76bf32",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:22:19.877Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:10:13.978Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 60,
@@ -7933,8 +7933,8 @@
   },
   "https://www.medicare.gov/publications/search/item/112376": {
    "pageId": "bde2ba0469bbad51",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:49:57.440Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:26:53.757Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -7987,12 +7987,12 @@
   },
   "https://medicare.gov/providers-services/claims-appeals-complaints/appeals/original-medicare/appeal-part-a-hospital-status-change": {
    "pageId": "bf101f5065fe36b4",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:03:42.160Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:23:59.701Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 47,
+   "hasIssues": true
   },
   "https://www.medicare.gov/providers-services/coordinating-care": {
    "pageId": "bf91810a8f5e6f93",
@@ -8059,8 +8059,8 @@
   },
   "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/copayment-changing": {
    "pageId": "c091bef4c771a335",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T13:44:46.025Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:11:25.833Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -8068,12 +8068,12 @@
   },
   "https://www.medicare.gov/health-drug-plans/health-plans/your-coverage-options/other-medicare-health-plans/PACE": {
    "pageId": "c0a01a2f466dccb5",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:03:42.644Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:18:14.019Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 49,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/care-compare/resources/nursing-home/health-inspections": {
    "pageId": "c0d4576e65c92327",
@@ -8149,12 +8149,12 @@
   },
   "https://medicare.gov/coverage/hearing-balance-exams": {
    "pageId": "c2e729cf82fde32e",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:47:13.583Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:41:06.057Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 56,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/health-drug-plans/medigap/basics/coverage": {
    "pageId": "c2e7e553df5869cb",
@@ -8266,21 +8266,21 @@
   },
   "https://www.medicare.gov/coverage/therapeutic-shoes-inserts": {
    "pageId": "c544cabcae68274b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:09:49.825Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:50:27.142Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 59,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/medical-equipment-suppliers/about": {
    "pageId": "c5465e52901e482c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T19:54:12.483Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:44:07.055Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 2,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/publications/search/all-non-english-pubs?page=9": {
    "pageId": "c546f4d22efde757",
@@ -8347,17 +8347,17 @@
   },
   "https://www.medicare.gov/coverage/inpatient-rehabilitation-care": {
    "pageId": "c7c109313b5ee524",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:14:44.704Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:30:21.134Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 59,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/qualifying-for-help-with-costs/extra-help-eligibility-review": {
    "pageId": "c818b5ee4624c4fd",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:35:18.637Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:55:13.358Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -8383,12 +8383,12 @@
   },
   "https://www.medicare.gov/coverage/surgery": {
    "pageId": "c88a18dcf9bb5af3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:11:01.184Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:20:12.974Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 56,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ii9yZXNvdXJjZXMvaW5mb3JtYXRpb24tZm9yLXByb3ZpZGVycyJ9fQ%3D%3D": {
    "pageId": "c8cf6623f5f8610a",
@@ -8455,12 +8455,12 @@
   },
   "https://medicare.gov/health-drug-plans/coordination/who-pays-first": {
    "pageId": "c9d74cf4e6b35da5",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:17:22.811Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:46:26.224Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 90,
+   "hasIssues": true
   },
   "https://www.medicare.gov/my/preventive-services?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpreventive-services%3Fclient_id%3Dmax%26Lang%3Den-us%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy%26client_id%3Dmax%26Lang%3Den-us%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy%26client_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy": {
    "pageId": "ca19ca52d100a6b4",
@@ -8518,12 +8518,12 @@
   },
   "https://www.medicare.gov/health-drug-plans/part-d/basics": {
    "pageId": "cb7e69a83cb26ce3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:50:50.460Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:45:15.492Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 48,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9SW5wYXRpZW50UmVoYWJpbGl0YXRpb24ifX0%3D": {
    "pageId": "cbb3ba534554863e",
@@ -8563,8 +8563,8 @@
   },
   "https://www.medicare.gov/basics/get-started-with-medicare/other-paths": {
    "pageId": "cc78ef545e14c088",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:13:55.183Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:10:40.618Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 62,
@@ -8626,12 +8626,12 @@
   },
   "https://www.medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/reminder-join-drug-plan": {
    "pageId": "ce088f67e869e96c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:25:56.422Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:29:29.419Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 46,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/basics/costs": {
    "pageId": "ce6a4bf750033d0f",
@@ -8653,8 +8653,8 @@
   },
   "https://medicare.gov/coverage/mental-health-care-outpatient": {
    "pageId": "cf7b0533f18a9525",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T05:10:31.805Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:48:22.018Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -8689,8 +8689,8 @@
   },
   "https://medicare.gov/publication-ordering/11534-S": {
    "pageId": "d004d56654160be9",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:30:22.175Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:37:06.012Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -8761,12 +8761,12 @@
   },
   "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/drug-coverage-new-drug-plan": {
    "pageId": "d2fe26a728f34f7f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:28:01.192Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:56:29.250Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 49,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/health-drug-plans/coordination": {
    "pageId": "d32578bc790da986",
@@ -8797,12 +8797,12 @@
   },
   "https://medicare.gov/publication-ordering/10050-LE": {
    "pageId": "d49aac5fe60d55c6",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T05:20:38.684Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:25:08.177Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 42,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/care-compare/resources/resources-and-information": {
    "pageId": "d50a1f7933a31416",
@@ -8878,12 +8878,12 @@
   },
   "https://www.medicare.gov/health-apps/january.ai": {
    "pageId": "d7331e5c0f244b9a",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:01:24.839Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:52:38.984Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 48,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/coverage/glaucoma-screenings": {
    "pageId": "d74255182e84cd05",
@@ -8932,8 +8932,8 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9SG9tZUhlYWx0aCJ9fQ%3D%3D": {
    "pageId": "d81d2314beb246f6",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:33:13.700Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T21:01:23.753Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -8941,12 +8941,12 @@
   },
   "https://www.medicare.gov/coverage/incontinence-supplies-adult-diapers": {
    "pageId": "d81e53aa0ad9946d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:11:49.100Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:24:35.259Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 50,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/health-drug-plans/health-plans": {
    "pageId": "d8202f79c3b2723b",
@@ -8968,8 +8968,8 @@
   },
   "https://medicare.gov/health-drug-plans/medigap/ready-to-buy/spanish-medigap-open-enrollment": {
    "pageId": "d83b046c06d5fb9c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:48:08.933Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:12:00.333Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -9130,12 +9130,12 @@
   },
   "https://medicare.gov/coverage/infusion-pumps-supplies": {
    "pageId": "dbcf2a09a92a402f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:24:22.134Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:41:40.676Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 62,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/basics/get-started-with-medicare/sign-up/how-do-i-sign-up-for-medicare": {
    "pageId": "dbe4d632d5f007b8",
@@ -9148,12 +9148,12 @@
   },
   "https://medicare.gov/publication-ordering/11441": {
    "pageId": "dbe78d12e57b58bb",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:06:55.323Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:52:13.337Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 42,
+   "hasIssues": true
   },
   "https://www.medicare.gov/care-compare?reset=true": {
    "pageId": "dc1973e6ffa95f1c",
@@ -9166,12 +9166,12 @@
   },
   "https://www.medicare.gov/care-compare?guidedSearch=CommunityHealthCenter": {
    "pageId": "dc61043cdc5c5db6",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:02:36.650Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:11:16.901Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 17,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/basics/get-started-with-medicare/other-paths": {
    "pageId": "dca5d838da24be05",
@@ -9211,8 +9211,8 @@
   },
   "https://medicare.gov/coverage/hyperbaric-oxygen-therapy": {
    "pageId": "dd58ce24f2eafe56",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:03:53.189Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:46:10.496Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -9220,12 +9220,12 @@
   },
   "https://medicare.gov/coverage/shingles-vaccines": {
    "pageId": "dd614459f2609c95",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:47:58.429Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:34:22.265Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 53,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/coverage/ambulance-services": {
    "pageId": "de13e3072923274c",
@@ -9373,8 +9373,8 @@
   },
   "https://www.medicare.gov/coverage/orthopedic-shoes": {
    "pageId": "e33f6487c6266b84",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:13:22.121Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:14:44.806Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 52,
@@ -9391,21 +9391,21 @@
   },
   "https://www.medicare.gov/coverage/federally-qualified-health-center-services": {
    "pageId": "e384e77b44eca032",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:12:12.107Z",
-   "status": 200,
-   "axeViolations": 0,
-   "alfaFailures": 51,
-   "hasIssues": true
-  },
-  "https://medicare.gov/publication-ordering/02110-S": {
-   "pageId": "e448148df2ba3703",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T13:42:21.013Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:19:42.075Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
    "hasIssues": false
+  },
+  "https://medicare.gov/publication-ordering/02110-S": {
+   "pageId": "e448148df2ba3703",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:52:48.952Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 42,
+   "hasIssues": true
   },
   "https://medicare.gov/publication-ordering/12219-S": {
    "pageId": "e4869abf8f7bab9a",
@@ -9436,8 +9436,8 @@
   },
   "https://medicare.gov/health-drug-plans/medigap/basics/how-medigap-works": {
    "pageId": "e5387851eb79ae84",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:13:52.899Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:51:05.121Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 47,
@@ -9697,12 +9697,12 @@
   },
   "https://www.medicare.gov/publication-ordering/10111": {
    "pageId": "eb620de0daae8aff",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:07:11.521Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:15:56.194Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 42,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/health-apps/january.ai": {
    "pageId": "eb63ece580e0986d",
@@ -9724,8 +9724,8 @@
   },
   "https://medicare.gov/coverage/braces-arm-leg-back-neck": {
    "pageId": "ec1a8cddc19f9484",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:50:31.642Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:26:18.104Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -9751,12 +9751,12 @@
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9TnVyc2luZ0hvbWUifX0%3D": {
    "pageId": "ecb519c24b163340",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:51:02.013Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:34:45.210Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 13,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/basics/forms-publications-mailings/mailings/other/medicare-you-handbook": {
    "pageId": "ece1b3ac38527408",
@@ -9796,8 +9796,8 @@
   },
   "https://medicare.gov/publication-ordering/12207-S": {
    "pageId": "edf569a3892b33f3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T13:53:58.096Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:06:12.715Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -9841,8 +9841,8 @@
   },
   "https://www.medicare.gov/publication-ordering/11610": {
    "pageId": "eecd9dd47c9fea53",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:29:10.620Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:21:22.537Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -9859,8 +9859,8 @@
   },
   "https://medicare.gov/coverage/glaucoma-screenings": {
    "pageId": "efe0cc2855daf61f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:58:07.964Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:14:35.240Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -9877,12 +9877,12 @@
   },
   "https://www.medicare.gov/coverage/prosthetic-devices": {
    "pageId": "f0071942e7d5da35",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:08:38.514Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:59:05.140Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 54,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/working-past-65": {
    "pageId": "f00eb9e7de592526",
@@ -9904,8 +9904,8 @@
   },
   "https://medicare.gov/basics": {
    "pageId": "f04268bd6a204a03",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:41:46.439Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:31:20.826Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -9922,12 +9922,12 @@
   },
   "https://medicare.gov/care-compare?guidedSearch=NursingHome": {
    "pageId": "f0aa15e5f7bf8935",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:01:23.318Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:04:59.543Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 17,
+   "hasIssues": true
   },
   "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9RGlhbHlzaXNGYWNpbGl0eSZwcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D": {
    "pageId": "f10fb752fd78d351",
@@ -10102,12 +10102,12 @@
   },
   "https://www.medicare.gov/publication-ordering/11931-S": {
    "pageId": "f4ce85acde28e079",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:31:16.343Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:49:51.106Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 42,
+   "hasIssues": true
   },
   "https://www.medicare.gov/coverage/blood-based-biomarker-tests-screening-for-colorectal-cancer": {
    "pageId": "f523d756b2ad46c6",
@@ -10138,17 +10138,17 @@
   },
   "https://medicare.gov/coverage/kidney-transplants-children": {
    "pageId": "f6252a7541128c2c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T04:40:11.595Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:27:43.718Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 59,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/publication-ordering/11163-S": {
    "pageId": "f65b548a83835c55",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:27:09.733Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:17:05.147Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -10156,12 +10156,12 @@
   },
   "https://www.medicare.gov/coverage/bone-mass-measurements": {
    "pageId": "f672b0955528588a",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:02:40.304Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:16:30.663Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 56,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/about-us/contact-medicare": {
    "pageId": "f6c4ade14b4fc91d",
@@ -10318,17 +10318,17 @@
   },
   "https://www.medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/eligibility-help-with-costs-November": {
    "pageId": "fb523e3d366222c7",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:25:39.837Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:22:50.400Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 48,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://medicare.gov/publication-ordering/11360": {
    "pageId": "fb575958518b8ed9",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:40:34.611Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T23:57:15.000Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -10372,8 +10372,8 @@
   },
   "https://www.medicare.gov/coverage/depression-screening": {
    "pageId": "fc8fbde253c9fb5f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T13:04:03.236Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:05:49.483Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 61,
@@ -10498,12 +10498,12 @@
   },
   "https://www.medicare.gov/health-drug-plans/medigap/ready-to-buy/when": {
    "pageId": "ffb234c34720f7dd",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:13:17.139Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T00:01:16.676Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 97,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://www.medicare.gov/my/account-settings?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Faccount-settings%2F%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy": {
    "pageId": "ffccf8a718a45466",
@@ -10534,8 +10534,8 @@
   },
   "https://www.medicare.gov/publications/search/item/112371": {
    "pageId": "fff79a904d5557f2",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T19:37:10.864Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-15T20:02:22.357Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 40,

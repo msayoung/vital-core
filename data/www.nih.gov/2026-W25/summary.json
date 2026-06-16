@@ -1,27 +1,28 @@
 {
  "domain": "www.nih.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-15T20:06:00.192Z",
- "pagesScanned": 84,
- "pagesAudited": 5,
+ "generatedAt": "2026-06-16T11:18:44.212Z",
+ "pagesScanned": 90,
+ "pagesAudited": 6,
  "coverage": {
-  "axe": 5,
-  "resources": 5,
+  "axe": 6,
+  "resources": 6,
   "lighthouse": 1,
-  "plain-language": 2,
+  "plain-language": 3,
   "deprecated-html": 4,
-  "sustainability": 7
+  "sustainability": 8,
+  "standards": 1
  },
  "blocked": null,
  "axe": {
-  "violationTotal": 48,
-  "pagesWithViolations": 5,
-  "pagesScanned": 5,
+  "violationTotal": 55,
+  "pagesWithViolations": 6,
+  "pagesScanned": 6,
   "medianViolations": 7,
   "rules": {
    "heading-order": {
-    "count": 5,
-    "pages": 5,
+    "count": 6,
+    "pages": 6,
     "impact": "moderate",
     "help": "Heading levels should only increase by one",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
@@ -52,6 +53,10 @@
      },
      {
       "url": "https://www.nih.gov/news-events/nih-research-matters/millions-us-kids-live-parents-substance-use-disorders",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nih.gov/news-events/nih-research-matters/covid-19-vaccines-linked-small-increase-menstrual-cycle-length",
       "instances": 1
      }
     ],
@@ -84,8 +89,8 @@
     ]
    },
    "landmark-unique": {
-    "count": 5,
-    "pages": 5,
+    "count": 6,
+    "pages": 6,
     "impact": "moderate",
     "help": "Landmarks should have a unique role or role/label/title (i.e. accessible name) combination",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-unique?application=axeAPI",
@@ -116,6 +121,10 @@
      },
      {
       "url": "https://www.nih.gov/news-events/nih-research-matters/millions-us-kids-live-parents-substance-use-disorders",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nih.gov/news-events/nih-research-matters/covid-19-vaccines-linked-small-increase-menstrual-cycle-length",
       "instances": 1
      }
     ],
@@ -148,8 +157,8 @@
     ]
    },
    "link-in-text-block": {
-    "count": 33,
-    "pages": 5,
+    "count": 37,
+    "pages": 6,
     "impact": "serious",
     "help": "Links must be distinguishable without relying on color",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-in-text-block?application=axeAPI",
@@ -182,6 +191,10 @@
      {
       "url": "https://www.nih.gov/news-events/nih-research-matters/millions-us-kids-live-parents-substance-use-disorders",
       "instances": 4
+     },
+     {
+      "url": "https://www.nih.gov/news-events/nih-research-matters/covid-19-vaccines-linked-small-increase-menstrual-cycle-length",
+      "instances": 4
      }
     ],
     "instances": [
@@ -213,8 +226,8 @@
     ]
    },
    "region": {
-    "count": 5,
-    "pages": 5,
+    "count": 6,
+    "pages": 6,
     "impact": "moderate",
     "help": "All page content should be contained by landmarks",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
@@ -245,6 +258,10 @@
      },
      {
       "url": "https://www.nih.gov/news-events/nih-research-matters/millions-us-kids-live-parents-substance-use-disorders",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nih.gov/news-events/nih-research-matters/covid-19-vaccines-linked-small-increase-menstrual-cycle-length",
       "instances": 1
      }
     ],
@@ -286,11 +303,11 @@
   "rules": {}
  },
  "consensus": {
-  "uniqueIssues": 20,
+  "uniqueIssues": 24,
   "consensus": 0,
-  "axeOnly": 20,
+  "axeOnly": 24,
   "alfaOnly": 0,
-  "rawAxe": 20,
+  "rawAxe": 24,
   "rawAlfa": 0,
   "byKey": {
    "axe-core:heading-order": {
@@ -299,7 +316,7 @@
      "heading-order"
     ],
     "alfaRules": [],
-    "pages": 5,
+    "pages": 6,
     "engines": "axe"
    },
    "axe-core:landmark-unique": {
@@ -308,7 +325,7 @@
      "landmark-unique"
     ],
     "alfaRules": [],
-    "pages": 5,
+    "pages": 6,
     "engines": "axe"
    },
    "axe-core:link-in-text-block": {
@@ -317,7 +334,7 @@
      "link-in-text-block"
     ],
     "alfaRules": [],
-    "pages": 5,
+    "pages": 6,
     "engines": "axe"
    },
    "axe-core:region": {
@@ -326,26 +343,26 @@
      "region"
     ],
     "alfaRules": [],
-    "pages": 5,
+    "pages": 6,
     "engines": "axe"
    }
   }
  },
  "sustainability": {
-  "pages": 7,
-  "medianBytes": 66248,
-  "meanBytes": 582569,
+  "pages": 8,
+  "medianBytes": 66249,
+  "meanBytes": 518029,
   "medianRequests": 6,
-  "totalCo2g": 0.6,
-  "meanCo2g": 0.0863,
-  "totalEnergyWh": 1.22,
-  "meanEnergyWh": 0.1748
+  "totalCo2g": 0.61,
+  "meanCo2g": 0.0768,
+  "totalEnergyWh": 1.24,
+  "meanEnergyWh": 0.1554
  },
  "deprecatedHtml": null,
  "resources": {
-  "total": 5,
+  "total": 6,
   "byType": {
-   "image": 5
+   "image": 6
   },
   "list": [
    {
@@ -372,24 +389,119 @@
     "url": "https://www.nih.gov/sites/default/files/2025-06/20250603-substance.jpg",
     "type": "image",
     "pages": 1
+   },
+   {
+    "url": "https://www.nih.gov/sites/default/files/2025-03/20220125-vaccine.jpg",
+    "type": "image",
+    "pages": 1
    }
   ]
  },
- "standards": null,
+ "standards": {
+  "pagesChecked": 1,
+  "checks": [
+   {
+    "id": "schema-gov",
+    "label": "schema.org GovernmentOrganization markup",
+    "pass": 0,
+    "total": 1,
+    "rate": 0
+   },
+   {
+    "id": "hreflang",
+    "label": "hreflang alternates declared",
+    "pass": 0,
+    "total": 1,
+    "rate": 0
+   },
+   {
+    "id": "open-social",
+    "label": "Open social presence (Mastodon/Bluesky) linked",
+    "pass": 0,
+    "total": 1,
+    "rate": 0
+   },
+   {
+    "id": "canonical",
+    "label": "Canonical URL declared",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   },
+   {
+    "id": "title",
+    "label": "Page has a <title>",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   },
+   {
+    "id": "description",
+    "label": "Meta description present",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   },
+   {
+    "id": "charset",
+    "label": "Character encoding declared",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   },
+   {
+    "id": "lang",
+    "label": "Document language (lang) set",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   },
+   {
+    "id": "viewport",
+    "label": "Responsive viewport (zoom not disabled)",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   },
+   {
+    "id": "open-graph",
+    "label": "Open Graph tags (6/6)",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   },
+   {
+    "id": "twitter-card",
+    "label": "Twitter card metadata",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   }
+  ],
+  "social": []
+ },
  "security": null,
  "plainLanguage": {
-  "pagesChecked": 2,
-  "pagesScored": 2,
-  "medianWordsPerPage": 1719,
-  "medianReadingEase": 54,
-  "medianGrade": 10,
+  "pagesChecked": 3,
+  "pagesScored": 3,
+  "medianWordsPerPage": 698,
+  "medianReadingEase": 52,
+  "medianGrade": 10.6,
   "topUnexplainedAcronyms": [
    {
     "acronym": "NIH",
-    "pages": 2
+    "pages": 3
    },
    {
     "acronym": "PMID",
+    "pages": 3
+   },
+   {
+    "acronym": "KA",
+    "pages": 2
+   },
+   {
+    "acronym": "ER",
     "pages": 2
    },
    {
@@ -435,23 +547,24 @@
    {
     "acronym": "RK",
     "pages": 1
-   },
-   {
-    "acronym": "KA",
-    "pages": 1
-   },
-   {
-    "acronym": "FA",
-    "pages": 1
    }
   ],
   "topMisspellings": [
    {
     "word": "Shutterstock",
-    "pages": 2,
+    "pages": 3,
     "examplePages": [
      "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome",
-     "https://www.nih.gov/news-events/nih-research-matters/millions-us-kids-live-parents-substance-use-disorders"
+     "https://www.nih.gov/news-events/nih-research-matters/millions-us-kids-live-parents-substance-use-disorders",
+     "https://www.nih.gov/news-events/nih-research-matters/covid-19-vaccines-linked-small-increase-menstrual-cycle-length"
+    ]
+   },
+   {
+    "word": "doi",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nih.gov/news-events/nih-research-matters/millions-us-kids-live-parents-substance-use-disorders",
+     "https://www.nih.gov/news-events/nih-research-matters/covid-19-vaccines-linked-small-increase-menstrual-cycle-length"
     ]
    },
    {
@@ -614,13 +727,6 @@
     "examplePages": [
      "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome"
     ]
-   },
-   {
-    "word": "cholangitis",
-    "pages": 1,
-    "examplePages": [
-     "https://www.nih.gov/news-events/nih-research-matters/understanding-exposome"
-    ]
    }
   ]
  },
@@ -659,6 +765,10 @@
   },
   {
    "url": "https://www.nih.gov/privacy-policy",
+   "status": 403
+  },
+  {
+   "url": "https://www.nih.gov/news-events/nih-research-matters/moderna-covid-19-booster-may-protect-against-variants",
    "status": 403
   },
   {
@@ -735,10 +845,6 @@
   },
   {
    "url": "https://www.nih.gov/news-events/news-releases/dr-raymond-jacobson-selected-director-nih-center-scientific-review",
-   "status": 403
-  },
-  {
-   "url": "https://www.nih.gov/research-training/science-highlights",
    "status": 403
   }
  ]
