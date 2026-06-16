@@ -1,6 +1,6 @@
 {
  "domain": "data.medicaid.gov",
- "updatedAt": "2026-06-16T14:18:54.248Z",
+ "updatedAt": "2026-06-16T14:26:05.814Z",
  "pages": {
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/2022-child-and-adult-health-care-quality-measures_0.csv": {
    "pageId": "004e1181c2869eec",
@@ -364,11 +364,11 @@
   },
   "https://data.medicaid.gov/dataset/bb63ad8e-cab1-56e3-b492-da95d7e8cc5f?page=4": {
    "pageId": "05f170fbfa247e27",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:44:05.554Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:14:35.473Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 41,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/ebcfc16f-8291-4c61-82a4-055846d72f3a?page=3": {
@@ -427,8 +427,8 @@
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/ac553cd4-63eb-44d4-9946-f29c0ccc1838/docs": {
    "pageId": "069bb5f7a80ff480",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:30:55.958Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:22.705Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -652,8 +652,8 @@
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/6264a6d4-5082-4b67-9e8b-014646430e22/docs": {
    "pageId": "0849eb03747f0006",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:44:14.712Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:14:06.988Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -724,8 +724,8 @@
   },
   "https://data.medicaid.gov/dataset/1d3ffff8-2cf5-4cc9-a820-5879e957caa2?page=2": {
    "pageId": "093081fafbeab17b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:37:32.841Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:20:54.365Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -742,11 +742,11 @@
   },
   "https://data.medicaid.gov/dataset/7df7c585-cbc3-5e87-aadc-b690718fbe41?page=2": {
    "pageId": "0991cefc3fc94cd1",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:17:41.848Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:15:34.284Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 40,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/0a339472-900f-526b-b339-f5d7d407a906": {
@@ -1291,8 +1291,8 @@
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/ec0abffe-206c-506c-8d53-5df5524758d5/docs": {
    "pageId": "104d8de9fdf16247",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:35:15.846Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:15.152Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -1300,8 +1300,8 @@
   },
   "https://data.medicaid.gov/dataset/92926a98-0f8c-5a43-9e83-d9239fb485a3": {
    "pageId": "105fc8f85adea1dd",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:42:33.307Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:40.511Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 40,
@@ -1372,8 +1372,8 @@
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/c3d4ec55-f9ea-5b76-9eba-93cc3664c1f1/docs": {
    "pageId": "1198975de3a7d5a4",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:20:55.792Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:10:35.802Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -1453,11 +1453,11 @@
   },
   "https://data.medicaid.gov/dataset/a8647354-7dcb-5949-9582-b40e7a985bef": {
    "pageId": "12a5c223e9aafbf2",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:59:57.338Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:15:15.608Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 40,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/datasets?page=25": {
@@ -1480,8 +1480,8 @@
   },
   "https://data.medicaid.gov/dataset/c57ee71b-bbf2-5406-aef4-3ac15f0554ce?page=3": {
    "pageId": "12d8e0c894ee6e9d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:56:04.489Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:20:46.481Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -1507,8 +1507,8 @@
   },
   "https://data.medicaid.gov/dataset/a86dfb1d-0cf8-45e6-a875-9aed4d430ae7?page=3": {
    "pageId": "12f5b6aa14e25ae6",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:56:22.300Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:14.898Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 40,
@@ -1588,11 +1588,11 @@
   },
   "https://data.medicaid.gov/dataset/1b03ec9b-07dd-4547-99a5-aacf206162d5?page=4": {
    "pageId": "14042c83ecbf0c82",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:14:51.773Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:36.329Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 41,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/d906204c-3476-4a75-bd35-342b8dc56687/docs": {
@@ -1894,8 +1894,8 @@
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/8f77310d-ef45-5bb6-bcb0-6da9a1bdb3cd/docs": {
    "pageId": "170229ca2f38110a",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:44:05.654Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:59.968Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -2083,8 +2083,8 @@
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/Testing12.csv": {
    "pageId": "19bb7bdc462fd370",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:03:44.969Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:08.086Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -2605,8 +2605,8 @@
   },
   "https://data.medicaid.gov/dataset/9701e19c-7e6f-51f4-95cd-4ce1d568e93f": {
    "pageId": "204d836175412de1",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:56:32.162Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:48.239Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 40,
@@ -2785,11 +2785,11 @@
   },
   "https://data.medicaid.gov/dataset/f1c9d3a8-f9e8-556d-a9ea-fe31a38037ff": {
    "pageId": "229bb77ff8c84d42",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:53:19.855Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:26.825Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 40,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/cc7f1f2d-8942-5b67-a9fe-e48033c972d2?page=5": {
@@ -3181,8 +3181,8 @@
   },
   "https://data.medicaid.gov/dataset/0e112ea8-8e8e-5dee-a7e2-7ed551c3baa4?page=2": {
    "pageId": "288caf91e2d6263f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:49:43.537Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:12.988Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -3397,8 +3397,8 @@
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/Clotting-Factor-Jun-2023.csv": {
    "pageId": "2a54935aed2782ce",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:11:23.504Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:09.648Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -3406,8 +3406,8 @@
   },
   "https://data.medicaid.gov/dataset/a217613c-12bc-5137-8b3a-ada0e4dad1ff?page=2": {
    "pageId": "2a763e4efc99120f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:15:02.203Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:15:43.503Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -3505,11 +3505,11 @@
   },
   "https://data.medicaid.gov/dataset/289182e5-44c8-4fcc-96c4-4af69be9863f": {
    "pageId": "2b7fc77a3c8c93e8",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:04:35.482Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:15:23.988Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 41,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/bb4936ea-8adf-41a5-882b-786a0b3a8822?page=2": {
@@ -3838,8 +3838,8 @@
   },
   "https://data.medicaid.gov/dataset/1afe96ca-dd06-5002-b4c4-5f4f45e5a171?page=5": {
    "pageId": "2f152ba5825973a0",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:03:16.103Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:06.684Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 40,
@@ -3955,8 +3955,8 @@
   },
   "https://data.medicaid.gov/dataset/158a1baa-5506-400a-8ec3-97756f0b0536?page=5": {
    "pageId": "30490f0dc23111de",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:10:05.949Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:23.651Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -4099,8 +4099,8 @@
   },
   "https://data.medicaid.gov/dataset/56adbcf4-f86b-5ab3-98fe-e713bbf99f12?page=5": {
    "pageId": "32cde8d94e3c31d6",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:19:56.129Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:06.785Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -4351,8 +4351,8 @@
   },
   "https://data.medicaid.gov/dataset/84922793-8c53-4e1a-8e4d-edf6d5e8bb3b?page=429": {
    "pageId": "35f8318486b17289",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:58:13.650Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:16:16.701Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -4657,8 +4657,8 @@
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/158a1baa-5506-400a-8ec3-97756f0b0536/docs": {
    "pageId": "39080526e3f3d05f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:53:23.818Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:49.760Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -4918,11 +4918,11 @@
   },
   "https://data.medicaid.gov/dataset/4a00010a-132b-4e4d-a611-543c9521280f?page=3": {
    "pageId": "3c321270b052a7a9",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:25:19.038Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:46.543Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": null,
+   "alfaFailures": 31,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/69374797-d755-4903-bbe2-b84408501feb?page=6815": {
@@ -4936,8 +4936,8 @@
   },
   "https://data.medicaid.gov/dataset/93c14523-3acb-4253-a9e0-98b0bd201541?page=6": {
    "pageId": "3c632219a473474d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T16:01:40.489Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:46.703Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -5179,8 +5179,8 @@
   },
   "https://data.medicaid.gov/dataset/7ef3fd19-f2a2-5fbe-93c3-c9efd7247872?page=231": {
    "pageId": "3f560d4ce0b2c316",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:26:06.232Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:20:39.970Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -5287,8 +5287,8 @@
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/Clotting-Factor-Dec2021.csv": {
    "pageId": "419105c4fc8cd769",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:23:09.984Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:42.270Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -5467,8 +5467,8 @@
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/7656fc17-f1b4-566b-9a2d-c4a4f2ac7ae1/docs": {
    "pageId": "43fafa964fba64a9",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:59:29.719Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:22.747Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -5476,8 +5476,8 @@
   },
   "https://data.medicaid.gov/dataset/d55ac067-44dd-5ea0-ab04-d06b5985b540": {
    "pageId": "4441f0009cac2817",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T16:04:41.376Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:14:59.786Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 40,
@@ -5575,8 +5575,8 @@
   },
   "https://data.medicaid.gov/dataset/ebcfc16f-8291-4c61-82a4-055846d72f3a/data?conditions%5B0%5D%5Boperator%5D=%3D&conditions%5B0%5D%5Bproperty%5D=reporting_period&conditions%5B0%5D%5Bvalue%5D=202312": {
    "pageId": "451c017d1c577e24",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:29:27.837Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:03.149Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 43,
@@ -5584,8 +5584,8 @@
   },
   "https://data.medicaid.gov/datasets?keyword%5B%5D=comprehensive+managed+care": {
    "pageId": "4527c2c8dcbce3b1",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:23:57.655Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:05.691Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -5719,11 +5719,11 @@
   },
   "https://data.medicaid.gov/datasets?page=23": {
    "pageId": "46aedeed76afa5a5",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:56:51.598Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:43.856Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 72,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/c1c4b0cf-c957-4b00-bcf4-c0905045a5b3?page=3": {
@@ -6628,11 +6628,11 @@
   },
   "https://data.medicaid.gov/dataset/d84e14e5-6bbb-5c4c-b55d-ecb830eb1783": {
    "pageId": "5169cfb37c93d1a1",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:09:53.672Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:42.952Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 32,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rpt-drugs-oct-20210927-to-20211003.csv": {
@@ -6709,8 +6709,8 @@
   },
   "https://data.medicaid.gov/dataset/959f9156-2db5-508e-9476-b8ee43c30286?page=3": {
    "pageId": "521b028ae93295d5",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:38:09.759Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:41.752Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -6727,11 +6727,11 @@
   },
   "https://data.medicaid.gov/datasets?keyword%5B%5D=transitions+in+coverage": {
    "pageId": "52ca167ca0d88d17",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:36:01.012Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:31.548Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": 34,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/b832f850-6913-54ba-85f9-97073e8a0193": {
@@ -7141,8 +7141,8 @@
   },
   "https://data.medicaid.gov/dataset/a86dfb1d-0cf8-45e6-a875-9aed4d430ae7?page=2": {
    "pageId": "57a6b49c0ec324f3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T08:04:05.541Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:16:11.216Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -7258,8 +7258,8 @@
   },
   "https://data.medicaid.gov/dataset/4b7403de-2d4b-5b0e-a3c3-af9e6a0152d7?page=4": {
    "pageId": "5910e3ed1f31173f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:41:18.550Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:05.180Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -7303,8 +7303,8 @@
   },
   "https://data.medicaid.gov/dataset/ed35fa7f-279b-4d68-b624-b6ff32e956df?page=5": {
    "pageId": "5a57dc89bcf943d5",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:57:32.911Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:28.795Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -7375,8 +7375,8 @@
   },
   "https://data.medicaid.gov/dataset/99315a95-37ac-4eee-946a-3c523b4c481e": {
    "pageId": "5ab320cf350b44a8",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:49:38.129Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:15:53.664Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 41,
@@ -8032,8 +8032,8 @@
   },
   "https://data.medicaid.gov/dataset/ebcfc16f-8291-4c61-82a4-055846d72f3a/data?page=3": {
    "pageId": "6326372110ab69b2",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:39:36.773Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:15:48.645Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -8266,11 +8266,11 @@
   },
   "https://data.medicaid.gov/dataset/76a1984a-6d69-5e4d-86c8-65eb31f0506d?page=2": {
    "pageId": "6632bb58e40fe470",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:45:43.623Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:13.202Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": 31,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/b28a22a2-2c7b-5745-a3f9-d64621f51388?page=3": {
@@ -8527,8 +8527,8 @@
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/789babe6-36f6-4023-bf8d-b4fcc6313b11/docs": {
    "pageId": "691b4afef5875b53",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:45:22.184Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:20:50.151Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -8806,8 +8806,8 @@
   },
   "https://data.medicaid.gov/dataset/bd782837-31ac-41ae-9569-52182bc038e9?page=2": {
    "pageId": "6d79eaeeb3bca581",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:48:39.510Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:19.682Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -8815,11 +8815,11 @@
   },
   "https://data.medicaid.gov/dataset/cb8d7614-bf80-5ffd-a166-4f3903f1ddd4": {
    "pageId": "6d85d486c0167af3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:54:21.291Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:10:39.896Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 40,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/46732f54-2971-48e2-b2ae-02d902ca6d33?page=7": {
@@ -9481,11 +9481,11 @@
   },
   "https://data.medicaid.gov/dataset/a058ef78-e18b-4435-94aa-b70ab6ce5904?page=3": {
    "pageId": "771139c46c2c252c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:24:05.604Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:16:40.550Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 41,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/1632da10-d16e-57f6-8e2d-29bdd77949de?page=2": {
@@ -10255,11 +10255,11 @@
   },
   "https://data.medicaid.gov/dataset/b51bbd15-c6c7-4158-9365-54fe40a7d351": {
    "pageId": "812a02313a779f47",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T16:16:19.737Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:20:04.262Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 41,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/datasets?keyword%5B%5D=t-msis+analytic+files": {
@@ -10462,11 +10462,11 @@
   },
   "https://data.medicaid.gov/dataset/4d4eaf55-33d3-4468-80b4-63553f4530ae?page=5": {
    "pageId": "83a7c443f858732c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:08:51.458Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:20:20.744Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 41,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/ce69c011-1dc5-5ffa-94fb-d3e9b05afc4b?page=5": {
@@ -10669,11 +10669,11 @@
   },
   "https://data.medicaid.gov/dataset/4d4eaf55-33d3-4468-80b4-63553f4530ae?page=3": {
    "pageId": "8652ccd9e6358c0b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:28:11.680Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:28.693Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 41,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/4bc725b5-e88e-525c-880b-8547f0edd081?page=4": {
@@ -11173,11 +11173,11 @@
   },
   "https://data.medicaid.gov/datasets?keyword%5B%5D=expenditures": {
    "pageId": "8bc661af3b0521ea",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:35:09.940Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:27.052Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 37,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/datasets?keyword%5B%5D=mbes": {
@@ -11209,11 +11209,11 @@
   },
   "https://data.medicaid.gov/dataset/ed35fa7f-279b-4d68-b624-b6ff32e956df": {
    "pageId": "8c126867be2c7722",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T16:09:54.616Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:33.896Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 40,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/e9aa0d65-4e3e-5872-be66-c2edd3447f24?page=3": {
@@ -11299,8 +11299,8 @@
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/f3e3687a-2d5d-5391-8640-8ffe448c8191/docs": {
    "pageId": "8cc065affa0bb2c6",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:14:14.381Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:55.975Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -11596,11 +11596,11 @@
   },
   "https://data.medicaid.gov/dataset/4256aa88-c7ba-582e-aec6-f6f905c70cb3": {
    "pageId": "90f90d72f1628416",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T20:55:59.814Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:14.512Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 32,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/695e7a86-00c1-49b1-935a-6fef6cbf5835?page=3": {
@@ -12109,8 +12109,8 @@
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-10-30-2023-to-11-05-2023.csv": {
    "pageId": "95352fd0868b79b4",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:03:29.903Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:54.393Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -12226,8 +12226,8 @@
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/85272998-7ec9-4bd9-87ef-8c75156436ac/docs": {
    "pageId": "96bb38c9c7457cd3",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:44:29.029Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:01.779Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -12874,8 +12874,8 @@
   },
   "https://data.medicaid.gov/dataset/05abc6c7-8d36-521a-82a8-3182ea85a1ea?page=3": {
    "pageId": "9ece3746bbd28d94",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:42:21.867Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:16:34.231Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -13036,11 +13036,11 @@
   },
   "https://data.medicaid.gov/dataset/1109e8a3-8da6-581a-9241-52938b196807": {
    "pageId": "a0bb48803e28c3aa",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:00:52.386Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:29.239Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 40,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/13793c80-067b-5cf9-a0aa-751c387a10d4?page=3": {
@@ -13216,8 +13216,8 @@
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/a66fa666-3854-5bc3-b8f8-9367a10cb40f/docs": {
    "pageId": "a2f7583724c5a0f1",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:49:20.140Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:24.337Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -14062,11 +14062,11 @@
   },
   "https://data.medicaid.gov/dataset/a7c8e38d-baa6-5f37-b1ce-5ce1a55a36e7": {
    "pageId": "ad25b52c294e9f73",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T16:13:24.328Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:25.638Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 40,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/c39d3302-2d39-5209-9310-388ab1c8cbb8": {
@@ -14116,11 +14116,11 @@
   },
   "https://data.medicaid.gov/dataset/e2ce0d2f-07c5-5213-947a-31e19bc649f6?page=3": {
    "pageId": "adc93d9f87482119",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:39:37.330Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:20.466Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 40,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/7b094759-dc32-5e07-98a7-40dba23b1605": {
@@ -14260,8 +14260,8 @@
   },
   "https://data.medicaid.gov/dataset/942d804c-6c1d-5912-a61f-08d42927ee9b?page=2": {
    "pageId": "b06af43b93b0bddb",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:37:01.565Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:15:29.185Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -14494,8 +14494,8 @@
   },
   "https://data.medicaid.gov/dataset/4011579c-33ea-5741-a763-a2558d635561?page=4": {
    "pageId": "b3e63dd0f02afc46",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:39:28.495Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:52.295Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -14512,11 +14512,11 @@
   },
   "https://data.medicaid.gov/dataset/0d425780-16be-4ded-8420-69def8f4ee29": {
    "pageId": "b406a41f2486e2bd",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T16:02:00.393Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:00.304Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 41,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/a3adef5c-97e9-52e0-8c4b-b2dcb8e8eca9?page=3": {
@@ -14854,8 +14854,8 @@
   },
   "https://data.medicaid.gov/dataset/98ff950b-2dc6-592e-bbc2-56be79cb2841?page=3": {
    "pageId": "b917c93ba528cfcc",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:24:53.518Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:58.519Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -15502,11 +15502,11 @@
   },
   "https://data.medicaid.gov/dataset/fa14a08c-6549-4c1d-a910-6a5c5df7314c?page=3": {
    "pageId": "c0c858b1ba83eaa5",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:33:06.524Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:20:59.823Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 40,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/67483256-e996-4342-9867-fc0b6a67230f?page=3": {
@@ -15547,8 +15547,8 @@
   },
   "https://data.medicaid.gov/dataset/d62f5f31-d44c-5818-ad92-6f5058b1153c?page=2": {
    "pageId": "c16d20d47735ba4f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:16:14.724Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:18.963Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -16141,11 +16141,11 @@
   },
   "https://data.medicaid.gov/dataset/d30cfc7c-4b32-4df1-b2bf-e0a850befd77?page=2": {
    "pageId": "c7be3abe30d24aff",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:30:44.925Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:51.693Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 47,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/156125e3-48b1-5d33-a5e5-9191a9588a66": {
@@ -16177,11 +16177,11 @@
   },
   "https://data.medicaid.gov/dataset/1fe73992-cbfd-5109-97bc-dee8b33fdcff": {
    "pageId": "c814488371232033",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:50:58.771Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:14:44.180Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 41,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/b28a22a2-2c7b-5745-a3f9-d64621f51388/docs": {
@@ -16267,11 +16267,11 @@
   },
   "https://data.medicaid.gov/dataset/c1c4b0cf-c957-4b00-bcf4-c0905045a5b3": {
    "pageId": "c96d0ea03aa12184",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T16:10:08.629Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:11.427Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 40,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/76a1984a-6d69-5e4d-86c8-65eb31f0506d?page=51928": {
@@ -16492,8 +16492,8 @@
   },
   "https://data.medicaid.gov/dataset/abb567c0-42bd-5851-870e-8dad158d97e2?page=3": {
    "pageId": "cbdc2e976a23f8f7",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:32:43.187Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:20:33.573Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -16600,8 +16600,8 @@
   },
   "https://data.medicaid.gov/dataset/53cf9f05-97e3-5bd6-a237-bc971e3642d9?page=2": {
    "pageId": "cce615ad69af6c95",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:35:19.842Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:57.509Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -16636,17 +16636,17 @@
   },
   "https://data.medicaid.gov/dataset/6c64c58e-34fe-59bb-9d32-dcbbe8f49d13?page=42": {
    "pageId": "cd42cc9ed8ecdb21",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:24:17.625Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:14:11.188Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 40,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/695e7a86-00c1-49b1-935a-6fef6cbf5835/docs": {
    "pageId": "cd84b83f9cd7ed22",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:43:46.032Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:58.325Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -17140,11 +17140,11 @@
   },
   "https://data.medicaid.gov/dataset/a6d2c261-210d-587c-8fa4-892444b7de42?page=3": {
    "pageId": "d3a727bbefe1522f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:42:09.815Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:16.524Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 40,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/9dcfc4fd-2d71-55fc-bd59-7b7524186c88?page=5": {
@@ -18013,8 +18013,8 @@
   },
   "https://data.medicaid.gov/dataset/586ae752-6d4b-4129-a3f6-569fcab9e104?page=2": {
    "pageId": "dd5255232cd3adac",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:27:18.667Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:46.740Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -18265,11 +18265,11 @@
   },
   "https://data.medicaid.gov/dataset/1db0f12c-e4d6-5a70-8c1b-5af9635999be?page=4": {
    "pageId": "e0cb39d80935e752",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:42:11.439Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:06.025Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 41,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/76a1984a-6d69-5e4d-86c8-65eb31f0506d?page=4": {
@@ -18391,8 +18391,8 @@
   },
   "https://data.medicaid.gov/dataset/c0bef49e-46ea-4b9d-9153-76b4078d58b7?page=104": {
    "pageId": "e1b3ccdfac2f579a",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T03:18:59.122Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:54.275Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -18625,11 +18625,11 @@
   },
   "https://data.medicaid.gov/dataset/91d4309d-3ca8-5a1e-8f78-79984027392d?page=3": {
    "pageId": "e4525988babd4955",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:20:59.981Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:38.040Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 41,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/ed35fa7f-279b-4d68-b624-b6ff32e956df/docs": {
@@ -18697,8 +18697,8 @@
   },
   "https://data.medicaid.gov/dataset/e7d5089e-647c-4aa7-8c7b-f98dd8ea3852?page=2": {
    "pageId": "e679f4e1abaa07a8",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:37:58.233Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:20:28.431Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -18796,11 +18796,11 @@
   },
   "https://data.medicaid.gov/datasets?keyword%5B%5D=viii+group": {
    "pageId": "e78074e63e554791",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:18:01.501Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:56.148Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 43,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/602e7c79-774d-529a-a377-75faa749e878?page=105694": {
@@ -19030,8 +19030,8 @@
   },
   "https://data.medicaid.gov/dataset/ac553cd4-63eb-44d4-9946-f29c0ccc1838?page=4": {
    "pageId": "eace8c9e3a4c15e5",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T15:48:55.043Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:23.667Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -19102,8 +19102,8 @@
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/data-dictionary/items/cb7cf763-da2c-447d-ad48-7e9d4ac10cb9/csv": {
    "pageId": "eb80885ebfa3b144",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:03:15.020Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:15:39.222Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -19192,11 +19192,11 @@
   },
   "https://data.medicaid.gov/dataset/7dd8dbcf-53ca-43eb-a423-003026e24972?page=9": {
    "pageId": "ec90c0115112e0b1",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:38:30.598Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:58.867Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 41,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/4b8b2176-9584-4edf-bc8e-48887cd6b0a1?page=3": {
@@ -19273,11 +19273,11 @@
   },
   "https://data.medicaid.gov/dataset/fc3c7c14-4b08-59c2-97db-0726e478dfdf": {
    "pageId": "ed5218f67e1a106f",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:49:55.269Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:16:49.421Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 41,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/78430aaa-df0a-5343-92a5-395dcf7c5e33/docs": {
@@ -19300,11 +19300,11 @@
   },
   "https://data.medicaid.gov/dataset/ebcfc16f-8291-4c61-82a4-055846d72f3a?page=5": {
    "pageId": "ed94ca0a0ba5c5d4",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T14:06:16.679Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:14:16.471Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 41,
    "hasIssues": true
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/200c2cba-e58d-4a95-aa60-14b99736808d/docs": {
@@ -19561,11 +19561,11 @@
   },
   "https://data.medicaid.gov/datasets?keyword%5B%5D=dental": {
    "pageId": "efed1ff707032007",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:34:14.238Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:12:30.986Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 35,
    "hasIssues": true
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/30108188-5841-474d-b77e-c3c190589a73/docs": {
@@ -19579,11 +19579,11 @@
   },
   "https://data.medicaid.gov/dataset/d890d3a9-6b00-43fd-8b31-fcba4c8e2909?page=4": {
    "pageId": "f00c14ba24f41af1",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T22:16:59.046Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:10:29.819Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 41,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/a058ef78-e18b-4435-94aa-b70ab6ce5904?page=154": {
@@ -19984,8 +19984,8 @@
   },
   "https://data.medicaid.gov/dataset/c1028fdf-2e43-5d5e-990b-51ed03428625": {
    "pageId": "f52e0a6400924053",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T15:45:44.151Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:36.280Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 40,
@@ -20209,8 +20209,8 @@
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/fb0920cb-7ed2-57ee-b138-1f7947ba6ac5/docs": {
    "pageId": "f85137436f46abde",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:19:51.803Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:15:19.585Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -20218,8 +20218,8 @@
   },
   "https://data.medicaid.gov/dataset/0919b0f0-267b-4418-a585-6d3fb7e60658?page=2": {
    "pageId": "f85b73e80bcd8f8b",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T19:36:55.613Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:16:22.895Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -20380,8 +20380,8 @@
   },
   "https://data.medicaid.gov/dataset/a1f3598e-fc71-51aa-8560-78e7e1a61b09?page=3": {
    "pageId": "fb44d5a9d6b8ac70",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T07:50:36.674Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:16:28.526Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -20533,11 +20533,11 @@
   },
   "https://data.medicaid.gov/dataset/40be3522-b0d5-4fff-9467-37c7df2b22dc": {
    "pageId": "fd540aebd564751a",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-13T21:14:03.954Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:13:20.720Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 41,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.medicaid.gov/dataset/d7e4cccb-1c56-5b5d-acce-5e7744c6d3b4?page=2": {
@@ -21388,8 +21388,8 @@
   },
   "https://data.medicaid.gov/sites/default/files/uploaded_resources/mdrp-newly-rprt-drug-01-22-2024-to-01-28-2024.csv": {
    "pageId": "5e441ca004a9746a",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T20:57:57.849Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:17:19.281Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -21667,8 +21667,8 @@
   },
   "https://data.medicaid.gov/dataset/0ca65533-a457-57ec-b080-9ab30597929c?page=2": {
    "pageId": "853ebdedc40ae044",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T21:00:24.770Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:11:59.459Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 40,
@@ -22126,8 +22126,8 @@
   },
   "https://data.medicaid.gov/dataset/f3e3687a-2d5d-5391-8640-8ffe448c8191?page=2": {
    "pageId": "c5141c09c294ee5c",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T20:46:53.184Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:21:32.201Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -22189,8 +22189,8 @@
   },
   "https://data.medicaid.gov/dataset/c21bff91-35f5-5333-9bf5-ffd895d96c6a?page=42": {
    "pageId": "cdf556f3faf88906",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T20:43:10.501Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:18:48.673Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -22378,8 +22378,8 @@
   },
   "https://data.medicaid.gov/dataset/7459d190-e592-42e0-9b66-6f4e7e05eb9b?page=8": {
    "pageId": "eb44eca8c39f166d",
-   "lastWeek": "2026-W24",
-   "lastScannedAt": "2026-06-14T20:44:51.866Z",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:19:24.505Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 40,
@@ -26326,6 +26326,24 @@
    "axeViolations": 2,
    "alfaFailures": null,
    "hasIssues": true
+  },
+  "https://data.medicaid.gov/dataset/a217613c-12bc-5137-8b3a-ada0e4dad1ff?page=135092": {
+   "pageId": "a32daafa47ba1fbb",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:10:22.619Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 31,
+   "hasIssues": true
+  },
+  "https://data.medicaid.gov/api/1/metastore/schemas/data-dictionary/items/71030135-eef9-46b2-9d13-e401008e0fc6/csv": {
+   "pageId": "dacfe50a5041e811",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:10:25.499Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
   }
  }
 }

@@ -1,27 +1,28 @@
 {
  "domain": "nih.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-16T14:18:54.507Z",
- "pagesScanned": 63,
- "pagesAudited": 4,
+ "generatedAt": "2026-06-16T14:26:06.094Z",
+ "pagesScanned": 68,
+ "pagesAudited": 5,
  "coverage": {
-  "sustainability": 14,
-  "axe": 4,
+  "sustainability": 16,
+  "axe": 5,
   "plain-language": 4,
-  "resources": 4,
-  "standards": 3,
-  "alfa": 2
+  "resources": 5,
+  "standards": 4,
+  "alfa": 2,
+  "security": 1
  },
  "blocked": null,
  "axe": {
-  "violationTotal": 39,
-  "pagesWithViolations": 4,
-  "pagesScanned": 4,
-  "medianViolations": 9,
+  "violationTotal": 42,
+  "pagesWithViolations": 5,
+  "pagesScanned": 5,
+  "medianViolations": 3,
   "rules": {
    "link-in-text-block": {
-    "count": 32,
-    "pages": 4,
+    "count": 33,
+    "pages": 5,
     "impact": "serious",
     "help": "Links must be distinguishable without relying on color",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-in-text-block?application=axeAPI",
@@ -49,6 +50,10 @@
      },
      {
       "url": "https://nih.gov/",
+      "instances": 1
+     },
+     {
+      "url": "https://nih.gov/about-nih/nih-almanac/leadership/nih-directors",
       "instances": 1
      }
     ],
@@ -117,8 +122,8 @@
     ]
    },
    "heading-order": {
-    "count": 1,
-    "pages": 1,
+    "count": 2,
+    "pages": 2,
     "impact": "moderate",
     "help": "Heading levels should only increase by one",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
@@ -126,11 +131,16 @@
      "best-practice"
     ],
     "examplePages": [
-     "https://nih.gov/about-nih/budget"
+     "https://nih.gov/about-nih/budget",
+     "https://nih.gov/about-nih/nih-almanac/leadership/nih-directors"
     ],
     "affectedPages": [
      {
       "url": "https://nih.gov/about-nih/budget",
+      "instances": 1
+     },
+     {
+      "url": "https://nih.gov/about-nih/nih-almanac/leadership/nih-directors",
       "instances": 1
      }
     ],
@@ -139,12 +149,17 @@
       "url": "https://nih.gov/about-nih/budget",
       "target": ".text-formatted.field--name-field-uswds-body.field--type-text-long > h3:nth-child(1)",
       "html": "<h3>Research for the People</h3>"
+     },
+     {
+      "url": "https://nih.gov/about-nih/nih-almanac/leadership/nih-directors",
+      "target": "h3",
+      "html": "<h3 class=\"thumbnail-teaser__heading\">Jay Bhattacharya, M.D., Ph.D.</h3>"
      }
     ]
    },
    "region": {
-    "count": 3,
-    "pages": 3,
+    "count": 4,
+    "pages": 4,
     "impact": "moderate",
     "help": "All page content should be contained by landmarks",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
@@ -168,6 +183,10 @@
      {
       "url": "https://nih.gov/",
       "instances": 1
+     },
+     {
+      "url": "https://nih.gov/about-nih/nih-almanac/leadership/nih-directors",
+      "instances": 1
      }
     ],
     "instances": [
@@ -185,6 +204,11 @@
       "url": "https://nih.gov/",
       "target": "#block-herohomepage > .grid-container",
       "html": "<div class=\"grid-container\">"
+     },
+     {
+      "url": "https://nih.gov/about-nih/nih-almanac/leadership/nih-directors",
+      "target": "#system-breadcrumb",
+      "html": "<h2 id=\"system-breadcrumb\" class=\"visually-hidden\">Breadcrumb</h2>"
      }
     ]
    },
@@ -554,11 +578,11 @@
   }
  },
  "consensus": {
-  "uniqueIssues": 26,
+  "uniqueIssues": 29,
   "consensus": 1,
-  "axeOnly": 10,
+  "axeOnly": 13,
   "alfaOnly": 15,
-  "rawAxe": 11,
+  "rawAxe": 14,
   "rawAlfa": 16,
   "byKey": {
    "axe-core:link-in-text-block": {
@@ -567,7 +591,7 @@
      "link-in-text-block"
     ],
     "alfaRules": [],
-    "pages": 4,
+    "pages": 5,
     "engines": "axe"
    },
    "axe-core:page-has-heading-one": {
@@ -585,7 +609,7 @@
      "heading-order"
     ],
     "alfaRules": [],
-    "pages": 1,
+    "pages": 2,
     "engines": "axe"
    },
    "axe-core:region": {
@@ -594,7 +618,7 @@
      "region"
     ],
     "alfaRules": [],
-    "pages": 3,
+    "pages": 4,
     "engines": "axe"
    },
    "act:ffd0e9": {
@@ -683,101 +707,154 @@
   }
  },
  "sustainability": {
-  "pages": 14,
+  "pages": 16,
   "medianBytes": 66247,
-  "meanBytes": 270433,
+  "meanBytes": 244910,
   "medianRequests": 7,
-  "totalCo2g": 0.56,
-  "meanCo2g": 0.0401,
-  "totalEnergyWh": 1.14,
-  "meanEnergyWh": 0.0812
+  "totalCo2g": 0.58,
+  "meanCo2g": 0.0363,
+  "totalEnergyWh": 1.18,
+  "meanEnergyWh": 0.0735
  },
  "deprecatedHtml": null,
  "resources": null,
  "standards": {
-  "pagesChecked": 3,
+  "pagesChecked": 4,
   "checks": [
    {
     "id": "schema-gov",
     "label": "schema.org GovernmentOrganization markup",
     "pass": 0,
-    "total": 3,
+    "total": 4,
     "rate": 0
    },
    {
     "id": "hreflang",
     "label": "hreflang alternates declared",
     "pass": 0,
-    "total": 3,
+    "total": 4,
     "rate": 0
    },
    {
     "id": "open-social",
     "label": "Open social presence (Mastodon/Bluesky) linked",
     "pass": 0,
-    "total": 3,
+    "total": 4,
     "rate": 0
    },
    {
     "id": "canonical",
     "label": "Canonical URL declared",
-    "pass": 3,
-    "total": 3,
+    "pass": 4,
+    "total": 4,
     "rate": 100
    },
    {
     "id": "title",
     "label": "Page has a <title>",
-    "pass": 3,
-    "total": 3,
+    "pass": 4,
+    "total": 4,
     "rate": 100
    },
    {
     "id": "description",
     "label": "Meta description present",
-    "pass": 3,
-    "total": 3,
+    "pass": 4,
+    "total": 4,
     "rate": 100
    },
    {
     "id": "charset",
     "label": "Character encoding declared",
-    "pass": 3,
-    "total": 3,
+    "pass": 4,
+    "total": 4,
     "rate": 100
    },
    {
     "id": "lang",
     "label": "Document language (lang) set",
-    "pass": 3,
-    "total": 3,
+    "pass": 4,
+    "total": 4,
     "rate": 100
    },
    {
     "id": "viewport",
     "label": "Responsive viewport (zoom not disabled)",
-    "pass": 3,
-    "total": 3,
+    "pass": 4,
+    "total": 4,
     "rate": 100
    },
    {
     "id": "open-graph",
     "label": "Open Graph tags (5/6)",
-    "pass": 3,
-    "total": 3,
+    "pass": 4,
+    "total": 4,
     "rate": 100
    },
    {
     "id": "twitter-card",
     "label": "Twitter card metadata",
-    "pass": 3,
-    "total": 3,
+    "pass": 4,
+    "total": 4,
     "rate": 100
    }
   ],
   "social": []
  },
- "security": null,
+ "security": {
+  "checks": [
+   {
+    "id": "https",
+    "label": "Served over HTTPS",
+    "pass": true,
+    "detail": "https:"
+   },
+   {
+    "id": "hsts",
+    "label": "HTTP Strict Transport Security (HSTS)",
+    "pass": true,
+    "detail": ""
+   },
+   {
+    "id": "csp",
+    "label": "Content Security Policy (CSP)",
+    "pass": false,
+    "detail": ""
+   },
+   {
+    "id": "x-content-type-options",
+    "label": "X-Content-Type-Options: nosniff",
+    "pass": true,
+    "detail": ""
+   },
+   {
+    "id": "clickjacking",
+    "label": "Clickjacking protection (X-Frame-Options or CSP frame-ancestors)",
+    "pass": true,
+    "detail": ""
+   },
+   {
+    "id": "gov-tld",
+    "label": "Sponsored government TLD (.gov/.mil/.edu)",
+    "pass": true,
+    "detail": "gov"
+   },
+   {
+    "id": "security-txt",
+    "label": "Published security.txt",
+    "pass": false,
+    "detail": ""
+   },
+   {
+    "id": "www-resolution",
+    "label": "Resolves with and without www",
+    "pass": true,
+    "detail": "www.nih.gov"
+   }
+  ],
+  "passed": 6,
+  "total": 8
+ },
  "plainLanguage": {
   "pagesChecked": 4,
   "pagesScored": 3,

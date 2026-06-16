@@ -1,6 +1,6 @@
 {
  "domain": "nih.gov",
- "updatedAt": "2026-06-16T14:18:54.508Z",
+ "updatedAt": "2026-06-16T14:26:06.095Z",
  "pages": {
   "https://nih.gov/": {
    "pageId": "f3f81f6a519fc5d5",
@@ -568,6 +568,51 @@
    "axeViolations": null,
    "alfaFailures": null,
    "hasIssues": false
+  },
+  "https://nih.gov/about-nih/nih-almanac/leadership/nih-directors/matthew-j-memoli-md-ms": {
+   "pageId": "6ad7cb93d3d57847",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:23:08.439Z",
+   "status": 403,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://nih.gov/about-nih/nih-almanac/jon-r-lorsch-phd": {
+   "pageId": "88c1a8d076e5e4da",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:23:05.142Z",
+   "status": 403,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://nih.gov/about-nih/what-we-do/nih-almanac/deputy-directors": {
+   "pageId": "a105a9e698a6e1f9",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:22:58.440Z",
+   "status": 403,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://nih.gov/about-nih/nih-almanac/alfred-c-johnson": {
+   "pageId": "e6729d7a48a345d2",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:23:01.840Z",
+   "status": 403,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://nih.gov/about-nih/nih-almanac/leadership/nih-directors": {
+   "pageId": "f4c1b063c4a5c7d4",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-16T14:22:54.338Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
   }
  }
 }

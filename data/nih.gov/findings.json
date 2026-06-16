@@ -1,6 +1,6 @@
 {
  "domain": "nih.gov",
- "updatedAt": "2026-06-16T14:18:54.511Z",
+ "updatedAt": "2026-06-16T14:26:06.099Z",
  "findings": {
   "VS-8ade3360": {
    "engine": "axe-core",
@@ -14,7 +14,7 @@
     "2026-W25"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 4
+   "lastPagesAffected": 5
   },
   "VS-f18df681": {
    "engine": "axe-core",
@@ -28,12 +28,26 @@
     "2026-W25"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 3
+   "lastPagesAffected": 4
   },
   "VS-fa44f293": {
    "engine": "axe-core",
    "ruleId": "page-has-heading-one",
    "summary": "Page should contain a level-one heading (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Medium",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 2
+  },
+  "VS-d25f622d": {
+   "engine": "axe-core",
+   "ruleId": "heading-order",
+   "summary": "Heading levels should only increase by one (WCAG criterion undetermined)",
    "wcag": null,
    "severity": "Medium",
    "firstSeen": "2026-W25",
@@ -141,20 +155,6 @@
    ],
    "weeksSeen": 1,
    "lastPagesAffected": 2
-  },
-  "VS-d25f622d": {
-   "engine": "axe-core",
-   "ruleId": "heading-order",
-   "summary": "Heading levels should only increase by one (WCAG criterion undetermined)",
-   "wcag": null,
-   "severity": "Medium",
-   "firstSeen": "2026-W25",
-   "lastSeen": "2026-W25",
-   "_weeks": [
-    "2026-W25"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 1
   },
   "VS-f054f4a4": {
    "engine": "Siteimprove Alfa",
