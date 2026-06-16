@@ -1,30 +1,30 @@
 {
  "domain": "www.medicaid.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-16T11:18:42.736Z",
- "pagesScanned": 1991,
- "pagesAudited": 1940,
+ "generatedAt": "2026-06-16T12:24:41.383Z",
+ "pagesScanned": 2091,
+ "pagesAudited": 2035,
  "coverage": {
-  "axe": 1940,
-  "plain-language": 971,
-  "deprecated-html": 1140,
-  "resources": 1940,
-  "standards": 508,
-  "lighthouse": 347,
-  "sustainability": 1153,
-  "alfa": 572,
-  "security": 109
+  "axe": 2035,
+  "plain-language": 1015,
+  "deprecated-html": 1163,
+  "resources": 2035,
+  "standards": 552,
+  "lighthouse": 366,
+  "sustainability": 1176,
+  "alfa": 596,
+  "security": 114
  },
  "blocked": null,
  "axe": {
-  "violationTotal": 13733,
-  "pagesWithViolations": 1769,
-  "pagesScanned": 1940,
+  "violationTotal": 14358,
+  "pagesWithViolations": 1851,
+  "pagesScanned": 2035,
   "medianViolations": 6,
   "rules": {
    "aria-allowed-role": {
-    "count": 226,
-    "pages": 104,
+    "count": 243,
+    "pages": 111,
     "impact": "minor",
     "help": "ARIA role should be appropriate for the element",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/aria-allowed-role?application=axeAPI",
@@ -62,6 +62,10 @@
       "instances": 2
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list?filter%5Bfield_state%5D%5Bin%5D%5B%5D=756&q=",
+      "instances": 3
+     },
+     {
       "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=826&page=0&q=",
       "instances": 3
      },
@@ -86,6 +90,10 @@
       "instances": 2
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=826&page=2&q=",
+      "instances": 2
+     },
+     {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=996&page=28&q=",
       "instances": 2
      },
@@ -95,6 +103,10 @@
      },
      {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=871&page=3&q=",
+      "instances": 2
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=981&page=3&q=",
       "instances": 2
      },
      {
@@ -126,6 +138,10 @@
       "instances": 2
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list?filter%5Bfield_state%5D%5Bin%5D%5B%5D=731&q=",
+      "instances": 3
+     },
+     {
       "url": "https://www.medicaid.gov/style-guide",
       "instances": 2
      },
@@ -147,6 +163,10 @@
      },
      {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B%5D=901&q=",
+      "instances": 2
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=846&page=17&q=",
       "instances": 2
      },
      {
@@ -314,6 +334,10 @@
       "instances": 2
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list?filter%5Bfield_state%5D%5Bin%5D%5B%5D=916&q=",
+      "instances": 3
+     },
+     {
       "url": "https://www.medicaid.gov/chip/state-program-information/chip-spa?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=991&page=0&q=",
       "instances": 2
      },
@@ -343,6 +367,10 @@
      },
      {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B%5D=816&q=",
+      "instances": 2
+     },
+     {
+      "url": "https://www.medicaid.gov/faq?filter%5Bfield_faq_date%5D%5Bgte%5D=&filter%5Bfield_faq_date%5D%5Blte%5D=&filter%5Bfield_faq_sub_topic%5D%5Bin%5D%5B%5D=8836&filter%5Bfield_faq_topic%5D%5Bin%5D%5B%5D=8696&limit=10&q=&sort=field_faq_date%3Adesc",
       "instances": 2
      },
      {
@@ -483,8 +511,8 @@
     ]
    },
    "aria-input-field-name": {
-    "count": 222,
-    "pages": 102,
+    "count": 239,
+    "pages": 109,
     "impact": "serious",
     "help": "ARIA input fields must have an accessible name",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/aria-input-field-name?application=axeAPI",
@@ -523,6 +551,10 @@
       "instances": 2
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list?filter%5Bfield_state%5D%5Bin%5D%5B%5D=756&q=",
+      "instances": 3
+     },
+     {
       "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=826&page=0&q=",
       "instances": 3
      },
@@ -547,6 +579,10 @@
       "instances": 2
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=826&page=2&q=",
+      "instances": 2
+     },
+     {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=996&page=28&q=",
       "instances": 2
      },
@@ -556,6 +592,10 @@
      },
      {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=871&page=3&q=",
+      "instances": 2
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=981&page=3&q=",
       "instances": 2
      },
      {
@@ -587,6 +627,10 @@
       "instances": 2
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list?filter%5Bfield_state%5D%5Bin%5D%5B%5D=731&q=",
+      "instances": 3
+     },
+     {
       "url": "https://www.medicaid.gov/chip/state-program-information/chip-spa?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=996&page=0&q=",
       "instances": 2
      },
@@ -604,6 +648,10 @@
      },
      {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B%5D=901&q=",
+      "instances": 2
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=846&page=17&q=",
       "instances": 2
      },
      {
@@ -771,6 +819,10 @@
       "instances": 2
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list?filter%5Bfield_state%5D%5Bin%5D%5B%5D=916&q=",
+      "instances": 3
+     },
+     {
       "url": "https://www.medicaid.gov/chip/state-program-information/chip-spa?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=991&page=0&q=",
       "instances": 2
      },
@@ -800,6 +852,10 @@
      },
      {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B%5D=816&q=",
+      "instances": 2
+     },
+     {
+      "url": "https://www.medicaid.gov/faq?filter%5Bfield_faq_date%5D%5Bgte%5D=&filter%5Bfield_faq_date%5D%5Blte%5D=&filter%5Bfield_faq_sub_topic%5D%5Bin%5D%5B%5D=8836&filter%5Bfield_faq_topic%5D%5Bin%5D%5B%5D=8696&limit=10&q=&sort=field_faq_date%3Adesc",
       "instances": 2
      },
      {
@@ -936,8 +992,8 @@
     ]
    },
    "landmark-one-main": {
-    "count": 1596,
-    "pages": 1596,
+    "count": 1666,
+    "pages": 1666,
     "impact": "moderate",
     "help": "Document should have one main landmark",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
@@ -1231,6 +1287,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8456",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9225",
       "instances": 1
      },
@@ -1292,6 +1352,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1781",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/prv-3-002-4",
       "instances": 1
      },
      {
@@ -1380,6 +1444,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl003049",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-1-002-3",
       "instances": 1
      },
      {
@@ -1539,6 +1607,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7295",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002167",
       "instances": 1
      },
@@ -1584,6 +1656,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-520",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6312",
       "instances": 1
      },
      {
@@ -1655,6 +1731,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004131",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6587",
       "instances": 1
      },
@@ -1672,6 +1752,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2659",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1535",
       "instances": 1
      },
      {
@@ -1931,6 +2015,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-16-012-5",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6903",
       "instances": 1
      },
@@ -2067,6 +2155,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9036",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7414",
       "instances": 1
      },
@@ -2175,6 +2267,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt003187",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3182",
       "instances": 1
      },
@@ -2280,6 +2376,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-58-001-1",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001275",
       "instances": 1
      },
      {
@@ -2403,7 +2503,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002125",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2515",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6279",
       "instances": 1
      },
      {
@@ -2476,6 +2584,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl006072",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2922",
       "instances": 1
      },
      {
@@ -2651,6 +2763,14 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095370",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7095",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002173",
       "instances": 1
      },
@@ -2787,6 +2907,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-1-012-18",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2358",
       "instances": 1
      },
@@ -2896,6 +3020,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-22p-009-9",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-662",
       "instances": 1
      },
      {
@@ -3071,6 +3199,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8658",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8333",
       "instances": 1
      },
@@ -3192,6 +3324,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-824",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-10-004-4",
       "instances": 1
      },
      {
@@ -3332,6 +3468,14 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7070",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005181",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2202",
       "instances": 1
      },
      {
@@ -3507,11 +3651,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-27-009-9",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-820",
       "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6148",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1577",
       "instances": 1
      },
      {
@@ -3643,6 +3795,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8295",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx009338",
       "instances": 1
      },
@@ -3679,6 +3835,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002094",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg001013",
       "instances": 1
      },
@@ -3692,6 +3852,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003205",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6672",
       "instances": 1
      },
      {
@@ -3747,6 +3911,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7709",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8507",
       "instances": 1
      },
@@ -3772,6 +3940,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002297",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-2-033-33",
       "instances": 1
      },
      {
@@ -3855,6 +4027,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/cip-claim-inpatient",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002221",
       "instances": 1
      },
@@ -3903,11 +4079,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/mcr-managed-care-plan-information/file-header-record-managed-care",
       "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2570",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002064",
       "instances": 1
      },
      {
@@ -4015,6 +4199,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1438",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7717",
       "instances": 1
      },
@@ -4071,6 +4259,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7408",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6243",
       "instances": 1
      },
@@ -4119,6 +4311,14 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-714",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv008110",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3018",
       "instances": 1
      },
@@ -4164,6 +4364,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002304",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7409",
       "instances": 1
      },
      {
@@ -4227,6 +4431,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7144",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3060",
       "instances": 1
      },
@@ -4260,6 +4468,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8782",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9033",
       "instances": 1
      },
      {
@@ -4439,6 +4651,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3092",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-16-021-21",
       "instances": 1
      },
@@ -4532,6 +4748,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7731",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008288",
       "instances": 1
      },
      {
@@ -4659,6 +4879,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6374",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8571",
       "instances": 1
      },
@@ -4768,6 +4992,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv003039",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1515",
       "instances": 1
      },
      {
@@ -4975,6 +5203,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr001113",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002022",
       "instances": 1
      },
@@ -5028,6 +5260,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003258",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004140",
       "instances": 1
      },
      {
@@ -5303,6 +5539,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002097",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3070",
       "instances": 1
      },
@@ -5319,6 +5559,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003254",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-10-023-7",
       "instances": 1
      },
@@ -5328,6 +5572,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2597",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-16-006-19",
       "instances": 1
      },
      {
@@ -5360,6 +5608,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/elg-eligible/mfp-information",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-3-004-1",
       "instances": 1
      },
      {
@@ -5435,6 +5687,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6498",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003085",
       "instances": 1
      },
@@ -5444,6 +5700,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6267",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003288",
       "instances": 1
      },
      {
@@ -5460,6 +5720,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx003119",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/prv-2-010-10",
       "instances": 1
      },
      {
@@ -5500,6 +5764,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8278",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1685",
       "instances": 1
      },
      {
@@ -5624,6 +5892,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx009342",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr003035",
       "instances": 1
      },
      {
@@ -6191,11 +6463,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-79-039-39",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx006230",
       "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8359",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6268",
       "instances": 1
      },
      {
@@ -6316,6 +6596,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3116",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9200",
       "instances": 1
      },
      {
@@ -6483,11 +6767,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-21-039-39",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9186",
       "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6833",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9074",
       "instances": 1
      },
      {
@@ -6532,6 +6824,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7126",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8257",
       "instances": 1
      },
      {
@@ -6727,6 +7023,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8498",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8561",
       "instances": 1
      },
@@ -6851,6 +7151,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005164",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8241",
       "instances": 1
      },
@@ -6860,6 +7164,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2017",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002177",
       "instances": 1
      },
      {
@@ -6896,6 +7204,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-541",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-7-011-19",
       "instances": 1
      },
      {
@@ -6959,6 +7271,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1547",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1451",
       "instances": 1
      },
@@ -7000,6 +7316,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-8746",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1570",
       "instances": 1
      },
      {
@@ -7079,11 +7399,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2973",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2885",
       "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002110",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002025",
       "instances": 1
      },
      {
@@ -7144,6 +7472,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-2217",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8514",
       "instances": 1
      },
      {
@@ -7333,6 +7665,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg010148",
       "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-86-005-5",
+      "instances": 1
      }
     ],
     "instances": [
@@ -7364,8 +7700,8 @@
     ]
    },
    "page-has-heading-one": {
-    "count": 1601,
-    "pages": 1601,
+    "count": 1670,
+    "pages": 1670,
     "impact": "moderate",
     "help": "Page should contain a level-one heading",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/page-has-heading-one?application=axeAPI",
@@ -7659,6 +7995,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8456",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9225",
       "instances": 1
      },
@@ -7720,6 +8060,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1781",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/prv-3-002-4",
       "instances": 1
      },
      {
@@ -7808,6 +8152,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl003049",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-1-002-3",
       "instances": 1
      },
      {
@@ -7967,6 +8315,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7295",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002167",
       "instances": 1
      },
@@ -8012,6 +8364,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-520",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6312",
       "instances": 1
      },
      {
@@ -8083,6 +8439,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004131",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6587",
       "instances": 1
      },
@@ -8100,6 +8460,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2659",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1535",
       "instances": 1
      },
      {
@@ -8355,6 +8719,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-16-012-5",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6903",
       "instances": 1
      },
@@ -8491,6 +8859,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9036",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7414",
       "instances": 1
      },
@@ -8599,6 +8971,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt003187",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3182",
       "instances": 1
      },
@@ -8704,6 +9080,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-58-001-1",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001275",
       "instances": 1
      },
      {
@@ -8827,7 +9207,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002125",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2515",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6279",
       "instances": 1
      },
      {
@@ -8900,6 +9288,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl006072",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2922",
       "instances": 1
      },
      {
@@ -9075,6 +9467,14 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095370",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7095",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002173",
       "instances": 1
      },
@@ -9215,6 +9615,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-1-012-18",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2358",
       "instances": 1
      },
@@ -9324,6 +9728,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-22p-009-9",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-662",
       "instances": 1
      },
      {
@@ -9499,6 +9907,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8658",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8333",
       "instances": 1
      },
@@ -9620,6 +10032,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-824",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-10-004-4",
       "instances": 1
      },
      {
@@ -9760,6 +10176,14 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7070",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005181",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2202",
       "instances": 1
      },
      {
@@ -9935,11 +10359,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-27-009-9",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-820",
       "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6148",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1577",
       "instances": 1
      },
      {
@@ -10071,6 +10503,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8295",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx009338",
       "instances": 1
      },
@@ -10107,6 +10543,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002094",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg001013",
       "instances": 1
      },
@@ -10120,6 +10560,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003205",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6672",
       "instances": 1
      },
      {
@@ -10175,6 +10619,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7709",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8507",
       "instances": 1
      },
@@ -10200,6 +10648,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002297",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-2-033-33",
       "instances": 1
      },
      {
@@ -10331,11 +10783,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/mcr-managed-care-plan-information/file-header-record-managed-care",
       "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2570",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002064",
       "instances": 1
      },
      {
@@ -10443,6 +10903,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1438",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7717",
       "instances": 1
      },
@@ -10499,6 +10963,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7408",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6243",
       "instances": 1
      },
@@ -10547,6 +11015,14 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-714",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv008110",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3018",
       "instances": 1
      },
@@ -10592,6 +11068,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002304",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7409",
       "instances": 1
      },
      {
@@ -10655,6 +11135,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7144",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3060",
       "instances": 1
      },
@@ -10688,6 +11172,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8782",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9033",
       "instances": 1
      },
      {
@@ -10867,6 +11355,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3092",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-16-021-21",
       "instances": 1
      },
@@ -10960,6 +11452,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7731",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008288",
       "instances": 1
      },
      {
@@ -11087,6 +11583,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6374",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8571",
       "instances": 1
      },
@@ -11196,6 +11696,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv003039",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1515",
       "instances": 1
      },
      {
@@ -11403,6 +11907,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr001113",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002022",
       "instances": 1
      },
@@ -11456,6 +11964,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003258",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004140",
       "instances": 1
      },
      {
@@ -11731,6 +12243,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002097",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3070",
       "instances": 1
      },
@@ -11747,6 +12263,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003254",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-10-023-7",
       "instances": 1
      },
@@ -11756,6 +12276,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2597",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-16-006-19",
       "instances": 1
      },
      {
@@ -11788,6 +12312,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/elg-eligible/mfp-information",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-3-004-1",
       "instances": 1
      },
      {
@@ -11863,6 +12391,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6498",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003085",
       "instances": 1
      },
@@ -11872,6 +12404,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6267",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003288",
       "instances": 1
      },
      {
@@ -11888,6 +12424,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx003119",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/prv-2-010-10",
       "instances": 1
      },
      {
@@ -11928,6 +12468,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8278",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1685",
       "instances": 1
      },
      {
@@ -12052,6 +12596,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx009342",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr003035",
       "instances": 1
      },
      {
@@ -12627,11 +13175,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-79-039-39",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx006230",
       "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8359",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6268",
       "instances": 1
      },
      {
@@ -12752,6 +13308,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3116",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9200",
       "instances": 1
      },
      {
@@ -12919,11 +13479,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-21-039-39",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9186",
       "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6833",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9074",
       "instances": 1
      },
      {
@@ -12972,6 +13540,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7126",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8257",
       "instances": 1
      },
      {
@@ -13167,6 +13739,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8498",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8561",
       "instances": 1
      },
@@ -13295,6 +13871,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005164",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8241",
       "instances": 1
      },
@@ -13304,6 +13884,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2017",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002177",
       "instances": 1
      },
      {
@@ -13340,6 +13924,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-541",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-7-011-19",
       "instances": 1
      },
      {
@@ -13403,6 +13991,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1547",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1451",
       "instances": 1
      },
@@ -13444,6 +14036,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-8746",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1570",
       "instances": 1
      },
      {
@@ -13523,11 +14119,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2973",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2885",
       "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002110",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002025",
       "instances": 1
      },
      {
@@ -13592,6 +14196,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-2217",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8514",
       "instances": 1
      },
      {
@@ -13781,6 +14389,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg010148",
       "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-86-005-5",
+      "instances": 1
      }
     ],
     "instances": [
@@ -13812,8 +14424,8 @@
     ]
    },
    "region": {
-    "count": 7352,
-    "pages": 1599,
+    "count": 7674,
+    "pages": 1669,
     "impact": "moderate",
     "help": "All page content should be contained by landmarks",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
@@ -14107,6 +14719,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8456",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9225",
       "instances": 4
      },
@@ -14168,6 +14784,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1781",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/prv-3-002-4",
       "instances": 4
      },
      {
@@ -14261,6 +14881,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl003049",
       "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-1-002-3",
+      "instances": 4
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2433",
@@ -14419,6 +15043,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7295",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002167",
       "instances": 6
      },
@@ -14464,6 +15092,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-520",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6312",
       "instances": 4
      },
      {
@@ -14535,6 +15167,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004131",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6587",
       "instances": 4
      },
@@ -14552,6 +15188,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2659",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1535",
       "instances": 4
      },
      {
@@ -14811,6 +15451,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-16-012-5",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6903",
       "instances": 4
      },
@@ -14947,6 +15591,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9036",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7414",
       "instances": 4
      },
@@ -15052,6 +15700,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002151",
+      "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt003187",
       "instances": 6
      },
      {
@@ -15161,6 +15813,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-58-001-1",
       "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001275",
+      "instances": 6
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8072",
@@ -15283,7 +15939,15 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002125",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2515",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6279",
       "instances": 4
      },
      {
@@ -15357,6 +16021,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl006072",
       "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2922",
+      "instances": 4
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002102",
@@ -15531,6 +16199,14 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095370",
+      "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7095",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002173",
       "instances": 6
      },
@@ -15667,6 +16343,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-1-012-18",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2358",
       "instances": 4
      },
@@ -15776,6 +16456,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-22p-009-9",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-662",
       "instances": 4
      },
      {
@@ -15951,6 +16635,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8658",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8333",
       "instances": 4
      },
@@ -16072,6 +16760,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-824",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-10-004-4",
       "instances": 4
      },
      {
@@ -16212,6 +16904,14 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7070",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005181",
+      "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2202",
       "instances": 4
      },
      {
@@ -16387,11 +17087,19 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-27-009-9",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-820",
       "instances": 4
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6148",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1577",
       "instances": 4
      },
      {
@@ -16523,6 +17231,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8295",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx009338",
       "instances": 6
      },
@@ -16559,6 +17271,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002094",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg001013",
       "instances": 6
      },
@@ -16573,6 +17289,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003205",
       "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6672",
+      "instances": 4
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2607",
@@ -16627,6 +17347,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7709",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8507",
       "instances": 4
      },
@@ -16653,6 +17377,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002297",
       "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-2-033-33",
+      "instances": 4
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7654",
@@ -16735,6 +17463,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/cip-claim-inpatient",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002221",
       "instances": 6
      },
@@ -16783,12 +17515,20 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/mcr-managed-care-plan-information/file-header-record-managed-care",
       "instances": 9
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2570",
       "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002064",
+      "instances": 6
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv002018",
@@ -16895,6 +17635,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1438",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7717",
       "instances": 4
      },
@@ -16951,6 +17695,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7408",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6243",
       "instances": 4
      },
@@ -16999,6 +17747,14 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-714",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv008110",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3018",
       "instances": 4
      },
@@ -17045,6 +17801,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002304",
       "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7409",
+      "instances": 4
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1065",
@@ -17107,6 +17867,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7144",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3060",
       "instances": 4
      },
@@ -17140,6 +17904,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8782",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9033",
       "instances": 4
      },
      {
@@ -17319,6 +18087,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3092",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-16-021-21",
       "instances": 4
      },
@@ -17417,6 +18189,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7731",
       "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008288",
+      "instances": 6
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-977",
@@ -17543,6 +18319,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6374",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8571",
       "instances": 4
      },
@@ -17653,6 +18433,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv003039",
       "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1515",
+      "instances": 4
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7349",
@@ -17859,6 +18643,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr001113",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002022",
       "instances": 6
      },
@@ -17912,6 +18700,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003258",
+      "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004140",
       "instances": 6
      },
      {
@@ -18187,6 +18979,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002097",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3070",
       "instances": 4
      },
@@ -18203,6 +18999,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003254",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-10-023-7",
       "instances": 4
      },
@@ -18212,6 +19012,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2597",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-16-006-19",
       "instances": 4
      },
      {
@@ -18245,6 +19049,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/elg-eligible/mfp-information",
       "instances": 9
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/exp-3-004-1",
+      "instances": 4
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001009",
@@ -18319,6 +19127,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6498",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003085",
       "instances": 6
      },
@@ -18329,6 +19141,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6267",
       "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003288",
+      "instances": 6
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003260",
@@ -18345,6 +19161,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx003119",
       "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/prv-2-010-10",
+      "instances": 4
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/el-18-001-1",
@@ -18384,6 +19204,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8278",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1685",
       "instances": 4
      },
      {
@@ -18508,6 +19332,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx009342",
+      "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr003035",
       "instances": 6
      },
      {
@@ -19075,11 +19903,19 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-79-039-39",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx006230",
       "instances": 6
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8359",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6268",
       "instances": 4
      },
      {
@@ -19200,6 +20036,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3116",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9200",
       "instances": 4
      },
      {
@@ -19367,11 +20207,19 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-21-039-39",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9186",
       "instances": 4
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6833",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9074",
       "instances": 4
      },
      {
@@ -19416,6 +20264,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7126",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8257",
       "instances": 4
      },
      {
@@ -19611,6 +20463,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8498",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8561",
       "instances": 4
      },
@@ -19735,6 +20591,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005164",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8241",
       "instances": 4
      },
@@ -19745,6 +20605,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2017",
       "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002177",
+      "instances": 6
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2473",
@@ -19780,6 +20644,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-541",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-7-011-19",
       "instances": 4
      },
      {
@@ -19843,6 +20711,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1547",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1451",
       "instances": 4
      },
@@ -19884,6 +20756,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-8746",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1570",
       "instances": 4
      },
      {
@@ -19967,11 +20843,19 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2973",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2885",
       "instances": 4
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002110",
+      "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002025",
       "instances": 6
      },
      {
@@ -20032,6 +20916,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-2217",
+      "instances": 4
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8514",
       "instances": 4
      },
      {
@@ -20221,6 +21109,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg010148",
       "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-86-005-5",
+      "instances": 4
      }
     ],
     "instances": [
@@ -20252,8 +21144,8 @@
     ]
    },
    "heading-order": {
-    "count": 67,
-    "pages": 60,
+    "count": 72,
+    "pages": 65,
     "impact": "moderate",
     "help": "Heading levels should only increase by one",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
@@ -20339,6 +21231,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/about-us/organization/courtney-miller",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/resources-for-states/disaster-response-toolkit/federal-disaster-resources?page=1",
       "instances": 1
      },
@@ -20379,6 +21275,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/resources-for-states/coronavirus-disease-2019-covid-19/tools-and-checklists-for-states",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/medicaid/data-systems",
       "instances": 1
      },
@@ -20387,11 +21287,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/resources-for-states/disaster-response-toolkit/federal-disaster-resources?page=24",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/t-msis-coding-blog-left-sidebar",
       "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data/medicaid-and-chip-enrollment-trend-snapshot",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/quality-of-care/core-set-data-dashboard/main?focusStates=%5B%22IN%22%5D",
       "instances": 1
      },
      {
@@ -20467,6 +21375,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/medicaid/quality-of-care/quality-improvement/maternal-infant-health-care-quality/congenital-syphilis",
       "instances": 2
      },
@@ -20536,8 +21448,8 @@
     ]
    },
    "landmark-unique": {
-    "count": 24,
-    "pages": 24,
+    "count": 26,
+    "pages": 26,
     "impact": "moderate",
     "help": "Landmarks should have a unique role or role/label/title (i.e. accessible name) combination",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-unique?application=axeAPI",
@@ -20607,6 +21519,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/resources-for-states/disaster-response-toolkit/federal-disaster-resources?page=24",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/index.html",
       "instances": 1
      },
@@ -20620,6 +21536,10 @@
      },
      {
       "url": "https://www.medicaid.gov/resources-for-states/innovation-accelerator-program/functional-areas/quality-measurement",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations",
       "instances": 1
      },
      {
@@ -20676,8 +21596,8 @@
     ]
    },
    "aria-allowed-attr": {
-    "count": 2172,
-    "pages": 447,
+    "count": 2274,
+    "pages": 468,
     "impact": "critical",
     "help": "Elements must only use supported ARIA attributes",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/aria-allowed-attr?application=axeAPI",
@@ -20928,6 +21848,10 @@
       "instances": 5
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004131",
+      "instances": 5
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002176",
       "instances": 5
      },
@@ -21072,6 +21996,10 @@
       "instances": 5
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt003187",
+      "instances": 5
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx007265",
       "instances": 5
      },
@@ -21092,6 +22020,10 @@
       "instances": 5
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001275",
+      "instances": 5
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr001014",
       "instances": 5
      },
@@ -21101,6 +22033,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002146",
+      "instances": 5
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002125",
       "instances": 5
      },
      {
@@ -21189,6 +22125,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002037",
+      "instances": 5
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095370",
       "instances": 5
      },
      {
@@ -21384,6 +22324,10 @@
       "instances": 2
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005181",
+      "instances": 5
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003241",
       "instances": 5
      },
@@ -21472,6 +22416,10 @@
       "instances": 5
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002094",
+      "instances": 5
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg001013",
       "instances": 5
      },
@@ -21540,6 +22488,10 @@
       "instances": 5
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/cip-claim-inpatient",
+      "instances": 2
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002221",
       "instances": 5
      },
@@ -21568,8 +22520,16 @@
       "instances": 5
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
+      "instances": 5
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/mcr-managed-care-plan-information/file-header-record-managed-care",
       "instances": 2
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002064",
+      "instances": 5
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv002018",
@@ -21622,6 +22582,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/prv-provider/prov-location-and-contact-info",
       "instances": 2
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv008110",
+      "instances": 5
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx003123",
@@ -21744,6 +22708,10 @@
       "instances": 5
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008288",
+      "instances": 5
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001014",
       "instances": 5
      },
@@ -21856,6 +22824,10 @@
       "instances": 5
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr001113",
+      "instances": 5
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002022",
       "instances": 5
      },
@@ -21881,6 +22853,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003258",
+      "instances": 5
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004140",
       "instances": 5
      },
      {
@@ -21968,7 +22944,15 @@
       "instances": 5
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002097",
+      "instances": 5
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002081",
+      "instances": 5
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003254",
       "instances": 5
      },
      {
@@ -22009,6 +22993,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003085",
+      "instances": 5
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003288",
       "instances": 5
      },
      {
@@ -22065,6 +23053,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx009342",
+      "instances": 5
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr003035",
       "instances": 5
      },
      {
@@ -22360,7 +23352,15 @@
       "instances": 5
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005164",
+      "instances": 5
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003257",
+      "instances": 5
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002177",
       "instances": 5
      },
      {
@@ -22413,6 +23413,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002110",
+      "instances": 5
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002025",
       "instances": 5
      },
      {
@@ -22509,8 +23513,8 @@
     ]
    },
    "aria-required-children": {
-    "count": 447,
-    "pages": 447,
+    "count": 468,
+    "pages": 468,
     "impact": "critical",
     "help": "Certain ARIA roles must contain particular children",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/aria-required-children?application=axeAPI",
@@ -22761,6 +23765,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004131",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002176",
       "instances": 1
      },
@@ -22905,6 +23913,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt003187",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx007265",
       "instances": 1
      },
@@ -22925,6 +23937,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001275",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr001014",
       "instances": 1
      },
@@ -22934,6 +23950,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002146",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002125",
       "instances": 1
      },
      {
@@ -23022,6 +24042,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002037",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095370",
       "instances": 1
      },
      {
@@ -23217,6 +24241,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005181",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003241",
       "instances": 1
      },
@@ -23305,6 +24333,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002094",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg001013",
       "instances": 1
      },
@@ -23373,6 +24405,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/cip-claim-inpatient",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002221",
       "instances": 1
      },
@@ -23401,7 +24437,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/mcr-managed-care-plan-information/file-header-record-managed-care",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002064",
       "instances": 1
      },
      {
@@ -23454,6 +24498,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/prv-provider/prov-location-and-contact-info",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv008110",
       "instances": 1
      },
      {
@@ -23577,6 +24625,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008288",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001014",
       "instances": 1
      },
@@ -23689,6 +24741,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr001113",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002022",
       "instances": 1
      },
@@ -23714,6 +24770,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003258",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004140",
       "instances": 1
      },
      {
@@ -23801,7 +24861,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002097",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002081",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003254",
       "instances": 1
      },
      {
@@ -23842,6 +24910,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003085",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003288",
       "instances": 1
      },
      {
@@ -23898,6 +24970,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx009342",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr003035",
       "instances": 1
      },
      {
@@ -24193,7 +25269,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx005164",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003257",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002177",
       "instances": 1
      },
      {
@@ -24246,6 +25330,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002110",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002025",
       "instances": 1
      },
      {
@@ -24456,14 +25544,14 @@
   }
  },
  "alfa": {
-  "failedTotal": 38557,
-  "pagesWithFailures": 572,
-  "pagesScanned": 572,
+  "failedTotal": 39897,
+  "pagesWithFailures": 596,
+  "pagesScanned": 596,
   "medianFailures": 48,
   "rules": {
    "sia-r66": {
-    "count": 8661,
-    "pages": 572,
+    "count": 9020,
+    "pages": 596,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r66",
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
@@ -24566,6 +25654,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002054",
       "instances": 9
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8456",
+      "instances": 6
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx002024",
@@ -24688,6 +25780,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6312",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001003",
       "instances": 9
      },
@@ -24718,6 +25814,10 @@
      {
       "url": "https://www.medicaid.gov/resources-for-states/innovation-accelerator-program/functional-areas",
       "instances": 30
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1535",
+      "instances": 6
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1487",
@@ -24850,6 +25950,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg001247",
       "instances": 9
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9036",
+      "instances": 6
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004127",
@@ -25040,11 +26144,19 @@
       "instances": 53
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/81856",
+      "instances": 26
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-7906",
       "instances": 7
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002037",
+      "instances": 9
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095370",
       "instances": 9
      },
      {
@@ -25096,6 +26208,10 @@
       "instances": 39
      },
      {
+      "url": "https://www.medicaid.gov/about-us/organization/courtney-miller",
+      "instances": 21
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2358",
       "instances": 6
      },
@@ -25122,6 +26238,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003072",
       "instances": 9
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=846&page=17&q=",
+      "instances": 42
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3023",
@@ -25188,6 +26308,10 @@
       "instances": 7
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/83381",
+      "instances": 29
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2863",
       "instances": 7
      },
@@ -25224,6 +26348,10 @@
       "instances": 28
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8658",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6688",
       "instances": 6
      },
@@ -25250,6 +26378,10 @@
      {
       "url": "https://www.medicaid.gov/medicaid/quality-of-care/quality-improvement-initiatives/behavioral-health-learning-collaborative",
       "instances": 58
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-10-004-4",
+      "instances": 6
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8228",
@@ -25376,6 +26508,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-27-009-9",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-820",
       "instances": 6
      },
@@ -25488,6 +26624,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7709",
+      "instances": 12
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8507",
       "instances": 6
      },
@@ -25552,6 +26692,10 @@
       "instances": 9
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/cip-claim-inpatient",
+      "instances": 14
+     },
+     {
       "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/189506",
       "instances": 26
      },
@@ -25589,6 +26733,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002100",
+      "instances": 9
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
       "instances": 9
      },
      {
@@ -25630,6 +26778,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004144",
       "instances": 9
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1438",
+      "instances": 6
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv003056",
@@ -25744,6 +26896,10 @@
       "instances": 33
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9033",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr003049",
       "instances": 9
      },
@@ -25838,6 +26994,10 @@
      {
       "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/148701",
       "instances": 26
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008288",
+      "instances": 9
      },
      {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=901&page=31&q=",
@@ -26124,6 +27284,10 @@
       "instances": 9
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003254",
+      "instances": 9
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1902",
       "instances": 6
      },
@@ -26198,6 +27362,10 @@
      {
       "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/83361",
       "instances": 26
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1685",
+      "instances": 7
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8381",
@@ -26340,6 +27508,10 @@
       "instances": 68
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations",
+      "instances": 44
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-816",
       "instances": 6
      },
@@ -26429,6 +27601,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1680",
+      "instances": 6
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9200",
       "instances": 6
      },
      {
@@ -26632,6 +27808,10 @@
       "instances": 54
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002177",
+      "instances": 9
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002040",
       "instances": 9
      },
@@ -26748,6 +27928,10 @@
       "instances": 7
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?f%5B0%5D=state%3A911&page=1652",
+      "instances": 59
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/tpl-7-001-1",
       "instances": 7
      },
@@ -26789,8 +27973,8 @@
     ]
    },
    "sia-r14": {
-    "count": 202,
-    "pages": 202,
+    "count": 209,
+    "pages": 209,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r14",
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
@@ -27027,6 +28211,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095370",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl002020",
       "instances": 1
      },
@@ -27075,6 +28263,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-10-004-4",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004278",
       "instances": 1
      },
@@ -27120,6 +28312,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/tpl-7-003-3",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-27-009-9",
       "instances": 1
      },
      {
@@ -27211,6 +28407,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip004327",
       "instances": 1
      },
@@ -27276,6 +28476,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot001006",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008288",
       "instances": 1
      },
      {
@@ -27380,6 +28584,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002081",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003254",
       "instances": 1
      },
      {
@@ -27551,6 +28759,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002177",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002040",
       "instances": 1
      },
@@ -27636,8 +28848,8 @@
     ]
    },
    "sia-r61": {
-    "count": 472,
-    "pages": 472,
+    "count": 489,
+    "pages": 489,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r61",
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
@@ -27723,6 +28935,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002054",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8456",
       "instances": 1
      },
      {
@@ -27830,6 +29046,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6312",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001003",
       "instances": 1
      },
@@ -27843,6 +29063,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1924",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1535",
       "instances": 1
      },
      {
@@ -27955,6 +29179,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg001247",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9036",
       "instances": 1
      },
      {
@@ -28126,6 +29354,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095370",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl002020",
       "instances": 1
      },
@@ -28274,6 +29506,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8658",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6688",
       "instances": 1
      },
@@ -28291,6 +29527,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-824",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-10-004-4",
       "instances": 1
      },
      {
@@ -28410,6 +29650,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-27-009-9",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-820",
       "instances": 1
      },
@@ -28498,6 +29742,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7709",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8507",
       "instances": 1
      },
@@ -28574,6 +29822,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2570",
       "instances": 1
      },
@@ -28603,6 +29855,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004144",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1438",
       "instances": 1
      },
      {
@@ -28682,6 +29938,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9033",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr003049",
       "instances": 1
      },
@@ -28755,6 +30015,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot001006",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008288",
       "instances": 1
      },
      {
@@ -28986,6 +30250,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003254",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1902",
       "instances": 1
      },
@@ -29051,6 +30319,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1247",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1685",
       "instances": 1
      },
      {
@@ -29246,6 +30518,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9200",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1778",
       "instances": 1
      },
@@ -29418,6 +30694,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002177",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002040",
       "instances": 1
      },
@@ -29563,8 +30843,8 @@
     ]
    },
    "sia-r57": {
-    "count": 17727,
-    "pages": 568,
+    "count": 18372,
+    "pages": 592,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r57",
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
@@ -29667,6 +30947,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002054",
       "instances": 37
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8456",
+      "instances": 27
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx002024",
@@ -29789,6 +31073,10 @@
       "instances": 27
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6312",
+      "instances": 27
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001003",
       "instances": 36
      },
@@ -29815,6 +31103,10 @@
      {
       "url": "https://www.medicaid.gov/resources-for-states/innovation-accelerator-program/functional-areas",
       "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1535",
+      "instances": 27
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1487",
@@ -29947,6 +31239,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg001247",
       "instances": 38
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9036",
+      "instances": 27
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004127",
@@ -30133,12 +31429,20 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/81856",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-7906",
       "instances": 61
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002037",
       "instances": 38
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095370",
+      "instances": 36
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl002020",
@@ -30189,6 +31493,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/about-us/organization/courtney-miller",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2358",
       "instances": 27
      },
@@ -30215,6 +31523,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003072",
       "instances": 36
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=846&page=17&q=",
+      "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3023",
@@ -30281,6 +31593,10 @@
       "instances": 29
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/83381",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2863",
       "instances": 29
      },
@@ -30313,6 +31629,10 @@
       "instances": 94
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8658",
+      "instances": 27
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6688",
       "instances": 27
      },
@@ -30339,6 +31659,10 @@
      {
       "url": "https://www.medicaid.gov/medicaid/quality-of-care/quality-improvement-initiatives/behavioral-health-learning-collaborative",
       "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-10-004-4",
+      "instances": 69
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8228",
@@ -30465,6 +31789,10 @@
       "instances": 27
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-27-009-9",
+      "instances": 80
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-820",
       "instances": 27
      },
@@ -30577,6 +31905,10 @@
       "instances": 27
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7709",
+      "instances": 39
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8507",
       "instances": 27
      },
@@ -30641,6 +31973,10 @@
       "instances": 36
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/cip-claim-inpatient",
+      "instances": 24
+     },
+     {
       "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/189506",
       "instances": 1
      },
@@ -30678,6 +32014,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002100",
+      "instances": 36
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
       "instances": 36
      },
      {
@@ -30719,6 +32059,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004144",
       "instances": 37
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1438",
+      "instances": 27
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv003056",
@@ -30833,6 +32177,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9033",
+      "instances": 27
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr003049",
       "instances": 35
      },
@@ -30927,6 +32275,10 @@
      {
       "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/148701",
       "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008288",
+      "instances": 37
      },
      {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=901&page=31&q=",
@@ -31209,6 +32561,10 @@
       "instances": 36
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003254",
+      "instances": 37
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1902",
       "instances": 27
      },
@@ -31283,6 +32639,10 @@
      {
       "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/83361",
       "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1685",
+      "instances": 29
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8381",
@@ -31425,6 +32785,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-816",
       "instances": 27
      },
@@ -31514,6 +32878,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1680",
+      "instances": 27
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9200",
       "instances": 27
      },
      {
@@ -31717,6 +33085,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002177",
+      "instances": 36
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002040",
       "instances": 37
      },
@@ -31833,6 +33205,10 @@
       "instances": 61
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?f%5B0%5D=state%3A911&page=1652",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/tpl-7-001-1",
       "instances": 61
      },
@@ -31874,8 +33250,8 @@
     ]
    },
    "sia-r87": {
-    "count": 473,
-    "pages": 473,
+    "count": 491,
+    "pages": 491,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r87",
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
@@ -31961,6 +33337,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002054",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8456",
       "instances": 1
      },
      {
@@ -32072,6 +33452,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6312",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001003",
       "instances": 1
      },
@@ -32089,6 +33473,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1924",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1535",
       "instances": 1
      },
      {
@@ -32201,6 +33589,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg001247",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9036",
       "instances": 1
      },
      {
@@ -32376,6 +33768,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095370",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl002020",
       "instances": 1
      },
@@ -32528,6 +33924,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8658",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6688",
       "instances": 1
      },
@@ -32545,6 +33945,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-824",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-10-004-4",
       "instances": 1
      },
      {
@@ -32664,6 +34068,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-27-009-9",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-820",
       "instances": 1
      },
@@ -32752,6 +34160,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7709",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8507",
       "instances": 1
      },
@@ -32796,6 +34208,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/cip-claim-inpatient",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002221",
       "instances": 1
      },
@@ -32828,6 +34244,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2570",
       "instances": 1
      },
@@ -32857,6 +34277,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004144",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1438",
       "instances": 1
      },
      {
@@ -32936,6 +34360,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9033",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr003049",
       "instances": 1
      },
@@ -33009,6 +34437,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot001006",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008288",
       "instances": 1
      },
      {
@@ -33244,6 +34676,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003254",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1902",
       "instances": 1
      },
@@ -33309,6 +34745,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1247",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1685",
       "instances": 1
      },
      {
@@ -33496,6 +34936,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9200",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1778",
       "instances": 1
      },
@@ -33660,6 +35104,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002177",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002040",
       "instances": 1
      },
@@ -33805,8 +35253,8 @@
     ]
    },
    "sia-r111": {
-    "count": 5329,
-    "pages": 572,
+    "count": 5577,
+    "pages": 596,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r111",
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
@@ -33909,6 +35357,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot002054",
       "instances": 12
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8456",
+      "instances": 3
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx002024",
@@ -34031,6 +35483,10 @@
       "instances": 3
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6312",
+      "instances": 3
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip001003",
       "instances": 12
      },
@@ -34061,6 +35517,10 @@
      {
       "url": "https://www.medicaid.gov/resources-for-states/innovation-accelerator-program/functional-areas",
       "instances": 22
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1535",
+      "instances": 3
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1487",
@@ -34193,6 +35653,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/elg001247",
       "instances": 11
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9036",
+      "instances": 3
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004127",
@@ -34383,12 +35847,20 @@
       "instances": 35
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/81856",
+      "instances": 17
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/rule-7906",
       "instances": 4
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002037",
       "instances": 12
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095370",
+      "instances": 11
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl002020",
@@ -34439,6 +35911,10 @@
       "instances": 25
      },
      {
+      "url": "https://www.medicaid.gov/about-us/organization/courtney-miller",
+      "instances": 17
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2358",
       "instances": 3
      },
@@ -34465,6 +35941,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003072",
       "instances": 10
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=846&page=17&q=",
+      "instances": 29
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3023",
@@ -34531,6 +36011,10 @@
       "instances": 3
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/83381",
+      "instances": 17
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2863",
       "instances": 3
      },
@@ -34567,6 +36051,10 @@
       "instances": 11
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8658",
+      "instances": 3
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6688",
       "instances": 3
      },
@@ -34593,6 +36081,10 @@
      {
       "url": "https://www.medicaid.gov/medicaid/quality-of-care/quality-improvement-initiatives/behavioral-health-learning-collaborative",
       "instances": 18
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-10-004-4",
+      "instances": 4
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8228",
@@ -34719,6 +36211,10 @@
       "instances": 3
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-27-009-9",
+      "instances": 4
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-820",
       "instances": 3
      },
@@ -34831,6 +36327,10 @@
       "instances": 3
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7709",
+      "instances": 3
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8507",
       "instances": 3
      },
@@ -34895,6 +36395,10 @@
       "instances": 11
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/cip-claim-inpatient",
+      "instances": 6
+     },
+     {
       "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/189506",
       "instances": 17
      },
@@ -34935,6 +36439,10 @@
       "instances": 11
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
+      "instances": 10
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2570",
       "instances": 3
      },
@@ -34973,6 +36481,10 @@
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004144",
       "instances": 10
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1438",
+      "instances": 3
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/prv003056",
@@ -35087,6 +36599,10 @@
       "instances": 17
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9033",
+      "instances": 3
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr003049",
       "instances": 10
      },
@@ -35181,6 +36697,10 @@
      {
       "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/148701",
       "instances": 17
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008288",
+      "instances": 10
      },
      {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=901&page=31&q=",
@@ -35467,6 +36987,10 @@
       "instances": 12
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003254",
+      "instances": 12
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1902",
       "instances": 3
      },
@@ -35541,6 +37065,10 @@
      {
       "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/83361",
       "instances": 17
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1685",
+      "instances": 3
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8381",
@@ -35683,6 +37211,10 @@
       "instances": 49
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations",
+      "instances": 31
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-816",
       "instances": 3
      },
@@ -35772,6 +37304,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1680",
+      "instances": 3
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9200",
       "instances": 3
      },
      {
@@ -35975,6 +37511,10 @@
       "instances": 31
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002177",
+      "instances": 11
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002040",
       "instances": 12
      },
@@ -36091,6 +37631,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?f%5B0%5D=state%3A911&page=1652",
+      "instances": 39
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/tpl-7-001-1",
       "instances": 4
      },
@@ -36132,8 +37676,8 @@
     ]
    },
    "sia-r53": {
-    "count": 15,
-    "pages": 15,
+    "count": 17,
+    "pages": 17,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r53",
     "examplePages": [
      "https://www.medicaid.gov/medicaid/managed-care/guidance/state-directed-payments",
@@ -36163,6 +37707,10 @@
      },
      {
       "url": "https://www.medicaid.gov/medicaid/quality-of-care/core-set-data-dashboard/main?focusStates=%5B%22AL%22%5D",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/about-us/organization/courtney-miller",
       "instances": 1
      },
      {
@@ -36200,6 +37748,10 @@
      {
       "url": "https://www.medicaid.gov/state-overviews/stateprofile.html?state=Kansas",
       "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations",
+      "instances": 1
      }
     ],
     "instances": [
@@ -36231,8 +37783,8 @@
     ]
    },
    "sia-r73": {
-    "count": 3699,
-    "pages": 103,
+    "count": 3705,
+    "pages": 109,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r73",
     "examplePages": [
      "https://www.medicaid.gov/medicaid/managed-care/guidance/state-directed-payments",
@@ -36333,11 +37885,23 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/81856",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/federal-policy-guidance?page=1",
       "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/federal-policy-guidance?f%5B0%5D=fpg_topics_facet%3A771&f%5B1%5D=fpg_topics_facet%3A856&f%5B10%5D=fpg_topics_facet%3A8591&f%5B11%5D=fpg_topics_facet%3A8616&f%5B12%5D=fpg_type_facet%3A1481&f%5B13%5D=fpg_type_facet%3A1486&f%5B2%5D=fpg_topics_facet%3A906&f%5B3%5D=fpg_topics_facet%3A936&f%5B4%5D=fpg_topics_facet%3A1016&f%5B5%5D=fpg_topics_facet%3A1021&f%5B6%5D=fpg_topics_facet%3A1471&f%5B7%5D=fpg_topics_facet%3A1531&f%5B8%5D=fpg_topics_facet%3A3046&f%5B9%5D=fpg_topics_facet%3A8411&page=111",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/about-us/organization/courtney-miller",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=846&page=17&q=",
       "instances": 1
      },
      {
@@ -36350,6 +37914,10 @@
      },
      {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=871&page=4&q=",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/83381",
       "instances": 1
      },
      {
@@ -36589,6 +38157,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/medicaid/prescription-drugs/medicaid-drug-rebate-program/unit-rebate-calculation/unit-rebate-amount-calculation-for-non-innovator-multiple-source-drugs",
       "instances": 1
      },
@@ -36651,6 +38223,10 @@
      {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=816&page=3&q=",
       "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?f%5B0%5D=state%3A911&page=1652",
+      "instances": 1
      }
     ],
     "instances": [
@@ -36682,8 +38258,8 @@
     ]
    },
    "sia-r68": {
-    "count": 179,
-    "pages": 173,
+    "count": 186,
+    "pages": 180,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r68",
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx001001",
@@ -36880,6 +38456,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095370",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl002020",
       "instances": 1
      },
@@ -36893,6 +38473,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003072",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=846&page=17&q=",
       "instances": 1
      },
      {
@@ -37028,6 +38612,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/cip-claim-inpatient",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002221",
       "instances": 1
      },
@@ -37049,6 +38637,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002100",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
       "instances": 1
      },
      {
@@ -37117,6 +38709,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot001006",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008288",
       "instances": 1
      },
      {
@@ -37197,6 +38793,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002081",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003254",
       "instances": 1
      },
      {
@@ -37340,6 +38940,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002177",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002040",
       "instances": 1
      },
@@ -37413,8 +39017,8 @@
     ]
    },
    "sia-r18": {
-    "count": 704,
-    "pages": 147,
+    "count": 731,
+    "pages": 153,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r18",
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx001001",
@@ -37595,6 +39199,10 @@
       "instances": 5
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx095370",
+      "instances": 5
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl002020",
       "instances": 5
      },
@@ -37723,6 +39331,10 @@
       "instances": 5
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/file-segment-layouts/cip-claim-inpatient",
+      "instances": 2
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002221",
       "instances": 5
      },
@@ -37744,6 +39356,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002100",
+      "instances": 5
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
       "instances": 5
      },
      {
@@ -37796,6 +39412,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot001006",
+      "instances": 5
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008288",
       "instances": 5
      },
      {
@@ -37864,6 +39484,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002081",
+      "instances": 5
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip003254",
       "instances": 5
      },
      {
@@ -37971,6 +39595,10 @@
       "instances": 5
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt002177",
+      "instances": 5
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002040",
       "instances": 5
      },
@@ -38040,8 +39668,8 @@
     ]
    },
    "sia-r8": {
-    "count": 68,
-    "pages": 31,
+    "count": 70,
+    "pages": 32,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r8",
     "examplePages": [
      "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=971&page=3&q=",
@@ -38071,6 +39699,10 @@
      },
      {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=731&page=4&q=",
+      "instances": 2
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=846&page=17&q=",
       "instances": 2
      },
      {
@@ -38203,8 +39835,8 @@
     ]
    },
    "sia-r113": {
-    "count": 68,
-    "pages": 31,
+    "count": 70,
+    "pages": 32,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r113",
     "examplePages": [
      "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=971&page=3&q=",
@@ -38234,6 +39866,10 @@
      },
      {
       "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=731&page=4&q=",
+      "instances": 2
+     },
+     {
+      "url": "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=846&page=17&q=",
       "instances": 2
      },
      {
@@ -38578,12 +40214,12 @@
   }
  },
  "consensus": {
-  "uniqueIssues": 9184,
-  "consensus": 174,
-  "axeOnly": 5809,
-  "alfaOnly": 3201,
-  "rawAxe": 5983,
-  "rawAlfa": 3375,
+  "uniqueIssues": 9586,
+  "consensus": 181,
+  "axeOnly": 6074,
+  "alfaOnly": 3331,
+  "rawAxe": 6255,
+  "rawAlfa": 3512,
   "byKey": {
    "axe-core:aria-allowed-role": {
     "actRuleId": null,
@@ -38591,7 +40227,7 @@
      "aria-allowed-role"
     ],
     "alfaRules": [],
-    "pages": 104,
+    "pages": 111,
     "engines": "axe"
    },
    "act:e086e5": {
@@ -38602,7 +40238,7 @@
     "alfaRules": [
      "sia-r8"
     ],
-    "pages": 102,
+    "pages": 109,
     "engines": "both"
    },
    "axe-core:landmark-one-main": {
@@ -38611,7 +40247,7 @@
      "landmark-one-main"
     ],
     "alfaRules": [],
-    "pages": 1596,
+    "pages": 1666,
     "engines": "axe"
    },
    "axe-core:page-has-heading-one": {
@@ -38620,7 +40256,7 @@
      "page-has-heading-one"
     ],
     "alfaRules": [],
-    "pages": 1601,
+    "pages": 1670,
     "engines": "axe"
    },
    "axe-core:region": {
@@ -38629,7 +40265,7 @@
      "region"
     ],
     "alfaRules": [],
-    "pages": 1599,
+    "pages": 1669,
     "engines": "axe"
    },
    "axe-core:heading-order": {
@@ -38638,7 +40274,7 @@
      "heading-order"
     ],
     "alfaRules": [],
-    "pages": 60,
+    "pages": 65,
     "engines": "axe"
    },
    "axe-core:landmark-unique": {
@@ -38647,7 +40283,7 @@
      "landmark-unique"
     ],
     "alfaRules": [],
-    "pages": 24,
+    "pages": 26,
     "engines": "axe"
    },
    "act:5c01ea": {
@@ -38658,7 +40294,7 @@
     "alfaRules": [
      "sia-r18"
     ],
-    "pages": 451,
+    "pages": 472,
     "engines": "both"
    },
    "act:ff89c9": {
@@ -38667,7 +40303,7 @@
      "aria-required-children"
     ],
     "alfaRules": [],
-    "pages": 447,
+    "pages": 468,
     "engines": "axe"
    },
    "act:afw4f7": {
@@ -38703,7 +40339,7 @@
     "alfaRules": [
      "sia-r66"
     ],
-    "pages": 572,
+    "pages": 596,
     "engines": "alfa"
    },
    "act:2ee8b8": {
@@ -38712,7 +40348,7 @@
     "alfaRules": [
      "sia-r14"
     ],
-    "pages": 202,
+    "pages": 209,
     "engines": "alfa"
    },
    "alfa:sia-r61": {
@@ -38721,7 +40357,7 @@
     "alfaRules": [
      "sia-r61"
     ],
-    "pages": 472,
+    "pages": 489,
     "engines": "alfa"
    },
    "alfa:sia-r57": {
@@ -38730,7 +40366,7 @@
     "alfaRules": [
      "sia-r57"
     ],
-    "pages": 568,
+    "pages": 592,
     "engines": "alfa"
    },
    "alfa:sia-r87": {
@@ -38739,7 +40375,7 @@
     "alfaRules": [
      "sia-r87"
     ],
-    "pages": 473,
+    "pages": 491,
     "engines": "alfa"
    },
    "alfa:sia-r111": {
@@ -38748,7 +40384,7 @@
     "alfaRules": [
      "sia-r111"
     ],
-    "pages": 572,
+    "pages": 596,
     "engines": "alfa"
    },
    "alfa:sia-r53": {
@@ -38757,7 +40393,7 @@
     "alfaRules": [
      "sia-r53"
     ],
-    "pages": 15,
+    "pages": 17,
     "engines": "alfa"
    },
    "alfa:sia-r73": {
@@ -38766,7 +40402,7 @@
     "alfaRules": [
      "sia-r73"
     ],
-    "pages": 103,
+    "pages": 109,
     "engines": "alfa"
    },
    "act:bc4a75": {
@@ -38775,7 +40411,7 @@
     "alfaRules": [
      "sia-r68"
     ],
-    "pages": 173,
+    "pages": 180,
     "engines": "alfa"
    },
    "alfa:sia-r113": {
@@ -38784,7 +40420,7 @@
     "alfaRules": [
      "sia-r113"
     ],
-    "pages": 31,
+    "pages": 32,
     "engines": "alfa"
    },
    "alfa:sia-r85": {
@@ -38826,21 +40462,21 @@
   }
  },
  "sustainability": {
-  "pages": 1153,
-  "medianBytes": 766009,
-  "meanBytes": 1021011,
+  "pages": 1176,
+  "medianBytes": 766010,
+  "meanBytes": 1029086,
   "medianRequests": 27,
-  "totalCo2g": 174.47,
-  "meanCo2g": 0.1513,
-  "totalEnergyWh": 353.17,
-  "meanEnergyWh": 0.3063
+  "totalCo2g": 179.35,
+  "meanCo2g": 0.1525,
+  "totalEnergyWh": 363.06,
+  "meanEnergyWh": 0.3087
  },
  "deprecatedHtml": {
-  "findingTotal": 905,
+  "findingTotal": 920,
   "rules": {
    "presentational-attr": {
-    "count": 905,
-    "pages": 778,
+    "count": 920,
+    "pages": 792,
     "help": "Presentational attribute (use CSS)",
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003157",
@@ -39177,11 +40813,19 @@
       "instances": 2
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx004131",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2826",
       "instances": 1
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2659",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1535",
       "instances": 1
      },
      {
@@ -39437,6 +41081,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/clt003187",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3182",
       "instances": 1
      },
@@ -39561,6 +41209,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6279",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7230",
       "instances": 1
      },
@@ -39582,6 +41234,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl006072",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2922",
       "instances": 1
      },
      {
@@ -39866,6 +41522,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6184",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8658",
       "instances": 1
      },
      {
@@ -40305,6 +41965,10 @@
       "instances": 2
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/tpl004056",
+      "instances": 2
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8283",
       "instances": 1
      },
@@ -40442,6 +42106,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7460",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7144",
       "instances": 1
      },
      {
@@ -40774,6 +42442,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-951",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/mcr001113",
       "instances": 1
      },
      {
@@ -41401,6 +43073,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6268",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx004197",
       "instances": 1
      },
@@ -41481,6 +43157,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9200",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-563",
       "instances": 1
      },
@@ -41542,6 +43222,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6833",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-9074",
       "instances": 1
      },
      {
@@ -41813,6 +43497,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1547",
+      "instances": 1
+     },
+     {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1197",
       "instances": 1
      },
@@ -41826,6 +43514,10 @@
      },
      {
       "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8338",
+      "instances": 1
+     },
+     {
+      "url": "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1570",
       "instances": 1
      },
      {
@@ -41992,12 +43684,12 @@
   }
  },
  "resources": {
-  "total": 2507,
+  "total": 2568,
   "byType": {
-   "pdf": 2304,
+   "pdf": 2363,
    "spreadsheet": 105,
-   "document": 2,
-   "archive": 92,
+   "document": 3,
+   "archive": 93,
    "embedded-media": 1,
    "audio": 1,
    "presentation": 1,
@@ -42007,7 +43699,7 @@
    {
     "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib052423.pdf",
     "type": "pdf",
-    "pages": 326
+    "pages": 350
    },
    {
     "url": "https://www.medicaid.gov/medicaid/spa/downloads/HI-21-0002.pdf",
@@ -42052,7 +43744,7 @@
    {
     "url": "https://www.medicaid.gov/tmsis/dataguide/v4/media/documents/DataGuideGlossary4.1.pdf",
     "type": "pdf",
-    "pages": 1596
+    "pages": 1666
    },
    {
     "url": "https://www.medicaid.gov/medicaid/managed-care/downloads/sdp-letter-02022026.pdf",
@@ -42187,7 +43879,7 @@
    {
     "url": "https://www.medicaid.gov/medicaid/financial-management/downloads/sbs-guide-medicaid-services-administrative-claiming.pdf",
     "type": "pdf",
-    "pages": 25
+    "pages": 26
    },
    {
     "url": "https://www.medicaid.gov/medicaid/spa/downloads/OK-24-0009.pdf",
@@ -42887,7 +44579,7 @@
    {
     "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/sho23005.pdf",
     "type": "pdf",
-    "pages": 22
+    "pages": 23
    },
    {
     "url": "https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Waivers/Downloads/VA0358.zip",
@@ -42902,42 +44594,42 @@
    {
     "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib01232026.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 5
    },
    {
     "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/sho25005.pdf",
     "type": "pdf",
-    "pages": 5
+    "pages": 7
    },
    {
     "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib12232025.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 5
    },
    {
     "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib122325.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 5
    },
    {
     "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib12102025.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 5
    },
    {
     "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib12092025.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 5
    },
    {
     "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib12082025.pdf",
     "type": "pdf",
-    "pages": 3
+    "pages": 5
    },
    {
     "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib11182025.pdf",
     "type": "pdf",
-    "pages": 4
+    "pages": 6
    },
    {
     "url": "https://www.medicaid.gov/chip/downloads/title-xxi-state-plan-template.pdf",
@@ -43112,7 +44804,7 @@
    {
     "url": "https://www.medicaid.gov/sites/default/files/2023-07/sbs-guide-medicaid-services-administrative-claiming-ud.pdf",
     "type": "pdf",
-    "pages": 4
+    "pages": 5
    },
    {
     "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/CIB-7-13-11.pdf",
@@ -43208,6 +44900,106 @@
     "url": "https://www.medicaid.gov/medicaid/spa/downloads/IN-23-0023.pdf",
     "type": "pdf",
     "pages": 2
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/OR-24-0020.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/OR-24-0018.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/OR-24-0021.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/OR-24-0023.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/OR-24-0019.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/OR-24-0022.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/OR-24-0016.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/OR-23-0016.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/OR-24-0015.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/OR-24-0017.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib03042025.pdf",
+    "type": "pdf",
+    "pages": 7
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/smd25001.pdf",
+    "type": "pdf",
+    "pages": 7
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib01162025.pdf",
+    "type": "pdf",
+    "pages": 7
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/sho25001.pdf",
+    "type": "pdf",
+    "pages": 7
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib01152025.pdf",
+    "type": "pdf",
+    "pages": 8
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/sho24007.pdf",
+    "type": "pdf",
+    "pages": 9
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib12202024.pdf",
+    "type": "pdf",
+    "pages": 8
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib-12202024.pdf",
+    "type": "pdf",
+    "pages": 8
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/sho24006.pdf",
+    "type": "pdf",
+    "pages": 7
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib12102024.pdf",
+    "type": "pdf",
+    "pages": 7
    },
    {
     "url": "https://www.medicaid.gov/medicaid/downloads/nc-4141-R07-03-app-k-appvl.pdf",
@@ -43561,6 +45353,51 @@
    },
    {
     "url": "https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Waivers/1115/downloads/nc/Be-Smart/nc-family-planning-pblc-cmmnts.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/WY-20-0007.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/WY-22-0001.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/WY-22-0004.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/WY-22-0003.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/WY-22-0002.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/spa/downloads/WY-21-0012.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/Medicaid/spa/downloads/WY-20-0012.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/Medicaid/spa/downloads/WY%2021-0010C.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/Medicaid/spa/downloads/WY-21-0008.pdf",
     "type": "pdf",
     "pages": 1
    },
@@ -44165,6 +46002,11 @@
     "pages": 1
    },
    {
+    "url": "https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Waivers/Downloads/LA-04.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Waivers/Downloads/MT0148R06.zip",
     "type": "archive",
     "pages": 1
@@ -44242,6 +46084,31 @@
    {
     "url": "https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Waivers/Downloads/CO0211.zip",
     "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/SD/SD-08-006.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/SD/09-21-09-SD-09-001-179.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/SD/09-21-09-SD-09-007-Ltr.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/SD/09-21-09-SD-09-007-179.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/SD/09-21-09-SD-09-004-179.pdf",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -44408,11 +46275,6 @@
     "url": "https://www.medicaid.gov/medicaid/quality-of-care/downloads/2027coresetreview-finalreport.pdf",
     "type": "pdf",
     "pages": 2
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/sho24007.pdf",
-    "type": "pdf",
-    "pages": 7
    },
    {
     "url": "https://www.medicaid.gov/medicaid/quality-of-care/downloads/2026coresetreview-finalreport.pdf",
@@ -44901,6 +46763,21 @@
    },
    {
     "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/WA/09-21-09-WA-08-009-179.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Waivers/1115/downloads/ut/ut-per-capita-cap-pa.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Waivers/1115/downloads/ut/per-capita-cap/ut-per-capita-cap-correspondence-ltr-20190816.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Waivers/1115/downloads/ut/per-capita-cap/ut-per-capita-cap-cms-cmplt-ltr-20190816.pdf",
     "type": "pdf",
     "pages": 1
    },
@@ -45970,6 +47847,41 @@
     "pages": 2
    },
    {
+    "url": "https://www.medicaid.gov/resources-for-states/downloads/medicaid-chip-telework-playbook.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/benefits/downloads/medicaid-chip-telehealth-toolkit.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/benefits/downloads/medicaid-chip-telehealth-toolkit-checklist.docx",
+    "type": "document",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/benefits/downloads/medicaid-chip-telehealth-toolkit-supplement1.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/state-resource-center/downloads/mac-learning-collaboratives/medicaid-chip-disastertoolkit.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/state-resource-center/downloads/mac-learning-collaboratives/medicaid-chip-inventory.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/Medicare/CMS-Forms/CMS-Forms/Downloads/CMS179.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/faq06052024.pdf",
     "type": "pdf",
     "pages": 1
@@ -46665,6 +48577,41 @@
     "pages": 1
    },
    {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/smd26003.pdf",
+    "type": "pdf",
+    "pages": 6
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/smd26002.pdf",
+    "type": "pdf",
+    "pages": 5
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib04272026.pdf",
+    "type": "pdf",
+    "pages": 5
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/sho26001.pdf",
+    "type": "pdf",
+    "pages": 5
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib03112026.pdf",
+    "type": "pdf",
+    "pages": 5
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/smd26001.pdf",
+    "type": "pdf",
+    "pages": 5
+   },
+   {
+    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib02262026.pdf",
+    "type": "pdf",
+    "pages": 5
+   },
+   {
     "url": "https://www.medicaid.gov/medicaid/spa/downloads/AZ-25-0013.pdf",
     "type": "pdf",
     "pages": 1
@@ -46770,49 +48717,9 @@
     "pages": 1
    },
    {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib03042025.pdf",
+    "url": "https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Waivers/Downloads/ID_Dental-Smiles_ID-03.pdf",
     "type": "pdf",
-    "pages": 5
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/smd25001.pdf",
-    "type": "pdf",
-    "pages": 5
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib01162025.pdf",
-    "type": "pdf",
-    "pages": 5
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/sho25001.pdf",
-    "type": "pdf",
-    "pages": 5
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib01152025.pdf",
-    "type": "pdf",
-    "pages": 6
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib12202024.pdf",
-    "type": "pdf",
-    "pages": 6
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib-12202024.pdf",
-    "type": "pdf",
-    "pages": 6
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/sho24006.pdf",
-    "type": "pdf",
-    "pages": 5
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib12102024.pdf",
-    "type": "pdf",
-    "pages": 5
+    "pages": 1
    },
    {
     "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/MI-0019.R02.02.pdf",
@@ -49290,41 +51197,6 @@
     "pages": 1
    },
    {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/smd26003.pdf",
-    "type": "pdf",
-    "pages": 4
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/smd26002.pdf",
-    "type": "pdf",
-    "pages": 4
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib04272026.pdf",
-    "type": "pdf",
-    "pages": 4
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/sho26001.pdf",
-    "type": "pdf",
-    "pages": 4
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib03112026.pdf",
-    "type": "pdf",
-    "pages": 4
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/smd26001.pdf",
-    "type": "pdf",
-    "pages": 4
-   },
-   {
-    "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/cib02262026.pdf",
-    "type": "pdf",
-    "pages": 4
-   },
-   {
     "url": "https://www.medicaid.gov/sites/default/files/state-resource-center/FAQ-medicaid-and-chip-affordable-care-act-implementation/downloads/Eligibility-Policy-FAQs.pdf",
     "type": "pdf",
     "pages": 1
@@ -49976,6 +51848,11 @@
    },
    {
     "url": "https://www.medicaid.gov/medicaid/spa/downloads/NV-24-0014.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/WA-15.pdf",
     "type": "pdf",
     "pages": 1
    },
@@ -51200,6 +53077,91 @@
     "pages": 1
    },
    {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/IA/IA-09-002-Ltr.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/IA/IA-09-002-Att.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/IA/IA-09-002-179.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/LA/07-01-09-LA-09-019-Ltr.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/LA/07-01-09-LA-09-19-Att.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/WI/WI-08-023.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/TX/TX-08-026.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/OK/06-26-09-OK-09-04-Ltr.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NY/NY-07-19.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/AK/06-26-09-AK-03-003-Ltr.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/AK/06-26-06-AK-03-003-Att.pdf",
+    "type": "pdf",
+    "pages": 2
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NV/06-24-09-NV-09-003-Approval-Ltr.pdf",
+    "type": "pdf",
+    "pages": 3
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NV/06-24-09-NV-09-003-Att.pdf",
+    "type": "pdf",
+    "pages": 3
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NV/06-24-09-NV-09-003-HCFA-179.pdf",
+    "type": "pdf",
+    "pages": 3
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NV/NV-09-002-Ltr.pdf",
+    "type": "pdf",
+    "pages": 3
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NV/NV-09-002-Att.pdf",
+    "type": "pdf",
+    "pages": 3
+   },
+   {
+    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NV/NV-09-002-179.pdf",
+    "type": "pdf",
+    "pages": 3
+   },
+   {
     "url": "https://www.medicaid.gov/resources-for-states/downloads/sbs-special-trans-reimbursement.pdf",
     "type": "pdf",
     "pages": 2
@@ -51272,6 +53234,46 @@
    {
     "url": "https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Waivers/Downloads/AL0878R02.zip",
     "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/guam-altrnt-drug-cover-monitor-redesgn-overlay-ltr.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/guam-med-drug-reb-prog-waiv-demo-approval-evltn-dsgn-03202025.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/guam-alt-drug-cov-anual-montrng-rprt-06262025.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/guam-alt-drug-cov-anual-montrng-rprt.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/guam-med-drug-reb-prog-terrt-acptnc-ltr.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/guam-med-drug-reb-prog-waiv-ca.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/guam-med-drug-reb-prog-waiv-cms-com-ltr.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/guam-med-drug-reb-prog-waiv-mdrp-req-pa.pdf",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -52670,6 +54672,26 @@
     "pages": 1
    },
    {
+    "url": "https://www.medicaid.gov/resources-for-states/downloads/dshp-dsip.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/resources-for-states/downloads/contin-elig-ltr-to-states.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/resources-for-states/downloads/workforc-ltr-to-states.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/resources-for-states/downloads/2022-budget-neutrality-approach-june-2024.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.medicaid.gov/CHIP/Downloads/IA/IA-CSPA-11-AL.pdf",
     "type": "pdf",
     "pages": 1
@@ -52975,36 +54997,6 @@
     "pages": 1
    },
    {
-    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NV/06-24-09-NV-09-003-Approval-Ltr.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
-    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NV/06-24-09-NV-09-003-Att.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
-    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NV/06-24-09-NV-09-003-HCFA-179.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
-    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NV/NV-09-002-Ltr.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
-    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NV/NV-09-002-Att.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
-    "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NV/NV-09-002-179.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
     "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NV/NV-09-004-Ltr.pdf",
     "type": "pdf",
     "pages": 1
@@ -53272,6 +55264,11 @@
    {
     "url": "https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Waivers/1115/downloads/ny/People-First-Waiver/ny-people-first-pblc-cmmnts.pdf",
     "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Waivers/Downloads/AL0001.zip",
+    "type": "archive",
     "pages": 1
    },
    {
@@ -54542,83 +56539,83 @@
   ]
  },
  "standards": {
-  "pagesChecked": 508,
+  "pagesChecked": 552,
   "checks": [
    {
     "id": "schema-gov",
     "label": "schema.org GovernmentOrganization markup",
     "pass": 0,
-    "total": 508,
+    "total": 552,
     "rate": 0
    },
    {
     "id": "hreflang",
     "label": "hreflang alternates declared",
     "pass": 0,
-    "total": 508,
+    "total": 552,
     "rate": 0
    },
    {
     "id": "open-graph",
     "label": "Open Graph tags (0/6)",
     "pass": 0,
-    "total": 508,
+    "total": 552,
     "rate": 0
    },
    {
     "id": "twitter-card",
     "label": "Twitter card metadata",
     "pass": 0,
-    "total": 508,
+    "total": 552,
     "rate": 0
    },
    {
     "id": "open-social",
     "label": "Open social presence (Mastodon/Bluesky) linked",
     "pass": 0,
-    "total": 508,
+    "total": 552,
     "rate": 0
    },
    {
     "id": "description",
     "label": "Meta description present",
-    "pass": 82,
-    "total": 508,
+    "pass": 88,
+    "total": 552,
     "rate": 16
    },
    {
     "id": "canonical",
     "label": "Canonical URL declared",
-    "pass": 92,
-    "total": 508,
+    "pass": 101,
+    "total": 552,
     "rate": 18
    },
    {
     "id": "title",
     "label": "Page has a <title>",
-    "pass": 508,
-    "total": 508,
+    "pass": 552,
+    "total": 552,
     "rate": 100
    },
    {
     "id": "charset",
     "label": "Character encoding declared",
-    "pass": 508,
-    "total": 508,
+    "pass": 552,
+    "total": 552,
     "rate": 100
    },
    {
     "id": "lang",
     "label": "Document language (lang) set",
-    "pass": 508,
-    "total": 508,
+    "pass": 552,
+    "total": 552,
     "rate": 100
    },
    {
     "id": "viewport",
     "label": "Responsive viewport (zoom not disabled)",
-    "pass": 508,
-    "total": 508,
+    "pass": 552,
+    "total": 552,
     "rate": 100
    }
   ],
@@ -54679,77 +56676,77 @@
   "total": 8
  },
  "plainLanguage": {
-  "pagesChecked": 971,
-  "pagesScored": 273,
+  "pagesChecked": 1015,
+  "pagesScored": 285,
   "medianWordsPerPage": 301,
-  "medianReadingEase": 38.4,
-  "medianGrade": 16,
+  "medianReadingEase": 39.1,
+  "medianGrade": 15.9,
   "topUnexplainedAcronyms": [
    {
     "acronym": "HTTPS",
-    "pages": 783
+    "pages": 814
    },
    {
     "acronym": "RULE",
-    "pages": 660
+    "pages": 682
    },
    {
     "acronym": "ID",
-    "pages": 440
+    "pages": 458
    },
    {
     "acronym": "RECORD",
-    "pages": 417
+    "pages": 433
    },
    {
     "acronym": "MSIS",
-    "pages": 403
+    "pages": 417
    },
    {
     "acronym": "CLAIM",
-    "pages": 384
+    "pages": 398
    },
    {
     "acronym": "HEADER",
-    "pages": 361
+    "pages": 375
    },
    {
     "acronym": "DQ",
-    "pages": 257
+    "pages": 266
    },
    {
     "acronym": "DATE",
-    "pages": 243
+    "pages": 251
    },
    {
     "acronym": "STATUS",
-    "pages": 237
+    "pages": 245
    },
    {
     "acronym": "CIP",
-    "pages": 233
+    "pages": 244
    },
    {
     "acronym": "DE",
-    "pages": 232
+    "pages": 240
    },
    {
     "acronym": "FLF",
-    "pages": 224
+    "pages": 232
    },
    {
     "acronym": "IP",
-    "pages": 222
+    "pages": 230
    },
    {
-    "acronym": "COT",
-    "pages": 210
+    "acronym": "ADD",
+    "pages": 222
    }
   ],
   "topMisspellings": [
    {
     "word": "https",
-    "pages": 788,
+    "pages": 819,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003157",
@@ -54760,7 +56757,7 @@
    },
    {
     "word": "Changelog",
-    "pages": 778,
+    "pages": 808,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003157",
@@ -54771,7 +56768,7 @@
    },
    {
     "word": "DateData",
-    "pages": 778,
+    "pages": 808,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003157",
@@ -54782,7 +56779,7 @@
    },
    {
     "word": "entriesPreviousNext",
-    "pages": 629,
+    "pages": 650,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003157",
      "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1386",
@@ -54793,7 +56790,7 @@
    },
    {
     "word": "VersionValidation",
-    "pages": 426,
+    "pages": 441,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1386",
      "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-747",
@@ -54804,7 +56801,7 @@
    },
    {
     "word": "RuleActionFieldBeforeAfter",
-    "pages": 426,
+    "pages": 441,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1386",
      "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-747",
@@ -54815,7 +56812,7 @@
    },
    {
     "word": "entriesPrevious",
-    "pages": 354,
+    "pages": 369,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003157",
@@ -54826,7 +56823,7 @@
    },
    {
     "word": "VersionData",
-    "pages": 219,
+    "pages": 226,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003157",
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003068",
@@ -54837,7 +56834,7 @@
    },
    {
     "word": "ElementActionFieldBeforeAfter",
-    "pages": 219,
+    "pages": 226,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003157",
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx003068",
@@ -54848,7 +56845,7 @@
    },
    {
     "word": "Minimun",
-    "pages": 125,
+    "pages": 133,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-25-002-2",
@@ -54859,7 +56856,7 @@
    },
    {
     "word": "VersionDQMActionFieldBeforeAfter",
-    "pages": 125,
+    "pages": 133,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-25-002-2",
@@ -54870,7 +56867,7 @@
    },
    {
     "word": "yyyy",
-    "pages": 98,
+    "pages": 105,
     "examplePages": [
      "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=1001&page=5&q=",
      "https://www.medicaid.gov/faq?f%5B0%5D=sub_topic_faq_library_facet%3A1901&f%5B1%5D=sub_topic_faq_library_facet%3A1926&f%5B2%5D=sub_topic_faq_library_facet%3A2456&f%5B3%5D=sub_topic_faq_library_facet%3A2461&page=0&sl=yes",
@@ -54881,7 +56878,7 @@
    },
    {
     "word": "monthDefine",
-    "pages": 32,
+    "pages": 33,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-25-002-2",
@@ -54892,13 +56889,24 @@
    },
    {
     "word": "ClaimsOf",
-    "pages": 27,
+    "pages": 28,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-25-002-2",
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-32-002-2",
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-1-002-3",
-     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-s-022-4"
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-1-002-3"
+    ]
+   },
+   {
+    "word": "missingSTEP",
+    "pages": 25,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-32-002-2",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-16-011-11",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-1-002-3",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-1-002-3"
     ]
    },
    {
@@ -54913,19 +56921,8 @@
     ]
    },
    {
-    "word": "missingSTEP",
-    "pages": 23,
-    "examplePages": [
-     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
-     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-32-002-2",
-     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-16-011-11",
-     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mcr-1-002-3",
-     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/el-6-049-49"
-    ]
-   },
-   {
     "word": "percentageDivide",
-    "pages": 21,
+    "pages": 22,
     "examplePages": [
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-21-007-7",
      "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/ffs-25-002-2",
@@ -55025,16 +57022,16 @@
   ]
  },
  "lighthouse": {
-  "pagesSampled": 347,
+  "pagesSampled": 366,
   "medianPerformance": 90,
   "medianAccessibility": 99,
   "medianBestPractices": 96,
   "medianSeo": 92,
   "medianAgentic": null,
   "metrics": {
-   "firstContentfulPaintMs": 1986,
+   "firstContentfulPaintMs": 1987,
    "largestContentfulPaintMs": 2437,
-   "speedIndexMs": 1986,
+   "speedIndexMs": 1987,
    "totalBlockingTimeMs": 333,
    "cumulativeLayoutShift": 0
   }

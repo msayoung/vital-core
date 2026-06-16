@@ -1,30 +1,30 @@
 {
  "domain": "www.cms.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-16T11:18:42.036Z",
- "pagesScanned": 1993,
- "pagesAudited": 1370,
+ "generatedAt": "2026-06-16T12:24:40.697Z",
+ "pagesScanned": 2093,
+ "pagesAudited": 1452,
  "coverage": {
-  "axe": 1370,
-  "alfa": 429,
-  "deprecated-html": 724,
-  "resources": 1370,
-  "standards": 414,
-  "sustainability": 715,
-  "plain-language": 634,
-  "lighthouse": 242,
-  "security": 73
+  "axe": 1452,
+  "alfa": 453,
+  "deprecated-html": 745,
+  "resources": 1452,
+  "standards": 467,
+  "sustainability": 734,
+  "plain-language": 670,
+  "lighthouse": 267,
+  "security": 80
  },
  "blocked": null,
  "axe": {
-  "violationTotal": 3440,
-  "pagesWithViolations": 323,
-  "pagesScanned": 1370,
+  "violationTotal": 3488,
+  "pagesWithViolations": 336,
+  "pagesScanned": 1452,
   "medianViolations": 0,
   "rules": {
    "link-in-text-block": {
-    "count": 188,
-    "pages": 100,
+    "count": 195,
+    "pages": 103,
     "impact": "serious",
     "help": "Links must be distinguishable without relying on color",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-in-text-block?application=axeAPI",
@@ -187,6 +187,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdId=36358&ver=39",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdId=36408&ver=34",
       "instances": 1
      },
@@ -281,6 +285,10 @@
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=55756&articleStatus=all&bc=3&sortBy=title&ver=17",
       "instances": 2
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=176&sortBy=status&status=all",
+      "instances": 3
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdId=39863&ver=9",
@@ -415,6 +423,10 @@
       "instances": 3
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=36859&lcdStatus=all&sortBy=title&ver=27",
+      "instances": 3
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=38920&lcdStatus=all&sortBy=title&ver=15",
       "instances": 1
      },
@@ -468,8 +480,8 @@
     ]
    },
    "list": {
-    "count": 381,
-    "pages": 71,
+    "count": 387,
+    "pages": 73,
     "impact": "serious",
     "help": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/list?application=axeAPI",
@@ -644,6 +656,10 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 4
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=55756&articleStatus=all&bc=3&sortBy=title&ver=17",
       "instances": 1
      },
@@ -702,6 +718,10 @@
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=12&NCDver=4",
       "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-public-comments.aspx?bc=17&ncacaldoctype=all&ncaid=311&sortBy=status&status=all",
+      "instances": 2
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56329&articleStatus=all&bc=3&sortBy=title&ver=4",
@@ -2699,8 +2719,8 @@
     ]
    },
    "color-contrast": {
-    "count": 170,
-    "pages": 21,
+    "count": 189,
+    "pages": 22,
     "impact": "serious",
     "help": "Elements must meet minimum color contrast ratio thresholds",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
@@ -2771,6 +2791,10 @@
       "instances": 99
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 19
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=269&proposed=Y&sortBy=status&status=all",
       "instances": 12
      },
@@ -2828,8 +2852,8 @@
     ]
    },
    "heading-order": {
-    "count": 86,
-    "pages": 85,
+    "count": 92,
+    "pages": 91,
     "impact": "moderate",
     "help": "Heading levels should only increase by one",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
@@ -2975,6 +2999,10 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/medicare/regulations-guidance/original-medicare-payment-regulations",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/details/nca-decision-memo.aspx?fromdb=true&NCAId=82",
       "instances": 1
      },
@@ -3023,11 +3051,19 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/nosurprises",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/priorities/innovation/innovation-models/medicare-diabetes-prevention-program",
       "instances": 1
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?ncaid=239&proposed=Y",
+      "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
       "instances": 1
      },
      {
@@ -3151,6 +3187,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/new-search/reports/national-coverage-medcac-meetings-report.aspx?year=all",
+      "instances": 1
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=199&proposed=N&sortBy=status&status=all",
       "instances": 1
      },
@@ -3163,7 +3203,15 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=33977&lcdStatus=all&sortBy=title",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/transmittals/r11747cp",
+      "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/fraud",
       "instances": 1
      },
      {
@@ -3212,8 +3260,8 @@
     ]
    },
    "scope-attr-valid": {
-    "count": 113,
-    "pages": 9,
+    "count": 119,
+    "pages": 10,
     "impact": "moderate",
     "help": "scope attribute should be used correctly",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/scope-attr-valid?application=axeAPI",
@@ -3253,6 +3301,10 @@
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=38571&lcdStatus=all&sortBy=title&ver=8",
       "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/medcac-meeting.aspx?bc=15&medcacid=16&sortBy=meetingdate&year=all",
+      "instances": 6
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=15&proposed=Y&sortBy=status&status=all",
@@ -3349,8 +3401,8 @@
     ]
    },
    "empty-table-header": {
-    "count": 8,
-    "pages": 2,
+    "count": 9,
+    "pages": 3,
     "impact": "minor",
     "help": "Table header text should not be empty",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/empty-table-header?application=axeAPI",
@@ -3359,7 +3411,8 @@
     ],
     "examplePages": [
      "https://www.cms.gov/newsroom/fact-sheets/proposed-pathways-success-medicare-shared-savings-program",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56142&articleStatus=all&bc=3&sortBy=title&ver=2"
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56142&articleStatus=all&bc=3&sortBy=title&ver=2",
+     "http://www.cms.gov/medicare-coverage-database/view/medcac-meeting.aspx?bc=15&medcacid=16&sortBy=meetingdate&year=all"
     ],
     "affectedPages": [
      {
@@ -3369,6 +3422,10 @@
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56142&articleStatus=all&bc=3&sortBy=title&ver=2",
       "instances": 7
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/medcac-meeting.aspx?bc=15&medcacid=16&sortBy=meetingdate&year=all",
+      "instances": 1
      }
     ],
     "instances": [
@@ -3391,6 +3448,11 @@
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56142&articleStatus=all&bc=3&sortBy=title&ver=2",
       "target": "tr:nth-child(3) > th:nth-child(3)",
       "html": "<th>&nbsp;</th>"
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/medcac-meeting.aspx?bc=15&medcacid=16&sortBy=meetingdate&year=all",
+      "target": "th:nth-child(1)",
+      "html": "<th valign=\"top\" width=\"25%\" scope=\"col\">&nbsp;</th>"
      }
     ]
    },
@@ -3427,6 +3489,33 @@
       "url": "http://cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/EnrollmentResources/provider-resources/provider-enrolment/Med-Prov-Enroll-MLN9658742.html",
       "target": "main",
       "html": "<main>"
+     }
+    ]
+   },
+   "td-headers-attr": {
+    "count": 1,
+    "pages": 1,
+    "impact": "serious",
+    "help": "Table cell headers attributes must refer to other <th> elements in the same table",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/td-headers-attr?application=axeAPI",
+    "tags": [
+     "wcag2a",
+     "wcag131"
+    ],
+    "examplePages": [
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2022-transmittals?items_per_page=25&order=field_dyna_issue_date&page=2&sort=asc"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2022-transmittals?items_per_page=25&order=field_dyna_issue_date&page=2&sort=asc",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2022-transmittals?items_per_page=25&order=field_dyna_issue_date&page=2&sort=asc",
+      "target": ".MsoTableGrid",
+      "html": "<table class=\"MsoTableGrid\">"
      }
     ]
    },
@@ -3553,9 +3642,37 @@
      }
     ]
    },
+   "scrollable-region-focusable": {
+    "count": 1,
+    "pages": 1,
+    "impact": "serious",
+    "help": "Scrollable region must have keyboard access",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/scrollable-region-focusable?application=axeAPI",
+    "tags": [
+     "wcag2a",
+     "wcag211",
+     "wcag213"
+    ],
+    "examplePages": [
+     "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all"
+    ],
+    "affectedPages": [
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "target": "pre",
+      "html": "<pre>TO: \t\t Administrative File: &nbsp;CAG-00085R8 \n\nFROM:\t\tCoverage and Analysis Group (CAG)\n\nSUBJECT: \tProposed National Coverage Determination for Percutaneous Transluminal Angioplasty (PTA) of the"
+     }
+    ]
+   },
    "page-has-heading-one": {
-    "count": 2,
-    "pages": 2,
+    "count": 3,
+    "pages": 3,
     "impact": "moderate",
     "help": "Page should contain a level-one heading",
     "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/page-has-heading-one?application=axeAPI",
@@ -3563,10 +3680,15 @@
      "best-practice"
     ],
     "examplePages": [
+     "https://www.cms.gov/medical-bill-rights/know-your-rights",
      "https://www.cms.gov/derechos-facturas-medicas/ayuda/plan",
      "https://www.cms.gov/derechos-facturas-medicas/ayuda/guias/como-leer-una-factura"
     ],
     "affectedPages": [
+     {
+      "url": "https://www.cms.gov/medical-bill-rights/know-your-rights",
+      "instances": 1
+     },
      {
       "url": "https://www.cms.gov/derechos-facturas-medicas/ayuda/plan",
       "instances": 1
@@ -3577,6 +3699,11 @@
      }
     ],
     "instances": [
+     {
+      "url": "https://www.cms.gov/medical-bill-rights/know-your-rights",
+      "target": "html",
+      "html": "<html lang=\"en\" dir=\"ltr\" class=\" js\" style=\"--vw: 12.8px; --vh: 8px;\">"
+     },
      {
       "url": "https://www.cms.gov/derechos-facturas-medicas/ayuda/plan",
       "target": "html",
@@ -3644,14 +3771,14 @@
   }
  },
  "alfa": {
-  "failedTotal": 29593,
-  "pagesWithFailures": 429,
-  "pagesScanned": 429,
+  "failedTotal": 31502,
+  "pagesWithFailures": 453,
+  "pagesScanned": 453,
   "medianFailures": 55,
   "rules": {
    "sia-r73": {
-    "count": 4598,
-    "pages": 428,
+    "count": 4855,
+    "pages": 452,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r73",
     "examplePages": [
      "https://www.cms.gov/newsroom/press-releases/new-report-federal-health-insurance-options-helped-prevent-major-coverage-losses",
@@ -3820,6 +3947,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56672&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A66&f%5B1%5D=topic%3A371&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC",
       "instances": 10
      },
@@ -3830,6 +3961,10 @@
      {
       "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2022-transmittals?items_per_page=25&order=field_dyna_issue_date&page=16&sort=asc",
       "instances": 25
+     },
+     {
+      "url": "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A21&f%5B1%5D=topic%3A121&f%5B2%5D=topic%3A161&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC",
+      "instances": 7
      },
      {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4328cp",
@@ -3960,6 +4095,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/priorities/health-technology-ecosystem/overview",
+      "instances": 20
+     },
+     {
       "url": "https://www.cms.gov/priorities/key-initiatives/burden-reduction/administrative-simplification/hipaa/exceptions-process",
       "instances": 25
      },
@@ -4006,6 +4145,10 @@
      {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2014-transmittals-items/r1434otn",
       "instances": 6
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54975&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 2
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/medicare-coverage-document.aspx?MCDId=31",
@@ -4056,12 +4199,20 @@
       "instances": 6
      },
      {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=8&sort=asc",
+      "instances": 31
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59875&articleStatus=all&bc=3&sortBy=title&ver=2",
       "instances": 1
      },
      {
       "url": "https://www.cms.gov/medicare/medicaid-coordination/states/resource-archives?page=1",
       "instances": 6
+     },
+     {
+      "url": "https://www.cms.gov/medicare-medicaid-coordination/fraud-prevention/medicaid-integrity-program/education/resource-library/home-and-community-based-services-key-message-and-tips-providers",
+      "instances": 5
      },
      {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/transmittals/r11128demo",
@@ -4162,6 +4313,10 @@
      {
       "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=39469&lcdStatus=all&sortBy=title",
       "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/marketplace/in-person-assisters/training-webinars",
+      "instances": 6
      },
      {
       "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals/r12157cp",
@@ -4356,6 +4511,10 @@
       "instances": 11
      },
      {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2025-transmittals/r13432cp",
+      "instances": 6
+     },
+     {
       "url": "https://www.cms.gov/data-research/statistics-trends-reports/medicare-fee-service-parts-b/medicare-utilization-part-b/top-200-level-i-cpt-codes-ranked-charges-reports",
       "instances": 6
      },
@@ -4365,6 +4524,10 @@
      },
      {
       "url": "https://www.cms.gov/training-education/find-provider-type/physicians-other-health-professionals",
+      "instances": 5
+     },
+     {
+      "url": "https://www.cms.gov/medicare/coverage/investigational-device-exemption-ide-studies/approved/g250275-nct07405359",
       "instances": 5
      },
      {
@@ -4390,6 +4553,10 @@
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=55227&articleStatus=all&bc=3&sortBy=title&ver=19",
       "instances": 2
+     },
+     {
+      "url": "http://www.cms.gov/medicare/regulations-guidance/original-medicare-payment-regulations",
+      "instances": 26
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52767&articleStatus=all&bc=3&sortBy=title&ver=14",
@@ -4434,6 +4601,10 @@
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdId=33792&ver=43",
       "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=6&sort=asc",
+      "instances": 30
      },
      {
       "url": "https://www.cms.gov/marketplace/private-health-insurance/coverage-young-adults",
@@ -4588,6 +4759,10 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/nosurprises",
+      "instances": 7
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=34548&lcdStatus=all&sortBy=title&ver=43",
       "instances": 5
      },
@@ -4624,6 +4799,10 @@
       "instances": 30
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 4
+     },
+     {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4244cp",
       "instances": 6
      },
@@ -4652,6 +4831,10 @@
       "instances": 6
      },
      {
+      "url": "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A21&f%5B1%5D=topic%3A66&f%5B2%5D=topic%3A71&f%5B3%5D=topic%3A441&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC",
+      "instances": 7
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=59&sortBy=status&status=all",
       "instances": 1
      },
@@ -4662,6 +4845,10 @@
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&calid=192&ncacaldoctype=all&proposed=N&sortBy=status&status=all",
       "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2018-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=8&sort=asc",
+      "instances": 30
      },
      {
       "url": "https://www.cms.gov/apps/ama/license.asp?file=%2Ffiles%2Fzip%2F2022-nfrm-opps-apc-offset-file.zip",
@@ -4806,6 +4993,10 @@
      {
       "url": "https://www.cms.gov/medicare/coordination-benefits-recovery/workers-comp-set-aside-arrangements/whats-new",
       "instances": 26
+     },
+     {
+      "url": "http://www.cms.gov/medicare/health-safety-standards/certification-compliance/rural-emergency-hospitals",
+      "instances": 28
      },
      {
       "url": "https://www.cms.gov/newsroom/press-releases/cms-seeks-public-input-reducing-regulatory-burdens-stark-law",
@@ -5104,6 +5295,10 @@
       "instances": 5
      },
      {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals/r12256cp",
+      "instances": 10
+     },
+     {
       "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals/r12183ncd",
       "instances": 6
      },
@@ -5126,6 +5321,10 @@
      {
       "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2024-transmittals/r12788cp",
       "instances": 8
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/new-search/reports/national-coverage-medcac-meetings-report.aspx?year=all",
+      "instances": 1
      },
      {
       "url": "https://www.cms.gov/priorities/innovation-center/value-based-care-spotlight/disponible-en-espanol/flexibilidad-para-satisfacer-mejor-las-necesidades-de-los-pacientes-la-historia-de-connor",
@@ -5188,6 +5387,10 @@
       "instances": 8
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=33977&lcdStatus=all&sortBy=title",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2013-transmittals-items/r2666cp",
       "instances": 6
      },
@@ -5220,6 +5423,10 @@
       "instances": 5
      },
      {
+      "url": "http://www.cms.gov/medicare/health-safety-standards/guidance-for-laws-regulations/home-health-agencies",
+      "instances": 8
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=163&sortBy=status&status=all",
       "instances": 1
      },
@@ -5232,8 +5439,20 @@
       "instances": 5
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=36859&lcdStatus=all&sortBy=title&ver=27",
+      "instances": 4
+     },
+     {
+      "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4412cp",
+      "instances": 6
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=38920&lcdStatus=all&sortBy=title&ver=15",
       "instances": 5
+     },
+     {
+      "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4418cp",
+      "instances": 6
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=30&proposed=N&sortBy=status&status=all",
@@ -5286,6 +5505,10 @@
      {
       "url": "https://www.cms.gov/training-education/partner-outreach-resources/american-indian-alaska-native/ltss-ta-center/planning/step-5-planning",
       "instances": 9
+     },
+     {
+      "url": "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A71&f%5B1%5D=topic%3A121&f%5B2%5D=topic%3A161&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC",
+      "instances": 6
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=304&sortBy=status&status=all",
@@ -5401,8 +5624,8 @@
     ]
    },
    "sia-r61": {
-    "count": 409,
-    "pages": 409,
+    "count": 433,
+    "pages": 433,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r61",
     "examplePages": [
      "https://www.cms.gov/newsroom/press-releases/new-report-federal-health-insurance-options-helped-prevent-major-coverage-losses",
@@ -5563,6 +5786,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56672&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A66&f%5B1%5D=topic%3A371&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC",
       "instances": 1
      },
@@ -5572,6 +5799,10 @@
      },
      {
       "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2022-transmittals?items_per_page=25&order=field_dyna_issue_date&page=16&sort=asc",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A21&f%5B1%5D=topic%3A121&f%5B2%5D=topic%3A161&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC",
       "instances": 1
      },
      {
@@ -5691,6 +5922,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/priorities/health-technology-ecosystem/overview",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/priorities/key-initiatives/burden-reduction/administrative-simplification/hipaa/exceptions-process",
       "instances": 1
      },
@@ -5736,6 +5971,10 @@
      },
      {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2014-transmittals-items/r1434otn",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54975&articleStatus=all&bc=3&sortBy=title&ver=16",
       "instances": 1
      },
      {
@@ -5787,11 +6026,19 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=8&sort=asc",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59875&articleStatus=all&bc=3&sortBy=title&ver=2",
       "instances": 1
      },
      {
       "url": "https://www.cms.gov/medicare/medicaid-coordination/states/resource-archives?page=1",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare-medicaid-coordination/fraud-prevention/medicaid-integrity-program/education/resource-library/home-and-community-based-services-key-message-and-tips-providers",
       "instances": 1
      },
      {
@@ -5884,6 +6131,10 @@
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=39469&lcdStatus=all&sortBy=title",
+      "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/marketplace/in-person-assisters/training-webinars",
       "instances": 1
      },
      {
@@ -6059,6 +6310,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2025-transmittals/r13432cp",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/data-research/statistics-trends-reports/medicare-fee-service-parts-b/medicare-utilization-part-b/top-200-level-i-cpt-codes-ranked-charges-reports",
       "instances": 1
      },
@@ -6068,6 +6323,10 @@
      },
      {
       "url": "https://www.cms.gov/training-education/find-provider-type/physicians-other-health-professionals",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare/coverage/investigational-device-exemption-ide-studies/approved/g250275-nct07405359",
       "instances": 1
      },
      {
@@ -6092,6 +6351,10 @@
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=55227&articleStatus=all&bc=3&sortBy=title&ver=19",
+      "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/medicare/regulations-guidance/original-medicare-payment-regulations",
       "instances": 1
      },
      {
@@ -6136,6 +6399,10 @@
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdId=33792&ver=43",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=6&sort=asc",
       "instances": 1
      },
      {
@@ -6283,6 +6550,10 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/nosurprises",
+      "instances": 1
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=34548&lcdStatus=all&sortBy=title&ver=43",
       "instances": 1
      },
@@ -6319,6 +6590,10 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4244cp",
       "instances": 1
      },
@@ -6347,6 +6622,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A21&f%5B1%5D=topic%3A66&f%5B2%5D=topic%3A71&f%5B3%5D=topic%3A441&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC",
+      "instances": 1
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=59&sortBy=status&status=all",
       "instances": 1
      },
@@ -6356,6 +6635,10 @@
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&calid=192&ncacaldoctype=all&proposed=N&sortBy=status&status=all",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2018-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=8&sort=asc",
       "instances": 1
      },
      {
@@ -6492,6 +6775,10 @@
      },
      {
       "url": "https://www.cms.gov/medicare/coordination-benefits-recovery/workers-comp-set-aside-arrangements/whats-new",
+      "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/medicare/health-safety-standards/certification-compliance/rural-emergency-hospitals",
       "instances": 1
      },
      {
@@ -6787,6 +7074,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals/r12256cp",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals/r12183ncd",
       "instances": 1
      },
@@ -6808,6 +7099,10 @@
      },
      {
       "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2024-transmittals/r12788cp",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/new-search/reports/national-coverage-medcac-meetings-report.aspx?year=all",
       "instances": 1
      },
      {
@@ -6871,6 +7166,10 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=33977&lcdStatus=all&sortBy=title",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2013-transmittals-items/r2666cp",
       "instances": 1
      },
@@ -6903,6 +7202,10 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/medicare/health-safety-standards/guidance-for-laws-regulations/home-health-agencies",
+      "instances": 1
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=163&sortBy=status&status=all",
       "instances": 1
      },
@@ -6915,7 +7218,19 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=36859&lcdStatus=all&sortBy=title&ver=27",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4412cp",
+      "instances": 1
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=38920&lcdStatus=all&sortBy=title&ver=15",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4418cp",
       "instances": 1
      },
      {
@@ -6964,6 +7279,10 @@
      },
      {
       "url": "https://www.cms.gov/training-education/partner-outreach-resources/american-indian-alaska-native/ltss-ta-center/planning/step-5-planning",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A71&f%5B1%5D=topic%3A121&f%5B2%5D=topic%3A161&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC",
       "instances": 1
      },
      {
@@ -7076,8 +7395,8 @@
     ]
    },
    "sia-r111": {
-    "count": 15633,
-    "pages": 429,
+    "count": 16531,
+    "pages": 453,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r111",
     "examplePages": [
      "https://www.cms.gov/newsroom/press-releases/new-report-federal-health-insurance-options-helped-prevent-major-coverage-losses",
@@ -7246,6 +7565,10 @@
       "instances": 33
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56672&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 23
+     },
+     {
       "url": "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A66&f%5B1%5D=topic%3A371&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC",
       "instances": 42
      },
@@ -7256,6 +7579,10 @@
      {
       "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2022-transmittals?items_per_page=25&order=field_dyna_issue_date&page=16&sort=asc",
       "instances": 50
+     },
+     {
+      "url": "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A21&f%5B1%5D=topic%3A121&f%5B2%5D=topic%3A161&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC",
+      "instances": 41
      },
      {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4328cp",
@@ -7386,6 +7713,10 @@
       "instances": 23
      },
      {
+      "url": "https://www.cms.gov/priorities/health-technology-ecosystem/overview",
+      "instances": 41
+     },
+     {
       "url": "https://www.cms.gov/priorities/key-initiatives/burden-reduction/administrative-simplification/hipaa/exceptions-process",
       "instances": 65
      },
@@ -7432,6 +7763,10 @@
      {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2014-transmittals-items/r1434otn",
       "instances": 33
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54975&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 23
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/medicare-coverage-document.aspx?MCDId=31",
@@ -7482,12 +7817,20 @@
       "instances": 34
      },
      {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=8&sort=asc",
+      "instances": 53
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59875&articleStatus=all&bc=3&sortBy=title&ver=2",
       "instances": 23
      },
      {
       "url": "https://www.cms.gov/medicare/medicaid-coordination/states/resource-archives?page=1",
       "instances": 55
+     },
+     {
+      "url": "https://www.cms.gov/medicare-medicaid-coordination/fraud-prevention/medicaid-integrity-program/education/resource-library/home-and-community-based-services-key-message-and-tips-providers",
+      "instances": 34
      },
      {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/transmittals/r11128demo",
@@ -7588,6 +7931,10 @@
      {
       "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=39469&lcdStatus=all&sortBy=title",
       "instances": 19
+     },
+     {
+      "url": "http://www.cms.gov/marketplace/in-person-assisters/training-webinars",
+      "instances": 36
      },
      {
       "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals/r12157cp",
@@ -7786,6 +8133,10 @@
       "instances": 49
      },
      {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2025-transmittals/r13432cp",
+      "instances": 35
+     },
+     {
       "url": "https://www.cms.gov/data-research/statistics-trends-reports/medicare-fee-service-parts-b/medicare-utilization-part-b/top-200-level-i-cpt-codes-ranked-charges-reports",
       "instances": 50
      },
@@ -7796,6 +8147,10 @@
      {
       "url": "https://www.cms.gov/training-education/find-provider-type/physicians-other-health-professionals",
       "instances": 66
+     },
+     {
+      "url": "https://www.cms.gov/medicare/coverage/investigational-device-exemption-ide-studies/approved/g250275-nct07405359",
+      "instances": 33
      },
      {
       "url": "https://www.cms.gov/data-research/monitoring-programs/medicare-fee-service-compliance-programs/review-contractor-directory-interactive-map",
@@ -7820,6 +8175,10 @@
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=55227&articleStatus=all&bc=3&sortBy=title&ver=19",
       "instances": 23
+     },
+     {
+      "url": "http://www.cms.gov/medicare/regulations-guidance/original-medicare-payment-regulations",
+      "instances": 50
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52767&articleStatus=all&bc=3&sortBy=title&ver=14",
@@ -7864,6 +8223,10 @@
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdId=33792&ver=43",
       "instances": 23
+     },
+     {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=6&sort=asc",
+      "instances": 55
      },
      {
       "url": "https://www.cms.gov/marketplace/private-health-insurance/coverage-young-adults",
@@ -8018,6 +8381,10 @@
       "instances": 54
      },
      {
+      "url": "http://www.cms.gov/nosurprises",
+      "instances": 42
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=34548&lcdStatus=all&sortBy=title&ver=43",
       "instances": 24
      },
@@ -8054,6 +8421,10 @@
       "instances": 54
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 43
+     },
+     {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4244cp",
       "instances": 34
      },
@@ -8082,6 +8453,10 @@
       "instances": 34
      },
      {
+      "url": "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A21&f%5B1%5D=topic%3A66&f%5B2%5D=topic%3A71&f%5B3%5D=topic%3A441&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC",
+      "instances": 43
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=59&sortBy=status&status=all",
       "instances": 24
      },
@@ -8092,6 +8467,10 @@
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&calid=192&ncacaldoctype=all&proposed=N&sortBy=status&status=all",
       "instances": 41
+     },
+     {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2018-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=8&sort=asc",
+      "instances": 53
      },
      {
       "url": "https://www.cms.gov/apps/ama/license.asp?file=%2Ffiles%2Fzip%2F2022-nfrm-opps-apc-offset-file.zip",
@@ -8236,6 +8615,10 @@
      {
       "url": "https://www.cms.gov/medicare/coordination-benefits-recovery/workers-comp-set-aside-arrangements/whats-new",
       "instances": 40
+     },
+     {
+      "url": "http://www.cms.gov/medicare/health-safety-standards/certification-compliance/rural-emergency-hospitals",
+      "instances": 54
      },
      {
       "url": "https://www.cms.gov/newsroom/press-releases/cms-seeks-public-input-reducing-regulatory-burdens-stark-law",
@@ -8534,6 +8917,10 @@
       "instances": 22
      },
      {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals/r12256cp",
+      "instances": 34
+     },
+     {
       "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals/r12183ncd",
       "instances": 35
      },
@@ -8556,6 +8943,10 @@
      {
       "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2024-transmittals/r12788cp",
       "instances": 35
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/new-search/reports/national-coverage-medcac-meetings-report.aspx?year=all",
+      "instances": 18
      },
      {
       "url": "https://www.cms.gov/priorities/innovation-center/value-based-care-spotlight/disponible-en-espanol/flexibilidad-para-satisfacer-mejor-las-necesidades-de-los-pacientes-la-historia-de-connor",
@@ -8618,6 +9009,10 @@
       "instances": 33
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=33977&lcdStatus=all&sortBy=title",
+      "instances": 19
+     },
+     {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2013-transmittals-items/r2666cp",
       "instances": 34
      },
@@ -8650,6 +9045,10 @@
       "instances": 34
      },
      {
+      "url": "http://www.cms.gov/medicare/health-safety-standards/guidance-for-laws-regulations/home-health-agencies",
+      "instances": 36
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=163&sortBy=status&status=all",
       "instances": 40
      },
@@ -8662,8 +9061,20 @@
       "instances": 34
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=36859&lcdStatus=all&sortBy=title&ver=27",
+      "instances": 24
+     },
+     {
+      "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4412cp",
+      "instances": 33
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=38920&lcdStatus=all&sortBy=title&ver=15",
       "instances": 24
+     },
+     {
+      "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4418cp",
+      "instances": 34
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=30&proposed=N&sortBy=status&status=all",
@@ -8716,6 +9127,10 @@
      {
       "url": "https://www.cms.gov/training-education/partner-outreach-resources/american-indian-alaska-native/ltss-ta-center/planning/step-5-planning",
       "instances": 58
+     },
+     {
+      "url": "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A71&f%5B1%5D=topic%3A121&f%5B2%5D=topic%3A161&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC",
+      "instances": 41
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=304&sortBy=status&status=all",
@@ -8831,8 +9246,8 @@
     ]
    },
    "sia-r66": {
-    "count": 645,
-    "pages": 123,
+    "count": 698,
+    "pages": 129,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r66",
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=174&sortBy=status&status=all",
@@ -8897,6 +9312,10 @@
       "instances": 2
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56672&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 4
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57450&articleStatus=all&bc=3&sortBy=title&ver=14",
       "instances": 5
      },
@@ -8943,6 +9362,10 @@
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/medcac-meeting.aspx?bc=15&medcacid=71&sortBy=meetingdate&year=all",
       "instances": 2
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54975&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 7
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/medicare-coverage-document.aspx?MCDId=31",
@@ -9125,6 +9548,10 @@
       "instances": 5
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 31
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59903&articleStatus=all&bc=3&sortBy=title&ver=2",
       "instances": 4
      },
@@ -9253,6 +9680,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/new-search/reports/national-coverage-medcac-meetings-report.aspx?year=all",
+      "instances": 2
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56938&articleStatus=all&bc=3&sortBy=title&ver=46",
       "instances": 4
      },
@@ -9267,6 +9698,10 @@
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52754&articleStatus=all&bc=3&sortBy=title&ver=6",
       "instances": 8
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=33977&lcdStatus=all&sortBy=title",
+      "instances": 2
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=39230&lcdStatus=all&sortBy=title",
@@ -9287,6 +9722,10 @@
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=163&sortBy=status&status=all",
       "instances": 2
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=36859&lcdStatus=all&sortBy=title&ver=27",
+      "instances": 7
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=38920&lcdStatus=all&sortBy=title&ver=15",
@@ -9362,8 +9801,8 @@
     ]
    },
    "sia-r74": {
-    "count": 7001,
-    "pages": 124,
+    "count": 7626,
+    "pages": 130,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r74",
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=174&sortBy=status&status=all",
@@ -9428,6 +9867,10 @@
       "instances": 4
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56672&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 29
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57450&articleStatus=all&bc=3&sortBy=title&ver=14",
       "instances": 31
      },
@@ -9474,6 +9917,10 @@
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/medcac-meeting.aspx?bc=15&medcacid=71&sortBy=meetingdate&year=all",
       "instances": 59
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54975&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 36
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/medicare-coverage-document.aspx?MCDId=31",
@@ -9664,6 +10111,10 @@
       "instances": 36
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 425
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59903&articleStatus=all&bc=3&sortBy=title&ver=2",
       "instances": 19
      },
@@ -9792,6 +10243,10 @@
       "instances": 42
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/new-search/reports/national-coverage-medcac-meetings-report.aspx?year=all",
+      "instances": 3
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56938&articleStatus=all&bc=3&sortBy=title&ver=46",
       "instances": 33
      },
@@ -9806,6 +10261,10 @@
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52754&articleStatus=all&bc=3&sortBy=title&ver=6",
       "instances": 21
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=33977&lcdStatus=all&sortBy=title",
+      "instances": 3
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=39230&lcdStatus=all&sortBy=title",
@@ -9826,6 +10285,10 @@
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=163&sortBy=status&status=all",
       "instances": 4
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=36859&lcdStatus=all&sortBy=title&ver=27",
+      "instances": 129
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=38920&lcdStatus=all&sortBy=title&ver=15",
@@ -9897,8 +10360,8 @@
     ]
    },
    "sia-r68": {
-    "count": 67,
-    "pages": 27,
+    "count": 73,
+    "pages": 30,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r68",
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=174&sortBy=status&status=all",
@@ -9979,6 +10442,10 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 4
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/reports/national-coverage-annual-report.aspx?docType=all&year=2026",
       "instances": 1
      },
@@ -9995,12 +10462,20 @@
       "instances": 2
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/new-search/reports/national-coverage-medcac-meetings-report.aspx?year=all",
+      "instances": 1
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=134&sortBy=status&status=all",
       "instances": 1
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdId=33794&ver=164",
       "instances": 6
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=33977&lcdStatus=all&sortBy=title",
+      "instances": 1
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=39230&lcdStatus=all&sortBy=title",
@@ -10044,8 +10519,8 @@
     ]
    },
    "sia-r14": {
-    "count": 328,
-    "pages": 122,
+    "count": 341,
+    "pages": 128,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r14",
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=174&sortBy=status&status=all",
@@ -10110,6 +10585,10 @@
       "instances": 2
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56672&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 4
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57450&articleStatus=all&bc=3&sortBy=title&ver=14",
       "instances": 4
      },
@@ -10156,6 +10635,10 @@
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/medcac-meeting.aspx?bc=15&medcacid=71&sortBy=meetingdate&year=all",
       "instances": 2
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54975&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 3
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/medicare-coverage-document.aspx?MCDId=31",
@@ -10338,6 +10821,10 @@
       "instances": 3
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 2
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59903&articleStatus=all&bc=3&sortBy=title&ver=2",
       "instances": 2
      },
@@ -10466,6 +10953,10 @@
       "instances": 2
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/new-search/reports/national-coverage-medcac-meetings-report.aspx?year=all",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56938&articleStatus=all&bc=3&sortBy=title&ver=46",
       "instances": 5
      },
@@ -10480,6 +10971,10 @@
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52754&articleStatus=all&bc=3&sortBy=title&ver=6",
       "instances": 2
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=33977&lcdStatus=all&sortBy=title",
+      "instances": 1
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=39230&lcdStatus=all&sortBy=title",
@@ -10499,6 +10994,10 @@
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=163&sortBy=status&status=all",
+      "instances": 2
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=36859&lcdStatus=all&sortBy=title&ver=27",
       "instances": 2
      },
      {
@@ -10592,8 +11091,8 @@
     ]
    },
    "sia-r57": {
-    "count": 192,
-    "pages": 191,
+    "count": 202,
+    "pages": 201,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r57",
     "examplePages": [
      "https://www.cms.gov/about-cms/information-systems/privacy/notice-privacy-practices-original-medicare",
@@ -10742,7 +11241,15 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=8&sort=asc",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/medicare/medicaid-coordination/states/resource-archives?page=1",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare-medicaid-coordination/fraud-prevention/medicaid-integrity-program/education/resource-library/home-and-community-based-services-key-message-and-tips-providers",
       "instances": 1
      },
      {
@@ -10787,6 +11294,10 @@
      },
      {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2014-transmittals-items/r3159cp",
+      "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/marketplace/in-person-assisters/training-webinars",
       "instances": 1
      },
      {
@@ -10862,6 +11373,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2025-transmittals/r13432cp",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2017-transmittals-items/r3917cp",
       "instances": 1
      },
@@ -10875,6 +11390,10 @@
      },
      {
       "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals/r12209pi",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=6&sort=asc",
       "instances": 1
      },
      {
@@ -10986,6 +11505,14 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A21&f%5B1%5D=topic%3A66&f%5B2%5D=topic%3A71&f%5B3%5D=topic%3A441&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare/regulations-guidance/transmittals/2018-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=8&sort=asc",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/apps/ama/license.asp?file=%2Ffiles%2Fzip%2F2022-nfrm-opps-apc-offset-file.zip",
       "instances": 1
      },
@@ -11047,6 +11574,10 @@
      },
      {
       "url": "https://www.cms.gov/medicare/coordination-benefits-recovery/workers-comp-set-aside-arrangements/whats-new",
+      "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/medicare/health-safety-standards/certification-compliance/rural-emergency-hospitals",
       "instances": 1
      },
      {
@@ -11278,11 +11809,19 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/medicare/health-safety-standards/guidance-for-laws-regulations/home-health-agencies",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/nosurprises/policies-and-resources/reports",
       "instances": 1
      },
      {
       "url": "https://www.cms.gov/medicare/payment/fee-schedules/physician/pfs-relative-value-files/rvu25b",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4418cp",
       "instances": 1
      },
      {
@@ -11510,8 +12049,8 @@
     ]
    },
    "sia-r78": {
-    "count": 112,
-    "pages": 61,
+    "count": 118,
+    "pages": 65,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r78",
     "examplePages": [
      "https://www.cms.gov/icd10m/fy2025-version42.0-fullcode-cms/fullcode_cms/P0240.html",
@@ -11548,6 +12087,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56672&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 3
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57450&articleStatus=all&bc=3&sortBy=title&ver=14",
       "instances": 3
      },
@@ -11569,6 +12112,10 @@
      },
      {
       "url": "https://www.cms.gov/icd10m/fy2025-version42.0-fullcode-cms/fullcode_cms/P0224.html",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54975&articleStatus=all&bc=3&sortBy=title&ver=16",
       "instances": 1
      },
      {
@@ -11736,8 +12283,16 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/new-search/reports/national-coverage-medcac-meetings-report.aspx?year=all",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56938&articleStatus=all&bc=3&sortBy=title&ver=46",
       "instances": 3
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=33977&lcdStatus=all&sortBy=title",
+      "instances": 1
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=39230&lcdStatus=all&sortBy=title",
@@ -11908,8 +12463,8 @@
     ]
    },
    "sia-r113": {
-    "count": 152,
-    "pages": 63,
+    "count": 154,
+    "pages": 65,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r113",
     "examplePages": [
      "https://www.cms.gov/icd10m/fy2025-version42.0-fullcode-cms/fullcode_cms/P0240.html",
@@ -11946,6 +12501,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56672&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57450&articleStatus=all&bc=3&sortBy=title&ver=14",
       "instances": 1
      },
@@ -11968,6 +12527,10 @@
      {
       "url": "https://www.cms.gov/icd10m/fy2025-version42.0-fullcode-cms/fullcode_cms/P0224.html",
       "instances": 6
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54975&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 1
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=33739",
@@ -12314,8 +12877,8 @@
     ]
    },
    "sia-r53": {
-    "count": 122,
-    "pages": 121,
+    "count": 130,
+    "pages": 129,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r53",
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=34760&lcdStatus=all&sortBy=title&ver=27",
@@ -12364,6 +12927,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56672&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57450&articleStatus=all&bc=3&sortBy=title&ver=14",
       "instances": 1
      },
@@ -12401,6 +12968,10 @@
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleId=52509",
+      "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54975&articleStatus=all&bc=3&sortBy=title&ver=16",
       "instances": 1
      },
      {
@@ -12528,6 +13099,10 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/medicare/regulations-guidance/original-medicare-payment-regulations",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52767&articleStatus=all&bc=3&sortBy=title&ver=14",
       "instances": 1
      },
@@ -12584,6 +13159,10 @@
       "instances": 1
      },
      {
+      "url": "http://www.cms.gov/nosurprises",
+      "instances": 1
+     },
+     {
       "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=34548&lcdStatus=all&sortBy=title&ver=43",
       "instances": 1
      },
@@ -12593,6 +13172,10 @@
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59049&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
       "instances": 1
      },
      {
@@ -12744,6 +13327,10 @@
       "instances": 1
      },
      {
+      "url": "https://www.cms.gov/medicare-coverage-database/new-search/reports/national-coverage-medcac-meetings-report.aspx?year=all",
+      "instances": 1
+     },
+     {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56938&articleStatus=all&bc=3&sortBy=title&ver=46",
       "instances": 1
      },
@@ -12753,6 +13340,10 @@
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52754&articleStatus=all&bc=3&sortBy=title&ver=6",
+      "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/reports/local-coverage-final-lcds-contractor-report.aspx?contractorName=all&contractorNumber=all&lcdid=33977&lcdStatus=all&sortBy=title",
       "instances": 1
      },
      {
@@ -12769,6 +13360,10 @@
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56395&articleStatus=all&bc=3&sortBy=title&ver=15",
+      "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=36859&lcdStatus=all&sortBy=title&ver=27",
       "instances": 1
      },
      {
@@ -12837,18 +13432,22 @@
     ]
    },
    "sia-r46": {
-    "count": 23,
-    "pages": 13,
+    "count": 25,
+    "pages": 14,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r46",
     "examplePages": [
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56515&articleStatus=all&bc=3&sortBy=title&ver=21",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57450&articleStatus=all&bc=3&sortBy=title&ver=14",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57478&articleStatus=all&bc=3&sortBy=title&ver=37"
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56672&articleStatus=all&bc=3&sortBy=title&ver=16",
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57450&articleStatus=all&bc=3&sortBy=title&ver=14"
     ],
     "affectedPages": [
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56515&articleStatus=all&bc=3&sortBy=title&ver=21",
       "instances": 1
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56672&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "instances": 2
      },
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57450&articleStatus=all&bc=3&sortBy=title&ver=14",
@@ -12906,7 +13505,12 @@
       "html": null
      },
      {
-      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57450&articleStatus=all&bc=3&sortBy=title&ver=14",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56672&articleStatus=all&bc=3&sortBy=title&ver=16",
+      "target": "<th scope=\"col\">",
+      "html": null
+     },
+     {
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56672&articleStatus=all&bc=3&sortBy=title&ver=16",
       "target": "<th scope=\"col\">",
       "html": null
      },
@@ -12916,12 +13520,7 @@
       "html": null
      },
      {
-      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57478&articleStatus=all&bc=3&sortBy=title&ver=37",
-      "target": "<th scope=\"col\">",
-      "html": null
-     },
-     {
-      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57478&articleStatus=all&bc=3&sortBy=title&ver=37",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57450&articleStatus=all&bc=3&sortBy=title&ver=14",
       "target": "<th scope=\"col\">",
       "html": null
      }
@@ -13003,13 +13602,13 @@
     ]
    },
    "sia-r79": {
-    "count": 4,
-    "pages": 4,
+    "count": 5,
+    "pages": 5,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r79",
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/medicare-coverage-document.aspx?MCDId=31",
      "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=304&proposed=Y&sortBy=status&status=all",
-     "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&calid=192&ncacaldoctype=all&proposed=N&sortBy=status&status=all"
+     "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all"
     ],
     "affectedPages": [
      {
@@ -13018,6 +13617,10 @@
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=304&proposed=Y&sortBy=status&status=all",
+      "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
       "instances": 1
      },
      {
@@ -13037,6 +13640,11 @@
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=304&proposed=Y&sortBy=status&status=all",
+      "target": "<pre>",
+      "html": null
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
       "target": "<pre>",
       "html": null
      },
@@ -13053,12 +13661,13 @@
     ]
    },
    "sia-r85": {
-    "count": 43,
-    "pages": 2,
+    "count": 44,
+    "pages": 3,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r85",
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=304&proposed=Y&sortBy=status&status=all",
-     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=21&doctype=all&ncdid=380&ncdver=1&sortBy=updated&timeframe=30"
+     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=21&doctype=all&ncdid=380&ncdver=1&sortBy=updated&timeframe=30",
+     "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all"
     ],
     "affectedPages": [
      {
@@ -13068,6 +13677,10 @@
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=21&doctype=all&ncdid=380&ncdver=1&sortBy=updated&timeframe=30",
       "instances": 42
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 1
      }
     ],
     "instances": [
@@ -13090,12 +13703,17 @@
       "url": "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=21&doctype=all&ncdid=380&ncdver=1&sortBy=updated&timeframe=30",
       "target": "<p>",
       "html": null
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "target": "<p>",
+      "html": null
      }
     ]
    },
    "sia-r70": {
-    "count": 3,
-    "pages": 3,
+    "count": 4,
+    "pages": 4,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r70",
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=304&proposed=Y&sortBy=status&status=all",
@@ -13114,6 +13732,10 @@
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=21&doctype=all&ncdid=380&ncdver=1&sortBy=updated&timeframe=30",
       "instances": 1
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 1
      }
     ],
     "instances": [
@@ -13131,17 +13753,22 @@
       "url": "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=21&doctype=all&ncdid=380&ncdver=1&sortBy=updated&timeframe=30",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
       "html": null
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
      }
     ]
    },
    "sia-r69": {
-    "count": 14,
-    "pages": 3,
+    "count": 16,
+    "pages": 4,
     "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r69",
     "examplePages": [
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52508&articleStatus=all&bc=3&sortBy=title&ver=39",
      "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=33718&lcdStatus=all&sortBy=title&ver=52",
-     "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=39383&lcdStatus=all&sortBy=title&ver=13"
+     "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all"
     ],
     "affectedPages": [
      {
@@ -13150,6 +13777,10 @@
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=33718&lcdStatus=all&sortBy=title&ver=52",
+      "instances": 2
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
       "instances": 2
      },
      {
@@ -13179,8 +13810,8 @@
       "html": null
      },
      {
-      "url": "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=39383&lcdStatus=all&sortBy=title&ver=13",
-      "target": "text: \"Outcomes\"",
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "target": "text: \" Revascularization techniques\"",
       "html": null
      }
     ]
@@ -13278,12 +13909,12 @@
   }
  },
  "consensus": {
-  "uniqueIssues": 2850,
+  "uniqueIssues": 2989,
   "consensus": 57,
-  "axeOnly": 654,
-  "alfaOnly": 2139,
-  "rawAxe": 711,
-  "rawAlfa": 2196,
+  "axeOnly": 671,
+  "alfaOnly": 2261,
+  "rawAxe": 728,
+  "rawAlfa": 2318,
   "byKey": {
    "axe-core:link-in-text-block": {
     "actRuleId": null,
@@ -13291,7 +13922,7 @@
      "link-in-text-block"
     ],
     "alfaRules": [],
-    "pages": 100,
+    "pages": 103,
     "engines": "axe"
    },
    "axe-core:list": {
@@ -13300,7 +13931,7 @@
      "list"
     ],
     "alfaRules": [],
-    "pages": 71,
+    "pages": 73,
     "engines": "axe"
    },
    "axe-core:accesskeys": {
@@ -13369,7 +14000,7 @@
      "color-contrast"
     ],
     "alfaRules": [],
-    "pages": 21,
+    "pages": 22,
     "engines": "axe"
    },
    "axe-core:heading-order": {
@@ -13378,7 +14009,7 @@
      "heading-order"
     ],
     "alfaRules": [],
-    "pages": 85,
+    "pages": 91,
     "engines": "axe"
    },
    "axe-core:scope-attr-valid": {
@@ -13387,7 +14018,7 @@
      "scope-attr-valid"
     ],
     "alfaRules": [],
-    "pages": 9,
+    "pages": 10,
     "engines": "axe"
    },
    "axe-core:listitem": {
@@ -13405,7 +14036,7 @@
      "empty-table-header"
     ],
     "alfaRules": [],
-    "pages": 2,
+    "pages": 3,
     "engines": "axe"
    },
    "axe-core:landmark-unique": {
@@ -13415,6 +14046,15 @@
     ],
     "alfaRules": [],
     "pages": 2,
+    "engines": "axe"
+   },
+   "act:a25f45": {
+    "actRuleId": "a25f45",
+    "axeRules": [
+     "td-headers-attr"
+    ],
+    "alfaRules": [],
+    "pages": 1,
     "engines": "axe"
    },
    "act:c487ae": {
@@ -13453,13 +14093,22 @@
     "pages": 1,
     "engines": "axe"
    },
+   "act:0ssw9k": {
+    "actRuleId": "0ssw9k",
+    "axeRules": [
+     "scrollable-region-focusable"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
    "axe-core:page-has-heading-one": {
     "actRuleId": null,
     "axeRules": [
      "page-has-heading-one"
     ],
     "alfaRules": [],
-    "pages": 2,
+    "pages": 3,
     "engines": "axe"
    },
    "axe-core:landmark-main-is-top-level": {
@@ -13486,7 +14135,7 @@
     "alfaRules": [
      "sia-r73"
     ],
-    "pages": 428,
+    "pages": 452,
     "engines": "alfa"
    },
    "alfa:sia-r61": {
@@ -13495,7 +14144,7 @@
     "alfaRules": [
      "sia-r61"
     ],
-    "pages": 409,
+    "pages": 433,
     "engines": "alfa"
    },
    "alfa:sia-r111": {
@@ -13504,7 +14153,7 @@
     "alfaRules": [
      "sia-r111"
     ],
-    "pages": 429,
+    "pages": 453,
     "engines": "alfa"
    },
    "alfa:sia-r66": {
@@ -13513,7 +14162,7 @@
     "alfaRules": [
      "sia-r66"
     ],
-    "pages": 123,
+    "pages": 129,
     "engines": "alfa"
    },
    "alfa:sia-r74": {
@@ -13522,7 +14171,7 @@
     "alfaRules": [
      "sia-r74"
     ],
-    "pages": 124,
+    "pages": 130,
     "engines": "alfa"
    },
    "act:bc4a75": {
@@ -13531,7 +14180,7 @@
     "alfaRules": [
      "sia-r68"
     ],
-    "pages": 27,
+    "pages": 30,
     "engines": "alfa"
    },
    "act:2ee8b8": {
@@ -13540,7 +14189,7 @@
     "alfaRules": [
      "sia-r14"
     ],
-    "pages": 122,
+    "pages": 128,
     "engines": "alfa"
    },
    "alfa:sia-r62": {
@@ -13558,7 +14207,7 @@
     "alfaRules": [
      "sia-r57"
     ],
-    "pages": 191,
+    "pages": 201,
     "engines": "alfa"
    },
    "alfa:sia-r78": {
@@ -13567,7 +14216,7 @@
     "alfaRules": [
      "sia-r78"
     ],
-    "pages": 61,
+    "pages": 65,
     "engines": "alfa"
    },
    "alfa:sia-r113": {
@@ -13576,7 +14225,7 @@
     "alfaRules": [
      "sia-r113"
     ],
-    "pages": 63,
+    "pages": 65,
     "engines": "alfa"
    },
    "alfa:sia-r53": {
@@ -13585,7 +14234,7 @@
     "alfaRules": [
      "sia-r53"
     ],
-    "pages": 121,
+    "pages": 129,
     "engines": "alfa"
    },
    "act:d0f69e": {
@@ -13594,7 +14243,7 @@
     "alfaRules": [
      "sia-r46"
     ],
-    "pages": 13,
+    "pages": 14,
     "engines": "alfa"
    },
    "alfa:sia-r80": {
@@ -13612,7 +14261,7 @@
     "alfaRules": [
      "sia-r79"
     ],
-    "pages": 4,
+    "pages": 5,
     "engines": "alfa"
    },
    "alfa:sia-r85": {
@@ -13621,7 +14270,7 @@
     "alfaRules": [
      "sia-r85"
     ],
-    "pages": 2,
+    "pages": 3,
     "engines": "alfa"
    },
    "alfa:sia-r70": {
@@ -13630,7 +14279,7 @@
     "alfaRules": [
      "sia-r70"
     ],
-    "pages": 3,
+    "pages": 4,
     "engines": "alfa"
    },
    "alfa:sia-r69": {
@@ -13639,7 +14288,7 @@
     "alfaRules": [
      "sia-r69"
     ],
-    "pages": 3,
+    "pages": 4,
     "engines": "alfa"
    },
    "alfa:sia-r77": {
@@ -13663,21 +14312,21 @@
   }
  },
  "sustainability": {
-  "pages": 715,
-  "medianBytes": 1932480,
-  "meanBytes": 1921114,
+  "pages": 734,
+  "medianBytes": 1932476,
+  "meanBytes": 1925586,
   "medianRequests": 50,
-  "totalCo2g": 203.57,
-  "meanCo2g": 0.2847,
-  "totalEnergyWh": 412.08,
-  "meanEnergyWh": 0.5763
+  "totalCo2g": 209.46,
+  "meanCo2g": 0.2854,
+  "totalEnergyWh": 424.01,
+  "meanEnergyWh": 0.5777
  },
  "deprecatedHtml": {
-  "findingTotal": 1072,
+  "findingTotal": 1132,
   "rules": {
    "presentational-attr": {
-    "count": 1065,
-    "pages": 46,
+    "count": 1121,
+    "pages": 47,
     "help": "Presentational attribute (use CSS)",
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/medcac-meeting.aspx?bc=15&medcacid=21&sortBy=meetingdate&year=all",
@@ -13794,6 +14443,10 @@
       "instances": 89
      },
      {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 56
+     },
+     {
       "url": "https://www.cms.gov/icd10m/fy2025-version42.0-fullcode-cms/fullcode_cms/P0058.html",
       "instances": 15
      },
@@ -13899,13 +14552,13 @@
     ]
    },
    "font-element": {
-    "count": 7,
-    "pages": 3,
+    "count": 11,
+    "pages": 4,
     "help": "Obsolete <font> element (use CSS)",
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=304&proposed=Y&sortBy=status&status=all",
      "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=21&doctype=all&ncdid=380&ncdver=1&sortBy=updated&timeframe=30",
-     "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=269&proposed=Y&sortBy=status&status=all"
+     "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all"
     ],
     "affectedPages": [
      {
@@ -13915,6 +14568,10 @@
      {
       "url": "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=21&doctype=all&ncdid=380&ncdver=1&sortBy=updated&timeframe=30",
       "instances": 2
+     },
+     {
+      "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+      "instances": 4
      },
      {
       "url": "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=269&proposed=Y&sortBy=status&status=all",
@@ -13952,15 +14609,15 @@
   }
  },
  "resources": {
-  "total": 3193,
+  "total": 3280,
   "byType": {
-   "pdf": 1991,
-   "iframe": 677,
+   "pdf": 2057,
+   "iframe": 695,
    "spreadsheet": 88,
-   "archive": 410,
+   "archive": 412,
    "presentation": 5,
    "image": 3,
-   "embedded-media": 2,
+   "embedded-media": 3,
    "document": 6,
    "video": 5,
    "audio": 6
@@ -13974,7 +14631,7 @@
    {
     "url": "https://www.cms.gov/files/document/agent/broker-help-desks.pdf",
     "type": "pdf",
-    "pages": 728
+    "pages": 770
    },
    {
     "url": "https://www.lni.wa.gov/patient-care/treating-patients/treatment-guidelines-and-resources/_docs/2014CervicalGuideline-FINAL.pdf",
@@ -13999,7 +14656,7 @@
    {
     "url": "https://www.cms.gov/Regulations-and-Guidance/Guidance/Manuals/Downloads/bp102c15.pdf",
     "type": "pdf",
-    "pages": 195
+    "pages": 200
    },
    {
     "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=ne1iDVwClkE7nKD3uA9Vqsvl&size=normal&anchor-ms=20000&execute-ms=30000&cb=ao841g8zwit",
@@ -14167,6 +14824,11 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/downloads/r510pi.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/downloads/r1695otn.pdf",
     "type": "pdf",
     "pages": 1
@@ -14275,6 +14937,11 @@
     "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/downloads/r3147cp.pdf",
     "type": "pdf",
     "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/agent/broker-help-desks.pdf",
+    "type": "pdf",
+    "pages": 22
    },
    {
     "url": "https://www.cms.gov/medicare/medicare-fee-for-service-payment/physicianfeesched/downloads/cy2019-carrier-files.zip",
@@ -14687,6 +15354,11 @@
     "pages": 3
    },
    {
+    "url": "http://www.cms.gov/files/document/thursday-july-25-2024-agenda-hospital-open-door-forum.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.nccn.org/professionals/physician_gls/pdf/cns.pdf",
     "type": "pdf",
     "pages": 1
@@ -14764,6 +15436,11 @@
    {
     "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA5jMi08lC2GzyjSxsswBvnkSexKAguVWJI7U3WrVwIzDxthyKmLsL6RrY6kQwCg5A1EYbA32WIagJ8QG4P6izkcBFzIHg",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/downloads/r666pi.pdf",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -15317,6 +15994,16 @@
     "pages": 1
    },
    {
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&size=normal&anchor-ms=20000&execute-ms=30000&cb=l67jmw6efb4",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA45EIbO01oEzihyci7diOY8x5zsbqYuJhVeS_szHuOdVOAYOi1JyWkhzJHBB7moEyXNajSfmnmNaQVfC6_mOOQKFVWGeA",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/files/document/r11636otn.pdf",
     "type": "pdf",
     "pages": 1
@@ -15403,6 +16090,11 @@
    },
    {
     "url": "https://www.hhs.gov/sites/default/files/lang-access-and-effective-comm-checklist-for-emergency-responders.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/downloads/r98demo.pdf",
     "type": "pdf",
     "pages": 1
    },
@@ -15717,6 +16409,11 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/downloads/r2800cp.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.medicare.gov/Pubs/pdf/02174-Nursing-Home-Other-Long-Term-Services.pdf",
     "type": "pdf",
     "pages": 1
@@ -15888,6 +16585,16 @@
    },
    {
     "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019downloads/r4325cp.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://ai.cms.gov/CMS-AI-Playbook.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/files/document/hte-first-wave-launch-mvps.pdf",
     "type": "pdf",
     "pages": 1
    },
@@ -16567,6 +17274,16 @@
     "pages": 1
    },
    {
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&size=normal&anchor-ms=20000&execute-ms=30000&cb=a5m6x0gxanbh",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA5DPsTAqNgz39B3hXry-AHIL7_f3zAbjCKzqE9DCwRuCUgLLa1IdiWA0b99qHa8WfxzJx8QHdZhGCCRW6z3_ZS6ZQTINA",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
     "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=ne1iDVwClkE7nKD3uA9Vqsvl&size=normal&anchor-ms=20000&execute-ms=30000&cb=t3827jkxq586",
     "type": "iframe",
     "pages": 1
@@ -17097,6 +17814,11 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/medicare-medicaid-coordination/fraud-prevention/medicaid-integrity-education/downloads/key-messages-hcbs-%5Bfebruary-2016%5D.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/research-statistics-data-and-systems/statistics-trends-and-reports/reports/downloads/lvp_rtc_2_09_06.pdf",
     "type": "pdf",
     "pages": 1
@@ -17179,7 +17901,7 @@
    {
     "url": "https://www.cms.gov/files/document/cpi-roi-fy25-pdf.pdf",
     "type": "pdf",
-    "pages": 2
+    "pages": 3
    },
    {
     "url": "https://www.cms.gov/files/document/cpi-quarterly-dashboard.pdf",
@@ -17474,6 +18196,11 @@
    {
     "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA72xAq0206_t1uiYPibMcztfPqV8X_0l7OkEI3aj0sVH0Gqgi5raPvWSd6TCRBAVaH8r5_W8gLJaGcDb53d-gzudKlO1w",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/regulations-and-guidance/review-boards/mgcrb/downloads/mgcrb-faqs-for-fy-2021-applications.pdf",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -17983,6 +18710,16 @@
    },
    {
     "url": "https://www.cms.gov/files/document/r4p248f.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/files/document/r12425gi.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/files/document/mm13222-new-condition-code-92-billing-requirements-intensive-outpatient-program-services.pdf",
     "type": "pdf",
     "pages": 1
    },
@@ -18552,6 +19289,16 @@
     "pages": 1
    },
    {
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&size=normal&anchor-ms=20000&execute-ms=30000&cb=xs7kab3y1prt",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA52yhM1oio3ZAYd7oCdsvL-xThPhow8Md-_QBRvrWgMpGNRyXL-gF3fmJ4I8APOU--3T4Nt38qEvrryiA6NnzD-QLaQ_Q",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/downloads/r2696cp.pdf",
     "type": "pdf",
     "pages": 1
@@ -18992,6 +19739,16 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/cciio/programs-and-initiatives/health-insurance-market-reforms/downloads/2017-state-specific-age-curve-variations-8-9-2013.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/cciio/programs-and-initiatives/health-insurance-market-reforms/downloads/statespecagecrv053117.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/files/document/r13025cp.pdf",
     "type": "pdf",
     "pages": 1
@@ -19114,6 +19871,11 @@
    {
     "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=ne1iDVwClkE7nKD3uA9Vqsvl&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA75SDsRbhDgCenNBV4vWsdBap9Bt4Iv4aBuir3qFpgmDRnpmASsBxBV3Iuz9CB1BHJxbzkvp3o-Ov-WIWiyMpQ_hwj2tg",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/files/zip/snp-hedis-pufs-2022.zip",
+    "type": "archive",
     "pages": 1
    },
    {
@@ -19272,6 +20034,16 @@
     "pages": 1
    },
    {
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&size=normal&anchor-ms=20000&execute-ms=30000&cb=d45l5ckkglm7",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA6Uy95TBdDjAYWltrQIPe60oYFJn1KWZsszO3-w35vOLy_qC5eyjyzCsMN8lTtpnOTYpDzOuGtUZKmc7wKjySeJpAc6OQ",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019downloads/r2218otn.pdf",
     "type": "pdf",
     "pages": 1
@@ -19382,6 +20154,21 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/files/document/r13432cp.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/files/zip/r13432cp1.zip",
+    "type": "archive",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/files/document/mm14204-chimeric-antigen-receptor-t-cell-therapy-claims-end-risk-evaluation-mitigation-strategy-kx.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/Medicare/Coverage/DeterminationProcess/Downloads/id13TA.pdf",
     "type": "pdf",
     "pages": 1
@@ -19419,6 +20206,11 @@
    {
     "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA7fvYtbiNosBi2gw6-rGuQ0g-mYEIi69Td_g6pK60i1GL9PqGFNq1evssSI_6XFFuqV5TuYP3ID_KtdIMVtT7l5443xtQ",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/downloads/r3189cp.pdf",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -19877,6 +20669,16 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/files/document/r11146cp.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/files/document/mm12519-summary-policies-calendar-year-cy-2022-medicare-physician-fee-schedule-mpfs-final-rule.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/downloads/r2709cp.pdf",
     "type": "pdf",
     "pages": 1
@@ -20018,6 +20820,11 @@
    },
    {
     "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2017downloads/r1970otn.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019downloads/r2353otn.pdf",
     "type": "pdf",
     "pages": 1
    },
@@ -20802,6 +21609,16 @@
     "pages": 1
    },
    {
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&size=normal&anchor-ms=20000&execute-ms=30000&cb=3to9yk7jwrdt",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA5BnAzSU1nwXu8g2Pcx_jL0cQ8s0An-cBZRY7MZrW7wVH2W85J_T6jYWj51ldqQ3NeCIYBMl3yPB62M95BLSiQE2GiudQ",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
     "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&size=normal&anchor-ms=20000&execute-ms=30000&cb=gxgimqxs7p2h",
     "type": "iframe",
     "pages": 1
@@ -21017,6 +21834,16 @@
     "pages": 1
    },
    {
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&size=normal&anchor-ms=20000&execute-ms=30000&cb=ay00ktj0h8kn",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA5m8e8XGsXNZ6dGA6B4avFgbuLgbQTOoIIWhcwTQSGZp3HVXWDnnkjmTmpCoaNJMLvND1rIWkudVbWJlkFlRix8BET-fw",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
     "url": "https://www.nccn.org/professionals/physician_gls/pdf/waldenstroms.pdf",
     "type": "pdf",
     "pages": 1
@@ -21147,6 +21974,11 @@
     "pages": 1
    },
    {
+    "url": "https://www.youtube.com/embed/juE4Q8AHBAk?enablejsapi=1",
+    "type": "embedded-media",
+    "pages": 1
+   },
+   {
     "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&size=normal&anchor-ms=20000&execute-ms=30000&cb=sdygq2irge3x",
     "type": "iframe",
     "pages": 1
@@ -21154,6 +21986,11 @@
    {
     "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA78UHh5ByOR7xAZPgfNo5Edh0w5Jxnid8vZCSq_j11s8Z5Rkm4uJIIjpHviM6YryXmb10xskKxOz1DwKRjzlwHENW_KWw",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019downloads/r2282otn.pdf",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -21617,6 +22454,16 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/Medicare/Coverage/DeterminationProcess/downloads/id311.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/files/document/id311.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019downloads/r4244cp.pdf",
     "type": "pdf",
     "pages": 1
@@ -22029,6 +22876,16 @@
    {
     "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2017downloads/r1944otn.pdf",
     "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&size=normal&anchor-ms=20000&execute-ms=30000&cb=fitl5l5sawg1",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA4AooL-BMmurAWGtdkUeRqvabkH1UGAsEW3wGJSsb91dD1rkg8WmRmqS4-dPDZ_Ee_miaW9WSviQ6H-QUhAw47yL6Bv_A",
+    "type": "iframe",
     "pages": 1
    },
    {
@@ -22722,6 +23579,11 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/files/document/r13461cp.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.govinfo.gov/content/pkg/FR-2025-11-28/pdf/2025-21458.pdf",
     "type": "pdf",
     "pages": 1
@@ -22927,6 +23789,11 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019downloads/r4280cp.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=ne1iDVwClkE7nKD3uA9Vqsvl&size=normal&anchor-ms=20000&execute-ms=30000&cb=si0cntvxppde",
     "type": "iframe",
     "pages": 1
@@ -22994,6 +23861,36 @@
    {
     "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA4Ltu9_Z_NZcnM0TyNER4MIL6Im8uvF2BNON9xoaWLC0mxdZFR1_fditt9R7yU7jID0mtVIKQbYjCY7uDfgSBWfnjlbAg",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.govinfo.gov/content/pkg/FR-2022-11-23/pdf/2022-23918.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/regulations-and-guidance/guidance/manuals/downloads/som107ap_v_emerg.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/medicare/cms-forms/cms-forms/downloads/cms855a.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/qso-23-07-reh-original-release-2023-01-26.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/regulations-and-guidance/guidance/manuals/downloads/pim83c10.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/rural-emergency-hospitals-factsheet-september-2024.pdf",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -23208,6 +24105,26 @@
    },
    {
     "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA5DbZmfGtDZPLU-y44QIWf3Ng8j-CKwYsAVldVN5hkI11xPKGojtQoUb0OYCsotBgLp4QYkgWmYsjk8npRQIwgtnJAlgg",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/faca/downloads/id16pdf.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/Regulations-and-Guidance/Guidance/FACA/downloads/id16a.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&size=normal&anchor-ms=20000&execute-ms=30000&cb=lq8hx03x6exg",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA64mr83-UvlrL3EVCS73FpkszNM2vQibhRAnxiqaQM-wAlD1zNDjBvDDqScLM4_JwATxr4BQG0Ju1DCBLx0fARpMmAqzQ",
     "type": "iframe",
     "pages": 1
    },
@@ -24159,7 +25076,7 @@
    {
     "url": "https://www.govinfo.gov/content/pkg/COMPS-10651/pdf/COMPS-10651.pdf",
     "type": "pdf",
-    "pages": 2
+    "pages": 3
    },
    {
     "url": "https://www.cms.gov/files/document/r6p242i.pdf",
@@ -24189,6 +25106,11 @@
    {
     "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA5-8X97CLAPwfEU8WFqnowT2l-kTIqM9v1qjt0ipMYfEtcfg3pKhbkLNRazBL1tQouaPTzDURQdwIl-9Qhf0UCAavotlw",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/medicare-medicaid-coordination/fraud-prevention/fraudabuseforprofs/downloads/2008-best-practices-medicaid-pi-unit-int-with-mfcu.pdf",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -24569,6 +25491,46 @@
    {
     "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=ne1iDVwClkE7nKD3uA9Vqsvl&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA7Q4mX59E86hb6JGvXiIKCS1c_P-uQn876MGv5PFeVbnGZFSB7TBNEHdLwrMBHhU1zS3dMSP2m-7QZwlMg7al_kWscccg",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/medicare/prescription-drug-coverage/limitedincomeandresources/downloads/11198.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/medicare/prescription-drug-coverage/limitedincomeandresources/downloads/11199.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/medicare/prescription-drug-coverage/limitedincomeandresources/downloads/11208.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/medicare/prescription-drug-coverage/limitedincomeandresources/downloads/11267.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/medicare/prescription-drug-coverage/limitedincomeandresources/downloads/consumer-mailings.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/outreach-and-education/outreach/partnerships/downloads/11221-p.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/cy2026-lis-resource-limits-memo.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.medicare.gov/publications/11215-extra-help-not-automatically-qualify.pdf",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -26947,11 +27909,6 @@
     "pages": 1
    },
    {
-    "url": "http://www.cms.gov/files/document/agent/broker-help-desks.pdf",
-    "type": "pdf",
-    "pages": 1
-   },
-   {
     "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&size=normal&anchor-ms=20000&execute-ms=30000&cb=tlbilcdazgt6",
     "type": "iframe",
     "pages": 1
@@ -27437,6 +28394,11 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/files/document/r12256cp.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/files/document/r12183ncd.pdf",
     "type": "pdf",
     "pages": 1
@@ -27589,6 +28551,16 @@
    {
     "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA7mDU2DxuxQ8ixlV7A0p_u7kf3GxzKXD_ksPFXIPncMD1sznvBcb3WuU_5h_NcaWXLI6jFhtvCbU3vGb-1biK_rM9KjVA",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/downloads/r1450otn.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/medicare-coverage-database/help/Document_Type_Descriptions.pdf?t=639172080328873193",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -27812,6 +28784,11 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/downloads/r1307otn.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=ne1iDVwClkE7nKD3uA9Vqsvl&size=normal&anchor-ms=20000&execute-ms=30000&cb=5n6hwltauv26",
     "type": "iframe",
     "pages": 1
@@ -27997,6 +28974,11 @@
     "pages": 1
    },
    {
+    "url": "http://www.cms.gov/medicare-coverage-database/help/Document_Type_Descriptions.pdf?t=639172077922294575",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/files/zip/april-2023-hh-pps-grouper-software-hh-pdgm-v04123-posted-02/21/2023.zip",
     "type": "archive",
     "pages": 1
@@ -28014,6 +28996,71 @@
    {
     "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA4mdmD2dzwhEsfomod8Z4mR7hUgJYBZ5T4UBOWiSo_pJE1CZw-7RSxGKEkDdXh3g-2T2wcnuCXd8C-lW8QujdRxA6M9GQ",
     "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/cpi-quarterly-dashboard.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/cpi-fdoc-fact-sheet-updated-first-year.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/hospice-fact-sheet-1-28-26.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/cpi-roi-fy25-pdf.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/cpi-dual-enrollment-fast-facts.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/hot-spot-dmepos-suppliers.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/cpi-fraud-spotlight-marketplace.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/crushing-fraud-annual-report.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/cpi-data-dashboard-january-update.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/cpi-radvfact-sheet.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/cpi-moratoria-fast-facts.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/risk-assessment-template.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/sample-beneficiary-hospice-notification.pdf",
+    "type": "pdf",
     "pages": 1
    },
    {
@@ -28043,6 +29090,11 @@
    },
    {
     "url": "http://cms.gov/files/document/chroniccaremanagement.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "http://www.cms.gov/files/document/qssam-26-03-hospital-cah-original-release-2026-03-30.pdf",
     "type": "pdf",
     "pages": 1
    },
@@ -28502,7 +29554,22 @@
     "pages": 1
    },
    {
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&size=normal&anchor-ms=20000&execute-ms=30000&cb=lujdzd86togr",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&bft=0dAFcWeA5GNO1wLeeC27ONIlKOE8ldqVpIQxtJmWvSW0lEFUL-bzfDEmjhS4luF8sWtWA3TWNy9nsKKG_z7v2-4hwSmo3dgQiw4A",
+    "type": "iframe",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/files/document/administrator-remand-empire-health-foundation-valley-hospital-medical-center-medicare-cost-report-09.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019downloads/r4412cp.pdf",
     "type": "pdf",
     "pages": 1
    },
@@ -28567,6 +29634,11 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019downloads/r4418cp.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.cms.gov/files/document/r11453otn.pdf",
     "type": "pdf",
     "pages": 1
@@ -28578,6 +29650,16 @@
    },
    {
     "url": "https://www.cms.gov/files/document/h-23-00005-decision.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.gpo.gov/fdsys/pkg/PLAW-111publ148/pdf/PLAW-111publ148.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.congress.gov/113/plaws/publ185/PLAW-113publ185.pdf",
     "type": "pdf",
     "pages": 1
    },
@@ -29287,6 +30369,16 @@
     "pages": 1
    },
    {
+    "url": "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019downloads/r2281otn.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
+    "url": "https://www.cms.gov/outreach-and-education/medicare-learning-network-mln/mlnmattersarticles/downloads/mm11003.pdf",
+    "type": "pdf",
+    "pages": 1
+   },
+   {
     "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le5sgYTAAAAAAfYUrrXelM08neQEbZ7-zTvjrbL&co=aHR0cHM6Ly93d3cuY21zLmdvdjo0NDM.&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&size=normal&anchor-ms=20000&execute-ms=30000&cb=3rhjd6gntb5u",
     "type": "iframe",
     "pages": 1
@@ -29934,83 +31026,83 @@
   ]
  },
  "standards": {
-  "pagesChecked": 414,
+  "pagesChecked": 467,
   "checks": [
    {
     "id": "hreflang",
     "label": "hreflang alternates declared",
     "pass": 0,
-    "total": 414,
+    "total": 467,
     "rate": 0
    },
    {
     "id": "open-graph",
     "label": "Open Graph tags (0/6)",
     "pass": 0,
-    "total": 414,
+    "total": 467,
     "rate": 0
    },
    {
     "id": "twitter-card",
     "label": "Twitter card metadata",
     "pass": 0,
-    "total": 414,
+    "total": 467,
     "rate": 0
    },
    {
     "id": "open-social",
     "label": "Open social presence (Mastodon/Bluesky) linked",
     "pass": 0,
-    "total": 414,
+    "total": 467,
     "rate": 0
    },
    {
     "id": "schema-gov",
     "label": "schema.org GovernmentOrganization markup",
     "pass": 10,
-    "total": 414,
+    "total": 467,
     "rate": 2
    },
    {
     "id": "canonical",
     "label": "Canonical URL declared",
-    "pass": 235,
-    "total": 414,
-    "rate": 57
+    "pass": 277,
+    "total": 467,
+    "rate": 59
    },
    {
     "id": "description",
     "label": "Meta description present",
-    "pass": 256,
-    "total": 414,
+    "pass": 291,
+    "total": 467,
     "rate": 62
    },
    {
     "id": "charset",
     "label": "Character encoding declared",
-    "pass": 391,
-    "total": 414,
-    "rate": 94
+    "pass": 444,
+    "total": 467,
+    "rate": 95
    },
    {
     "id": "lang",
     "label": "Document language (lang) set",
-    "pass": 391,
-    "total": 414,
-    "rate": 94
+    "pass": 444,
+    "total": 467,
+    "rate": 95
    },
    {
     "id": "viewport",
     "label": "Responsive viewport (zoom not disabled)",
-    "pass": 391,
-    "total": 414,
-    "rate": 94
+    "pass": 444,
+    "total": 467,
+    "rate": 95
    },
    {
     "id": "title",
     "label": "Page has a <title>",
-    "pass": 414,
-    "total": 414,
+    "pass": 467,
+    "total": 467,
     "rate": 100
    }
   ],
@@ -30071,77 +31163,77 @@
   "total": 8
  },
  "plainLanguage": {
-  "pagesChecked": 634,
-  "pagesScored": 229,
-  "medianWordsPerPage": 569,
+  "pagesChecked": 670,
+  "pagesScored": 241,
+  "medianWordsPerPage": 546,
   "medianReadingEase": 40.6,
-  "medianGrade": 14,
+  "medianGrade": 14.1,
   "topUnexplainedAcronyms": [
    {
     "acronym": "ICD",
-    "pages": 212
-   },
-   {
-    "acronym": "API",
-    "pages": 175
-   },
-   {
-    "acronym": "PDF",
-    "pages": 174
+    "pages": 218
    },
    {
     "acronym": "CR",
-    "pages": 174
+    "pages": 185
+   },
+   {
+    "acronym": "API",
+    "pages": 180
+   },
+   {
+    "acronym": "PDF",
+    "pages": 180
    },
    {
     "acronym": "ID",
-    "pages": 172
+    "pages": 176
    },
    {
     "acronym": "CMS",
-    "pages": 158
+    "pages": 170
    },
    {
     "acronym": "CPT",
-    "pages": 143
+    "pages": 146
    },
    {
     "acronym": "CM",
-    "pages": 143
+    "pages": 145
    },
    {
     "acronym": "UB",
-    "pages": 136
-   },
-   {
-    "acronym": "CP",
-    "pages": 111
+    "pages": 139
    },
    {
     "acronym": "PM",
-    "pages": 111
+    "pages": 123
+   },
+   {
+    "acronym": "CP",
+    "pages": 116
    },
    {
     "acronym": "MM",
-    "pages": 109
+    "pages": 114
    },
    {
     "acronym": "NOT",
-    "pages": 105
-   },
-   {
-    "acronym": "PCS",
-    "pages": 98
+    "pages": 106
    },
    {
     "acronym": "HCPCS",
-    "pages": 97
+    "pages": 100
+   },
+   {
+    "acronym": "PCS",
+    "pages": 99
    }
   ],
   "topMisspellings": [
    {
     "word": "LCDs",
-    "pages": 81,
+    "pages": 84,
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=39770&lcdStatus=all&sortBy=title&ver=13",
      "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=34520&lcdStatus=all&sortBy=title&ver=32",
@@ -30152,18 +31244,18 @@
    },
    {
     "word": "www",
-    "pages": 80,
+    "pages": 84,
     "examplePages": [
      "https://www.cms.gov/about-cms/information-systems/privacy/notice-privacy-practices-original-medicare",
      "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FOctober-2012-ASP-Pricing-File.zip",
      "https://www.cms.gov/newsroom/press-releases/medicare-shared-savings-program-saves-medicare-more-1-6-billion-2021-continues-deliver-high-quality",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56929&articleStatus=all&bc=3&sortBy=title&ver=15",
-     "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2FDownloads%2F2017-October-ASP-Pricing-File.zip"
+     "http://www.cms.gov/glossary"
     ]
    },
    {
     "word": "Noridian",
-    "pages": 67,
+    "pages": 70,
     "examplePages": [
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleId=55528&ver=5",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60197&articleStatus=all&bc=3&sortBy=title&ver=4",
@@ -30174,7 +31266,7 @@
    },
    {
     "word": "Transmittals",
-    "pages": 64,
+    "pages": 68,
     "examplePages": [
      "https://www.cms.gov/medicare/regulations-guidance/transmittals/2018-transmittals?items_per_page=25&order=field_dyna_cr_number&page=0&sort=asc",
      "https://www.cms.gov/medicare/regulations-guidance/transmittals/2021-transmittals?page=11",
@@ -30185,29 +31277,29 @@
    },
    {
     "word": "cms",
-    "pages": 60,
+    "pages": 63,
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=174&sortBy=status&status=all",
      "https://www.cms.gov/newsroom/press-releases/medicare-shared-savings-program-saves-medicare-more-1-6-billion-2021-continues-deliver-high-quality",
      "https://www.cms.gov/medicare/audits-compliance/part-c-d/program-audits",
-     "https://www.cms.gov/training-education/partner-outreach-resources/partner-cms/respiratory-virus-vaccine-partner-toolkit",
-     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=67&sortBy=status&status=all"
+     "http://www.cms.gov/glossary",
+     "https://www.cms.gov/training-education/partner-outreach-resources/partner-cms/respiratory-virus-vaccine-partner-toolkit"
     ]
    },
    {
     "word": "http",
-    "pages": 56,
+    "pages": 58,
     "examplePages": [
      "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FOctober-2012-ASP-Pricing-File.zip",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56929&articleStatus=all&bc=3&sortBy=title&ver=15",
+     "http://www.cms.gov/glossary",
      "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2FDownloads%2F2017-October-ASP-Pricing-File.zip",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59700&articleStatus=all&bc=3&sortBy=title&ver=5",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56515&articleStatus=all&bc=3&sortBy=title&ver=21"
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59700&articleStatus=all&bc=3&sortBy=title&ver=5"
     ]
    },
    {
     "word": "NCDs",
-    "pages": 50,
+    "pages": 52,
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=39770&lcdStatus=all&sortBy=title&ver=13",
      "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=174&sortBy=status&status=all",
@@ -30218,7 +31310,7 @@
    },
    {
     "word": "ama",
-    "pages": 48,
+    "pages": 49,
     "examplePages": [
      "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FOctober-2012-ASP-Pricing-File.zip",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56929&articleStatus=all&bc=3&sortBy=title&ver=15",
@@ -30229,7 +31321,7 @@
    },
    {
     "word": "cpt",
-    "pages": 47,
+    "pages": 48,
     "examplePages": [
      "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FOctober-2012-ASP-Pricing-File.zip",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56929&articleStatus=all&bc=3&sortBy=title&ver=15",
@@ -30240,7 +31332,7 @@
    },
    {
     "word": "procurements",
-    "pages": 46,
+    "pages": 47,
     "examplePages": [
      "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FOctober-2012-ASP-Pricing-File.zip",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56929&articleStatus=all&bc=3&sortBy=title&ver=15",
@@ -30251,7 +31343,7 @@
    },
    {
     "word": "merchantability",
-    "pages": 43,
+    "pages": 44,
     "examplePages": [
      "https://www.cms.gov/apps/ama/license.asp?file=%2FMedicare%2FMedicare-Fee-for-Service-Part-B-Drugs%2FMcrPartBDrugAvgSalesPrice%2Fdownloads%2FOctober-2012-ASP-Pricing-File.zip",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56929&articleStatus=all&bc=3&sortBy=title&ver=15",
@@ -30261,8 +31353,19 @@
     ]
    },
    {
+    "word": "Prosthetics",
+    "pages": 40,
+    "examplePages": [
+     "https://www.cms.gov/regulations-and-guidanceguidancetransmittals2019-transmittals/r4478cp",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_issue_date&page=7&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2017-transmittals?items_per_page=25&order=field_dyna_issue_date&page=12&sort=asc",
+     "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=33795&lcdStatus=all&sortBy=title&ver=29",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=8&sort=asc"
+    ]
+   },
+   {
     "word": "Ctrl",
-    "pages": 37,
+    "pages": 38,
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=174&sortBy=status&status=all",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56929&articleStatus=all&bc=3&sortBy=title&ver=15",
@@ -30273,7 +31376,7 @@
    },
    {
     "word": "cptOpens",
-    "pages": 37,
+    "pages": 38,
     "examplePages": [
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56929&articleStatus=all&bc=3&sortBy=title&ver=15",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56515&articleStatus=all&bc=3&sortBy=title&ver=21",
@@ -30283,19 +31386,8 @@
     ]
    },
    {
-    "word": "Prosthetics",
-    "pages": 36,
-    "examplePages": [
-     "https://www.cms.gov/regulations-and-guidanceguidancetransmittals2019-transmittals/r4478cp",
-     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_issue_date&page=7&sort=asc",
-     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2017-transmittals?items_per_page=25&order=field_dyna_issue_date&page=12&sort=asc",
-     "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=33795&lcdStatus=all&sortBy=title&ver=29",
-     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=8&sort=asc"
-    ]
-   },
-   {
     "word": "NCDsN",
-    "pages": 36,
+    "pages": 37,
     "examplePages": [
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56929&articleStatus=all&bc=3&sortBy=title&ver=15",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59700&articleStatus=all&bc=3&sortBy=title&ver=5",
@@ -30305,8 +31397,30 @@
     ]
    },
    {
+    "word": "hhs",
+    "pages": 36,
+    "examplePages": [
+     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=174&sortBy=status&status=all",
+     "https://www.cms.gov/medicare/audits-compliance/part-c-d/program-audits",
+     "https://www.cms.gov/training-education/partner-outreach-resources/partner-cms/respiratory-virus-vaccine-partner-toolkit",
+     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=67&sortBy=status&status=all",
+     "http://www.cms.gov/marketplace/health-plans-issuers/qualified-health-plan-certification"
+    ]
+   },
+   {
+    "word": "Orthotics",
+    "pages": 36,
+    "examplePages": [
+     "https://www.cms.gov/regulations-and-guidanceguidancetransmittals2019-transmittals/r4478cp",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_issue_date&page=7&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2017-transmittals?items_per_page=25&order=field_dyna_issue_date&page=12&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=8&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2016-transmittals?items_per_page=25&order=field_dyna_issue_date&page=9&sort=asc"
+    ]
+   },
+   {
     "word": "MolDX",
-    "pages": 34,
+    "pages": 35,
     "examplePages": [
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60197&articleStatus=all&bc=3&sortBy=title&ver=4",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59131&articleStatus=all&bc=3&sortBy=title&ver=3",
@@ -30316,18 +31430,29 @@
     ]
    },
    {
-    "word": "hhs",
+    "word": "MexicoNorth",
     "pages": 34,
     "examplePages": [
-     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=174&sortBy=status&status=all",
-     "https://www.cms.gov/medicare/audits-compliance/part-c-d/program-audits",
-     "https://www.cms.gov/training-education/partner-outreach-resources/partner-cms/respiratory-virus-vaccine-partner-toolkit",
-     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=67&sortBy=status&status=all",
-     "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=214&sortBy=status&status=all"
+     "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=34760&lcdStatus=all&sortBy=title&ver=27",
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59700&articleStatus=all&bc=3&sortBy=title&ver=5",
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52498&articleStatus=all&bc=3&sortBy=title&ver=64",
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58395&articleStatus=all&bc=3&sortBy=title&ver=40",
+     "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdId=35755&ver=35"
     ]
    },
    {
-    "word": "MexicoNorth",
+    "word": "https",
+    "pages": 34,
+    "examplePages": [
+     "https://www.cms.gov/newsroom/press-releases/medicare-shared-savings-program-saves-medicare-more-1-6-billion-2021-continues-deliver-high-quality",
+     "https://www.cms.gov/contacts/i-care-insurance-counseling-assistance-and-referrals-elders/general-beneficiary-contact/1562201",
+     "https://www.cms.gov/newsroom/fact-sheets/strengthening-cms-oversight-accrediting-organizations",
+     "https://www.cms.gov/newsroom/news-alert/cms-announces-resources-flexibilities-assist-public-health-emergency-state-florida-0",
+     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=18&chapter=190&labOnly=labonlyncd&ncdid=134&ncdver=1&sortBy=chapter"
+    ]
+   },
+   {
+    "word": "HampshireNew",
     "pages": 33,
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=34760&lcdStatus=all&sortBy=title&ver=27",
@@ -30338,97 +31463,64 @@
     ]
    },
    {
-    "word": "HampshireNew",
-    "pages": 32,
-    "examplePages": [
-     "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=34760&lcdStatus=all&sortBy=title&ver=27",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59700&articleStatus=all&bc=3&sortBy=title&ver=5",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52498&articleStatus=all&bc=3&sortBy=title&ver=64",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58395&articleStatus=all&bc=3&sortBy=title&ver=40",
-     "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdId=35755&ver=35"
-    ]
-   },
-   {
     "word": "JerseyNew",
-    "pages": 32,
+    "pages": 33,
     "examplePages": [
      "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=34760&lcdStatus=all&sortBy=title&ver=27",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59700&articleStatus=all&bc=3&sortBy=title&ver=5",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52498&articleStatus=all&bc=3&sortBy=title&ver=64",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58395&articleStatus=all&bc=3&sortBy=title&ver=40",
      "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdId=35755&ver=35"
-    ]
-   },
-   {
-    "word": "Orthotics",
-    "pages": 32,
-    "examplePages": [
-     "https://www.cms.gov/regulations-and-guidanceguidancetransmittals2019-transmittals/r4478cp",
-     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_issue_date&page=7&sort=asc",
-     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2017-transmittals?items_per_page=25&order=field_dyna_issue_date&page=12&sort=asc",
-     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=8&sort=asc",
-     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2016-transmittals?items_per_page=25&order=field_dyna_issue_date&page=9&sort=asc"
-    ]
-   },
-   {
-    "word": "https",
-    "pages": 32,
-    "examplePages": [
-     "https://www.cms.gov/newsroom/press-releases/medicare-shared-savings-program-saves-medicare-more-1-6-billion-2021-continues-deliver-high-quality",
-     "https://www.cms.gov/contacts/i-care-insurance-counseling-assistance-and-referrals-elders/general-beneficiary-contact/1562201",
-     "https://www.cms.gov/newsroom/fact-sheets/strengthening-cms-oversight-accrediting-organizations",
-     "https://www.cms.gov/newsroom/news-alert/cms-announces-resources-flexibilities-assist-public-health-emergency-state-florida-0",
-     "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?bc=18&chapter=190&labOnly=labonlyncd&ncdid=134&ncdver=1&sortBy=chapter"
     ]
    },
    {
     "word": "orgOpens",
-    "pages": 31,
+    "pages": 32,
     "examplePages": [
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56929&articleStatus=all&bc=3&sortBy=title&ver=15",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56859&articleStatus=all&bc=3&sortBy=title&ver=7",
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54975&articleStatus=all&bc=3&sortBy=title&ver=16",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59423&articleStatus=all&bc=3&sortBy=title&ver=4",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59184&articleStatus=all&bc=3&sortBy=title&ver=2",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59737&articleStatus=all&bc=3&sortBy=title&ver=3"
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59184&articleStatus=all&bc=3&sortBy=title&ver=2"
     ]
    },
    {
     "word": "nonuse",
-    "pages": 29,
+    "pages": 30,
     "examplePages": [
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56929&articleStatus=all&bc=3&sortBy=title&ver=15",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56859&articleStatus=all&bc=3&sortBy=title&ver=7",
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54975&articleStatus=all&bc=3&sortBy=title&ver=16",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59423&articleStatus=all&bc=3&sortBy=title&ver=4",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59184&articleStatus=all&bc=3&sortBy=title&ver=2",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59737&articleStatus=all&bc=3&sortBy=title&ver=3"
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59184&articleStatus=all&bc=3&sortBy=title&ver=2"
     ]
    },
    {
     "word": "nubc",
-    "pages": 27,
+    "pages": 28,
     "examplePages": [
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56929&articleStatus=all&bc=3&sortBy=title&ver=15",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56859&articleStatus=all&bc=3&sortBy=title&ver=7",
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54975&articleStatus=all&bc=3&sortBy=title&ver=16",
      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59423&articleStatus=all&bc=3&sortBy=title&ver=4",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59184&articleStatus=all&bc=3&sortBy=title&ver=2",
-     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57972&articleStatus=all&bc=3&sortBy=title&ver=12"
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59184&articleStatus=all&bc=3&sortBy=title&ver=2"
     ]
    }
   ]
  },
  "lighthouse": {
-  "pagesSampled": 242,
-  "medianPerformance": 65,
+  "pagesSampled": 267,
+  "medianPerformance": 64,
   "medianAccessibility": 100,
   "medianBestPractices": 96,
   "medianSeo": 92,
   "medianAgentic": null,
   "metrics": {
-   "firstContentfulPaintMs": 1843,
-   "largestContentfulPaintMs": 5193,
-   "speedIndexMs": 2739,
-   "totalBlockingTimeMs": 300,
-   "cumulativeLayoutShift": 0
+   "firstContentfulPaintMs": 1845,
+   "largestContentfulPaintMs": 5169,
+   "speedIndexMs": 2653,
+   "totalBlockingTimeMs": 304,
+   "cumulativeLayoutShift": 0.07
   }
  },
  "linkCheck": {
@@ -31032,7 +32124,57 @@
      "http://www.cms.gov/cmsfeeds",
      "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=39923&lcdStatus=all&sortBy=title&ver=9",
      "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2013-transmittals-items/r87soma",
-     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2016-transmittals?items_per_page=25&order=field_dyna_cr_number&page=7&sort=desc"
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2016-transmittals?items_per_page=25&order=field_dyna_cr_number&page=7&sort=desc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2025-transmittals/r13432cp",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2013-transmittals-items/r2800cp",
+     "http://www.cms.gov/training-education/open-door-forums/hospitals",
+     "http://www.cms.gov/priorities/innovation/about",
+     "http://www.cms.gov/priorities/make-hospital-food-healthier-pledge/overview",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4280cp",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2018-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=8&sort=asc",
+     "http://www.cms.gov/nosurprises",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2025-transmittals/r13461cp",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2015-transmittals-items/r3189cp",
+     "http://www.cms.gov/medicare/regulations-guidance/original-medicare-payment-regulations",
+     "http://www.cms.gov/marketplace/health-plans-issuers/qualified-health-plan-certification",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals/r12256cp",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4412cp",
+     "http://www.cms.gov/medicare/forms-notices/cms-forms",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_transmittal_number&page=14&sort=desc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=12&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2018-transmittals?items_per_page=25&order=field_dyna_pe_number&page=10&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2022-transmittals?items_per_page=25&order=field_dyna_issue_date&page=2&sort=asc",
+     "http://www.cms.gov/about-cms/web-policies-important-links/help",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_revision_date&page=0&sort=desc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2022-transmittals?items_per_page=25&order=field_dyna_revision_date&page=16&sort=desc",
+     "http://www.cms.gov/medicare/health-drug-plans/plan-payment-data",
+     "http://www.cms.gov/glossary",
+     "http://www.cms.gov/medicare-coverage-database/view/ncacal-public-comments.aspx?bc=17&ncacaldoctype=all&ncaid=311&sortBy=status&status=all",
+     "http://www.cms.gov/medicare/health-safety-standards/quality-safety-oversight-general-information",
+     "http://www.cms.gov/training-education/find-provider-type/health-drug-plans",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r2282otn",
+     "http://www.cms.gov/medicare/health-safety-standards/certification-compliance/rural-emergency-hospitals",
+     "http://www.cms.gov/marketplace/states/state-marketplace-resources",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r2281otn",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2013-transmittals-items/r1307otn",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_revision_date&page=4&sort=desc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=6&sort=asc",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r2353otn",
+     "http://www.cms.gov/medicare/health-safety-standards/guidance-for-laws-regulations/home-health-agencies",
+     "http://www.cms.gov/marketplace/in-person-assisters/training-webinars",
+     "http://www.cms.gov/medicare/regulations-guidance/geographic-classification-review-board",
+     "http://www.cms.gov/training-education/partner-outreach-resources/low-income-subsidy-lis",
+     "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdId=36358&ver=39",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals?items_per_page=25&order=field_dyna_revision_date&page=1&sort=desc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_transmittal_number&page=10&sort=desc",
+     "http://www.cms.gov/medicare/coordination-benefits-recovery/coba-trading-partners",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4418cp",
+     "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54975&articleStatus=all&bc=3&sortBy=title&ver=16",
+     "http://www.cms.gov/fraud",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=4&sort=asc",
+     "http://www.cms.gov/medicare/quality/inpatient-rehabilitation-facility",
+     "http://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?bc=17&ncacaldoctype=all&ncaid=311&proposed=Y&sortBy=status&status=all",
+     "http://www.cms.gov/medicare-coverage-database/view/medcac-meeting.aspx?bc=15&medcacid=16&sortBy=meetingdate&year=all"
     ]
    },
    {
@@ -31523,7 +32665,57 @@
      "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_revision_date&page=5&sort=desc",
      "http://cms.gov/cciio/programs-and-initiatives/health-insurance-market-reforms/wv-flex",
      "https://www.cms.gov/medicare/health-safety-standards/quality-safety-oversight-general-information/quality-safety-special-alerts",
-     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2015-transmittals-items/r3262cp"
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2015-transmittals-items/r3262cp",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2025-transmittals/r13432cp",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2013-transmittals-items/r2800cp",
+     "http://www.cms.gov/training-education/open-door-forums/hospitals",
+     "http://www.cms.gov/priorities/innovation/about",
+     "http://www.cms.gov/priorities/make-hospital-food-healthier-pledge/overview",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4280cp",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2018-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=8&sort=asc",
+     "http://www.cms.gov/nosurprises",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2025-transmittals/r13461cp",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2015-transmittals-items/r3189cp",
+     "http://www.cms.gov/medicare/regulations-guidance/original-medicare-payment-regulations",
+     "http://www.cms.gov/marketplace/health-plans-issuers/qualified-health-plan-certification",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals/r12256cp",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4412cp",
+     "http://www.cms.gov/medicare/forms-notices/cms-forms",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_transmittal_number&page=14&sort=desc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=12&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2018-transmittals?items_per_page=25&order=field_dyna_pe_number&page=10&sort=asc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2022-transmittals?items_per_page=25&order=field_dyna_issue_date&page=2&sort=asc",
+     "http://www.cms.gov/about-cms/web-policies-important-links/help",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_revision_date&page=0&sort=desc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2022-transmittals?items_per_page=25&order=field_dyna_revision_date&page=16&sort=desc",
+     "http://www.cms.gov/medicare/health-drug-plans/plan-payment-data",
+     "http://www.cms.gov/glossary",
+     "http://www.cms.gov/medicare/health-safety-standards/quality-safety-oversight-general-information",
+     "http://www.cms.gov/training-education/find-provider-type/health-drug-plans",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r2282otn",
+     "http://www.cms.gov/medicare/health-safety-standards/certification-compliance/rural-emergency-hospitals",
+     "http://www.cms.gov/marketplace/states/state-marketplace-resources",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r2281otn",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2013-transmittals-items/r1307otn",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2015-transmittals?items_per_page=25&order=field_dyna_revision_date&page=4&sort=desc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=6&sort=asc",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r2353otn",
+     "http://www.cms.gov/medicare/health-safety-standards/guidance-for-laws-regulations/home-health-agencies",
+     "http://www.cms.gov/marketplace/in-person-assisters/training-webinars",
+     "http://www.cms.gov/medicare/regulations-guidance/geographic-classification-review-board",
+     "http://www.cms.gov/training-education/partner-outreach-resources/low-income-subsidy-lis",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals?items_per_page=25&order=field_dyna_revision_date&page=1&sort=desc",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_transmittal_number&page=10&sort=desc",
+     "http://www.cms.gov/medicare/coordination-benefits-recovery/coba-trading-partners",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r4418cp",
+     "http://www.cms.gov/fraud",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2019-transmittals?items_per_page=25&order=field_dyna_issue_date&page=4&sort=asc",
+     "http://www.cms.gov/medicare/quality/inpatient-rehabilitation-facility",
+     "https://www.cms.gov/medicare/regulations-guidance/transmittals/2018-transmittals?items_per_page=25&order=field_dyna_cr_number&page=3&sort=asc",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2015-transmittals-items/r1450otn",
+     "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/transmittals/r11146cp",
+     "https://www.cms.gov/medicare/coverage/investigational-device-exemption-ide-studies/approved/g250275-nct07405359",
+     "https://www.cms.gov/medical-bill-rights/know-your-rights"
     ]
    },
    {
