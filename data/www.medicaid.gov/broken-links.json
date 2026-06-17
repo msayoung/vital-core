@@ -1,0 +1,54 @@
+{
+ "domain": "www.medicaid.gov",
+ "updatedAt": "2026-06-17T00:39:58.502Z",
+ "links": {
+  "https://www.medicaid.gov/medicaid/long-term-services-supports/medicaid-employment-initiatives": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "h",
+    "t",
+    "p",
+    "s",
+    ":",
+    "/",
+    "w",
+    ".",
+    "m",
+    "e"
+   ]
+  },
+  "https://www.cms.gov/medicare/icd-10/2023-icd-10-cm": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip004332"
+   ]
+  },
+  "https://www.cms.gov/medicare/icd-10/2023-icd-10-pcs": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002082"
+   ]
+  }
+ }
+}

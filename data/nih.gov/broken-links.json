@@ -1,0 +1,45 @@
+{
+ "domain": "nih.gov",
+ "updatedAt": "2026-06-17T00:40:00.326Z",
+ "links": {
+  "https://projectreporter.nih.gov/reporter.cfm": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://nih.gov/about-nih/budget"
+   ]
+  },
+  "https://report.nih.gov/index.aspx": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://nih.gov/about-nih/budget"
+   ]
+  },
+  "https://smrb.od.nih.gov/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://nih.gov/about-nih/organization/nih-leadership"
+   ]
+  }
+ }
+}

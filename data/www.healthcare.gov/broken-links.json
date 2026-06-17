@@ -1,0 +1,44 @@
+{
+ "domain": "www.healthcare.gov",
+ "updatedAt": "2026-06-17T00:40:00.287Z",
+ "links": {
+  "https://portal.cms.gov/wps/portal/unauthportal/home/": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "h",
+    "t",
+    "p",
+    "s",
+    ":",
+    "/",
+    "w",
+    ".",
+    "e",
+    "a"
+   ]
+  },
+  "https://portal.cms.gov/": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W24",
+    "2026-W25"
+   ],
+   "weeksBroken": 2,
+   "foundOn": [
+    "https://www.healthcare.gov/small-businesses/agents-and-brokers",
+    "https://www.healthcare.gov/small-businesses/agents-and-brokers/register-for-the-shop-marketplace",
+    "https://www.healthcare.gov/small-businesses/agents-and-brokers/sell-health-insurance-through-shop"
+   ]
+  }
+ }
+}

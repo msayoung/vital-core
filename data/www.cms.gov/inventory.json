@@ -1,6 +1,6 @@
 {
  "domain": "www.cms.gov",
- "updatedAt": "2026-06-17T00:06:51.927Z",
+ "updatedAt": "2026-06-17T00:39:57.320Z",
  "pages": {
   "https://www.cms.gov/marketplace/in-person-assisters/technical-resources": {
    "pageId": "0017f747a4dd4b19",
@@ -52390,6 +52390,771 @@
    "axeViolations": null,
    "alfaFailures": null,
    "hasIssues": false
+  },
+  "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=17&ncacaldoctype=all&ncaid=45&sortBy=status&status=all": {
+   "pageId": "03cd7611e9551a46",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:13:47.477Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 50,
+   "hasIssues": true
+  },
+  "http://cms.gov/medicare/quality/long-term-care-hospital/ltch-quality-public-reporting": {
+   "pageId": "09907ffa75c0e8a7",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:08:16.300Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/icd10m/FY2024-nprmversion41.0-fullcode-cms/fullcode_cms/P0007.html": {
+   "pageId": "09f66046904a3d3d",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:17:55.031Z",
+   "status": 200,
+   "axeViolations": 49,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/research-statistics-data-and-systems/monitoring-programs/cert/downloads/odf_21stpdf": {
+   "pageId": "0fa6f825199ec6da",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:14:19.226Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "http://cms.gov/contacts/american-heart-association/general-beneficiary-contact/1550831": {
+   "pageId": "127e303928e96df3",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:13:58.028Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 44,
+   "hasIssues": true
+  },
+  "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=34064&lcdStatus=all&sortBy=title&ver=23": {
+   "pageId": "1556a4b8df75e912",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:09:42.169Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A441&f%5B1%5D=topic%3A671&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC": {
+   "pageId": "1a7f9f1f1e4ef621",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:11:41.619Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 49,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/files/document/cmsabnewsletterdec2014pdf": {
+   "pageId": "28fbccda171b0a5e",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:19:21.198Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/2006nondualmnpdf": {
+   "pageId": "33cef13bdd36a3f8",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:17:12.687Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/2013-medicare-amounts-job-aidarabicv2pdf": {
+   "pageId": "375a6e8f618ed148",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:12:47.053Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare-coverage-database/view/cal.aspx?calid=107": {
+   "pageId": "3afeb72052414d5f",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:18:24.801Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2013-transmittals-items/r1244otn": {
+   "pageId": "3bb039e4f3670327",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:18:29.678Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 42,
+   "hasIssues": true
+  },
+  "http://www.cms.gov/priorities/innovation-center/value-based-care-spotlight": {
+   "pageId": "42b8706a84d9c9f7",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:18:57.997Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/icd10m/FY2023-version40-fullcode-cms/fullcode_cms/P0006.html": {
+   "pageId": "48acdf8bd38276cd",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:16:54.289Z",
+   "status": 200,
+   "axeViolations": 35,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/medicare/appeals-and-grievances/orgmedffsappeals/rulings-issued-prior-to-1995-items/hcfar874v508pdf": {
+   "pageId": "4bfac64232866fee",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:19:13.348Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/icd10m/fy2025-version42.0-fullcode-cms/fullcode_cms/P0366.html": {
+   "pageId": "4cfec743983bbffa",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:13:27.146Z",
+   "status": 200,
+   "axeViolations": 30,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/files/document/2010pqristsfctryrprtfs032310fpdf": {
+   "pageId": "506e2b6c0172648c",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:12:25.690Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/nhestatesummary2004pdf": {
+   "pageId": "537f8707576f182c",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:13:52.005Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=40192&ver=3": {
+   "pageId": "53f90c9f9309e66a",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:09:36.555Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52512&ver=41": {
+   "pageId": "55c24f8d9daed2ea",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:16:11.947Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/2015technotespreview120140805pdf": {
+   "pageId": "576ffdb4d527a53d",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:18:45.073Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleId=58903&ver=6": {
+   "pageId": "5b182455f15b4e48",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:18:11.762Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/files/document/2002dualtxpdf": {
+   "pageId": "5c0935331ad63fff",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:14:17.510Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/regulations-and-guidanceguidancetransmittals2019-transmittals/r333fm": {
+   "pageId": "5d9cc1db8c122cb9",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:15:43.456Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "http://www.cms.gov/medicare-coverage-database/view/nca.aspx?bc=14&doctype=all&ncaid=320&sortBy=title&year=2026": {
+   "pageId": "60529a5f68c11414",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:16:24.704Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/regulations-and-guidance/guidance/manuals/downloads/clm104c20crosswalkpdf": {
+   "pageId": "63d45f4cf408b94b",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:17:11.008Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/2006nondualcapdf": {
+   "pageId": "6c1ce4e4ca3f75a8",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:18:46.748Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/december-2014-payments-state-programpdf": {
+   "pageId": "6d4392a04026f0d1",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:14:31.538Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/2018-mips-participation-and-overview-fact-sheet-2018-07-11pdf": {
+   "pageId": "6da909d501d1b946",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:15:32.600Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2014-transmittals-items/r2870cp": {
+   "pageId": "6fd658fd3338c2ef",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:09:27.898Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 42,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58035&articleStatus=all&bc=3&sortBy=title&ver=2": {
+   "pageId": "709cc0978159221f",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:16:49.663Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58507&articleStatus=all&bc=3&sortBy=title&ver=6": {
+   "pageId": "76b6a1ec96417693",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:11:10.295Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare/regulations-guidance/transmittals/2026-transmittals?page=1": {
+   "pageId": "7733dffdfaf64b6d",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:11:28.402Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/macra-cost-measure-field-testing-webinar-transcript-10-17-2018pdf": {
+   "pageId": "77dc088eedc521d0",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:15:22.009Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare/regulations-guidance/transmittals/2017-transmittals?items_per_page=25&order=field_dyna_transmittal_number&page=4&sort=desc": {
+   "pageId": "7b0e35104038b53f",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:15:49.102Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/cnlistpdf": {
+   "pageId": "807e705440045648",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:14:48.518Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/prescriber-role-drugdiversion-033115pdf": {
+   "pageId": "844a9944423f63c1",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:12:50.485Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56034&articleStatus=all&bc=3&sortBy=title&ver=40": {
+   "pageId": "8b73f84598464c9d",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:09:47.455Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=33912&lcdStatus=all&sortBy=title&ver=16": {
+   "pageId": "8fac63331e54a311",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:17:47.034Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 79,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/priorities/health-equity/minority-health/officina-salud-minorias/contactenos": {
+   "pageId": "9173d4b3520161c3",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:17:36.825Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/files/document/2006nondualnjpdf": {
+   "pageId": "979ab0ad95df6d4f",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:11:31.527Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals/r12194cp": {
+   "pageId": "9d1266df5a00bfbc",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:19:25.005Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare-coverage-database/view/medcac-meeting.aspx?bc=15&medcacid=34&sortBy=meetingdate&year=all": {
+   "pageId": "a0d4ea8f427d1d51",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:18:37.729Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/marketplace/health-plans-issuers/insurance-programs": {
+   "pageId": "a2c8d8fbdf7edf62",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:14:23.350Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59084&articleStatus=all&bc=3&sortBy=title&ver=4": {
+   "pageId": "a4fece411b38da3d",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:15:18.163Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/training-education/medicare-learning-networkr-mln/compliance/medicare-provider-compliance-tips/chiropractic-services": {
+   "pageId": "a6ad480a7a73ddbe",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:12:54.683Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/2004dualmipdf": {
+   "pageId": "a7bc7b48bfeb022a",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:18:53.904Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=38441&lcdStatus=all&sortBy=title&ver=15": {
+   "pageId": "a93317cb35a25752",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:13:17.610Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2016-transmittals-items/r98gi": {
+   "pageId": "aac68369363ba37d",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:09:11.540Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=39232&lcdStatus=all&sortBy=title&ver=6": {
+   "pageId": "ac1427a845dd1513",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:18:06.433Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals/r12283cp": {
+   "pageId": "b120e2ca6bae0aae",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:10:22.695Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/0000pdf": {
+   "pageId": "b44bd447d8a8cb31",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:13:53.703Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare/regulations-guidance/transmittals/2024-transmittals/r12701otn": {
+   "pageId": "b4da5107e402a222",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:16:16.997Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 40,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A46&f%5B1%5D=topic%3A81&f%5B2%5D=topic%3A441&f%5B3%5D=topic%3A446&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC": {
+   "pageId": "b6ed4c3a9756d684",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:16:59.444Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "http://www.cms.gov/medicare/health-safety-standards/quality-safety-oversight-general-information/cms-nursing-home-staffing-campaign": {
+   "pageId": "bae93444af5dd43e",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:14:52.837Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/lowvisdemodesignreportpdf": {
+   "pageId": "bb0a119efb6ba3ae",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:16:02.181Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/fact-sheet-updating-his-finalpdf": {
+   "pageId": "bbba1bd8f43d1f9f",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:13:13.369Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/data-research/statistics-trends-and-reports/medicare-advantagepart-d-contract-and-enrollment-data/monthly-enrollment-contract/plan/state/county": {
+   "pageId": "bdfa4499d59ad751",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:16:06.840Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare/regulations-guidance/transmittals/2016-transmittals?items_per_page=25&order=field_dyna_implementation_date&page=3&sort=asc": {
+   "pageId": "bdfd86ff7883137c",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:14:36.556Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare/regulations-guidance/transmittals/2024-transmittals?items_per_page=25&order=field_dyna_revision_date&page=6&sort=asc": {
+   "pageId": "bf40d4b992de1e43",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:09:00.959Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=37070&lcdStatus=all&sortBy=title&ver=26": {
+   "pageId": "bf5dbb62a022dc3b",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:19:18.347Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/icd10m/FY2024-nprmversion41.0-fullcode-cms/fullcode_cms/P0010.html": {
+   "pageId": "c0a948ca08bd8a00",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:18:19.402Z",
+   "status": 200,
+   "axeViolations": 35,
+   "alfaFailures": 21,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/medicare/regulations-guidance/transmittals/2026-transmittals?items_per_page=25&order=field_dyna_revision_date&page=1&sort=asc": {
+   "pageId": "c17ec8c089505573",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:13:05.030Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleId=59967&ver=11": {
+   "pageId": "c20d9610ecc59917",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:16:29.911Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 229,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/newsroom/fact-sheets/final-fiscal-year-2017-payment-policy-changes-medicare-skilled-nursing-facilities-cms-1645-f": {
+   "pageId": "c2bbdcdcc9587dec",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:15:37.598Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 71,
+   "hasIssues": true
+  },
+  "http://cms.gov/priorities/innovation-center/about/blogs-publications": {
+   "pageId": "c2d06894571b2bdf",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:11:47.980Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/apps/aha/license.asp?file=%2Ffiles%2Fzip%2Fioce-quarterly-data-files-v223r1.zip": {
+   "pageId": "c9b2be40e430e374",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:12:12.965Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/medicare/enrollment-renewal/providers-suppliers/national-background-check": {
+   "pageId": "ca797db94c99695b",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:12:07.911Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "http://cms.gov/contacts/14th-st-clinic/general-beneficiary-contact/1554386": {
+   "pageId": "cacc5cbf8a7437ab",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:17:42.028Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/files/document/cmsabnewsletteroct2014pdf": {
+   "pageId": "d1af339ca6a094a6",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:12:48.745Z",
+   "status": 200,
+   "axeViolations": null,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/cms-guide-medical-technology-companies-and-other-interested-parties/payment/esrd": {
+   "pageId": "d9529bcf79ce7864",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:14:14.885Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare/regulations-guidance/transmittals/2024-transmittals?items_per_page=25&order=field_dyna_cr_number&page=10&sort=asc": {
+   "pageId": "d97c340593369333",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:08:44.142Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/icd10m/version372-fullcode-cms/fullcode_cms/P0243.html": {
+   "pageId": "db10c1e8a4216805",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:15:05.716Z",
+   "status": 200,
+   "axeViolations": 14,
+   "alfaFailures": 19,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/medicare/regulations-guidance/transmittals/2023-transmittals?items_per_page=25&order=field_dyna_issue_date&page=9&sort=desc": {
+   "pageId": "db8a2a6557819f4d",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:08:38.074Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=38211&lcdStatus=all&sortBy=title&ver=17": {
+   "pageId": "dca193ebf4517baf",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:17:31.443Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=36117&lcdStatus=all&sortBy=title&ver=36": {
+   "pageId": "dda3e2eca0f163c5",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:12:02.799Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/health-tech-ecosystem/early-adopters/data-networks": {
+   "pageId": "df6716eeee7a6b9c",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:18:42.473Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/newsroom/search?f%5B0%5D=topic%3A116&f%5B1%5D=topic%3A231&f%5B2%5D=topic%3A436&f%5B3%5D=topic%3A841&items_per_page=10&search_api_language=en&sort_by=field_date&sort_order=DESC": {
+   "pageId": "e03c5b0b6e67c4b8",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:13:23.049Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/training-education/medicare-learning-networkr-mln/compliance/medicare-provider-compliance-tips/venipuncture": {
+   "pageId": "f03a3ddf36355f39",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:12:30.091Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 47,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2019-transmittals-items/r2304otn": {
+   "pageId": "f0b561a1bf0e4d8a",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:14:57.966Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 42,
+   "hasIssues": true
+  },
+  "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59835&articleStatus=all&bc=3&sortBy=title&ver=8": {
+   "pageId": "f5251e1976e8742c",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:18:51.051Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/regulations-and-guidance/guidance/transmittals/2016-transmittals-items/r123mcm": {
+   "pageId": "f6d57746f66dac88",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:09:06.564Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicare/regulations-guidance/transmittals/2024-transmittals/r12642pi": {
+   "pageId": "fbbfbd46a51f4b4b",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:13:31.938Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "https://www.cms.gov/medicaid-chip/medicare-coordination/integrity-institute/volunteer": {
+   "pageId": "fd372806c899d0fe",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:17:16.923Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": null,
+   "hasIssues": false
+  },
+  "http://www.cms.gov/medicare-coverage-database/view/lcd.aspx?bc=7&contractorName=all&contractorNumber=all&lcdid=38826&lcdStatus=all&sortBy=title&ver=8": {
+   "pageId": "fe14b3d4bc445f9c",
+   "lastWeek": "2026-W25",
+   "lastScannedAt": "2026-06-17T00:11:36.007Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
   }
  }
 }

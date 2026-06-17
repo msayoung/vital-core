@@ -1,0 +1,352 @@
+{
+ "domain": "www.medicare.gov",
+ "updatedAt": "2026-06-17T00:39:57.851Z",
+ "links": {
+  "https://www.cms.gov/medicare-coverage-database/search.aspx": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W24",
+    "2026-W25"
+   ],
+   "weeksBroken": 2,
+   "foundOn": [
+    "https://www.medicare.gov/coverage"
+   ]
+  },
+  "https://mhanational.org/": {
+   "status": 415,
+   "reason": "HTTP 415",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "h",
+    "t",
+    "p",
+    "s",
+    ":",
+    "/",
+    "m",
+    "e",
+    "d",
+    "i"
+   ]
+  },
+  "http://healthfinder.gov/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W24",
+   "_weeks": [
+    "2026-W24"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "h",
+    "t",
+    "p",
+    "s",
+    ":",
+    "/",
+    "m",
+    "e",
+    "d",
+    "i"
+   ]
+  },
+  "https://www.alzheimers.gov/": {
+   "status": 405,
+   "reason": "HTTP 405",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W24",
+    "2026-W25"
+   ],
+   "weeksBroken": 2,
+   "foundOn": [
+    "https://www.medicare.gov/coverage/cognitive-assessment-care-plan-services"
+   ]
+  },
+  "https://www.nia.nih.gov/health/alzheimers-and-dementia": {
+   "status": 405,
+   "reason": "HTTP 405",
+   "firstSeen": "2026-W24",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W24",
+    "2026-W25"
+   ],
+   "weeksBroken": 2,
+   "foundOn": [
+    "https://www.medicare.gov/coverage/cognitive-assessment-care-plan-services"
+   ]
+  },
+  "http://www.lung.org/stop-smoking/join-freedom-from-smoking/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/coverage/counseling-to-prevent-tobacco-use-tobacco-caused-disease"
+   ]
+  },
+  "https://communicare.gopatientportal.com/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps"
+   ]
+  },
+  "https://rda.dcri.duke.edu/": {
+   "status": 0,
+   "reason": "CERT_HAS_EXPIRED",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps"
+   ]
+  },
+  "https://rda.dcri.duke.edu/privacy-policy": {
+   "status": 0,
+   "reason": "CERT_HAS_EXPIRED",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps"
+   ]
+  },
+  "https://connect.humana.com/terms-and-conditions": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps"
+   ]
+  },
+  "https://www.matchritecare.com/terms-and-conditions": {
+   "status": 0,
+   "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps"
+   ]
+  },
+  "https://www.matchritecare.com/privacy-policy": {
+   "status": 0,
+   "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps"
+   ]
+  },
+  "https://movemyhealthdata.com/terms-of-service": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps"
+   ]
+  },
+  "https://movemyhealthdata.com/privacy-policy": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps"
+   ]
+  },
+  "https://itunes.apple.com/us/app/my-rush-mobile/id1321588963?mt=8": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps"
+   ]
+  },
+  "https://hieofone.com/": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps"
+   ]
+  },
+  "https://www.medicare.gov/sso/authorize?client_id=mct&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.medicare.gov/sso/authorize?client_id=mct&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D"
+   ]
+  },
+  "https://www.medicare.gov/sso/authorize?client_id=mct&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D&Lang=es-mx": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.medicare.gov/sso/authorize?client_id=mct&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D"
+   ]
+  },
+  "https://www.medicare.gov/sso/authorize?client_id=mct&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&lang=en-us&relay=eyJsYW5nIjoiZW4ifQ%3D%3D": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.medicare.gov/medigap-supplemental-insurance-plans"
+   ]
+  },
+  "https://aspr.hhs.gov/legal/PHE/Pages/default.aspx": {
+   "status": 0,
+   "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/providers-services/disaster-emergency"
+   ]
+  },
+  "https://www.medicare.gov/node/26446": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.medicare.gov/basics/get-started-with-medicare/whats-next"
+   ]
+  },
+  "https://www.nia.nih.gov/health/falls-and-falls-prevention/older-adults-and-balance-problems": {
+   "status": 405,
+   "reason": "HTTP 405",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/coverage/hearing-balance-exams"
+   ]
+  },
+  "https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults": {
+   "status": 405,
+   "reason": "HTTP 405",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/coverage/hearing-balance-exams"
+   ]
+  },
+  "https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease": {
+   "status": 405,
+   "reason": "HTTP 405",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.medicare.gov/coverage/monoclonal-antibodies-for-the-treatment-of-early-alzheimers-disease"
+   ]
+  },
+  "https://medicare.gov/mental-health-substance-use-disorder": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/coverage/mental-health-care-outpatient"
+   ]
+  }
+ }
+}
