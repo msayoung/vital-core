@@ -1,6 +1,6 @@
 {
  "domain": "www.medicaid.gov",
- "updatedAt": "2026-06-17T01:08:18.970Z",
+ "updatedAt": "2026-06-17T11:02:25.114Z",
  "links": {
   "https://www.medicaid.gov/medicaid/long-term-services-supports/medicaid-employment-initiatives": {
    "status": 0,
@@ -48,6 +48,84 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cip002082"
+   ]
+  },
+  "http://dhss.delaware.gov/dhss/dmma/hcbs_trans_plan.html": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://medicaid.gov/medicaid/home-community-based-services/statewide-transition-plans"
+   ]
+  },
+  "https://dhss.delaware.gov/dhss/dmma/hcbs_trans_plan.html": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://medicaid.gov/medicaid/home-community-based-services/statewide-transition-plans"
+   ]
+  },
+  "https://ahca.myflorida.com/Medicaid/hcbs_waivers/index.shtml": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://medicaid.gov/medicaid/home-community-based-services/statewide-transition-plans"
+   ]
+  },
+  "http://medicaid.alabama.gov/content/6.0_LTC_Waivers/6.1_HCBS_Waivers/6.1.8_Transition_Plan.aspx": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://medicaid.gov/medicaid/home-community-based-services/statewide-transition-plans"
+   ]
+  },
+  "https://hfs.illinois.gov/medicalclients/hcbs.html": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://medicaid.gov/medicaid/home-community-based-services/statewide-transition-plans"
+   ]
+  },
+  "https://github.com/CMSgov/T-MSIS-Data-Quality-Measures-Generation-Code/blob/main/Thresholds.xlsx": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://medicaid.gov/medicaid/data-systems/medicaid-and-chip-business-information-solution/transformed-medicaid-statistical-information-system-t-msis"
    ]
   }
  }
