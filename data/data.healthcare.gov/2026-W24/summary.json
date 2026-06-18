@@ -1,7 +1,7 @@
 {
  "domain": "data.healthcare.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-17T11:39:13.191Z",
+ "generatedAt": "2026-06-18T01:59:55.813Z",
  "pagesScanned": 1855,
  "pagesAudited": 1329,
  "coverage": {
@@ -15584,63 +15584,168 @@
   "topUnexplainedAcronyms": [
    {
     "acronym": "CSV",
-    "pages": 268
+    "pages": 268,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/tfna-vz76?page=2",
+     "https://data.healthcare.gov/dataset/3edfe68f-b783-4e98-9120-20014dd0fe49?page=99937",
+     "https://data.healthcare.gov/dataset/ymjk-c2ng?page=5",
+     "https://data.healthcare.gov/dataset/gmjp-zpzt?page=2",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=3"
+    ]
    },
    {
     "acronym": "PY",
-    "pages": 258
+    "pages": 258,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/tfna-vz76?page=2",
+     "https://data.healthcare.gov/dataset/3edfe68f-b783-4e98-9120-20014dd0fe49?page=99937",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare",
+     "https://data.healthcare.gov/dataset/ymjk-c2ng?page=5",
+     "https://data.healthcare.gov/dataset/gmjp-zpzt?page=2"
+    ]
    },
    {
     "acronym": "QHP",
-    "pages": 172
+    "pages": 172,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/tfna-vz76?page=2",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare",
+     "https://data.healthcare.gov/dataset/ymjk-c2ng?page=5",
+     "https://data.healthcare.gov/dataset/gmjp-zpzt?page=2",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=3"
+    ]
    },
    {
     "acronym": "PUF",
-    "pages": 160
+    "pages": 160,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/3edfe68f-b783-4e98-9120-20014dd0fe49?page=99937",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare",
+     "https://data.healthcare.gov/dataset/ymjk-c2ng?page=5",
+     "https://data.healthcare.gov/dataset/ab6b8ea6-fdd8-4eb6-9fe6-7a93aca92b46?page=299",
+     "https://data.healthcare.gov/dataset/8a1786d6-e3cc-43be-bcfa-10e98f514ba4?page=2"
+    ]
    },
    {
     "acronym": "ID",
-    "pages": 157
+    "pages": 157,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/tfna-vz76?page=2",
+     "https://data.healthcare.gov/dataset/gmjp-zpzt?page=2",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=3",
+     "https://data.healthcare.gov/dataset/gmjp-zpzt?page=4",
+     "https://data.healthcare.gov/dataset/3eup-hrj4?page=5"
+    ]
    },
    {
     "acronym": "AK",
-    "pages": 145
+    "pages": 145,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/3edfe68f-b783-4e98-9120-20014dd0fe49?page=99937",
+     "https://data.healthcare.gov/dataset/ab6b8ea6-fdd8-4eb6-9fe6-7a93aca92b46?page=299",
+     "https://data.healthcare.gov/dataset/8a1786d6-e3cc-43be-bcfa-10e98f514ba4?page=2",
+     "https://data.healthcare.gov/dataset/3eup-hrj4?page=5",
+     "https://data.healthcare.gov/dataset/mp8z-jtg7?page=4"
+    ]
    },
    {
     "acronym": "PPO",
-    "pages": 99
+    "pages": 99,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/tfna-vz76?page=2",
+     "https://data.healthcare.gov/dataset/gmjp-zpzt?page=2",
+     "https://data.healthcare.gov/dataset/5p3f-bhu4?page=3",
+     "https://data.healthcare.gov/dataset/8a1786d6-e3cc-43be-bcfa-10e98f514ba4?page=2",
+     "https://data.healthcare.gov/dataset/gmjp-zpzt?page=4"
+    ]
    },
    {
     "acronym": "SADP",
-    "pages": 64
+    "pages": 64,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/ymjk-c2ng?page=5",
+     "https://data.healthcare.gov/dataset/nbg4-75xg?page=4",
+     "https://data.healthcare.gov/dataset/kb8w-qg77?page=266",
+     "https://data.healthcare.gov/dataset/kb8w-qg77?page=4",
+     "https://data.healthcare.gov/dataset/3eup-hrj4?page=5"
+    ]
    },
    {
     "acronym": "CCIIO",
-    "pages": 53
+    "pages": 53,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/ymjk-c2ng?page=5",
+     "https://data.healthcare.gov/dataset/nbg4-75xg?page=4",
+     "https://data.healthcare.gov/dataset/kb8w-qg77?page=266",
+     "https://data.healthcare.gov/dataset/kb8w-qg77?page=4",
+     "https://data.healthcare.gov/dataset/3eup-hrj4?page=5"
+    ]
    },
    {
     "acronym": "SHOP",
-    "pages": 48
+    "pages": 48,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/8a1786d6-e3cc-43be-bcfa-10e98f514ba4?page=2",
+     "https://data.healthcare.gov/dataset/3eup-hrj4?page=5",
+     "https://data.healthcare.gov/dataset/0953b9c0-0843-4f41-88e9-cc44aed14407?page=2",
+     "https://data.healthcare.gov/dataset/46ta-x4hv?page=3",
+     "https://data.healthcare.gov/dataset/ss3e-3mza?page=1792"
+    ]
    },
    {
     "acronym": "HSA",
-    "pages": 47
+    "pages": 47,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/8a1786d6-e3cc-43be-bcfa-10e98f514ba4?page=2",
+     "https://data.healthcare.gov/dataset/mp8z-jtg7?page=4",
+     "https://data.healthcare.gov/dataset/ss3e-3mza?page=1792",
+     "https://data.healthcare.gov/dataset/pmxe-irvb?page=24",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=3"
+    ]
    },
    {
     "acronym": "AM",
-    "pages": 43
+    "pages": 43,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/ymjk-c2ng?page=5",
+     "https://data.healthcare.gov/dataset/kb8w-qg77?page=266",
+     "https://data.healthcare.gov/dataset/kb8w-qg77?page=4",
+     "https://data.healthcare.gov/dataset/3eup-hrj4?page=5",
+     "https://data.healthcare.gov/dataset/46ta-x4hv?page=3"
+    ]
    },
    {
     "acronym": "PM",
-    "pages": 40
+    "pages": 40,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/ymjk-c2ng?page=5",
+     "https://data.healthcare.gov/dataset/kb8w-qg77?page=266",
+     "https://data.healthcare.gov/dataset/kb8w-qg77?page=4",
+     "https://data.healthcare.gov/dataset/3eup-hrj4?page=5",
+     "https://data.healthcare.gov/dataset/3ddf85bc-f71b-4417-b271-410cbf9e0905?page=2"
+    ]
    },
    {
     "acronym": "BEST",
-    "pages": 38
+    "pages": 38,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/kz5p-dvnx?page=1313",
+     "https://data.healthcare.gov/dataset/0953b9c0-0843-4f41-88e9-cc44aed14407?page=2",
+     "https://data.healthcare.gov/dataset/1cec574b-9353-41cf-9c81-b7c49c482bb2?page=5",
+     "https://data.healthcare.gov/dataset/cpmk-xcsy?page=2",
+     "https://data.healthcare.gov/dataset/8c491ff0-8e6e-4988-b02a-e4736783aed3?page=4"
+    ]
    },
    {
     "acronym": "CW",
-    "pages": 35
+    "pages": 35,
+    "examplePages": [
+     "https://data.healthcare.gov/dataset/ae346fd6-b777-4ba4-ab69-20da698c3a9c?page=4",
+     "https://data.healthcare.gov/dataset/bzfi-sbe4?page=4235",
+     "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=3",
+     "https://data.healthcare.gov/datasets?keyword%5B%5D=Marketplace+PUF",
+     "https://data.healthcare.gov/dataset/srri-3w2q?page=5301"
+    ]
    }
   ],
   "topMisspellings": [
@@ -15934,7 +16039,8 @@
    "speedIndexMs": 11518,
    "totalBlockingTimeMs": 1241,
    "cumulativeLayoutShift": 0.722
-  }
+  },
+  "recommendations": []
  },
  "linkCheck": {
   "brokenCount": 15,
@@ -17002,5 +17108,7 @@
   }
  ],
  "tech": null,
- "images": null
+ "images": null,
+ "techFindings": null,
+ "thirdParty": null
 }

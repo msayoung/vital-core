@@ -1,7 +1,7 @@
 {
  "domain": "data.cms.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-17T11:39:13.779Z",
+ "generatedAt": "2026-06-18T01:59:58.253Z",
  "pagesScanned": 2500,
  "pagesAudited": 2167,
  "coverage": {
@@ -35014,63 +35014,168 @@
   "topUnexplainedAcronyms": [
    {
     "acronym": "HTTPSA",
-    "pages": 312
+    "pages": 312,
+    "examplePages": [
+     "https://data.cms.gov/medicare-current-beneficiary-survey-mcbs/income-and-asset-ownership/data",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/skilled-nursing-facility-change-of-ownership/data/q4-2024",
+     "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-quarterly-part-d-spending-by-drug/data",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/provider-summary-by-type-of-service/medicare-outpatient-hospitals/medicare-outpatient-hospitals-by-geography-and-service/data/2020"
+    ]
    },
    {
     "acronym": "MD",
-    "pages": 217
+    "pages": 217,
+    "examplePages": [
+     "https://data.cms.gov/medicare-current-beneficiary-survey-mcbs/income-and-asset-ownership/data",
+     "https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-quarterly-part-d-spending-by-drug/data",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/provider-summary-by-type-of-service/medicare-outpatient-hospitals/medicare-outpatient-hospitals-by-geography-and-service/data/2020",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/federally-qualified-health-center-all-owners/data/q1-2025"
+    ]
    },
    {
     "acronym": "CENTER",
-    "pages": 176
+    "pages": 176,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/skilled-nursing-facility-change-of-ownership/data/q4-2024",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp"
+    ]
    },
    {
     "acronym": "HEALTH",
-    "pages": 119
+    "pages": 119,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/home-health-agency-enrollments/data/q3-2025",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-internet-quality-improvement-and-evaluation-system/data",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/rural-health-clinic-enrollments/data",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/hospital-enrollments/data/march-2026"
+    ]
    },
    {
     "acronym": "TH",
-    "pages": 99
+    "pages": 99,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/azum-44iv?page=5",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/rural-health-clinic-enrollments/data"
+    ]
    },
    {
     "acronym": "EAST",
-    "pages": 98
+    "pages": 98,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/azum-44iv?page=5",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-internet-quality-improvement-and-evaluation-system/data",
+     "https://data.cms.gov/provider-data/dataset/yc9t-dgbk"
+    ]
    },
    {
     "acronym": "SOUTH",
-    "pages": 98
+    "pages": 98,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/ypbt-wvdk",
+     "https://data.cms.gov/provider-data/dataset/clinical_depression?page=2"
+    ]
    },
    {
     "acronym": "INC",
-    "pages": 90
+    "pages": 90,
+    "examplePages": [
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/federally-qualified-health-center-all-owners/data/q1-2025",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/home-health-agency-enrollments/data/q3-2025",
+     "https://data.cms.gov/provider-data/dataset/yc9t-dgbk",
+     "https://data.cms.gov/provider-data/dataset/ypbt-wvdk",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/skilled-nursing-facility-change-of-ownership-owner-information/data"
+    ]
    },
    {
     "acronym": "CSV",
-    "pages": 85
+    "pages": 85,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/0938-3dfa?page=2",
+     "https://data.cms.gov/provider-data/dataset/clinical_depression?page=2",
+     "https://data.cms.gov/provider-data/dataset/0ddf-4325?page=5"
+    ]
    },
    {
     "acronym": "OF",
-    "pages": 83
+    "pages": 83,
+    "examplePages": [
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/skilled-nursing-facility-change-of-ownership/data/q4-2024",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-data/dataset/k653-4ka8",
+     "https://data.cms.gov/provider-data/dataset/ypbt-wvdk"
+    ]
    },
    {
     "acronym": "CARE",
-    "pages": 78
+    "pages": 78,
+    "examplePages": [
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/skilled-nursing-facility-change-of-ownership/data/q4-2024",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/provider-data/dataset/6jpm-sxkc?page=3",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/home-health-agency-enrollments/data/q3-2025",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/rural-health-clinic-enrollments/data"
+    ]
    },
    {
     "acronym": "STE",
-    "pages": 77
+    "pages": 77,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/yc9t-dgbk",
+     "https://data.cms.gov/provider-data/dataset/clinical_depression?page=2",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/skilled-nursing-facility-change-of-ownership-owner-information/data"
+    ]
    },
    {
     "acronym": "VALLEY",
-    "pages": 74
+    "pages": 74,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/cms-innovation-center-programs/disease-episode-based-payment-models/ambulatory-specialty-model-participants/data",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/clinical_depression?page=2",
+     "https://data.cms.gov/provider-data/dataset/strr?page=5"
+    ]
    },
    {
     "acronym": "AVE",
-    "pages": 67
+    "pages": 67,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/rural-health-clinic-enrollments/data",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/rural-health-clinic-enrollments/data/q4-2025",
+     "https://data.cms.gov/provider-data/dataset/clinical_depression?page=2"
+    ]
    },
    {
     "acronym": "DR",
-    "pages": 66
+    "pages": 66,
+    "examplePages": [
+     "https://data.cms.gov/provider-data/dataset/medrec?page=3",
+     "https://data.cms.gov/provider-data/dataset/covid-19_hcp",
+     "https://data.cms.gov/provider-data/dataset/azum-44iv?page=5",
+     "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-internet-quality-improvement-and-evaluation-system/data",
+     "https://data.cms.gov/provider-data/dataset/clinical_depression?page=2"
+    ]
    }
   ],
   "topMisspellings": [
@@ -35364,7 +35469,8 @@
    "speedIndexMs": 9497,
    "totalBlockingTimeMs": 803,
    "cumulativeLayoutShift": 0
-  }
+  },
+  "recommendations": []
  },
  "linkCheck": {
   "brokenCount": 8,
@@ -35573,5 +35679,7 @@
  },
  "errorPages": [],
  "tech": null,
- "images": null
+ "images": null,
+ "techFindings": null,
+ "thirdParty": null
 }

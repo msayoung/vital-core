@@ -1,7 +1,7 @@
 {
  "domain": "www.medicare.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-17T11:39:11.982Z",
+ "generatedAt": "2026-06-18T01:59:52.396Z",
  "pagesScanned": 1171,
  "pagesAudited": 1158,
  "coverage": {
@@ -10944,63 +10944,168 @@
   "topUnexplainedAcronyms": [
    {
     "acronym": "ZIP",
-    "pages": 80
+    "pages": 80,
+    "examplePages": [
+     "https://www.medicare.gov/care-compare?providerType=Hospice",
+     "https://www.medicare.gov/care-compare?guidedSearch=HomeHealth",
+     "https://www.medicare.gov/coverage/home-health-services",
+     "https://www.medicare.gov/coverage/cataract-surgery",
+     "https://www.medicare.gov/coverage/flu-shots"
+    ]
    },
    {
     "acronym": "ID",
-    "pages": 65
+    "pages": 65,
+    "examplePages": [
+     "https://www.medicare.gov/sso/authorize?client_id=mct&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9UGh5c2ljaWFuIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D"
+    ]
    },
    {
     "acronym": "VA",
-    "pages": 60
+    "pages": 60,
+    "examplePages": [
+     "https://www.medicare.gov/sso/authorize?client_id=mct&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9UGh5c2ljaWFuIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D"
+    ]
    },
    {
     "acronym": "IRS",
-    "pages": 57
+    "pages": 57,
+    "examplePages": [
+     "https://www.medicare.gov/sso/authorize?client_id=mct&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/my/premiums/dashboard?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Fpremiums%2Fdashboard%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9ndWlkZWRTZWFyY2g9UGh5c2ljaWFuIn19",
+     "https://www.medicare.gov/account/login?client_id=carecompare&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9RGlhbHlzaXNGYWNpbGl0eSJ9fQ%3D%3D"
+    ]
    },
    {
     "acronym": "TTY",
-    "pages": 39
+    "pages": 39,
+    "examplePages": [
+     "https://www.medicare.gov/basics/report-a-death",
+     "https://www.medicare.gov/health-drug-plans/part-d/basics/choose-coverage/switch-drop-rejoin",
+     "https://www.medicare.gov/talk-to-someone",
+     "https://www.medicare.gov/basics/reporting-medicare-fraud-and-abuse/privacy-practices-original-medicare",
+     "https://www.medicare.gov/basics/costs/pay-premiums/medicare-easy-pay"
+    ]
    },
    {
     "acronym": "PDF",
-    "pages": 37
+    "pages": 37,
+    "examplePages": [
+     "https://www.medicare.gov/publications",
+     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/plan-premium-changing",
+     "https://medicare.gov/publications/search/all-non-english-pubs?page=5",
+     "https://www.medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-auto-enrollment-retroactive",
+     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-automatically-qualify-automatically-enroll"
+    ]
    },
    {
     "acronym": "KB",
-    "pages": 20
+    "pages": 20,
+    "examplePages": [
+     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/plan-premium-changing",
+     "https://www.medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-auto-enrollment-retroactive",
+     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-automatically-qualify-automatically-enroll",
+     "https://www.medicare.gov/basics/forms-publications-mailings/mailings/other-mailings/qualifying-health-coverage-notice",
+     "https://www.medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/qualifying-for-help-with-costs/extra-help-eligibility-review"
+    ]
    },
    {
     "acronym": "CMS",
-    "pages": 19
+    "pages": 19,
+    "examplePages": [
+     "https://www.medicare.gov/medical-equipment-suppliers/note-for-suppliers",
+     "https://www.medicare.gov/privacy-policy/third-party-privacy-policies",
+     "https://www.medicare.gov/basics/costs/pay-premiums/medicare-easy-pay",
+     "https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start",
+     "https://medicare.gov/basics/forms-publications-mailings/mailings/costs-and-coverage/medicare-premium-bill"
+    ]
    },
    {
     "acronym": "LE",
-    "pages": 15
+    "pages": 15,
+    "examplePages": [
+     "https://medicare.gov/publication-ordering/10050-LS",
+     "https://www.medicare.gov/publication-ordering/10050-K",
+     "https://medicare.gov/publication-ordering/10050-V",
+     "https://www.medicare.gov/publication-ordering/10050-C",
+     "https://medicare.gov/publication-ordering/10050-SB"
+    ]
    },
    {
     "acronym": "DME",
-    "pages": 14
+    "pages": 14,
+    "examplePages": [
+     "https://medicare.gov/coverage/durable-medical-equipment-dme-coverage",
+     "https://www.medicare.gov/coverage/blood-sugar-monitors",
+     "https://www.medicare.gov/coverage/air-fluidized-beds",
+     "https://www.medicare.gov/coverage/commode-chairs",
+     "https://medicare.gov/coverage/commode-chairs"
+    ]
    },
    {
     "acronym": "ED",
-    "pages": 13
+    "pages": 13,
+    "examplePages": [
+     "https://medicare.gov/publication-ordering/10050-LS",
+     "https://www.medicare.gov/publication-ordering/10050-K",
+     "https://medicare.gov/publication-ordering/10050-V",
+     "https://www.medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps",
+     "https://www.medicare.gov/publication-ordering/10050-C"
+    ]
    },
    {
     "acronym": "COVID",
-    "pages": 12
+    "pages": 12,
+    "examplePages": [
+     "https://www.medicare.gov/health-drug-plans/part-d/what-drug-plans-cover/how-drug-plans-work",
+     "https://www.medicare.gov/coverage/flu-shots",
+     "https://www.medicare.gov/coverage/preventive-screening-services",
+     "https://medicare.gov/coverage/covid-19-vaccine",
+     "https://www.medicare.gov/coverage/covid-19-monoclonal-antibody-treatments-products"
+    ]
    },
    {
     "acronym": "LS",
-    "pages": 11
+    "pages": 11,
+    "examplePages": [
+     "https://medicare.gov/publication-ordering/10050-LS",
+     "https://www.medicare.gov/publication-ordering/10050-K",
+     "https://medicare.gov/publication-ordering/10050-V",
+     "https://www.medicare.gov/publication-ordering/10050-C",
+     "https://medicare.gov/publication-ordering/10050-SB"
+    ]
    },
    {
     "acronym": "CD",
-    "pages": 11
+    "pages": 11,
+    "examplePages": [
+     "https://medicare.gov/publication-ordering/10050-LS",
+     "https://www.medicare.gov/publication-ordering/10050-K",
+     "https://medicare.gov/publication-ordering/10050-V",
+     "https://www.medicare.gov/publication-ordering/10050-C",
+     "https://medicare.gov/publication-ordering/10050-SB"
+    ]
    },
    {
     "acronym": "SD",
-    "pages": 11
+    "pages": 11,
+    "examplePages": [
+     "https://medicare.gov/publication-ordering/10050-LS",
+     "https://www.medicare.gov/publication-ordering/10050-K",
+     "https://medicare.gov/publication-ordering/10050-V",
+     "https://www.medicare.gov/publication-ordering/10050-C",
+     "https://medicare.gov/publication-ordering/10050-SB"
+    ]
    }
   ],
   "topMisspellings": [
@@ -11294,7 +11399,8 @@
    "speedIndexMs": 7297,
    "totalBlockingTimeMs": 961,
    "cumulativeLayoutShift": 0
-  }
+  },
+  "recommendations": []
  },
  "linkCheck": {
   "brokenCount": 23,
@@ -11504,5 +11610,7 @@
   }
  ],
  "tech": null,
- "images": null
+ "images": null,
+ "techFindings": null,
+ "thirdParty": null
 }

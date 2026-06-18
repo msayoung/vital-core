@@ -1,7 +1,7 @@
 {
  "domain": "www.medicaid.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-17T11:39:12.217Z",
+ "generatedAt": "2026-06-18T01:59:53.104Z",
  "pagesScanned": 2828,
  "pagesAudited": 2781,
  "coverage": {
@@ -75686,63 +75686,168 @@
   "topUnexplainedAcronyms": [
    {
     "acronym": "HTTPS",
-    "pages": 623
+    "pages": 623,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-1-004-2",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8417",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481"
+    ]
    },
    {
     "acronym": "RULE",
-    "pages": 562
+    "pages": 562,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8417",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2180"
+    ]
    },
    {
     "acronym": "RECORD",
-    "pages": 365
+    "pages": 365,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7354",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008285"
+    ]
    },
    {
     "acronym": "CLAIM",
-    "pages": 330
+    "pages": 330,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7354",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008285"
+    ]
    },
    {
     "acronym": "HEADER",
-    "pages": 318
+    "pages": 318,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7354",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008285",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1850"
+    ]
    },
    {
     "acronym": "MSIS",
-    "pages": 308
+    "pages": 308,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-2180",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008285",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6525",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003193"
+    ]
    },
    {
     "acronym": "ID",
-    "pages": 279
+    "pages": 279,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-1-004-2",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008285",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003193"
+    ]
    },
    {
     "acronym": "STATUS",
-    "pages": 224
+    "pages": 224,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7354",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1850",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1706",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1908"
+    ]
    },
    {
     "acronym": "DATE",
-    "pages": 201
+    "pages": 201,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8417",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-58-001-1",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1850",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-8745"
+    ]
    },
    {
     "acronym": "LT",
-    "pages": 168
+    "pages": 168,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008285",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003193",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-6953"
+    ]
    },
    {
     "acronym": "CIP",
-    "pages": 164
+    "pages": 164,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008285",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003193",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/crx002017"
+    ]
    },
    {
     "acronym": "CLT",
-    "pages": 163
+    "pages": 163,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-1-004-2",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008285",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003193"
+    ]
    },
    {
     "acronym": "CHIP",
-    "pages": 160
+    "pages": 160,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/all-1-004-2",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-3096",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-quality-measures/mis-58-001-1",
+     "https://www.medicaid.gov/chip/state-program-information/chip-spa?filter%5Bfield_state%5D%5Bin%5D%5B%5D=791&q=",
+     "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=826&page=28&q="
+    ]
    },
    {
     "acronym": "PDF",
-    "pages": 157
+    "pages": 157,
+    "examplePages": [
+     "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/81446",
+     "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/83526",
+     "https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/81031",
+     "https://www.medicaid.gov/chip/state-program-information/chip-spa?filter%5Bfield_state%5D%5Bin%5D%5B%5D=791&q=",
+     "https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments?filter%5Bfield_state%5D%5Bin%5D%5B0%5D=826&page=28&q="
+    ]
    },
    {
     "acronym": "OT",
-    "pages": 155
+    "pages": 155,
+    "examplePages": [
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot004276",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/cot003272",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-1481",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/validation-rules/rule-7354",
+     "https://www.medicaid.gov/tmsis/dataguide/v4/data-elements/ftx008285"
+    ]
    }
   ],
   "topMisspellings": [
@@ -76036,7 +76141,8 @@
    "speedIndexMs": 1991,
    "totalBlockingTimeMs": 328,
    "cumulativeLayoutShift": 0
-  }
+  },
+  "recommendations": []
  },
  "linkCheck": {
   "brokenCount": 2,
@@ -76089,5 +76195,7 @@
  },
  "errorPages": [],
  "tech": null,
- "images": null
+ "images": null,
+ "techFindings": null,
+ "thirdParty": null
 }

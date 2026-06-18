@@ -1,7 +1,7 @@
 {
  "domain": "data.medicaid.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-17T11:39:14.240Z",
+ "generatedAt": "2026-06-18T01:59:59.616Z",
  "pagesScanned": 2500,
  "pagesAudited": 1963,
  "coverage": {
@@ -22608,63 +22608,168 @@
   "topUnexplainedAcronyms": [
    {
     "acronym": "CSV",
-    "pages": 451
+    "pages": 451,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/b3c30bd4-f3f9-496f-97ec-c5f9d8083ad0?page=2",
+     "https://data.medicaid.gov/dataset/c1028fdf-2e43-5d5e-990b-51ed03428625?page=5",
+     "https://data.medicaid.gov/dataset/6c64c58e-34fe-59bb-9d32-dcbbe8f49d13?page=5",
+     "https://data.medicaid.gov/dataset/49948457-e2d0-55a4-be39-82f0de8d72e1?page=5",
+     "https://data.medicaid.gov/dataset/bbdcd2d0-13ac-4c1f-8670-914acb43b81e?page=2"
+    ]
    },
    {
     "acronym": "CHIP",
-    "pages": 210
+    "pages": 210,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/c1028fdf-2e43-5d5e-990b-51ed03428625?page=5",
+     "https://data.medicaid.gov/dataset/6c64c58e-34fe-59bb-9d32-dcbbe8f49d13?page=5",
+     "https://data.medicaid.gov/dataset/49948457-e2d0-55a4-be39-82f0de8d72e1?page=5",
+     "https://data.medicaid.gov/dataset/5c267647-50e9-4a81-b2f2-8f23cec6631a?page=2",
+     "https://data.medicaid.gov/dataset/ebcfc16f-8291-4c61-82a4-055846d72f3a?page=3"
+    ]
    },
    {
     "acronym": "CMS",
-    "pages": 201
+    "pages": 201,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/b3c30bd4-f3f9-496f-97ec-c5f9d8083ad0?page=2",
+     "https://data.medicaid.gov/dataset/c1028fdf-2e43-5d5e-990b-51ed03428625?page=5",
+     "https://data.medicaid.gov/dataset/6c64c58e-34fe-59bb-9d32-dcbbe8f49d13?page=5",
+     "https://data.medicaid.gov/dataset/bbdcd2d0-13ac-4c1f-8670-914acb43b81e?page=2",
+     "https://data.medicaid.gov/dataset/09998ea9-e7ae-5f49-8947-b70799847d02?page=3"
+    ]
    },
    {
     "acronym": "MG",
-    "pages": 140
+    "pages": 140,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/b3c30bd4-f3f9-496f-97ec-c5f9d8083ad0?page=2",
+     "https://data.medicaid.gov/dataset/bbdcd2d0-13ac-4c1f-8670-914acb43b81e?page=2",
+     "https://data.medicaid.gov/dataset/252660ac-d5f0-45b9-b46f-7e46fd6dba90?page=2",
+     "https://data.medicaid.gov/dataset/1d3ffff8-2cf5-4cc9-a820-5879e957caa2?page=2",
+     "https://data.medicaid.gov/dataset/b15e4145-8f0a-4790-810f-ef221ff87230?page=2"
+    ]
    },
    {
     "acronym": "ML",
-    "pages": 132
+    "pages": 132,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/b3c30bd4-f3f9-496f-97ec-c5f9d8083ad0?page=2",
+     "https://data.medicaid.gov/dataset/252660ac-d5f0-45b9-b46f-7e46fd6dba90?page=2",
+     "https://data.medicaid.gov/dataset/1d3ffff8-2cf5-4cc9-a820-5879e957caa2?page=2",
+     "https://data.medicaid.gov/dataset/b15e4145-8f0a-4790-810f-ef221ff87230?page=2",
+     "https://data.medicaid.gov/dataset/c1428b7a-16de-4bfb-88c3-6e2d9be2c9cb?page=3"
+    ]
    },
    {
     "acronym": "NDC",
-    "pages": 123
+    "pages": 123,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/b3c30bd4-f3f9-496f-97ec-c5f9d8083ad0?page=2",
+     "https://data.medicaid.gov/dataset/bbdcd2d0-13ac-4c1f-8670-914acb43b81e?page=2",
+     "https://data.medicaid.gov/dataset/252660ac-d5f0-45b9-b46f-7e46fd6dba90?page=2",
+     "https://data.medicaid.gov/dataset/c1428b7a-16de-4bfb-88c3-6e2d9be2c9cb?page=3",
+     "https://data.medicaid.gov/dataset/b960ee5c-42f9-4d97-927b-5c244bef40cf?page=3"
+    ]
    },
    {
     "acronym": "TAB",
-    "pages": 123
+    "pages": 123,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/b3c30bd4-f3f9-496f-97ec-c5f9d8083ad0?page=2",
+     "https://data.medicaid.gov/dataset/bbdcd2d0-13ac-4c1f-8670-914acb43b81e?page=2",
+     "https://data.medicaid.gov/dataset/b15e4145-8f0a-4790-810f-ef221ff87230?page=2",
+     "https://data.medicaid.gov/dataset/c1428b7a-16de-4bfb-88c3-6e2d9be2c9cb?page=3",
+     "https://data.medicaid.gov/dataset/b960ee5c-42f9-4d97-927b-5c244bef40cf?page=3"
+    ]
    },
    {
     "acronym": "MSIS",
-    "pages": 121
+    "pages": 121,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/9ec430cb-fefd-5985-a232-841f9ea55deb?page=2",
+     "https://data.medicaid.gov/dataset/6c64c58e-34fe-59bb-9d32-dcbbe8f49d13?page=5",
+     "https://data.medicaid.gov/dataset/5c267647-50e9-4a81-b2f2-8f23cec6631a?page=2",
+     "https://data.medicaid.gov/dataset/9c9ad0d1-c59b-4a25-9314-8e7e44e7f281?page=3",
+     "https://data.medicaid.gov/dataset/ea9b7db3-db71-4663-b4e1-67e11d1d4fcc?page=3"
+    ]
    },
    {
     "acronym": "PCCM",
-    "pages": 111
+    "pages": 111,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/c1028fdf-2e43-5d5e-990b-51ed03428625?page=5",
+     "https://data.medicaid.gov/dataset/6c64c58e-34fe-59bb-9d32-dcbbe8f49d13?page=5",
+     "https://data.medicaid.gov/dataset/49948457-e2d0-55a4-be39-82f0de8d72e1?page=5",
+     "https://data.medicaid.gov/dataset/78950031-dea0-53d7-9247-d5affba75d96?page=5",
+     "https://data.medicaid.gov/dataset/b07feac7-335b-5675-b4de-e483ad948e89?page=2"
+    ]
    },
    {
     "acronym": "DQ",
-    "pages": 110
+    "pages": 110,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/6c64c58e-34fe-59bb-9d32-dcbbe8f49d13?page=5",
+     "https://data.medicaid.gov/dataset/5c267647-50e9-4a81-b2f2-8f23cec6631a?page=2",
+     "https://data.medicaid.gov/dataset/9c9ad0d1-c59b-4a25-9314-8e7e44e7f281?page=3",
+     "https://data.medicaid.gov/dataset/ea9b7db3-db71-4663-b4e1-67e11d1d4fcc?page=3",
+     "https://data.medicaid.gov/dataset/a3adef5c-97e9-52e0-8c4b-b2dcb8e8eca9?page=24"
+    ]
    },
    {
     "acronym": "INC",
-    "pages": 93
+    "pages": 93,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/b3c30bd4-f3f9-496f-97ec-c5f9d8083ad0?page=2",
+     "https://data.medicaid.gov/dataset/bbdcd2d0-13ac-4c1f-8670-914acb43b81e?page=2",
+     "https://data.medicaid.gov/dataset/252660ac-d5f0-45b9-b46f-7e46fd6dba90?page=2",
+     "https://data.medicaid.gov/dataset/b960ee5c-42f9-4d97-927b-5c244bef40cf?page=3",
+     "https://data.medicaid.gov/dataset/c657d635-87c6-4a2c-a098-7ccc85d22462?page=5"
+    ]
    },
    {
     "acronym": "ABN",
-    "pages": 89
+    "pages": 89,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/b3c30bd4-f3f9-496f-97ec-c5f9d8083ad0?page=2",
+     "https://data.medicaid.gov/dataset/bbdcd2d0-13ac-4c1f-8670-914acb43b81e?page=2",
+     "https://data.medicaid.gov/dataset/252660ac-d5f0-45b9-b46f-7e46fd6dba90?page=2",
+     "https://data.medicaid.gov/dataset/b960ee5c-42f9-4d97-927b-5c244bef40cf?page=3",
+     "https://data.medicaid.gov/dataset/c657d635-87c6-4a2c-a098-7ccc85d22462?page=5"
+    ]
    },
    {
     "acronym": "ETL",
-    "pages": 82
+    "pages": 82,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/6c64c58e-34fe-59bb-9d32-dcbbe8f49d13?page=5",
+     "https://data.medicaid.gov/dataset/a3adef5c-97e9-52e0-8c4b-b2dcb8e8eca9?page=24",
+     "https://data.medicaid.gov/dataset/7a7af4ad-3403-5ad7-8983-b2db6c203a82?page=2",
+     "https://data.medicaid.gov/dataset/b07feac7-335b-5675-b4de-e483ad948e89?page=2",
+     "https://data.medicaid.gov/dataset/44cf9d94-81fa-5190-8541-de8f16fc43d5?page=3"
+    ]
    },
    {
     "acronym": "OT",
-    "pages": 82
+    "pages": 82,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/6c64c58e-34fe-59bb-9d32-dcbbe8f49d13?page=5",
+     "https://data.medicaid.gov/dataset/9c9ad0d1-c59b-4a25-9314-8e7e44e7f281?page=3",
+     "https://data.medicaid.gov/dataset/34fc0456-e28c-4762-91e1-49cd88462e7a?page=4",
+     "https://data.medicaid.gov/dataset/ed35fa7f-279b-4d68-b624-b6ff32e956df?page=1145",
+     "https://data.medicaid.gov/dataset/44cf9d94-81fa-5190-8541-de8f16fc43d5?page=3"
+    ]
    },
    {
     "acronym": "NRN",
-    "pages": 80
+    "pages": 80,
+    "examplePages": [
+     "https://data.medicaid.gov/dataset/b3c30bd4-f3f9-496f-97ec-c5f9d8083ad0?page=2",
+     "https://data.medicaid.gov/dataset/bbdcd2d0-13ac-4c1f-8670-914acb43b81e?page=2",
+     "https://data.medicaid.gov/dataset/252660ac-d5f0-45b9-b46f-7e46fd6dba90?page=2",
+     "https://data.medicaid.gov/dataset/c657d635-87c6-4a2c-a098-7ccc85d22462?page=5",
+     "https://data.medicaid.gov/dataset/d906204c-3476-4a75-bd35-342b8dc56687?page=2"
+    ]
    }
   ],
   "topMisspellings": [
@@ -22958,7 +23063,8 @@
    "speedIndexMs": 6792,
    "totalBlockingTimeMs": 1141,
    "cumulativeLayoutShift": 0.704
-  }
+  },
+  "recommendations": []
  },
  "linkCheck": {
   "brokenCount": 11,
@@ -23667,5 +23773,7 @@
   }
  ],
  "tech": null,
- "images": null
+ "images": null,
+ "techFindings": null,
+ "thirdParty": null
 }

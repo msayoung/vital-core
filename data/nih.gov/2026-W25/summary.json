@@ -1,7 +1,7 @@
 {
  "domain": "nih.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-17T11:39:14.671Z",
+ "generatedAt": "2026-06-18T02:00:01.029Z",
  "pagesScanned": 103,
  "pagesAudited": 6,
  "coverage": {
@@ -887,31 +887,54 @@
   "topUnexplainedAcronyms": [
    {
     "acronym": "NIH",
-    "pages": 2
+    "pages": 2,
+    "examplePages": [
+     "https://nih.gov/about-nih/budget",
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ]
    },
    {
     "acronym": "HHS",
-    "pages": 2
+    "pages": 2,
+    "examplePages": [
+     "https://nih.gov/about-nih/budget",
+     "https://nih.gov/about-nih/organization/nih-leadership"
+    ]
    },
    {
     "acronym": "FY",
-    "pages": 1
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/budget"
+    ]
    },
    {
     "acronym": "PHS",
-    "pages": 1
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/budget"
+    ]
    },
    {
     "acronym": "ARPA",
-    "pages": 1
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/about-nih/budget"
+    ]
    },
    {
     "acronym": "CSR",
-    "pages": 1
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/"
+    ]
    },
    {
     "acronym": "HEAL",
-    "pages": 1
+    "pages": 1,
+    "examplePages": [
+     "https://nih.gov/"
+    ]
    }
   ],
   "topMisspellings": [
@@ -1204,5 +1227,7 @@
   }
  ],
  "tech": null,
- "images": null
+ "images": null,
+ "techFindings": null,
+ "thirdParty": null
 }

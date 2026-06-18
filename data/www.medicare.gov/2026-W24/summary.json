@@ -1,7 +1,7 @@
 {
  "domain": "www.medicare.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-17T11:39:11.940Z",
+ "generatedAt": "2026-06-18T01:59:52.171Z",
  "pagesScanned": 1171,
  "pagesAudited": 1158,
  "coverage": {
@@ -13589,63 +13589,168 @@
   "topUnexplainedAcronyms": [
    {
     "acronym": "ID",
-    "pages": 41
+    "pages": 41,
+    "examplePages": [
+     "https://www.medicare.gov/sso/authorize?client_id=mct&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9SG9zcGljZSJ9fQ%3D%3D",
+     "https://www.medicare.gov/my/account-settings/get-my-medicare-card?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Faccount-settings%2Fget-my-medicare-card%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9UGh5c2ljaWFuIn19"
+    ]
    },
    {
     "acronym": "VA",
-    "pages": 40
+    "pages": 40,
+    "examplePages": [
+     "https://www.medicare.gov/sso/authorize?client_id=mct&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9SG9zcGljZSJ9fQ%3D%3D",
+     "https://www.medicare.gov/my/account-settings/get-my-medicare-card?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Faccount-settings%2Fget-my-medicare-card%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9UGh5c2ljaWFuIn19"
+    ]
    },
    {
     "acronym": "IRS",
-    "pages": 37
+    "pages": 37,
+    "examplePages": [
+     "https://www.medicare.gov/sso/authorize?client_id=mct&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2Fsls-callback&relay=eyJsYW5nIjoiZW4ifQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9SG9zcGljZSJ9fQ%3D%3D",
+     "https://www.medicare.gov/my/account-settings/get-my-medicare-card?client_id=max&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fmy&relay=%2Faccount-settings%2Fget-my-medicare-card%3Fclient_id%3Dmax%26Lang%3Des-mx%26redirect_uri%3Dhttps%253A%252F%252Fwww.medicare.gov%252Fmy",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=es-mx&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9TWVkaWNhbEVxdWlwbWVudFN1cHBsaWVycyJ9fQ%3D%3D",
+     "https://www.medicare.gov/account/login?client_id=carecompare&Lang=en-us&redirect_uri=https%3A%2F%2Fwww.medicare.gov%2Fcare-compare%2Foauth&relay=eyJhY3Rpb24iOiJsb2dpbiIsImRhdGEiOnsibGFzdFVybCI6Ij9wcm92aWRlclR5cGU9UGh5c2ljaWFuIn19"
+    ]
    },
    {
     "acronym": "ZIP",
-    "pages": 31
+    "pages": 31,
+    "examplePages": [
+     "https://medicare.gov/coverage/abdominal-aortic-aneurysm-screenings",
+     "https://medicare.gov/coverage/osteoporosis-drugs",
+     "https://medicare.gov/coverage/hospice-care",
+     "https://medicare.gov/coverage/emergency-department-services",
+     "https://medicare.gov/coverage/counseling-to-prevent-tobacco-use-tobacco-caused-disease"
+    ]
    },
    {
     "acronym": "PDF",
-    "pages": 28
+    "pages": 28,
+    "examplePages": [
+     "https://medicare.gov/publications/search/all-non-english-pubs",
+     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/plan-premium-changing",
+     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-automatically-qualify-automatically-enroll",
+     "https://www.medicare.gov/publications/search/all-non-english-pubs?page=1",
+     "https://medicare.gov/publications/search/all-non-english-pubs?page=1"
+    ]
    },
    {
     "acronym": "TTY",
-    "pages": 16
+    "pages": 16,
+    "examplePages": [
+     "https://medicare.gov/basics/get-started-with-medicare/other-paths/medicare-marketplace",
+     "https://medicare.gov/health-drug-plans/part-d/basics",
+     "https://medicare.gov/my/medicare-complaint",
+     "https://medicare.gov/providers-services/disaster-emergency",
+     "https://medicare.gov/basics/get-started-with-medicare/get-more-coverage/joining-a-plan"
+    ]
    },
    {
     "acronym": "LE",
-    "pages": 15
+    "pages": 15,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/10050-SB",
+     "https://www.medicare.gov/publication-ordering/10050-V",
+     "https://medicare.gov/publication-ordering/10050-V",
+     "https://www.medicare.gov/publication-ordering/11022-S",
+     "https://www.medicare.gov/publication-ordering/10050-C"
+    ]
    },
    {
     "acronym": "ED",
-    "pages": 11
+    "pages": 11,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/10050-SB",
+     "https://www.medicare.gov/publication-ordering/10050-V",
+     "https://medicare.gov/publication-ordering/10050-V",
+     "https://www.medicare.gov/publication-ordering/10050-C",
+     "https://medicare.gov/publication-ordering/10050-SB"
+    ]
    },
    {
     "acronym": "SB",
-    "pages": 10
+    "pages": 10,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/10050-SB",
+     "https://www.medicare.gov/publication-ordering/10050-V",
+     "https://medicare.gov/publication-ordering/10050-V",
+     "https://www.medicare.gov/publication-ordering/10050-C",
+     "https://medicare.gov/publication-ordering/10050-SB"
+    ]
    },
    {
     "acronym": "CD",
-    "pages": 10
+    "pages": 10,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/10050-SB",
+     "https://www.medicare.gov/publication-ordering/10050-V",
+     "https://medicare.gov/publication-ordering/10050-V",
+     "https://www.medicare.gov/publication-ordering/10050-C",
+     "https://medicare.gov/publication-ordering/10050-SB"
+    ]
    },
    {
     "acronym": "SD",
-    "pages": 10
+    "pages": 10,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/10050-SB",
+     "https://www.medicare.gov/publication-ordering/10050-V",
+     "https://medicare.gov/publication-ordering/10050-V",
+     "https://www.medicare.gov/publication-ordering/10050-C",
+     "https://medicare.gov/publication-ordering/10050-SB"
+    ]
    },
    {
     "acronym": "LS",
-    "pages": 10
+    "pages": 10,
+    "examplePages": [
+     "https://www.medicare.gov/publication-ordering/10050-SB",
+     "https://www.medicare.gov/publication-ordering/10050-V",
+     "https://medicare.gov/publication-ordering/10050-V",
+     "https://www.medicare.gov/publication-ordering/10050-C",
+     "https://medicare.gov/publication-ordering/10050-SB"
+    ]
    },
    {
     "acronym": "CMS",
-    "pages": 9
+    "pages": 9,
+    "examplePages": [
+     "https://medicare.gov/basics/costs/pay-premiums/online-bill-pay",
+     "https://medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps",
+     "https://medicare.gov/about-us/get-involved-with-medicare",
+     "https://medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start",
+     "https://medicare.gov/providers-services/claims-appeals-complaints/appeals/original-medicare/appeal-part-a-hospital-status-change"
+    ]
    },
    {
     "acronym": "KB",
-    "pages": 8
+    "pages": 8,
+    "examplePages": [
+     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/plan-premium-changing",
+     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-automatically-qualify-automatically-enroll",
+     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/drug-plan-changing-medicare-advantage-plan-termination",
+     "https://medicare.gov/publications/search/item/112371",
+     "https://medicare.gov/basics/forms-publications-mailings/mailings/help-with-costs/extra-help-auto-enrollment-future-coverage"
+    ]
    },
    {
     "acronym": "AI",
-    "pages": 8
+    "pages": 8,
+    "examplePages": [
+     "https://medicare.gov/health-apps",
+     "https://medicare.gov/health-apps/flexpa",
+     "https://medicare.gov/health-apps/noom",
+     "https://medicare.gov/health-apps/conversational-ai",
+     "https://medicare.gov/basics/get-started-with-medicare/using-medicare/helpful-tools"
+    ]
    }
   ],
   "topMisspellings": [
@@ -13939,7 +14044,8 @@
    "speedIndexMs": 7543,
    "totalBlockingTimeMs": 972,
    "cumulativeLayoutShift": 0.012
-  }
+  },
+  "recommendations": []
  },
  "linkCheck": {
   "brokenCount": 5,
@@ -14098,5 +14204,7 @@
   }
  ],
  "tech": null,
- "images": null
+ "images": null,
+ "techFindings": null,
+ "thirdParty": null
 }

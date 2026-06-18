@@ -1,6 +1,6 @@
 {
  "domain": "data.medicaid.gov",
- "updatedAt": "2026-06-17T11:39:14.444Z",
+ "updatedAt": "2026-06-18T02:00:00.400Z",
  "links": {
   "https://data.medicaid.gov/whats-new": {
    "status": 404,
@@ -37,7 +37,9 @@
    "weeksBroken": 2,
    "foundOn": [
     "https://data.medicaid.gov/dataset/e8ec5dc4-7904-52d4-8ce9-73c2fb188514?page=2",
-    "https://data.medicaid.gov/dataset/e8ec5dc4-7904-52d4-8ce9-73c2fb188514"
+    "https://data.medicaid.gov/dataset/e8ec5dc4-7904-52d4-8ce9-73c2fb188514",
+    "https://data.medicaid.gov/dataset/9ec430cb-fefd-5985-a232-841f9ea55deb?page=3",
+    "https://data.medicaid.gov/dataset/6ac0cd59-34dd-5a2b-aca9-6f9322fbf7be"
    ]
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/data-dictionary/items/2cf00cfe-9041-422e-b5d2-ddb6295d7eaa/csv": {
@@ -189,7 +191,8 @@
    "weeksBroken": 2,
    "foundOn": [
     "https://data.medicaid.gov/dataset/9fcb14ec-d5f0-536e-9938-3f0024531e5b?page=5",
-    "https://data.medicaid.gov/dataset/9fcb14ec-d5f0-536e-9938-3f0024531e5b?page=34"
+    "https://data.medicaid.gov/dataset/9fcb14ec-d5f0-536e-9938-3f0024531e5b?page=34",
+    "https://data.medicaid.gov/dataset/9fcb14ec-d5f0-536e-9938-3f0024531e5b"
    ]
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/data-dictionary/items/4d13d318-13b5-40c1-8783-89ec58071066/csv": {
@@ -300,7 +303,10 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://data.medicaid.gov/dataset/c5ac742e-cffa-4e04-a043-fb8324e5512c?page=2",
-    "https://data.medicaid.gov/dataset/1d3ffff8-2cf5-4cc9-a820-5879e957caa2"
+    "https://data.medicaid.gov/dataset/1d3ffff8-2cf5-4cc9-a820-5879e957caa2",
+    "https://data.medicaid.gov/dataset/666bbb60-13ea-4545-b696-d65776db2bab",
+    "https://data.medicaid.gov/dataset/d32dc095-de60-45f0-9e58-852257970244?page=2",
+    "https://data.medicaid.gov/dataset/d32dc095-de60-45f0-9e58-852257970244"
    ]
   },
   "https://download.medicaid.gov/data/scorecard/3.9.9/20251118/state.csv": {
@@ -380,7 +386,8 @@
    "foundOn": [
     "https://data.medicaid.gov/dataset/4011579c-33ea-5741-a763-a2558d635561?page=5",
     "https://data.medicaid.gov/dataset/4011579c-33ea-5741-a763-a2558d635561?page=3",
-    "https://data.medicaid.gov/dataset/4011579c-33ea-5741-a763-a2558d635561?page=4"
+    "https://data.medicaid.gov/dataset/4011579c-33ea-5741-a763-a2558d635561?page=4",
+    "https://data.medicaid.gov/dataset/4011579c-33ea-5741-a763-a2558d635561"
    ]
   },
   "https://download.medicaid.gov/data/scorecard/3.9.8/20251118/measure_value.csv": {
@@ -434,6 +441,59 @@
    "foundOn": [
     "https://data.medicaid.gov/dataset/289182e5-44c8-4fcc-96c4-4af69be9863f?page=2",
     "https://data.medicaid.gov/dataset/289182e5-44c8-4fcc-96c4-4af69be9863f"
+   ]
+  },
+  "https://download.medicaid.gov/data/scorecard/0.3.58-test/20230728/VERSION.csv": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.medicaid.gov/dataset/b087ed0a-861b-5562-aac7-239348af8c82"
+   ]
+  },
+  "https://download.medicaid.gov/data/scorecard/0.3.1-1/TAG.csv": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.medicaid.gov/dataset/10ebe487-2deb-5e03-88bc-9d847fca5d76"
+   ]
+  },
+  "https://download.medicaid.gov/data/scorecard/0.3.58-test/20230728/PILLAR.csv": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.medicaid.gov/dataset/f84a8b57-39db-538b-9603-8e049bab7d8f"
+   ]
+  },
+  "https://download.medicaid.gov/data/scorecard/3.9.9/20251118/version.csv": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.medicaid.gov/dataset/75a6a471-abf9-530c-b195-3e330b1fd3ef",
+    "https://data.medicaid.gov/dataset/f5af2ce4-5a41-5d43-a0aa-11785f928bf3"
    ]
   }
  }

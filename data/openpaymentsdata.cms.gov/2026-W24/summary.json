@@ -1,7 +1,7 @@
 {
  "domain": "openpaymentsdata.cms.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-17T11:39:13.424Z",
+ "generatedAt": "2026-06-18T01:59:56.575Z",
  "pagesScanned": 237,
  "pagesAudited": 206,
  "coverage": {
@@ -3309,63 +3309,168 @@
   "topUnexplainedAcronyms": [
    {
     "acronym": "GPO",
-    "pages": 48
+    "pages": 48,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/e6b17c6a-2534-4207-a4a1-6746a14911ff?page=2",
+     "https://openpaymentsdata.cms.gov/dataset/a08c4b30-5cf3-4948-ad40-36f404619019?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/9ac4f7f8-b6e4-4d80-8410-4aba7e71dd02?page=92",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=218760",
+     "https://openpaymentsdata.cms.gov/dataset/b0c03b8d-06df-58f2-8ce2-4daeffee147e?page=5"
+    ]
    },
    {
     "acronym": "NDC",
-    "pages": 34
+    "pages": 34,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/e6b17c6a-2534-4207-a4a1-6746a14911ff?page=2",
+     "https://openpaymentsdata.cms.gov/dataset/a08c4b30-5cf3-4948-ad40-36f404619019?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=218760",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=4",
+     "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e?page=5"
+    ]
    },
    {
     "acronym": "PDI",
-    "pages": 34
+    "pages": 34,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/e6b17c6a-2534-4207-a4a1-6746a14911ff?page=2",
+     "https://openpaymentsdata.cms.gov/dataset/a08c4b30-5cf3-4948-ad40-36f404619019?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=218760",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=4",
+     "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e?page=5"
+    ]
    },
    {
     "acronym": "MS",
-    "pages": 24
+    "pages": 24,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/e6b17c6a-2534-4207-a4a1-6746a14911ff?page=2",
+     "https://openpaymentsdata.cms.gov/datasets?theme%5B%5D=Research+Payments",
+     "https://openpaymentsdata.cms.gov/dataset/a08c4b30-5cf3-4948-ad40-36f404619019?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=218760",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=4"
+    ]
    },
    {
     "acronym": "IT",
-    "pages": 22
+    "pages": 22,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/e6b17c6a-2534-4207-a4a1-6746a14911ff?page=2",
+     "https://openpaymentsdata.cms.gov/datasets?theme%5B%5D=Research+Payments",
+     "https://openpaymentsdata.cms.gov/dataset/a08c4b30-5cf3-4948-ad40-36f404619019?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=218760",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=4"
+    ]
    },
    {
     "acronym": "NOTE",
-    "pages": 21
+    "pages": 21,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/e6b17c6a-2534-4207-a4a1-6746a14911ff?page=2",
+     "https://openpaymentsdata.cms.gov/dataset/a08c4b30-5cf3-4948-ad40-36f404619019?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=218760",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=4",
+     "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e?page=5"
+    ]
    },
    {
     "acronym": "STE",
-    "pages": 21
+    "pages": 21,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=218760",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=4",
+     "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/2f15cb85-8887-4dcc-a318-1f8ec1d815b3?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/23160558-6742-54ff-8b9f-cac7d514ff4e?page=32366"
+    ]
    },
    {
     "acronym": "AVE",
-    "pages": 20
+    "pages": 20,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/e6b17c6a-2534-4207-a4a1-6746a14911ff?page=2",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=218760",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=4",
+     "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/2f15cb85-8887-4dcc-a318-1f8ec1d815b3?page=5"
+    ]
    },
    {
     "acronym": "RD",
-    "pages": 19
+    "pages": 19,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=218760",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=4",
+     "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/2f15cb85-8887-4dcc-a318-1f8ec1d815b3?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/23160558-6742-54ff-8b9f-cac7d514ff4e?page=32366"
+    ]
    },
    {
     "acronym": "NW",
-    "pages": 18
+    "pages": 18,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/a08c4b30-5cf3-4948-ad40-36f404619019?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/9ac4f7f8-b6e4-4d80-8410-4aba7e71dd02?page=92",
+     "https://openpaymentsdata.cms.gov/dataset/b0c03b8d-06df-58f2-8ce2-4daeffee147e?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/23160558-6742-54ff-8b9f-cac7d514ff4e?page=32366"
+    ]
    },
    {
     "acronym": "LLC",
-    "pages": 18
+    "pages": 18,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/9ac4f7f8-b6e4-4d80-8410-4aba7e71dd02?page=92",
+     "https://openpaymentsdata.cms.gov/dataset/b0c03b8d-06df-58f2-8ce2-4daeffee147e?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e?page=211164",
+     "https://openpaymentsdata.cms.gov/dataset/fdc3c773-018a-412c-8a81-d7b8a13a037b?page=5"
+    ]
    },
    {
     "acronym": "TH",
-    "pages": 16
+    "pages": 16,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/e6b17c6a-2534-4207-a4a1-6746a14911ff?page=2",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=218760",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=4",
+     "https://openpaymentsdata.cms.gov/dataset/2f15cb85-8887-4dcc-a318-1f8ec1d815b3?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/0b5c9710-7edb-484e-abc8-39293849ccb2?page=2"
+    ]
    },
    {
     "acronym": "AN",
-    "pages": 15
+    "pages": 15,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/a08c4b30-5cf3-4948-ad40-36f404619019?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=218760",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=4",
+     "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/9c248e7e-7c7f-478b-ab84-ce0919d72c1c?page=3"
+    ]
    },
    {
     "acronym": "OF",
-    "pages": 15
+    "pages": 15,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/23160558-6742-54ff-8b9f-cac7d514ff4e?page=32366",
+     "https://openpaymentsdata.cms.gov/dataset/9c248e7e-7c7f-478b-ab84-ce0919d72c1c?page=3",
+     "https://openpaymentsdata.cms.gov/dataset/9c248e7e-7c7f-478b-ab84-ce0919d72c1c?page=15199",
+     "https://openpaymentsdata.cms.gov/dataset/ec9521bf-9d97-4603-814c-f4132d34bc4f?page=3",
+     "https://openpaymentsdata.cms.gov/dataset/0b5c9710-7edb-484e-abc8-39293849ccb2?page=2"
+    ]
    },
    {
     "acronym": "ST",
-    "pages": 13
+    "pages": 13,
+    "examplePages": [
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=218760",
+     "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=4",
+     "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e?page=5",
+     "https://openpaymentsdata.cms.gov/dataset/23160558-6742-54ff-8b9f-cac7d514ff4e?page=32366",
+     "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e?page=211164"
+    ]
    }
   ],
   "topMisspellings": []
@@ -3383,7 +3488,8 @@
    "speedIndexMs": 5399,
    "totalBlockingTimeMs": 848,
    "cumulativeLayoutShift": 1
-  }
+  },
+  "recommendations": []
  },
  "linkCheck": {
   "brokenCount": 7,
@@ -3691,5 +3797,7 @@
   }
  ],
  "tech": null,
- "images": null
+ "images": null,
+ "techFindings": null,
+ "thirdParty": null
 }
