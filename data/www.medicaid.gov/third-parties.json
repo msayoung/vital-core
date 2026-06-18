@@ -1,6 +1,6 @@
 {
  "domain": "www.medicaid.gov",
- "updatedAt": "2026-06-18T01:59:54.897Z",
+ "updatedAt": "2026-06-18T10:19:50.064Z",
  "vendors": {
   "googletagmanager.com": {
    "firstSeen": "2026-W25",
@@ -109,6 +109,24 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": true
+  },
+  "demdex.net": {
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "cms.gov": {
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
   }
  }
 }

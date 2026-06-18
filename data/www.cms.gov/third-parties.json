@@ -1,25 +1,7 @@
 {
  "domain": "www.cms.gov",
- "updatedAt": "2026-06-18T01:59:51.452Z",
+ "updatedAt": "2026-06-18T10:19:48.316Z",
  "vendors": {
-  "gstatic.com": {
-   "firstSeen": "2026-W25",
-   "lastSeen": "2026-W25",
-   "_weeks": [
-    "2026-W25"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
-  "google.com": {
-   "firstSeen": "2026-W25",
-   "lastSeen": "2026-W25",
-   "_weeks": [
-    "2026-W25"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
   "qualtrics.com": {
    "firstSeen": "2026-W25",
    "lastSeen": "2026-W25",
@@ -74,6 +56,24 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
+  "gstatic.com": {
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "google.com": {
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
   "google-analytics.com": {
    "firstSeen": "2026-W25",
    "lastSeen": "2026-W25",
@@ -91,6 +91,15 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": true
+  },
+  "demdex.net": {
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
   }
  }
 }

@@ -1,6 +1,6 @@
 {
  "domain": "www.cdc.gov",
- "updatedAt": "2026-06-18T01:59:57.522Z",
+ "updatedAt": "2026-06-18T10:19:51.604Z",
  "vendors": {
   "googletagmanager.com": {
    "firstSeen": "2026-W25",
@@ -18,7 +18,7 @@
     "2026-W25"
    ],
    "weeksSeen": 1,
-   "isScriptVendor": false
+   "isScriptVendor": true
   },
   "altmetric.com": {
    "firstSeen": "2026-W25",
@@ -65,7 +65,7 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
-  "ytimg.com": {
+  "gstatic.com": {
    "firstSeen": "2026-W25",
    "lastSeen": "2026-W25",
    "_weeks": [
@@ -74,7 +74,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "gstatic.com": {
+  "ytimg.com": {
    "firstSeen": "2026-W25",
    "lastSeen": "2026-W25",
    "_weeks": [
@@ -109,6 +109,15 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": true
+  },
+  "ggpht.com": {
+   "firstSeen": "2026-W25",
+   "lastSeen": "2026-W25",
+   "_weeks": [
+    "2026-W25"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
   },
   "googleadservices.com": {
    "firstSeen": "2026-W25",
