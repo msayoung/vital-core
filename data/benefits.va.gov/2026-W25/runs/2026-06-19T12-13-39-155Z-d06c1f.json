@@ -1,0 +1,163 @@
+{
+ "runId": "2026-06-19T12-13-39-155Z-d06c1f",
+ "week": "2026-W25",
+ "domain": "benefits.va.gov",
+ "startedAt": "2026-06-19T12:13:41.397Z",
+ "scanned": [
+  "e6e907ff8d0114b3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 424,
+  "checked": 424,
+  "brokenCount": 14,
+  "broken": [
+   {
+    "url": "https://www.cem.va.gov/cems/listcem.asp",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.cem.va.gov/veterans-and-families/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.cem.va.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.cem.va.gov/cem/history/index.asp",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.cem.va.gov/cem/legacy/index.asp",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.caregiver.va.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.cem.va.gov/burial-memorial-benefits/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.cem.va.gov/nationwide-gravesite-locator/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.cem.va.gov/find-cemetery/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.cem.va.gov/grants/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.cem.va.gov/hmm/cemetery-restoration.asp",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.cem.va.gov/legacy/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.cem.va.gov/history/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   },
+   {
+    "url": "http://www.benefits.va.gov/warms/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://benefits.va.gov/"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 1,
+  "alfa": 1,
+  "plain-language": 1,
+  "resources": 1,
+  "images": 1,
+  "third-party": 1,
+  "link-check": 1
+ },
+ "tally": {
+  "ok": 1,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-06-19T12:14:45.955Z"
+}
