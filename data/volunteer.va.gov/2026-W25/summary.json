@@ -1,0 +1,742 @@
+{
+ "domain": "volunteer.va.gov",
+ "week": "2026-W25",
+ "generatedAt": "2026-06-19T12:04:55.379Z",
+ "pagesScanned": 1,
+ "pagesAudited": 1,
+ "coverage": {
+  "axe": 1,
+  "alfa": 1,
+  "resources": 1,
+  "standards": 1
+ },
+ "blocked": null,
+ "axe": {
+  "violationTotal": 51,
+  "pagesWithViolations": 1,
+  "pagesScanned": 1,
+  "medianViolations": 51,
+  "rules": {
+   "empty-heading": {
+    "count": 1,
+    "pages": 1,
+    "impact": "minor",
+    "help": "Headings should not be empty",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/empty-heading?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "h2[align=\"center\"]:nth-child(3)",
+      "html": "<h2 align=\"center\"><br><br></h2>"
+     }
+    ]
+   },
+   "heading-order": {
+    "count": 1,
+    "pages": 1,
+    "impact": "moderate",
+    "help": "Heading levels should only increase by one",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": ".cloned.slide:nth-child(1) > .slider-info > h3",
+      "html": "<h3>Volunteer Drivers</h3>"
+     }
+    ]
+   },
+   "label-title-only": {
+    "count": 1,
+    "pages": 1,
+    "impact": "serious",
+    "help": "Form elements should have a visible label",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/label-title-only?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "#email",
+      "html": "<input id=\"email\" class=\"inputstyle\" type=\"text\" title=\"enter email here\" onfocus=\"this.value=''\" value=\"Email Address\" size=\"10\" name=\"email\">"
+     }
+    ]
+   },
+   "landmark-no-duplicate-banner": {
+    "count": 1,
+    "pages": 1,
+    "impact": "moderate",
+    "help": "Document should not have more than one banner landmark",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-no-duplicate-banner?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "header",
+      "html": "<header class=\"row main-header-wrap\">"
+     }
+    ]
+   },
+   "landmark-one-main": {
+    "count": 1,
+    "pages": 1,
+    "impact": "moderate",
+    "help": "Document should have one main landmark",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "html",
+      "html": "<html lang=\"en\">"
+     }
+    ]
+   },
+   "landmark-unique": {
+    "count": 2,
+    "pages": 1,
+    "impact": "moderate",
+    "help": "Landmarks should have a unique role or role/label/title (i.e. accessible name) combination",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-unique?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 2
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "header",
+      "html": "<header class=\"row main-header-wrap\">"
+     },
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "#main-nav",
+      "html": "<nav id=\"main-nav\" class=\"main-nav\">"
+     }
+    ]
+   },
+   "region": {
+    "count": 44,
+    "pages": 1,
+    "impact": "moderate",
+    "help": "All page content should be contained by landmarks",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 44
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "#mainContentWrapper",
+      "html": "<div id=\"mainContentWrapper\">"
+     },
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": ".active > a[href=\"#\"]",
+      "html": "<a href=\"#\" title=\"VA Center for Development and Civic Engagement\"><span><img src=\"/va_files/2014/responsive/images/open.png\" title=\"Open Arrow\" alt=\"Open Arrow\"></span>VA Center for Development and C"
+     },
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": ".active > .sub-menu > li:nth-child(1)",
+      "html": "<li><a href=\"/VOLUNTEER/index.asp\" title=\"CDCE Home\" class=\"current\">CDCE Home</a></li>"
+     }
+    ]
+   }
+  }
+ },
+ "alfa": {
+  "failedTotal": 230,
+  "pagesWithFailures": 1,
+  "pagesScanned": 1,
+  "medianFailures": 230,
+  "rules": {
+   "sia-r66": {
+    "count": 10,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r66",
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 10
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "text: \"Since 1987, VA has partnered with VSOs to provide transportation for Veterans.\"",
+      "html": null
+     },
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "text: \"Learn more »\"",
+      "html": null
+     },
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "text: \"There are many ways you can help. Fill out our form and a local representative will contact you.\"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r53": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r53",
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "<h3>",
+      "html": null
+     }
+    ]
+   },
+   "sia-r73": {
+    "count": 12,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r73",
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 12
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "<p>",
+      "html": null
+     },
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "<p>",
+      "html": null
+     },
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "<p>",
+      "html": null
+     }
+    ]
+   },
+   "sia-r113": {
+    "count": 35,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r113",
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 35
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "<a title=\"Link to VA's Email Directory\" href=\"https://public.govdelivery.com/accounts/USVA/subscriber/new/\">",
+      "html": null
+     },
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "<a title=\"Link to VA's main Facebook page\" href=\"https://www.facebook.com/VeteransAffairs\">",
+      "html": null
+     },
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "<a title=\"Link to VA's main Twitter account\" href=\"https://www.twitter.com/DeptVetAffairs/\">",
+      "html": null
+     }
+    ]
+   },
+   "sia-r57": {
+    "count": 97,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r57",
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 97
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "text: \"VA\"",
+      "html": null
+     },
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "text: \" » \n                \n                \"",
+      "html": null
+     },
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "text: \"Health Care\"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r64": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r64",
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "<h2 align=\"center\">",
+      "html": null
+     }
+    ]
+   },
+   "sia-r111": {
+    "count": 74,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r111",
+    "examplePages": [
+     "https://volunteer.va.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "instances": 74
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "<button data-show=\"#modal-crisisline\" class=\"va-crisis-line-button va-overlay-trigger\">",
+      "html": null
+     },
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "<a href=\"https://www.va.gov/site_map.htm\" title=\"Site Map A-Z\">",
+      "html": null
+     },
+     {
+      "url": "https://volunteer.va.gov/",
+      "target": "<a title=\"Link to VA's Email Directory\" href=\"https://public.govdelivery.com/accounts/USVA/subscriber/new/\">",
+      "html": null
+     }
+    ]
+   }
+  }
+ },
+ "consensus": {
+  "uniqueIssues": 13,
+  "consensus": 1,
+  "axeOnly": 6,
+  "alfaOnly": 6,
+  "rawAxe": 7,
+  "rawAlfa": 7,
+  "byKey": {
+   "act:ffd0e9": {
+    "actRuleId": "ffd0e9",
+    "axeRules": [
+     "empty-heading"
+    ],
+    "alfaRules": [
+     "sia-r64"
+    ],
+    "pages": 1,
+    "engines": "both"
+   },
+   "axe-core:heading-order": {
+    "actRuleId": null,
+    "axeRules": [
+     "heading-order"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "axe-core:label-title-only": {
+    "actRuleId": null,
+    "axeRules": [
+     "label-title-only"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "axe-core:landmark-no-duplicate-banner": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-no-duplicate-banner"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "axe-core:landmark-one-main": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-one-main"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "axe-core:landmark-unique": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-unique"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "axe-core:region": {
+    "actRuleId": null,
+    "axeRules": [
+     "region"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "alfa:sia-r66": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r66"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "alfa:sia-r53": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r53"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "alfa:sia-r73": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r73"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "alfa:sia-r113": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r113"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "alfa:sia-r57": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r57"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "alfa:sia-r111": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r111"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   }
+  }
+ },
+ "sustainability": null,
+ "deprecatedHtml": null,
+ "resources": {
+  "total": 3,
+  "byType": {
+   "embedded-media": 3
+  },
+  "list": [
+   {
+    "url": "https://www.youtube.com/embed/8wKMJS7iiwo?flag=1&enablejsapi=1&origin=https://volunteer.va.gov",
+    "type": "embedded-media",
+    "pages": 1
+   },
+   {
+    "url": "https://www.youtube.com/embed/Mt4YU6eQaFc?flag=1&enablejsapi=1&origin=https://volunteer.va.gov",
+    "type": "embedded-media",
+    "pages": 1
+   },
+   {
+    "url": "https://www.youtube.com/embed/JZlV4qY08QU?flag=1&enablejsapi=1&origin=https://volunteer.va.gov",
+    "type": "embedded-media",
+    "pages": 1
+   }
+  ]
+ },
+ "standards": {
+  "pagesChecked": 1,
+  "checks": [
+   {
+    "id": "schema-gov",
+    "label": "schema.org GovernmentOrganization markup",
+    "pass": 0,
+    "total": 1,
+    "rate": 0
+   },
+   {
+    "id": "canonical",
+    "label": "Canonical URL declared",
+    "pass": 0,
+    "total": 1,
+    "rate": 0
+   },
+   {
+    "id": "hreflang",
+    "label": "hreflang alternates declared",
+    "pass": 0,
+    "total": 1,
+    "rate": 0
+   },
+   {
+    "id": "open-social",
+    "label": "Open social presence (Mastodon/Bluesky) linked",
+    "pass": 0,
+    "total": 1,
+    "rate": 0
+   },
+   {
+    "id": "title",
+    "label": "Page has a <title>",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   },
+   {
+    "id": "description",
+    "label": "Meta description present",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   },
+   {
+    "id": "charset",
+    "label": "Character encoding declared",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   },
+   {
+    "id": "lang",
+    "label": "Document language (lang) set",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   },
+   {
+    "id": "viewport",
+    "label": "Responsive viewport (zoom not disabled)",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   },
+   {
+    "id": "open-graph",
+    "label": "Open Graph tags (4/6)",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   },
+   {
+    "id": "twitter-card",
+    "label": "Twitter card metadata",
+    "pass": 1,
+    "total": 1,
+    "rate": 100
+   }
+  ],
+  "social": []
+ },
+ "security": null,
+ "plainLanguage": null,
+ "lighthouse": null,
+ "linkCheck": {
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://www.caregiver.va.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://volunteer.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.hepatitis.va.gov/",
+    "status": 0,
+    "reason": "ENETUNREACH",
+    "foundOn": [
+     "https://volunteer.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.move.va.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://volunteer.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.vacanteen.va.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://volunteer.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.oefoif.va.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://volunteer.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.valu.va.gov/Home/Index",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://volunteer.va.gov/"
+    ]
+   },
+   {
+    "url": "https://www.healthquality.va.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://volunteer.va.gov/"
+    ]
+   }
+  ]
+ },
+ "errorPages": [],
+ "tech": null,
+ "images": {
+  "pagesScanned": 1,
+  "totalImages": 65,
+  "uniqueImages": 43,
+  "missingAlt": 0,
+  "decorative": 0,
+  "withAlt": 65,
+  "altVerdicts": {
+   "GOOD": 43
+  }
+ },
+ "techFindings": null,
+ "thirdParty": null,
+ "pagesAttempted": 1,
+ "pagesSucceeded": 1
+}
