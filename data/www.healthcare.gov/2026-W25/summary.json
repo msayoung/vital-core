@@ -1,7 +1,7 @@
 {
  "domain": "www.healthcare.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-20T19:51:39.598Z",
+ "generatedAt": "2026-06-20T23:27:14.278Z",
  "pagesScanned": 569,
  "pagesAudited": 569,
  "coverage": {
@@ -8213,6 +8213,7 @@
   "medianAccessibility": 100,
   "medianBestPractices": 77,
   "medianSeo": 92,
+  "medianPwa": null,
   "medianAgentic": null,
   "metrics": {
    "firstContentfulPaintMs": 2520,
@@ -8221,9 +8222,8 @@
    "totalBlockingTimeMs": 1299,
    "cumulativeLayoutShift": 0.05
   },
-  "recommendations": [],
-  "medianPwa": null,
-  "pwaSignals": []
+  "pwaSignals": [],
+  "recommendations": []
  },
  "linkCheck": {
   "brokenCount": 1,

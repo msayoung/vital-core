@@ -1,7 +1,7 @@
 {
  "domain": "www.cdc.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-20T19:51:35.650Z",
+ "generatedAt": "2026-06-20T23:27:12.669Z",
  "pagesScanned": 833,
  "pagesAudited": 812,
  "coverage": {
@@ -22449,6 +22449,7 @@
   "medianAccessibility": 100,
   "medianBestPractices": 100,
   "medianSeo": 100,
+  "medianPwa": null,
   "medianAgentic": null,
   "metrics": {
    "firstContentfulPaintMs": 1225,
@@ -22457,9 +22458,8 @@
    "totalBlockingTimeMs": 144,
    "cumulativeLayoutShift": 0.044
   },
-  "recommendations": [],
-  "medianPwa": null,
-  "pwaSignals": []
+  "pwaSignals": [],
+  "recommendations": []
  },
  "linkCheck": {
   "brokenCount": 104,

@@ -1,7 +1,7 @@
 {
  "domain": "data.cms.gov",
  "week": "2026-W24",
- "generatedAt": "2026-06-20T19:51:37.507Z",
+ "generatedAt": "2026-06-20T23:27:13.353Z",
  "pagesScanned": 2500,
  "pagesAudited": 2167,
  "coverage": {
@@ -35463,6 +35463,7 @@
   "medianAccessibility": 96,
   "medianBestPractices": 100,
   "medianSeo": 92,
+  "medianPwa": null,
   "medianAgentic": null,
   "metrics": {
    "firstContentfulPaintMs": 9494,
@@ -35471,9 +35472,8 @@
    "totalBlockingTimeMs": 803,
    "cumulativeLayoutShift": 0
   },
-  "recommendations": [],
-  "medianPwa": null,
-  "pwaSignals": []
+  "pwaSignals": [],
+  "recommendations": []
  },
  "linkCheck": {
   "brokenCount": 8,

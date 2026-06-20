@@ -1,7 +1,7 @@
 {
  "domain": "data.healthcare.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-20T19:51:35.165Z",
+ "generatedAt": "2026-06-20T23:27:12.359Z",
  "pagesScanned": 1865,
  "pagesAudited": 1332,
  "coverage": {
@@ -8971,6 +8971,7 @@
   "medianAccessibility": 97,
   "medianBestPractices": 100,
   "medianSeo": 100,
+  "medianPwa": null,
   "medianAgentic": null,
   "metrics": {
    "firstContentfulPaintMs": 11440,
@@ -8979,9 +8980,8 @@
    "totalBlockingTimeMs": 1352,
    "cumulativeLayoutShift": 0.883
   },
-  "recommendations": [],
-  "medianPwa": null,
-  "pwaSignals": []
+  "pwaSignals": [],
+  "recommendations": []
  },
  "linkCheck": {
   "brokenCount": 16,

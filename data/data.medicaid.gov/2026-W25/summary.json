@@ -1,7 +1,7 @@
 {
  "domain": "data.medicaid.gov",
  "week": "2026-W25",
- "generatedAt": "2026-06-20T19:51:39.072Z",
+ "generatedAt": "2026-06-20T23:27:13.928Z",
  "pagesScanned": 2927,
  "pagesAudited": 2260,
  "coverage": {
@@ -21797,6 +21797,7 @@
   "medianAccessibility": 97,
   "medianBestPractices": 100,
   "medianSeo": 100,
+  "medianPwa": null,
   "medianAgentic": 52,
   "metrics": {
    "firstContentfulPaintMs": 6787,
@@ -21805,6 +21806,7 @@
    "totalBlockingTimeMs": 1149,
    "cumulativeLayoutShift": 1
   },
+  "pwaSignals": [],
   "recommendations": [
    {
     "id": "cache-insight",
@@ -22301,9 +22303,7 @@
     "savingsBytes": 0,
     "savingsMs": 0
    }
-  ],
-  "medianPwa": null,
-  "pwaSignals": []
+  ]
  },
  "linkCheck": {
   "brokenCount": 31,
