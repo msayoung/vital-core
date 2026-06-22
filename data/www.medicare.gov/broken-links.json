@@ -1,6 +1,6 @@
 {
  "domain": "www.medicare.gov",
- "updatedAt": "2026-06-21T13:18:29.777Z",
+ "updatedAt": "2026-06-22T17:45:06.646Z",
  "links": {
   "https://www.cms.gov/medicare-coverage-database/search.aspx": {
    "status": 503,
@@ -64,13 +64,15 @@
    "status": 405,
    "reason": "HTTP 405",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
     "2026-W24",
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
+    "https://medicare.gov/coverage/cognitive-assessment-care-plan-services",
     "https://www.medicare.gov/coverage/cognitive-assessment-care-plan-services"
    ]
   },
@@ -78,13 +80,15 @@
    "status": 405,
    "reason": "HTTP 405",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
     "2026-W24",
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
+    "https://medicare.gov/coverage/cognitive-assessment-care-plan-services",
     "https://www.medicare.gov/coverage/cognitive-assessment-care-plan-services"
    ]
   },
@@ -326,11 +330,12 @@
    "status": 405,
    "reason": "HTTP 405",
    "firstSeen": "2026-W25",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.medicare.gov/coverage/monoclonal-antibodies-for-the-treatment-of-early-alzheimers-disease"
    ]
@@ -346,6 +351,32 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://medicare.gov/coverage/mental-health-care-outpatient"
+   ]
+  },
+  "https://www.aaneel.com/application-terms-of-service": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.medicare.gov/providers-services/claims-appeals-complaints/claims/share-your-medicare-claims/connected-apps"
+   ]
+  },
+  "https://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/InformationQualityGuidelines.html": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/medical-equipment-suppliers/about"
    ]
   }
  }

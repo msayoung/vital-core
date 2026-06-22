@@ -1,6 +1,6 @@
 {
  "domain": "data.cms.gov",
- "updatedAt": "2026-06-21T13:18:33.606Z",
+ "updatedAt": "2026-06-22T17:45:11.442Z",
  "links": {
   "https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/IRF-Quality-Reporting/index.html": {
    "status": 404,
@@ -200,44 +200,40 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W25",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://data.cms.gov/cms-innovation-center-programs/cms-innovation-models-overview/innovation-center-model-participants",
-    "https://data.cms.gov/cms-innovation-center-programs/healthcare-support-models/strong-start-awardees",
-    "https://data.cms.gov/cms-innovation-center-programs/accountable-care-models/cpc-initiative-participating-primary-care-practices",
-    "https://data.cms.gov/cms-innovation-center-programs/cms-innovation-models-overview/innovation-center-data-and-reports",
-    "https://data.cms.gov/cms-innovation-center-programs/cms-innovation-models-overview/innovation-center-milestones-and-updates",
-    "https://data.cms.gov/cms-innovation-center-programs/cms-innovation-models-overview/innovation-center-model-summary-information",
-    "https://data.cms.gov/cms-innovation-center-programs/cms-innovation-models-overview/innovation-center-innovation-advisors",
-    "https://data.cms.gov/medicare-value-based-payment-modifier-program"
+    "https://data.cms.gov/cms-innovation-center-programs/accountable-care-models/cpc-initiative-participating-primary-care-practices"
    ]
   },
   "https://qpp.cms.gov/mips/overview": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W25",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://data.cms.gov/provider-data/topics/doctors-clinicians/data-sources"
+    "https://data.cms.gov/resources/quality-payment-program-experience-data-dictionary-2023"
    ]
   },
   "https://www.nia.nih.gov/health/publication/falls-and-fractures": {
    "status": 405,
    "reason": "HTTP 405",
    "firstSeen": "2026-W25",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://data.cms.gov/provider-data/topics/nursing-homes/technical-details"
    ]
@@ -514,6 +510,123 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://data.cms.gov/resources/independent-dispute-resolution-methodology"
+   ]
+  },
+  "https://qpp.cms.gov/mips/mips-eligibility-determination-periods?py=2023": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.cms.gov/resources/quality-payment-program-experience-data-dictionary-2023"
+   ]
+  },
+  "https://qpp.cms.gov/mips/apm-performance-pathway": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.cms.gov/resources/quality-payment-program-experience-data-dictionary-2023"
+   ]
+  },
+  "https://qpp.cms.gov/mips/reporting-options-overview": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.cms.gov/resources/quality-payment-program-experience-data-dictionary-2023"
+   ]
+  },
+  "https://qpp.cms.gov/mips/traditional-mips": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.cms.gov/resources/quality-payment-program-experience-data-dictionary-2023"
+   ]
+  },
+  "https://qpp.cms.gov/mips/how-eligibility-is-determined?py=2024": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.cms.gov/resources/quality-payment-program-experience-data-dictionary-2023"
+   ]
+  },
+  "https://qpp.cms.gov/mips/mips-value-pathways": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.cms.gov/resources/quality-payment-program-experience-data-dictionary-2023"
+   ]
+  },
+  "https://qpp.cms.gov/mips/how-eligibility-is-determined?py=2023": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.cms.gov/resources/quality-payment-program-experience-data-dictionary-2023"
+   ]
+  },
+  "https://qpp.cms.gov/mips/exception-applications?py=2023": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.cms.gov/resources/quality-payment-program-experience-data-dictionary-2023"
+   ]
+  },
+  "https://qpp.cms.gov/mips/special-statuses?py=2023": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.cms.gov/resources/quality-payment-program-experience-data-dictionary-2023"
    ]
   }
  }
