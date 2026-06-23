@@ -1,5 +1,60 @@
 {
  "domain": "openpaymentsdata.cms.gov",
- "updatedAt": "2026-06-22T17:45:09.958Z",
- "vendors": {}
+ "updatedAt": "2026-06-23T05:49:01.505Z",
+ "vendors": {
+  "tiqcdn.com": {
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "launchdarkly.us": {
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "googletagmanager.com": {
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "digitalgov.gov": {
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "adoberesources.net": {
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "google-analytics.com": {
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  }
+ }
 }

@@ -1,6 +1,6 @@
 {
  "domain": "data.medicaid.gov",
- "updatedAt": "2026-06-22T17:45:12.082Z",
+ "updatedAt": "2026-06-23T05:49:03.400Z",
  "links": {
   "https://data.medicaid.gov/whats-new": {
    "status": 404,
@@ -122,7 +122,8 @@
     "https://data.medicaid.gov/dataset/6165f45b-ca93-5bb5-9d06-db29c692a360?page=5",
     "https://data.medicaid.gov/dataset/6165f45b-ca93-5bb5-9d06-db29c692a360",
     "https://data.medicaid.gov/dataset/f4d28f75-63e5-4198-857f-6621afb23808",
-    "https://data.medicaid.gov/dataset/f4d28f75-63e5-4198-857f-6621afb23808?page=3"
+    "https://data.medicaid.gov/dataset/f4d28f75-63e5-4198-857f-6621afb23808?page=3",
+    "https://data.medicaid.gov/dataset/161ff73f-ad00-4f2c-b9b5-d9761214f840?page=408"
    ]
   },
   "https://data.medicaid.gov/api/1/metastore/schemas/data-dictionary/items/0196a2a3-fb0f-48bb-b865-c4c9dc4a9f06/csv": {
@@ -268,13 +269,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W25",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://data.medicaid.gov/dataset/4000fb2c-f5ac-5599-81ed-9443b7135416",
     "https://data.medicaid.gov/dataset/e0c7b1d9-44a1-565a-b975-1a4c61855914"
    ]
   },
@@ -484,13 +485,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W25",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://data.medicaid.gov/dataset/75a6a471-abf9-530c-b195-3e330b1fd3ef",
     "https://data.medicaid.gov/dataset/f5af2ce4-5a41-5d43-a0aa-11785f928bf3"
    ]
   }

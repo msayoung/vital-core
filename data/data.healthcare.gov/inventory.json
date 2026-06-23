@@ -1,6 +1,6 @@
 {
  "domain": "data.healthcare.gov",
- "updatedAt": "2026-06-22T17:45:09.661Z",
+ "updatedAt": "2026-06-23T05:49:01.262Z",
  "pages": {
   "https://data.healthcare.gov/dataset/brrf-yhzh?page=2": {
    "pageId": "001593511fb49616",
@@ -76,8 +76,8 @@
   },
   "https://data.healthcare.gov/dataset/8dcm-4bzw": {
    "pageId": "0156703212dd129b",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T11:46:57.233Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:03:57.145Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -166,8 +166,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/nsnu-pbze/docs": {
    "pageId": "03aa198b2bb22012",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:58:21.283Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:51:20.746Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -238,12 +238,12 @@
   },
   "https://data.healthcare.gov/datasets?keyword%5B%5D=federal+poverty+level": {
    "pageId": "04e190d4a1a1c7a3",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:13:40.120Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:53:09.692Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 39,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/data-dictionary/items/d265d180-ff85-4156-b88f-4320126dccd2/csv": {
    "pageId": "051064c103319a2b",
@@ -256,8 +256,8 @@
   },
   "https://data.healthcare.gov/dataset/kxde-2cd8?page=156": {
    "pageId": "0597ea503185cda7",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T08:45:09.567Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:55:12.383Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -301,12 +301,12 @@
   },
   "https://data.healthcare.gov/dataset/5p3f-bhu4?page=2": {
    "pageId": "067fd18656df1b68",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T08:46:08.147Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:51:36.722Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/dataset/2s43-xj6q?page=403": {
    "pageId": "0691ca3fea3009b8",
@@ -418,12 +418,12 @@
   },
   "https://data.healthcare.gov/dataset/i982-vm9r?page=3": {
    "pageId": "08fb33cc00a9e882",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:16:58.980Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:49:03.835Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/dvpf-jb7v?page=104": {
    "pageId": "093b3200862fcfb1",
@@ -589,8 +589,8 @@
   },
   "https://data.healthcare.gov/dataset/kb8w-qg77?page=266": {
    "pageId": "0b2b240029c47232",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:42:56.795Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:55:49.585Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 41,
@@ -607,8 +607,8 @@
   },
   "https://data.healthcare.gov/dataset/kb8w-qg77?page=4": {
    "pageId": "0b82ba0fd5ba0243",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:36:46.886Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:48:48.809Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -661,8 +661,8 @@
   },
   "https://data.healthcare.gov/datafile/qhp-landscape-id-individual-market-medical.pwit-ub85.csv": {
    "pageId": "0bf74629acb78bb5",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:17:01.964Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:51:45.809Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -670,12 +670,12 @@
   },
   "https://data.healthcare.gov/dataset/ymjk-c2ng?page=3": {
    "pageId": "0c01c17e8395ffce",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:20:42.015Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:04:17.380Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/data-dictionary/items/5efbe636-85c7-42fc-9f1f-44e335b0b1a9/csv": {
    "pageId": "0c0e831c80a8f765",
@@ -715,8 +715,8 @@
   },
   "https://data.healthcare.gov/datasets?keyword%5B0%5D=qhp&page=3": {
    "pageId": "0d0f18c7c14e568f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:38:23.079Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:57:02.503Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 40,
@@ -895,8 +895,8 @@
   },
   "https://data.healthcare.gov/about": {
    "pageId": "10053c88778dc8b3",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T07:20:20.107Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:51:50.207Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -985,17 +985,17 @@
   },
   "https://data.healthcare.gov/dataset/kz5p-dvnx?page=1313": {
    "pageId": "11188c0ca9983ba7",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:53:11.011Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:51:04.922Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/ci52-tugt/docs": {
    "pageId": "111bea77e3ec808d",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T10:18:22.624Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:05:33.855Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -1246,8 +1246,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/gx5c-fhmw/docs": {
    "pageId": "151de1384bee9ec9",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:36:59.944Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:53:43.708Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -1336,12 +1336,12 @@
   },
   "https://data.healthcare.gov/dataset/f7yt-nc7m?page=3": {
    "pageId": "17a92292bc92699d",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:25:14.699Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:03:38.844Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/datasets?keyword%5B%5D=brokers": {
    "pageId": "17b243287ec2fd16",
@@ -1534,12 +1534,12 @@
   },
   "https://data.healthcare.gov/dataset/3ped-rtwb": {
    "pageId": "1a9c8238fdc26bf4",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T23:27:46.660Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:07:17.550Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 33,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/dataset/abhi-yds7?page=4": {
    "pageId": "1a9e79fb850c2499",
@@ -1741,21 +1741,21 @@
   },
   "https://data.healthcare.gov/dataset/h8gm-uh38?page=4": {
    "pageId": "1e129ec6eeaccbfd",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:14:28.545Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:17:34.612Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/2638f347-5311-4655-8d2b-1466848adeae?page=2": {
    "pageId": "1e2fcaf7e7e359bb",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:18:52.520Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:18:20.299Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/f73t-ceqr?page=2": {
    "pageId": "1e30a12c892916b3",
@@ -1840,12 +1840,12 @@
   },
   "https://data.healthcare.gov/dataset/788af26d-b820-4647-843e-98a955f3aa2f?page=5": {
    "pageId": "1effb17b414e399a",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:39:49.634Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:09:23.606Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 40,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=3": {
    "pageId": "1f12c94bbfa3fca9",
@@ -1903,8 +1903,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/kq37-29bw/docs": {
    "pageId": "1f74662b394ceefd",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T08:37:05.701Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:53:22.883Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -1930,8 +1930,8 @@
   },
   "https://data.healthcare.gov/ab-suspension-and-termination-list?page=2": {
    "pageId": "1f95b527ad0f633c",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T11:55:19.477Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:03:15.122Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -1948,8 +1948,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/f8dj-re97/docs": {
    "pageId": "200158658bbdd503",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T09:18:26.231Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:55:06.636Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -1966,8 +1966,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/brk5-3rpz/docs": {
    "pageId": "2013aefe86f82569",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T07:11:30.382Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:16:24.291Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -2200,12 +2200,12 @@
   },
   "https://data.healthcare.gov/datasets?page=28": {
    "pageId": "23a9d41f59e48b02",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:56:44.160Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:03:46.794Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 76,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/dataset/vrx7-jeec?page=3": {
    "pageId": "23accba89bda8232",
@@ -2272,8 +2272,8 @@
   },
   "https://data.healthcare.gov/dataset/kq37-29bw?page=4": {
    "pageId": "24b17b84010a5a1f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:49:46.146Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:05:28.220Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2290,12 +2290,12 @@
   },
   "https://data.healthcare.gov/dataset/ncbw-vdsn?page=2": {
    "pageId": "2505ccdd0222831d",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T18:07:21.229Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:59:18.585Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/tsvh-2fbc": {
    "pageId": "251eee770de0468c",
@@ -2371,8 +2371,8 @@
   },
   "https://data.healthcare.gov/dataset/3nee-n9ij?page=4": {
    "pageId": "26aba2f22f2ec405",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:14:53.236Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:48:55.712Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -2569,8 +2569,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/1cec574b-9353-41cf-9c81-b7c49c482bb2/docs": {
    "pageId": "2a881da3ddbd0b25",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:07:05.855Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:51:18.326Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -2605,8 +2605,8 @@
   },
   "https://data.healthcare.gov/datafile/2015-qhp-landscape-nv-individual-market-medical.2z8b-yxem.csv": {
    "pageId": "2b3c370c372e643d",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:13:18.300Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:06:27.492Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -2722,8 +2722,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/aiaw-cnn3/docs": {
    "pageId": "2da65b9ad515fafb",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:54:31.740Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:04:01.475Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -2767,8 +2767,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/d3ea6f2d-a517-4f9b-a2fb-1ffcaebc3107/docs": {
    "pageId": "2e29350c1b95ecaa",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T00:57:00.364Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:51:44.074Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -2857,8 +2857,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/data-dictionary/items/b241e316-1f6a-464b-86b4-57046a9df497/csv": {
    "pageId": "2f9a69e52fef3f40",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:49:14.328Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:05:23.326Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -2938,8 +2938,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/e4qu-n34i/docs": {
    "pageId": "3196de52221daa84",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:17:52.727Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:11:41.999Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -2983,12 +2983,12 @@
   },
   "https://data.healthcare.gov/dataset/vf3k-stxb?page=2": {
    "pageId": "32567686aa41abad",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:12:27.321Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:12:20.816Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/n7cn-8ryw/docs": {
    "pageId": "328da016b8465eb7",
@@ -3127,12 +3127,12 @@
   },
   "https://data.healthcare.gov/dataset/p7h5-7vyf?page=3838": {
    "pageId": "35ae9765bbff0105",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:00:20.411Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:13:43.227Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/0063b2e0-f674-4c04-91a4-380d71f613ee?page=3": {
    "pageId": "35f3cc8c17f91d35",
@@ -3190,8 +3190,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/nem2-ryhk/docs": {
    "pageId": "367b0745fc05bd01",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T20:02:04.619Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:56:10.779Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -3433,12 +3433,12 @@
   },
   "https://data.healthcare.gov/dataset/v8mw-epqh?page=3": {
    "pageId": "39903cf9bf9f2dbc",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T00:48:45.718Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:55:19.151Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/b8in-sz6k?page=2": {
    "pageId": "39940104cf53a576",
@@ -3532,12 +3532,12 @@
   },
   "https://data.healthcare.gov/dataset/v8mw-epqh?page=4": {
    "pageId": "3b079e39c69ee7ba",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T23:36:27.702Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:00:57.519Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/gmjp-zpzt?page=26": {
    "pageId": "3b379521b414ea77",
@@ -3649,8 +3649,8 @@
   },
   "https://data.healthcare.gov/datafile/py2023/rate_puf.csv": {
    "pageId": "3cb3ddee81eb5949",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:28:26.637Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:53:45.455Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -3667,12 +3667,12 @@
   },
   "https://data.healthcare.gov/dataset/cfvf-wask?page=4": {
    "pageId": "3ccf5eb7002debb1",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T09:18:42.109Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:58:37.362Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/pszf-56pp?page=5": {
    "pageId": "3cdb64c89db809b9",
@@ -4063,8 +4063,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/drds-fxfy/docs": {
    "pageId": "42f93df5d2acefa7",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T00:48:04.240Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:58:02.435Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -4270,11 +4270,11 @@
   },
   "https://data.healthcare.gov/about/faq": {
    "pageId": "4687807918f23cc7",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T07:07:33.667Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:12:36.398Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 44,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/w46c-tnzb?page=4": {
@@ -4441,8 +4441,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/q3bc-76k2/docs": {
    "pageId": "49960bf57845ecbe",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:18:00.922Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:00:52.414Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -4513,12 +4513,12 @@
   },
   "https://data.healthcare.gov/dataset/kezr-bg23": {
    "pageId": "4a6e26a5b4801dca",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T07:15:27.617Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:53:34.865Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 33,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/dataset/672d5f6a-b8a7-4ebe-87f6-67db641e192d?page=3": {
    "pageId": "4a78a410b8481e17",
@@ -4621,8 +4621,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/46ta-x4hv/docs": {
    "pageId": "4b85a6d41bd53766",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T00:49:31.124Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:48:28.767Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -4639,12 +4639,12 @@
   },
   "https://data.healthcare.gov/dataset/3edfe68f-b783-4e98-9120-20014dd0fe49?page=2": {
    "pageId": "4b955438c63a68de",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T09:25:52.854Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:09:56.769Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/eh65-eh2p?page=2": {
    "pageId": "4bc39eb2a8471270",
@@ -4675,8 +4675,8 @@
   },
   "https://data.healthcare.gov/dataset/ciet-nbd9?page=4": {
    "pageId": "4c2b3584b5ffd21c",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:24:39.975Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:50:23.965Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -4738,8 +4738,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/auys-8mdg/docs": {
    "pageId": "4d19a4fb0245c676",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T18:04:43.813Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:57:27.212Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -4864,8 +4864,8 @@
   },
   "https://data.healthcare.gov/dataset/3edfe68f-b783-4e98-9120-20014dd0fe49?page=4": {
    "pageId": "508e96b358674994",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:01:16.153Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:07:22.783Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -4981,8 +4981,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/vrx7-jeec/docs": {
    "pageId": "51dd019dbd8b4481",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T11:45:29.892Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:50:59.428Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -4990,12 +4990,12 @@
   },
   "https://data.healthcare.gov/datasets?keyword%5B0%5D=QHP&page=2": {
    "pageId": "51ed3e9d07ef42e1",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:00:15.781Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:48:20.621Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 80,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/datasets?keyword%5B%5D=2025": {
    "pageId": "52091dabe069633e",
@@ -5062,8 +5062,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/ae346fd6-b777-4ba4-ab69-20da698c3a9c/docs": {
    "pageId": "52a66a3e3887582f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:37:29.917Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:03:59.238Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -5179,8 +5179,8 @@
   },
   "https://data.healthcare.gov/dataset/enpz-m4q6?page=5": {
    "pageId": "53bd859bf2dc0129",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:57:56.183Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:52:02.398Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -5485,8 +5485,8 @@
   },
   "https://data.healthcare.gov/dataset/qxzi-ymfv?page=3": {
    "pageId": "597c612236564d43",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T20:10:11.576Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:16:29.257Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 41,
@@ -5665,8 +5665,8 @@
   },
   "https://data.healthcare.gov/dataset/e6deb20e-dd27-495b-8eb1-c67db7bbd788": {
    "pageId": "5d3331a3d8fb2d75",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:06:35.943Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:05:04.610Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -5719,12 +5719,12 @@
   },
   "https://data.healthcare.gov/dataset/7h6f-vws8?page=3": {
    "pageId": "5e513f8630aab605",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T09:25:17.754Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:02:41.583Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/dataset/d1d5aef7-0549-4173-b625-c0ace09c8634": {
    "pageId": "5e6b6c5f5109955a",
@@ -5746,8 +5746,8 @@
   },
   "https://data.healthcare.gov/dataset/dmk4-diif": {
    "pageId": "5ee7e8427e861117",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T17:59:24.063Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:59:31.000Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -5809,12 +5809,12 @@
   },
   "https://data.healthcare.gov/datasets?page=30": {
    "pageId": "5fd3d441a846efa6",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:33:42.426Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:56:07.530Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 75,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/dataset/nsnu-pbze": {
    "pageId": "5fdd58cf7ff07f90",
@@ -5935,8 +5935,8 @@
   },
   "https://data.healthcare.gov/dataset/ia68-8jye?page=4": {
    "pageId": "621a7cafcd390dc0",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T08:38:24.364Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:51:25.703Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -5971,8 +5971,8 @@
   },
   "https://data.healthcare.gov/dataset/ci52-tugt?page=3": {
    "pageId": "62ae53d3b7e069e8",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T18:13:46.341Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:15:21.084Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 41,
@@ -6088,8 +6088,8 @@
   },
   "https://data.healthcare.gov/dataset/imsm-wpuh?page=5": {
    "pageId": "649944e96c79ec30",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:13:49.318Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:55:00.601Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -6160,8 +6160,8 @@
   },
   "https://data.healthcare.gov/dataset/h8gm-uh38?page=5": {
    "pageId": "66149d4a9b97a9ca",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T20:13:30.405Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:48:36.310Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -6304,12 +6304,12 @@
   },
   "https://data.healthcare.gov/dataset/2df89ece-d8f2-489f-9baf-b039cd676ce3": {
    "pageId": "67e0c89d622bbae5",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:14:57.513Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:58:31.517Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 33,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/dataset/nsnu-pbze?page=2": {
    "pageId": "68574ca4b1bba2d1",
@@ -6322,12 +6322,12 @@
   },
   "https://data.healthcare.gov/dataset/bf8da239-095e-4481-bf60-1f3a9615ce0e?page=3": {
    "pageId": "688f0dfceebbd33d",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:46:37.290Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:59:08.557Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/dataset/dtns-y2t8?page=26": {
    "pageId": "68ed41032f9454a4",
@@ -6349,8 +6349,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/axtm-2c9r/docs": {
    "pageId": "694553d1e5b12f20",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T23:28:31.371Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:07:26.381Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -6421,12 +6421,12 @@
   },
   "https://data.healthcare.gov/dataset/egd3-t6cg": {
    "pageId": "6a35f89a07b40a5f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T20:02:44.594Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:52:21.350Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/ca253298-c4ef-4a77-9c44-0de0bbe91941?page=2": {
    "pageId": "6a39a18ab57389ce",
@@ -6736,8 +6736,8 @@
   },
   "https://data.healthcare.gov/datafile/2016-qhp-landscape-nv-shop-market-medical.7h6f-vws8.csv": {
    "pageId": "6e5ff1b8b34223d5",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:37:54.936Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:02:49.471Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -6808,8 +6808,8 @@
   },
   "https://data.healthcare.gov/dataset/ca253298-c4ef-4a77-9c44-0de0bbe91941?page=3": {
    "pageId": "6f560a6c2f5d17b6",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:49:03.030Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:04:33.526Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -6853,8 +6853,8 @@
   },
   "https://data.healthcare.gov/datasets?keyword%5B%5D=Transparency+in+Coverage": {
    "pageId": "6f924e425754930c",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T11:42:47.051Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:51:55.000Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -6934,8 +6934,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/cfvf-wask/docs": {
    "pageId": "7133f1ebd0955e33",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:19:17.483Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:14:06.405Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -6997,12 +6997,12 @@
   },
   "https://data.healthcare.gov/dataset/5i52-vasa": {
    "pageId": "72364d7b48b6f591",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:41:08.904Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:06:33.044Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/rtj8-qhma?page=2": {
    "pageId": "723762a4eec13dce",
@@ -7150,17 +7150,17 @@
   },
   "https://data.healthcare.gov/dataset/srri-3w2q?page=4": {
    "pageId": "7408d09f542dd1e3",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:53:20.016Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:08:22.768Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/dataset/kxp2-7zyr": {
    "pageId": "740a360b8d555276",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T11:46:49.211Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:50:37.101Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 33,
@@ -7204,12 +7204,12 @@
   },
   "https://data.healthcare.gov/dataset/42a3801a-841f-43d9-b878-95b7a19a08b5": {
    "pageId": "74d8b24130312f81",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:01:26.535Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:07:05.211Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 33,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/8iqs-tvaj": {
    "pageId": "753a1e3942d51906",
@@ -7267,8 +7267,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/data-dictionary/items/a7fab97b-7932-4dab-bb15-f1abc3cb5694/csv": {
    "pageId": "76342abb35885db1",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:45:13.864Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:08:29.394Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -7456,8 +7456,8 @@
   },
   "https://data.healthcare.gov/dataset/kxde-2cd8?page=3": {
    "pageId": "78f2acb19b830a7d",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:20:32.118Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:16:13.454Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 41,
@@ -7735,8 +7735,8 @@
   },
   "https://data.healthcare.gov/dataset/gwq7-ribq?page=2018": {
    "pageId": "7d42bb25dcf771c9",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:17:06.840Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:07:31.478Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 41,
@@ -7843,8 +7843,8 @@
   },
   "https://data.healthcare.gov/dataset/v4vv-f44q?page=5": {
    "pageId": "7e9fe2d3c62f5bd7",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T11:41:11.499Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:09:49.605Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -7861,12 +7861,12 @@
   },
   "https://data.healthcare.gov/dataset/f6am-7dvb": {
    "pageId": "7ed5befe2dc3ebbc",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:47:30.245Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:14:00.154Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 33,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/q3bc-76k2": {
    "pageId": "7ed90f7c5e5ab824",
@@ -7933,8 +7933,8 @@
   },
   "https://data.healthcare.gov/dataset/hxw8-c85n": {
    "pageId": "8015bbed76a09e19",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T01:02:29.937Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:58:08.326Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 33,
@@ -8239,8 +8239,8 @@
   },
   "https://data.healthcare.gov/api/1/datastore/query/cd35a977-e3cc-50cb-8787-7b51c52684f5": {
    "pageId": "85322c5359ac4256",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:52:35.751Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:08:26.030Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -8410,8 +8410,8 @@
   },
   "https://data.healthcare.gov/dataset/ia68-8jye?page=7": {
    "pageId": "88270c839ad69ac9",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:59:07.431Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:13:34.705Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -8581,12 +8581,12 @@
   },
   "https://data.healthcare.gov/datasets?page=24": {
    "pageId": "8be4777c36bc898a",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:57:35.412Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:18:07.903Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 73,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/ae346fd6-b777-4ba4-ab69-20da698c3a9c?page=5": {
    "pageId": "8bf483afbe2b2fbe",
@@ -8608,8 +8608,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/e614aeb8-580e-4aae-9140-cf55b4a22180/docs": {
    "pageId": "8c68dec4dfd8f8cc",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T09:17:07.645Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:08:27.633Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -8662,8 +8662,8 @@
   },
   "https://data.healthcare.gov/dataset/596f82b3-d48c-436f-9c84-6b195b05441c?page=22": {
    "pageId": "8d0e632daff406ce",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T11:39:18.821Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:59:38.303Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -8698,8 +8698,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/bzfi-sbe4/docs": {
    "pageId": "8d668edd325ebb0c",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T08:36:59.438Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:58:00.087Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -8842,8 +8842,8 @@
   },
   "https://data.healthcare.gov/dataset/bzfi-sbe4?page=5": {
    "pageId": "8f2314aab0ba9e72",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:48:59.764Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:10:27.823Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 41,
@@ -8878,12 +8878,12 @@
   },
   "https://data.healthcare.gov/dataset/v7sn-c66v": {
    "pageId": "8f585a1e59e8ed7e",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T07:13:50.386Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:14:11.761Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/3thg-9i7f/docs": {
    "pageId": "8fcd3cce609ffd6f",
@@ -8896,8 +8896,8 @@
   },
   "https://data.healthcare.gov/dataset/r9nw-xrew?page=2": {
    "pageId": "8fde22c9e24b197e",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T08:48:19.420Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:53:19.253Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -9067,8 +9067,8 @@
   },
   "https://data.healthcare.gov/dataset/bbc5e308-377c-4a05-830e-0ef9b893dc01?page=3": {
    "pageId": "92791c04fb1568ba",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T11:54:58.946Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:53:28.033Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -9175,12 +9175,12 @@
   },
   "https://data.healthcare.gov/dataset/nc54-t2vu?page=3": {
    "pageId": "94202ea0a236fc0d",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:42:55.989Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:12:42.092Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/p7h5-7vyf?page=4": {
    "pageId": "943a0a5d2982bbc6",
@@ -9247,8 +9247,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/pwgg-dtft/docs": {
    "pageId": "953aed1e912027c1",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T08:45:12.156Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:54:55.150Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -9292,8 +9292,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/42a3801a-841f-43d9-b878-95b7a19a08b5/docs": {
    "pageId": "95bb28335a0b814b",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:42:51.287Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:51:31.158Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -9319,8 +9319,8 @@
   },
   "https://data.healthcare.gov/datasets?keyword%5B0%5D=qhp&page=2": {
    "pageId": "9672b560ee4df48e",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:39:50.265Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:06:10.217Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -9364,8 +9364,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/ed2e896a-d54c-48a3-b617-e26931b7a6eb/docs": {
    "pageId": "96d4426beb5328a8",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:56:12.388Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:53:47.826Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -9445,8 +9445,8 @@
   },
   "https://data.healthcare.gov/page=3": {
    "pageId": "983af90e6ffa1036",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:40:40.662Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:57:24.925Z",
    "status": 404,
    "axeViolations": null,
    "alfaFailures": null,
@@ -9589,8 +9589,8 @@
   },
   "https://data.healthcare.gov/datafile/2016-qhp-landscape-nm-individual-market-medical.d47v-jybh.csv": {
    "pageId": "9a15515a427fd7a5",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T09:18:37.859Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:59:03.621Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -10003,8 +10003,8 @@
   },
   "https://data.healthcare.gov/datafile/py2025/plan_attributes_PUF.csv": {
    "pageId": "9ebf40bc4de7c85b",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:38:43.076Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:02:47.910Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -10174,8 +10174,8 @@
   },
   "https://data.healthcare.gov/dataset/rf29-2dgg?page=46595": {
    "pageId": "a12ce21899039f0e",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T00:52:33.437Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:57:33.603Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -10318,8 +10318,8 @@
   },
   "https://data.healthcare.gov/datafile/plan-attributes-puf-2017.kcsx-yk8u.csv": {
    "pageId": "a270758031366880",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T23:40:02.321Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:51:57.090Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -10498,8 +10498,8 @@
   },
   "https://data.healthcare.gov/dataset/r3nu-ebdw?page=3": {
    "pageId": "a5001bec2cad9fad",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T08:44:06.409Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:59:00.427Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -11020,8 +11020,8 @@
   },
   "https://data.healthcare.gov/dataset/qxzi-ymfv?page=749": {
    "pageId": "aacf0ec8f8e450f2",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:13:13.170Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:00:24.070Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -11164,8 +11164,8 @@
   },
   "https://data.healthcare.gov/issuer-partner-lookup/results": {
    "pageId": "ad5987ed98603139",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T09:24:57.072Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:57:40.671Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -11272,8 +11272,8 @@
   },
   "https://data.healthcare.gov/dataset/p7h5-7vyf?page=2": {
    "pageId": "afb779c7a734ab06",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T08:43:37.522Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:50:46.429Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 41,
@@ -11479,12 +11479,12 @@
   },
   "https://data.healthcare.gov/dataset/2226672d-d505-49ae-9853-1049b53722df?page=5": {
    "pageId": "b2d977413ad6ed7b",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T08:43:32.356Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:05:10.845Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/enpz-m4q6": {
    "pageId": "b338f784d126195f",
@@ -11812,12 +11812,12 @@
   },
   "https://data.healthcare.gov/dataset/eyjq-bpgy": {
    "pageId": "b84cff7ed82323e2",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T09:23:52.300Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:08:50.926Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 33,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/55c47876-cfdd-438c-964e-7f88093b7ef2": {
    "pageId": "b867003e827e354c",
@@ -11857,12 +11857,12 @@
   },
   "https://data.healthcare.gov/dataset/jnky-88cv?page=4": {
    "pageId": "b8b650df1779105f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:16:21.822Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:50:30.751Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/dataset/tfpe-r7fa": {
    "pageId": "b8c43d0e8e747434",
@@ -12181,8 +12181,8 @@
   },
   "https://data.healthcare.gov/dataset/5k5i-wzex?page=2": {
    "pageId": "bec588315fa765fe",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T07:19:15.718Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:05:49.538Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -12253,8 +12253,8 @@
   },
   "https://data.healthcare.gov/dataset/wudg-eius?page=4": {
    "pageId": "c00d1b68ff3703d2",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T07:08:28.984Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:10:12.812Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 41,
@@ -12613,12 +12613,12 @@
   },
   "https://data.healthcare.gov/dataset/v4vv-f44q?page=3": {
    "pageId": "c553a6805d59effb",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:42:27.600Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:51:14.547Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/dataset/jb55-ezf9?page=2": {
    "pageId": "c55d13cd8c240708",
@@ -12667,11 +12667,11 @@
   },
   "https://data.healthcare.gov/ab-registration-tracker/status": {
    "pageId": "c5bb46c3175842cc",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T11:44:43.174Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:52:14.044Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 30,
    "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/46925516-0fb4-4e60-b00d-b0d7f7ddc372?page=4": {
@@ -12685,8 +12685,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/kb8w-qg77/docs": {
    "pageId": "c5e71520319adeb0",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T10:04:20.557Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:03:49.683Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -12739,12 +12739,12 @@
   },
   "https://data.healthcare.gov/dataset/wk5a-kdpd?page=3": {
    "pageId": "c6b6837e8c70a57f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T10:17:42.310Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:58:49.689Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/bb74019a-af2a-4eba-a88e-190c9241080b": {
    "pageId": "c6f74ee20ac10fc4",
@@ -12973,8 +12973,8 @@
   },
   "https://data.healthcare.gov/dataset/j5bh-rfhd?page=4": {
    "pageId": "ca4ed437f5bd61bd",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T10:00:36.529Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:56:22.848Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 41,
@@ -13045,12 +13045,12 @@
   },
   "https://data.healthcare.gov/dataset/d849f3cc-64da-408a-92d8-790ba4973737?page=4": {
    "pageId": "cc82f7d449d8f78d",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T17:57:27.725Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:08:04.978Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/nuhs-jx5b/docs": {
    "pageId": "cca32e4d30ea42b4",
@@ -13225,8 +13225,8 @@
   },
   "https://data.healthcare.gov/datafile/py2022/business_rules_puf.csv": {
    "pageId": "cfbe90c2762a31e3",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T23:33:57.523Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:53:04.598Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -13324,8 +13324,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/data-dictionary/items/05d5e463-28e1-4028-af1e-08cd24232537/csv": {
    "pageId": "d1538660dbb5dd61",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T08:47:42.675Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:59:33.206Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -13333,12 +13333,12 @@
   },
   "https://data.healthcare.gov/dataset/nyb9-erui?page=1845": {
    "pageId": "d154d5526c5a99b6",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:36:53.143Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:11:47.787Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/data-dictionary/items/c25e3894-2e34-4f34-bee0-b94f861e701f/csv": {
    "pageId": "d188a5f8b7398987",
@@ -13450,12 +13450,12 @@
   },
   "https://data.healthcare.gov/dataset/a2km-i629?page=4": {
    "pageId": "d29cf342c5ceebb8",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:45:28.863Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:04:07.353Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/dataset/gx5c-fhmw?page=5": {
    "pageId": "d2bc39e9b0a3620e",
@@ -13477,8 +13477,8 @@
   },
   "https://data.healthcare.gov/datasets?keyword%5B%5D=healthcare": {
    "pageId": "d2eecce80e8eaa03",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:22:44.787Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:58:16.384Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -13594,8 +13594,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/57n9-x7ym/docs": {
    "pageId": "d4bf4d5cbcb9e1d4",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T23:30:52.122Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:07:11.800Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -13765,12 +13765,12 @@
   },
   "https://data.healthcare.gov/dataset/bx9c-fkxn?page=84": {
    "pageId": "d71d8e11d97761f2",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:04:24.050Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:02:54.748Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/datafile/qhp-py2018-medi-indi-land.hd64-a3rh.csv": {
    "pageId": "d71e57cf3236ad5c",
@@ -13810,12 +13810,12 @@
   },
   "https://data.healthcare.gov/dataset/f73t-ceqr?page=4": {
    "pageId": "d7d97369ac98a096",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:47:56.005Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:06:16.442Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/datasets?keyword%5B0%5D=Marketplace+PUF&page=3": {
    "pageId": "d7dd7378a5b27c80",
@@ -13936,12 +13936,12 @@
   },
   "https://data.healthcare.gov/dataset/vf3k-stxb?page=3": {
    "pageId": "d90cda1352ab1b57",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T11:40:51.859Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:15:04.751Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/gtdq-nxgh/docs": {
    "pageId": "d91d6f89192051ec",
@@ -14080,12 +14080,12 @@
   },
   "https://data.healthcare.gov/dataset/ia68-8jye?page=6": {
    "pageId": "dbbcc5efc4e35499",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T10:04:05.620Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:49:23.364Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/j5bh-rfhd?page=2": {
    "pageId": "dbd542ba3d2b5399",
@@ -14107,8 +14107,8 @@
   },
   "https://data.healthcare.gov/dataset/afk4-e2ai?page=3": {
    "pageId": "dc0d52cc189045c3",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:25:47.889Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:09:16.335Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -14215,8 +14215,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/geqt-h5st/docs": {
    "pageId": "dd8401ecd0fff382",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T08:51:29.254Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:08:17.278Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -14494,8 +14494,8 @@
   },
   "https://data.healthcare.gov/dataset/ymjk-c2ng": {
    "pageId": "e1df3558eb081357",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:04:45.661Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:56:55.124Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -14575,8 +14575,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/itre-68bw/docs": {
    "pageId": "e2e804edf777753c",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T09:24:03.515Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:09:11.171Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -14809,12 +14809,12 @@
   },
   "https://data.healthcare.gov/dataset/iwmd-wduj?page=3": {
    "pageId": "e54965bb32406de7",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:06:07.395Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:53:53.506Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/datafile/catastrophic-plans-for-people-with-cancelled-policies.cfvf-wask.csv": {
    "pageId": "e58e4629317b26db",
@@ -14863,12 +14863,12 @@
   },
   "https://data.healthcare.gov/dataset/hd64-a3rh?page=2": {
    "pageId": "e61d6ff50678ce96",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:23:07.792Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:01:46.224Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/m2uk-wyvh/docs": {
    "pageId": "e67d30c52ee27883",
@@ -15133,8 +15133,8 @@
   },
   "https://data.healthcare.gov/dataset/kvau-qy8m?page=2": {
    "pageId": "eb12b1793f211191",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T00:58:58.943Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:08:34.444Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": 41,
@@ -15214,12 +15214,12 @@
   },
   "https://data.healthcare.gov/dataset/pmci-fk93": {
    "pageId": "ec90d060528ca5d1",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T23:33:11.121Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:00:01.143Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 33,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/mvhe-9sy2?page=3": {
    "pageId": "ed118981c12720fa",
@@ -15241,8 +15241,8 @@
   },
   "https://data.healthcare.gov/datafile/py2025/Rate_PUF.csv": {
    "pageId": "ed1c709ce495bf2e",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:45:03.092Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:00:50.227Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -15385,8 +15385,8 @@
   },
   "https://data.healthcare.gov/dataset/cpmk-xcsy?page=1831": {
    "pageId": "eefdec565936bdab",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T23:33:33.900Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:57:10.888Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -15430,8 +15430,8 @@
   },
   "https://data.healthcare.gov/datafile/2015-qhp-landscape-nv-shop-market-dental.dxg8-kay3.csv": {
    "pageId": "f0143561aab5b0ff",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:38:18.914Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:53:13.861Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -15475,12 +15475,12 @@
   },
   "https://data.healthcare.gov/dataset/958672e5-d4f3-464f-b75f-411000f1dafd?page=5": {
    "pageId": "f060fa767e70fee4",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T09:51:08.604Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:57:45.649Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/735facd9-1df8-400e-b650-da881c728a2b": {
    "pageId": "f0652b074ed86677",
@@ -15583,8 +15583,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/5mza-bezz/docs": {
    "pageId": "f235c1d493936ef9",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T10:16:21.452Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:05:21.371Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -15628,8 +15628,8 @@
   },
   "https://data.healthcare.gov/dataset/ctt7-ra7n?page=5": {
    "pageId": "f36188ee605be136",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:50:50.684Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:11:35.860Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -15754,12 +15754,12 @@
   },
   "https://data.healthcare.gov/dataset/bf8da239-095e-4481-bf60-1f3a9615ce0e?page=1095": {
    "pageId": "f4ac8c9c9e82757a",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T23:31:53.339Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:10:44.700Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/rtj8-qhma?page=3": {
    "pageId": "f4d3bf8b019e77de",
@@ -15835,8 +15835,8 @@
   },
   "https://data.healthcare.gov/dataset/8q2a-a5s7": {
    "pageId": "f557b53868665a4b",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T07:16:26.368Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:53:40.779Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -15853,12 +15853,12 @@
   },
   "https://data.healthcare.gov/dataset/ss3e-3mza?page=4": {
    "pageId": "f59392f43ab10738",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T10:10:01.199Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:58:22.545Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": 41,
-   "hasIssues": true
+   "alfaFailures": null,
+   "hasIssues": false
   },
   "https://data.healthcare.gov/dataset/gx5c-fhmw?page=16": {
    "pageId": "f5993721e32d9f51",
@@ -15988,8 +15988,8 @@
   },
   "https://data.healthcare.gov/dataset/0063b2e0-f674-4c04-91a4-380d71f613ee?page=5": {
    "pageId": "f71b88ebfc876a3f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:12:55.087Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:57:19.339Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -16330,8 +16330,8 @@
   },
   "https://data.healthcare.gov/api/1/metastore/schemas/dataset/items/2ffb5a20-8b08-48cb-b0ba-115de4381ca1/docs": {
    "pageId": "fc7ce6a7407e3c28",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:09:03.487Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:03:51.321Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -16483,8 +16483,8 @@
   },
   "https://data.healthcare.gov/dataset/mfay-6hbn?page=2": {
    "pageId": "fe047af4a8baff73",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T12:14:23.347Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:50:17.414Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -16492,11 +16492,11 @@
   },
   "https://data.healthcare.gov/about/contact-us": {
    "pageId": "fe17053e828057ff",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T00:54:12.719Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:56:15.253Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 36,
    "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/cqrd-buzn?page=4": {
@@ -16591,12 +16591,12 @@
   },
   "https://data.healthcare.gov/dataset/vrx7-jeec": {
    "pageId": "ff8598587b7b5ebc",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T00:47:59.013Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:52:36.595Z",
    "status": 200,
    "axeViolations": 0,
-   "alfaFailures": null,
-   "hasIssues": false
+   "alfaFailures": 41,
+   "hasIssues": true
   },
   "https://data.healthcare.gov/dataset/gwq7-ribq": {
    "pageId": "ff8a1e8efd068d93",
@@ -16681,8 +16681,8 @@
   },
   "https://data.healthcare.gov/datasets?keyword%5B0%5D=healthcare&page=18": {
    "pageId": "c04926c1d4a5ce61",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T01:43:26.645Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T15:05:43.249Z",
    "status": 200,
    "axeViolations": 0,
    "alfaFailures": null,
@@ -16753,8 +16753,8 @@
   },
   "https://data.healthcare.gov/sites/default/files/uploaded_resources/AB_Registration_Tracker_1144.csv": {
    "pageId": "b5f7186aae1065d5",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-16T00:46:53.793Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-22T14:48:30.496Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
