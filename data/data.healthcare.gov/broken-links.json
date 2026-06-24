@@ -1,6 +1,6 @@
 {
  "domain": "data.healthcare.gov",
- "updatedAt": "2026-06-23T05:49:01.329Z",
+ "updatedAt": "2026-06-24T15:33:50.908Z",
  "links": {
   "https://data.healthcare.gov/whats-new": {
    "status": 404,
@@ -209,97 +209,99 @@
     "https://data.healthcare.gov/dataset/324ab636-3090-4494-b170-fa178222ab27",
     "https://data.healthcare.gov/dataset/324ab636-3090-4494-b170-fa178222ab27?page=217",
     "https://data.healthcare.gov/dataset/324ab636-3090-4494-b170-fa178222ab27?page=2",
-    "https://data.healthcare.gov/dataset/324ab636-3090-4494-b170-fa178222ab27?page=4"
+    "https://data.healthcare.gov/dataset/324ab636-3090-4494-b170-fa178222ab27?page=4",
+    "https://data.healthcare.gov/dataset/324ab636-3090-4494-b170-fa178222ab27?page=3",
+    "https://data.healthcare.gov/dataset/324ab636-3090-4494-b170-fa178222ab27?page=5"
    ]
   },
   "https://insurance.kansas.gov/": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
     "2026-W24",
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://data.healthcare.gov/dataset/b612fc21-34ac-4041-9c7a-e73b3d2e5175?page=2",
-    "https://data.healthcare.gov/AB-NIPR-Health-Line-Of-Authority"
+    "https://data.healthcare.gov/dataset/b612fc21-34ac-4041-9c7a-e73b3d2e5175"
    ]
   },
   "https://insurance.ohio.gov/": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
     "2026-W24",
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://data.healthcare.gov/dataset/b612fc21-34ac-4041-9c7a-e73b3d2e5175?page=2",
-    "https://data.healthcare.gov/AB-NIPR-Health-Line-Of-Authority"
+    "https://data.healthcare.gov/dataset/b612fc21-34ac-4041-9c7a-e73b3d2e5175"
    ]
   },
   "https://doi.sc.gov/354/Licensing-CE": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
     "2026-W24",
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://data.healthcare.gov/dataset/b612fc21-34ac-4041-9c7a-e73b3d2e5175?page=2",
-    "https://data.healthcare.gov/AB-NIPR-Health-Line-Of-Authority"
+    "https://data.healthcare.gov/dataset/b612fc21-34ac-4041-9c7a-e73b3d2e5175"
    ]
   },
   "https://www.tn.gov/commerce/insurance-division.html": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
     "2026-W24",
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://data.healthcare.gov/dataset/b612fc21-34ac-4041-9c7a-e73b3d2e5175?page=2",
-    "https://data.healthcare.gov/AB-NIPR-Health-Line-Of-Authority"
+    "https://data.healthcare.gov/dataset/b612fc21-34ac-4041-9c7a-e73b3d2e5175"
    ]
   },
   "http://ldi.louisiana.gov/industry/producer-adjuster/license-application": {
    "status": 0,
    "reason": "UND_ERR_CONNECT_TIMEOUT",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
     "2026-W24",
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://data.healthcare.gov/dataset/b612fc21-34ac-4041-9c7a-e73b3d2e5175?page=2",
-    "https://data.healthcare.gov/AB-NIPR-Health-Line-Of-Authority"
+    "https://data.healthcare.gov/dataset/b612fc21-34ac-4041-9c7a-e73b3d2e5175"
    ]
   },
   "http://cca.hawaii.gov/ins/": {
    "status": 0,
    "reason": "timeout",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
     "2026-W24",
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://data.healthcare.gov/dataset/b612fc21-34ac-4041-9c7a-e73b3d2e5175?page=2",
-    "https://data.healthcare.gov/AB-NIPR-Health-Line-Of-Authority"
+    "https://data.healthcare.gov/dataset/b612fc21-34ac-4041-9c7a-e73b3d2e5175"
    ]
   },
   "https://www.nipr.com/index_fair_credit_reporting_act.htm": {
@@ -313,7 +315,21 @@
    ],
    "weeksBroken": 2,
    "foundOn": [
-    "https://data.healthcare.gov/ab-registration-tracker/ab-list-disclaimers"
+    "https://data.healthcare.gov/ab-registration-tracker/ab-list-disclaimers",
+    "https://data.healthcare.gov/stories/s/Agent-Broker-Registration-and-Termination-List-Lan/a7nc-mrxa"
+   ]
+  },
+  "https://portal.cms.gov/wps/portal/unauthportal/home/": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://data.healthcare.gov/ab-registration-tracker"
    ]
   }
  }

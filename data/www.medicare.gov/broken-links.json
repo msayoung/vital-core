@@ -1,41 +1,34 @@
 {
  "domain": "www.medicare.gov",
- "updatedAt": "2026-06-23T05:48:58.868Z",
+ "updatedAt": "2026-06-24T15:33:47.003Z",
  "links": {
   "https://www.cms.gov/medicare-coverage-database/search.aspx": {
    "status": 503,
    "reason": "HTTP 503",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
     "2026-W24",
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://www.medicare.gov/coverage"
+    "https://medicare.gov/coverage"
    ]
   },
   "https://mhanational.org/": {
    "status": 415,
    "reason": "HTTP 415",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W24",
+   "lastSeen": "2026-W26",
    "_weeks": [
-    "2026-W24"
+    "2026-W24",
+    "2026-W26"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "h",
-    "t",
-    "p",
-    "s",
-    ":",
-    "/",
-    "m",
-    "e",
-    "d",
-    "i"
+    "https://www.medicare.gov/coverage/mental-health-care-inpatient"
    ]
   },
   "http://healthfinder.gov/": {
@@ -96,13 +89,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W25",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://medicare.gov/coverage/counseling-to-prevent-tobacco-use-tobacco-caused-disease"
+    "https://www.medicare.gov/coverage/counseling-to-prevent-tobacco-use-tobacco-caused-disease"
    ]
   },
   "https://communicare.gopatientportal.com/": {
@@ -273,7 +267,9 @@
    "weeksBroken": 2,
    "foundOn": [
     "https://medicare.gov/plan-compare",
-    "https://www.medicare.gov/medigap-supplemental-insurance-plans"
+    "https://www.medicare.gov/medigap-supplemental-insurance-plans",
+    "https://medicare.gov/medigap-supplemental-insurance-plans",
+    "https://www.medicare.gov/plan-compare"
    ]
   },
   "https://aspr.hhs.gov/legal/PHE/Pages/default.aspx": {
@@ -306,11 +302,12 @@
    "status": 405,
    "reason": "HTTP 405",
    "firstSeen": "2026-W25",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://medicare.gov/coverage/hearing-balance-exams"
    ]
@@ -319,11 +316,12 @@
    "status": 405,
    "reason": "HTTP 405",
    "firstSeen": "2026-W25",
-   "lastSeen": "2026-W25",
+   "lastSeen": "2026-W26",
    "_weeks": [
-    "2026-W25"
+    "2026-W25",
+    "2026-W26"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://medicare.gov/coverage/hearing-balance-exams"
    ]
@@ -379,6 +377,58 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://medicare.gov/medical-equipment-suppliers/about"
+   ]
+  },
+  "http://www.nof.org/": {
+   "status": 522,
+   "reason": "HTTP 522",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.medicare.gov/coverage/bone-mass-measurements"
+   ]
+  },
+  "https://qioprogram.org/contact": {
+   "status": 0,
+   "reason": "EAI_AGAIN",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.medicare.gov/care-compare/resources/information-for-providers"
+   ]
+  },
+  "https://www.dol.gov/agencies/owcp/dcmwc": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://medicare.gov/health-drug-plans/coordination/who-pays-first"
+   ]
+  },
+  "https://www.medicare.gov/coverage/nebulizers-nebulizer-medications": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.medicare.gov/coverage/popular-topics"
    ]
   }
  }

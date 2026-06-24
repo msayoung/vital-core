@@ -1,6 +1,6 @@
 {
  "domain": "www.medicare.gov",
- "updatedAt": "2026-06-23T05:48:58.868Z",
+ "updatedAt": "2026-06-24T15:33:47.003Z",
  "vendors": {
   "us-gov-pure.cloud": {
    "firstSeen": "2026-W26",
@@ -137,24 +137,6 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
-  "akamaihd.net": {
-   "firstSeen": "2026-W26",
-   "lastSeen": "2026-W26",
-   "_weeks": [
-    "2026-W26"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
-  "analytics-sm.com": {
-   "firstSeen": "2026-W26",
-   "lastSeen": "2026-W26",
-   "_weeks": [
-    "2026-W26"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
   "google.com": {
    "firstSeen": "2026-W26",
    "lastSeen": "2026-W26",
@@ -172,6 +154,24 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": true
+  },
+  "analytics-sm.com": {
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "facebook.com": {
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
   },
   "googleadservices.com": {
    "firstSeen": "2026-W26",
@@ -191,7 +191,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "facebook.com": {
+  "googleapis.com": {
    "firstSeen": "2026-W26",
    "lastSeen": "2026-W26",
    "_weeks": [
@@ -199,6 +199,15 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": false
+  },
+  "akamaihd.net": {
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
   },
   "cms.gov": {
    "firstSeen": "2026-W26",
@@ -209,7 +218,7 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
-  "googleapis.com": {
+  "adnxs.com": {
    "firstSeen": "2026-W26",
    "lastSeen": "2026-W26",
    "_weeks": [
@@ -263,7 +272,16 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "adnxs.com": {
+  "yahoo.com": {
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "bidswitch.net": {
    "firstSeen": "2026-W26",
    "lastSeen": "2026-W26",
    "_weeks": [
@@ -290,6 +308,15 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
+  "tapad.com": {
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "cdnfonts.com": {
    "firstSeen": "2026-W26",
    "lastSeen": "2026-W26",
@@ -299,25 +326,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "yahoo.com": {
-   "firstSeen": "2026-W26",
-   "lastSeen": "2026-W26",
-   "_weeks": [
-    "2026-W26"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
   "rlcdn.com": {
-   "firstSeen": "2026-W26",
-   "lastSeen": "2026-W26",
-   "_weeks": [
-    "2026-W26"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "bidswitch.net": {
    "firstSeen": "2026-W26",
    "lastSeen": "2026-W26",
    "_weeks": [
@@ -336,6 +345,15 @@
    "isScriptVendor": false
   },
   "linkedin.com": {
+   "firstSeen": "2026-W26",
+   "lastSeen": "2026-W26",
+   "_weeks": [
+    "2026-W26"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "pubmatic.com": {
    "firstSeen": "2026-W26",
    "lastSeen": "2026-W26",
    "_weeks": [

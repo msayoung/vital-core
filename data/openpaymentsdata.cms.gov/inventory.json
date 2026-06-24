@@ -1,11 +1,11 @@
 {
  "domain": "openpaymentsdata.cms.gov",
- "updatedAt": "2026-06-23T05:49:01.469Z",
+ "updatedAt": "2026-06-24T15:33:51.163Z",
  "pages": {
   "https://openpaymentsdata.cms.gov/page=2": {
    "pageId": "004bacca5ffcacf3",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:16:20.790Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:09:46.750Z",
    "status": 404,
    "axeViolations": null,
    "alfaFailures": null,
@@ -31,17 +31,17 @@
   },
   "https://openpaymentsdata.cms.gov/state/alabama": {
    "pageId": "02b1f5b3bb07feb1",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:51:22.263Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:40:35.656Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 33,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/37792388-800f-427a-9e02-b11601454eeb?page=5": {
    "pageId": "03b88e9fa83d8066",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:23:52.786Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T04:58:54.432Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -49,8 +49,8 @@
   },
   "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items/ac0bc85c-02e3-45d9-89e8-2ff43da85df7/docs": {
    "pageId": "0591ebee9a968694",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:52:01.916Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:13:15.558Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -67,8 +67,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/713a6016-1930-4a0c-b7c2-3e3de4f244c5": {
    "pageId": "05e17788a10886ba",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:46:06.748Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:15:39.168Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -94,20 +94,20 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/e6b17c6a-2534-4207-a4a1-6746a14911ff?page=2": {
    "pageId": "08134d658a2421b3",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:26:02.255Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:54:05.660Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 45,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/datasets?theme%5B%5D=Research+Payments": {
    "pageId": "092860b53f0057e6",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:38:52.289Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:06:53.753Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 76,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items/2f15cb85-8887-4dcc-a318-1f8ec1d815b3/docs": {
@@ -121,8 +121,8 @@
   },
   "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items/23160558-6742-54ff-8b9f-cac7d514ff4e/docs": {
    "pageId": "09f790911374f66e",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:05:35.066Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T04:57:47.269Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -139,8 +139,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/a08c4b30-5cf3-4948-ad40-36f404619019?page=5": {
    "pageId": "0befc58878e33afd",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:01:16.212Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:34:02.790Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -148,8 +148,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/9ac4f7f8-b6e4-4d80-8410-4aba7e71dd02?page=92": {
    "pageId": "0cbae5f53f91d9f6",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:44:39.653Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:39:24.335Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -175,11 +175,11 @@
   },
   "https://openpaymentsdata.cms.gov/datasets?keyword%5B%5D=2019": {
    "pageId": "12289b54eea19b43",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:16:54.751Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:21:08.801Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 52,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/e6b17c6a-2534-4207-a4a1-6746a14911ff?page=5": {
@@ -193,17 +193,17 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/713a6016-1930-4a0c-b7c2-3e3de4f244c5?page=3": {
    "pageId": "16c347214e5c647a",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:11:03.598Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:06:54.022Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items/b0c03b8d-06df-58f2-8ce2-4daeffee147e/docs": {
    "pageId": "18a54aeee8509e89",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:44:05.366Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:08:34.517Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -211,11 +211,11 @@
   },
   "https://openpaymentsdata.cms.gov/state/kentucky": {
    "pageId": "1b14b700226dfdf9",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:18:18.362Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:55:04.242Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 33,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/ce1d28dd-0094-5060-a036-580329439600": {
@@ -247,17 +247,17 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e": {
    "pageId": "1eab5e509db3b1ff",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:37:02.228Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:56:54.919Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 45,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/state/new-mexico": {
    "pageId": "1fd2ffc7ebf31b45",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:14:18.995Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T04:58:20.478Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -265,11 +265,11 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/de0087e0-101b-43c1-acdf-69986a4c166b?page=5": {
    "pageId": "20af7c4772be74ad",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:52:27.251Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:52:12.307Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/datasets?keyword%5B%5D=2023": {
@@ -328,11 +328,11 @@
   },
   "https://openpaymentsdata.cms.gov/state/nevada": {
    "pageId": "2fedf570eaa8f90a",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:10:30.724Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:18:57.050Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 32,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/4e54dd6c-30f8-4f86-86a7-3c109a89528e?page=5": {
@@ -346,8 +346,8 @@
   },
   "https://openpaymentsdata.cms.gov/datasets?keyword%5B%5D=2024": {
    "pageId": "3301a9cab13f0992",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:07:59.969Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:31:00.512Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -364,11 +364,11 @@
   },
   "https://openpaymentsdata.cms.gov/state/massachusetts": {
    "pageId": "3686df334a7a2f4f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:05:32.091Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:21:45.070Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 33,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/2f15cb85-8887-4dcc-a318-1f8ec1d815b3?page=5": {
@@ -409,8 +409,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/23160558-6742-54ff-8b9f-cac7d514ff4e?page=32366": {
    "pageId": "3d02f568fc860466",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:25:26.772Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:56:19.037Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -427,11 +427,11 @@
   },
   "https://openpaymentsdata.cms.gov/datasets?theme%5B%5D=Ownership+Payments": {
    "pageId": "3e5285eb199ca18e",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:17:44.707Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:06:19.185Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 75,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/713a6016-1930-4a0c-b7c2-3e3de4f244c5?page=4": {
@@ -454,8 +454,8 @@
   },
   "https://openpaymentsdata.cms.gov/state/new-hampshire": {
    "pageId": "41f2f2f8aa9ad2fc",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:57:43.030Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:53:30.577Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 33,
@@ -472,8 +472,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/0380bbeb-aea1-58b6-b708-829f92a48202?page=5": {
    "pageId": "42d679c01c3a26ef",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:58:19.106Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:13:48.787Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -490,8 +490,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/9c248e7e-7c7f-478b-ab84-ce0919d72c1c?page=15199": {
    "pageId": "45fd323ece379f8f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:06:10.309Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:10:08.273Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -499,17 +499,17 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/ce1d28dd-0094-5060-a036-580329439600?page=14711": {
    "pageId": "468bdf05e367fa12",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:25:03.653Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:00:04.700Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/state/vermont": {
    "pageId": "48daba8f55495c65",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:20:08.768Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:12:07.796Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -517,8 +517,8 @@
   },
   "https://openpaymentsdata.cms.gov/api/1?authentication=false": {
    "pageId": "49937a742bb1e50a",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:42:25.058Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:14:32.041Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -562,11 +562,11 @@
   },
   "https://openpaymentsdata.cms.gov/state/south-carolina": {
    "pageId": "4c4c00d0ea8c4a0d",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:41:02.036Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:25:44.975Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 33,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items/7b82fb48-2bec-45f0-b40e-aed5f1d1eba0/docs": {
@@ -607,17 +607,17 @@
   },
   "https://openpaymentsdata.cms.gov/state/georgia": {
    "pageId": "565787568f900c54",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:34:58.434Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:01:57.081Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 32,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/datasets?keyword%5B%5D=2021": {
    "pageId": "57106dcc3598a962",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:16:44.381Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:15:05.379Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -625,8 +625,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/df01c2f8-dc1f-4e79-96cb-8208beaf143c?page=2": {
    "pageId": "589be37e39ddd140",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:14:52.948Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:03:07.007Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 44,
@@ -679,17 +679,17 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/23160558-6742-54ff-8b9f-cac7d514ff4e?page=4": {
    "pageId": "5c7dff8d60359e9e",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:27:48.620Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:22:20.038Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/df01c2f8-dc1f-4e79-96cb-8208beaf143c?page=4": {
    "pageId": "5d5551942d18e4ad",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:46:18.860Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:33:38.160Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 45,
@@ -697,8 +697,8 @@
   },
   "https://openpaymentsdata.cms.gov/state/pennsylvania": {
    "pageId": "5d7deaea3264a784",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:36:08.253Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:31:34.364Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -715,8 +715,8 @@
   },
   "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items/fdc3c773-018a-412c-8a81-d7b8a13a037b/docs": {
    "pageId": "5f75ca46fd2b196b",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:26:12.851Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:25:49.258Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -751,8 +751,8 @@
   },
   "https://openpaymentsdata.cms.gov/state/iowa": {
    "pageId": "6135b619ffe7a3be",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:50:48.143Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:45:51.358Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -760,17 +760,17 @@
   },
   "https://openpaymentsdata.cms.gov/state/colorado": {
    "pageId": "617b20f84c427a35",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:40:01.029Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:02:12.960Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 33,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/0b5c9710-7edb-484e-abc8-39293849ccb2?page=2": {
    "pageId": "62195534ae7caab0",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:09:18.449Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:14:27.699Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -796,17 +796,17 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/de0087e0-101b-43c1-acdf-69986a4c166b?page=3": {
    "pageId": "64d7c33af32ad374",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:19:58.342Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T04:56:19.943Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items/a9a0bf48-6b96-4589-b4c2-3c5dcfbeaca2/docs": {
    "pageId": "652e163c5eed4178",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:36:10.828Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:38:50.801Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -823,17 +823,17 @@
   },
   "https://openpaymentsdata.cms.gov/state/texas": {
    "pageId": "657c7479977271b7",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:18:52.172Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:34:42.574Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 33,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/a9a0bf48-6b96-4589-b4c2-3c5dcfbeaca2": {
    "pageId": "6595b1d0a4996b88",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:10:30.037Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:59:17.524Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -841,11 +841,11 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/37792388-800f-427a-9e02-b11601454eeb?page=4": {
    "pageId": "66247e052b32cc23",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:46:02.958Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:33:18.886Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 43,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/df01c2f8-dc1f-4e79-96cb-8208beaf143c?page=266132": {
@@ -877,8 +877,8 @@
   },
   "https://openpaymentsdata.cms.gov/state/mississippi": {
    "pageId": "6a7b9f04707c2930",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:31:49.470Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:41:45.719Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 33,
@@ -904,17 +904,17 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/fdc3c773-018a-412c-8a81-d7b8a13a037b?page=4": {
    "pageId": "6f7e3ef62e64510e",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:11:07.250Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:04:06.000Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/about/software-specs-and-limits": {
    "pageId": "71023d10bf074336",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:15:46.130Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:25:10.551Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 42,
@@ -931,17 +931,17 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=2": {
    "pageId": "71dd669339f53122",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:53:53.658Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:55:40.337Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 45,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/page=4": {
    "pageId": "7298be37949cdc5b",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:02:50.016Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:20:14.122Z",
    "status": 404,
    "axeViolations": null,
    "alfaFailures": null,
@@ -976,11 +976,11 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/713a6016-1930-4a0c-b7c2-3e3de4f244c5?page=5": {
    "pageId": "73c44dbf67a42483",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:56:58.691Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:16:59.169Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/ec9521bf-9d97-4603-814c-f4132d34bc4f?page=5": {
@@ -1030,17 +1030,17 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/2f15cb85-8887-4dcc-a318-1f8ec1d815b3?page=4": {
    "pageId": "79c85ea2159c41e8",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:00:07.250Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:45:07.215Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 44,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/state/kansas": {
    "pageId": "79dc39731541535f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:15:12.349Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:20:34.304Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1057,26 +1057,26 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/9ac4f7f8-b6e4-4d80-8410-4aba7e71dd02?page=4": {
    "pageId": "7b0b5a56c7552c9e",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:31:40.479Z",
-   "status": 200,
-   "axeViolations": 3,
-   "alfaFailures": 44,
-   "hasIssues": true
-  },
-  "https://openpaymentsdata.cms.gov/summary-by-state": {
-   "pageId": "7e67710ec37a10d6",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:30:41.729Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:32:42.648Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
    "hasIssues": true
   },
+  "https://openpaymentsdata.cms.gov/summary-by-state": {
+   "pageId": "7e67710ec37a10d6",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:14:54.020Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 35,
+   "hasIssues": true
+  },
   "https://openpaymentsdata.cms.gov/dataset/ce1d28dd-0094-5060-a036-580329439600?page=2": {
    "pageId": "7f21e62bac9c30ac",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:47:26.611Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:42:21.224Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 44,
@@ -1084,17 +1084,17 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/9ac4f7f8-b6e4-4d80-8410-4aba7e71dd02?page=5": {
    "pageId": "810b520b77fd344d",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:09:54.065Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:19:30.999Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/state/utah": {
    "pageId": "8227e1b96eb1c19e",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:43:59.370Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:13:01.955Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1111,8 +1111,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/23160558-6742-54ff-8b9f-cac7d514ff4e?page=2": {
    "pageId": "85884d46b39c9e42",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:26:49.631Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:57:33.908Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 44,
@@ -1120,8 +1120,8 @@
   },
   "https://openpaymentsdata.cms.gov/page=13": {
    "pageId": "87cfc70d68fb84b3",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:20:42.599Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:10:19.997Z",
    "status": 404,
    "axeViolations": null,
    "alfaFailures": null,
@@ -1138,8 +1138,8 @@
   },
   "https://openpaymentsdata.cms.gov/state/hawaii": {
    "pageId": "88533c03c6f5fedf",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:46:50.046Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:44:31.476Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1156,11 +1156,11 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/ec9521bf-9d97-4603-814c-f4132d34bc4f?page=4": {
    "pageId": "8df43a8797ddff19",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:58:09.174Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:16:05.458Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/state/tennessee": {
@@ -1174,8 +1174,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/ec9521bf-9d97-4603-814c-f4132d34bc4f": {
    "pageId": "8ff559a7a67c7b5d",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:56:30.516Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:26:22.578Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1192,8 +1192,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/23160558-6742-54ff-8b9f-cac7d514ff4e?page=5": {
    "pageId": "906bdf2258f8a10f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:03:00.687Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:16:23.656Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1201,20 +1201,20 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/23160558-6742-54ff-8b9f-cac7d514ff4e?page=3": {
    "pageId": "9182118d4c2511e5",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:43:37.983Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:18:21.186Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 44,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/de0087e0-101b-43c1-acdf-69986a4c166b?page=4": {
    "pageId": "91eca7db61127617",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:38:04.964Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:08:29.941Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/state/oklahoma": {
@@ -1228,8 +1228,8 @@
   },
   "https://openpaymentsdata.cms.gov/state/washington": {
    "pageId": "953babd071b9d001",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:18:05.985Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T04:59:30.686Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1246,8 +1246,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/7b82fb48-2bec-45f0-b40e-aed5f1d1eba0?page=2": {
    "pageId": "96f59787a9c9cdf5",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:25:46.976Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:00:29.140Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1255,8 +1255,8 @@
   },
   "https://openpaymentsdata.cms.gov/state/michigan": {
    "pageId": "99b0435aa9248702",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:15:24.447Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:52:56.627Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1264,8 +1264,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/ac0bc85c-02e3-45d9-89e8-2ff43da85df7?page=87": {
    "pageId": "99f9d50267f59046",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:41:34.146Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:35:52.454Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1282,8 +1282,8 @@
   },
   "https://openpaymentsdata.cms.gov/about/api": {
    "pageId": "9f18d29a753e83ab",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:41:35.964Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:06:18.939Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1291,8 +1291,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/fb3a65aa-c901-4a38-a813-b04b00dfa2a9?page=294016": {
    "pageId": "9f2ec228b419535f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:12:50.118Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T04:57:03.026Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1345,8 +1345,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/0b5c9710-7edb-484e-abc8-39293849ccb2?page=61": {
    "pageId": "a5da4ba0dd42c503",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:06:08.181Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:10:53.374Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1354,20 +1354,20 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/713a6016-1930-4a0c-b7c2-3e3de4f244c5?page=16146": {
    "pageId": "a631c06e518b1257",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:07:27.770Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:26:41.993Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 43,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/state/delaware": {
    "pageId": "a6d2a3d030b1d403",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:57:35.462Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:28:07.490Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 32,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/de0087e0-101b-43c1-acdf-69986a4c166b?page=73": {
@@ -1381,8 +1381,8 @@
   },
   "https://openpaymentsdata.cms.gov/summary": {
    "pageId": "a800bbf5cb789cad",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:19:14.622Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:09:12.850Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1408,8 +1408,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/e6b17c6a-2534-4207-a4a1-6746a14911ff?page=3": {
    "pageId": "a908abb791a671c6",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:27:35.433Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:13:35.942Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1426,11 +1426,11 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/ce1d28dd-0094-5060-a036-580329439600?page=5": {
    "pageId": "a9e128d97a912c12",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:31:21.598Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:46:25.612Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 43,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/0380bbeb-aea1-58b6-b708-829f92a48202?page=2": {
@@ -1444,20 +1444,20 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/f003634c-c103-568f-876c-73017fa83be0?page=5": {
    "pageId": "aab05300a9bb501e",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:00:35.378Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:11:29.357Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 44,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/fdc3c773-018a-412c-8a81-d7b8a13a037b": {
    "pageId": "ac0173e919faad4d",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:19:25.913Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:22:57.353Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/0b5c9710-7edb-484e-abc8-39293849ccb2?page=4": {
@@ -1471,8 +1471,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/ac0bc85c-02e3-45d9-89e8-2ff43da85df7": {
    "pageId": "ae5f2f99d1b123e2",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:29:54.225Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:14:17.542Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1498,8 +1498,8 @@
   },
   "https://openpaymentsdata.cms.gov/state/idaho": {
    "pageId": "aed87876b29067bd",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:58:52.969Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:59:53.671Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 33,
@@ -1507,17 +1507,17 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/9c248e7e-7c7f-478b-ab84-ce0919d72c1c?page=2": {
    "pageId": "af15ad4197bbf084",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:33:53.164Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:02:48.023Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/state/ohio": {
    "pageId": "afb0cc0bf9f97b82",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:34:17.003Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:51:03.969Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1543,17 +1543,17 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/b0c03b8d-06df-58f2-8ce2-4daeffee147e?page=2": {
    "pageId": "b492654f13f90b4a",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:13:08.486Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T04:57:41.772Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 44,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/state/arizona": {
    "pageId": "b498dd462fb6d3dc",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:44:24.019Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:35:18.123Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1561,11 +1561,11 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/7b82fb48-2bec-45f0-b40e-aed5f1d1eba0?page=3": {
    "pageId": "b4fca7cc4ecc6057",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:32:09.798Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:37:11.550Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items/713a6016-1930-4a0c-b7c2-3e3de4f244c5/docs": {
@@ -1597,8 +1597,8 @@
   },
   "https://openpaymentsdata.cms.gov/state/north-dakota": {
    "pageId": "bd6d642c2fa6d6a9",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:06:53.611Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:02:32.788Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1615,8 +1615,8 @@
   },
   "https://openpaymentsdata.cms.gov/state/minnesota": {
    "pageId": "bf9774549e746804",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:07:24.435Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:41:10.795Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 33,
@@ -1642,47 +1642,47 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/0380bbeb-aea1-58b6-b708-829f92a48202?page=3": {
    "pageId": "c290c1842139fb54",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:21:15.785Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:09:07.932Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 45,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/fb3a65aa-c901-4a38-a813-b04b00dfa2a9": {
    "pageId": "c35b47dcc4f822a1",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:02:22.016Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:27:05.721Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 45,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/ce1d28dd-0094-5060-a036-580329439600?page=4": {
    "pageId": "c3db77d136928809",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:27:33.355Z",
-   "status": 200,
-   "axeViolations": 3,
-   "alfaFailures": 44,
-   "hasIssues": true
-  },
-  "https://openpaymentsdata.cms.gov/dataset/a08c4b30-5cf3-4948-ad40-36f404619019?page=4": {
-   "pageId": "c6062f530a0961bb",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:26:55.997Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:04:59.346Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
    "hasIssues": true
   },
-  "https://openpaymentsdata.cms.gov/dataset/ec9521bf-9d97-4603-814c-f4132d34bc4f?page=21596": {
-   "pageId": "c61f37cea40844a5",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:20:14.840Z",
+  "https://openpaymentsdata.cms.gov/dataset/a08c4b30-5cf3-4948-ad40-36f404619019?page=4": {
+   "pageId": "c6062f530a0961bb",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:12:41.822Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 44,
+   "alfaFailures": 45,
+   "hasIssues": true
+  },
+  "https://openpaymentsdata.cms.gov/dataset/ec9521bf-9d97-4603-814c-f4132d34bc4f?page=21596": {
+   "pageId": "c61f37cea40844a5",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:36:28.574Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/datasets?keyword%5B%5D=all+years": {
@@ -1696,8 +1696,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/2f15cb85-8887-4dcc-a318-1f8ec1d815b3": {
    "pageId": "c7fc1a20600a298c",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:20:33.958Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:20:47.452Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 44,
@@ -1714,8 +1714,8 @@
   },
   "https://openpaymentsdata.cms.gov/state/wyoming": {
    "pageId": "c8d2e718acc6be87",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:31:15.654Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:51:38.154Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -1723,26 +1723,26 @@
   },
   "https://openpaymentsdata.cms.gov/state/south-dakota": {
    "pageId": "c8f8beb62c9ee540",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:34:50.935Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:15:31.278Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 33,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/fdc3c773-018a-412c-8a81-d7b8a13a037b?page=3": {
    "pageId": "c901cd994480cbd7",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:02:45.992Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:48:45.599Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 43,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items/ec9521bf-9d97-4603-814c-f4132d34bc4f/docs": {
    "pageId": "cb049364e74a3497",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:16:10.907Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:21:11.814Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -1759,11 +1759,11 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/0b5c9710-7edb-484e-abc8-39293849ccb2?page=3": {
    "pageId": "cbfd467b30e09fe2",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:33:03.492Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:01:13.200Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/about/faq": {
@@ -1786,20 +1786,20 @@
   },
   "https://openpaymentsdata.cms.gov/state/wisconsin": {
    "pageId": "ce2fc2f4b98f6030",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:50:41.286Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:40:00.211Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 33,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/df01c2f8-dc1f-4e79-96cb-8208beaf143c?page=5": {
    "pageId": "d0dcddf4e689b186",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:23:24.426Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:07:28.472Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 45,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/0380bbeb-aea1-58b6-b708-829f92a48202?page=4": {
@@ -1831,8 +1831,8 @@
   },
   "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items/df01c2f8-dc1f-4e79-96cb-8208beaf143c/docs": {
    "pageId": "d4907de2945bcaf8",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:10:34.116Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:13:42.560Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -1840,8 +1840,8 @@
   },
   "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items/9c248e7e-7c7f-478b-ab84-ce0919d72c1c/docs": {
    "pageId": "d7bf60a245434871",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:06:12.406Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:44:34.001Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -1849,11 +1849,11 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/0380bbeb-aea1-58b6-b708-829f92a48202": {
    "pageId": "d82d42e4b4e0cd11",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:48:49.485Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:26:03.165Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 45,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/datasets?theme%5B%5D=General+Payments": {
@@ -1876,8 +1876,8 @@
   },
   "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items/4e54dd6c-30f8-4f86-86a7-3c109a89528e/docs": {
    "pageId": "da2d5cf10046ab8b",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:06:14.076Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:13:44.169Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -1894,11 +1894,11 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/a08c4b30-5cf3-4948-ad40-36f404619019?page=3": {
    "pageId": "dbdd490901abda4a",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:39:14.310Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:25:23.526Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 45,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/state/missouri": {
@@ -1912,17 +1912,17 @@
   },
   "https://openpaymentsdata.cms.gov/datasets?theme%5B%5D=Summary": {
    "pageId": "dee76c8417675ef1",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:35:26.470Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:33:03.932Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 40,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items?show-reference-ids=": {
    "pageId": "df490abc22d7c544",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:56:25.475Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:18:41.250Z",
    "status": 200,
    "axeViolations": null,
    "alfaFailures": null,
@@ -1930,11 +1930,11 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/fb3a65aa-c901-4a38-a813-b04b00dfa2a9?page=2": {
    "pageId": "dfb4d21428d3ba07",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:14:45.696Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:11:28.374Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/7b82fb48-2bec-45f0-b40e-aed5f1d1eba0?page=5": {
@@ -1948,20 +1948,20 @@
   },
   "https://openpaymentsdata.cms.gov/datasets?keyword%5B%5D=2018": {
    "pageId": "e1bdad1f9d94090f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:23:05.820Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:34:32.348Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 52,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/2f15cb85-8887-4dcc-a318-1f8ec1d815b3?page=3": {
    "pageId": "e46a475f444653ed",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:43:56.267Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:28:42.996Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/df01c2f8-dc1f-4e79-96cb-8208beaf143c": {
@@ -1975,8 +1975,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/a9a0bf48-6b96-4589-b4c2-3c5dcfbeaca2?page=3": {
    "pageId": "e7985972f58fa24c",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:59:48.932Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:19:50.208Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 44,
@@ -1993,8 +1993,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/ac0bc85c-02e3-45d9-89e8-2ff43da85df7?page=2": {
    "pageId": "eb5aa0bb07f3c5bb",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:53:17.789Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:10:52.110Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -2020,8 +2020,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/ce1d28dd-0094-5060-a036-580329439600?page=3": {
    "pageId": "efe2908a129161d9",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T02:49:01.063Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:23:02.997Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 44,
@@ -2029,8 +2029,8 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/0380bbeb-aea1-58b6-b708-829f92a48202?page=231046": {
    "pageId": "f0dfbdb7b27b74cc",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:08:11.580Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:58:17.278Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 45,
@@ -2038,8 +2038,8 @@
   },
   "https://openpaymentsdata.cms.gov/state/new-jersey": {
    "pageId": "f177db4ad287f409",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:31:06.637Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:29:23.732Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -2047,8 +2047,8 @@
   },
   "https://openpaymentsdata.cms.gov/page=5": {
    "pageId": "f27c8dc93776c394",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:23:40.078Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:12:28.591Z",
    "status": 404,
    "axeViolations": null,
    "alfaFailures": null,
@@ -2056,11 +2056,11 @@
   },
   "https://openpaymentsdata.cms.gov/dataset/23160558-6742-54ff-8b9f-cac7d514ff4e": {
    "pageId": "f2ad5dbba622f52f",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:50:01.511Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T06:19:14.612Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 44,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/a08c4b30-5cf3-4948-ad40-36f404619019?page=2": {
@@ -2083,29 +2083,29 @@
   },
   "https://openpaymentsdata.cms.gov/state/maine": {
    "pageId": "f5e7df898dc7b6f3",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:09:11.030Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:05:43.181Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 33,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/contact": {
    "pageId": "f8ac418466cd21f1",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T03:14:11.884Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T05:32:08.269Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 40,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/dataset/37792388-800f-427a-9e02-b11601454eeb?page=83": {
    "pageId": "f8fc27062eb60397",
-   "lastWeek": "2026-W25",
-   "lastScannedAt": "2026-06-15T04:52:35.102Z",
+   "lastWeek": "2026-W26",
+   "lastScannedAt": "2026-06-23T04:55:34.157Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 44,
    "hasIssues": true
   },
   "https://openpaymentsdata.cms.gov/search": {
