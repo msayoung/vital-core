@@ -1,17 +1,18 @@
 {
  "domain": "www.healthcare.gov",
- "updatedAt": "2026-06-29T04:26:07.193Z",
+ "updatedAt": "2026-06-30T13:17:49.742Z",
  "links": {
   "https://portal.cms.gov/wps/portal/unauthportal/home/": {
    "status": 503,
    "reason": "HTTP 503",
    "firstSeen": "2026-W24",
-   "lastSeen": "2026-W26",
+   "lastSeen": "2026-W27",
    "_weeks": [
     "2026-W24",
-    "2026-W26"
+    "2026-W26",
+    "2026-W27"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.healthcare.gov/small-businesses/get-answers"
    ]
@@ -38,11 +39,12 @@
    "status": 0,
    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
    "firstSeen": "2026-W26",
-   "lastSeen": "2026-W26",
+   "lastSeen": "2026-W27",
    "_weeks": [
-    "2026-W26"
+    "2026-W26",
+    "2026-W27"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.healthcare.gov/small-businesses/agents-and-brokers/guides-tools-resources-for-agents-and-brokers"
    ]
@@ -191,6 +193,97 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://www.healthcare.gov/preventive-care-women"
+   ]
+  },
+  "https://health.gov/myhealthfinder/health-conditions/heart-health/talk-your-doctor-about-taking-aspirin-prevent-disease": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W27",
+   "lastSeen": "2026-W27",
+   "_weeks": [
+    "2026-W27"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.healthcare.gov/preventive-care-adults"
+   ]
+  },
+  "https://health.gov/myhealthfinder/healthy-living/nutrition": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W27",
+   "lastSeen": "2026-W27",
+   "_weeks": [
+    "2026-W27"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.healthcare.gov/preventive-care-adults"
+   ]
+  },
+  "https://health.gov/myhealthfinder/doctor-visits/talking-doctor/hepatitis-c-screening-questions-doctor": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W27",
+   "lastSeen": "2026-W27",
+   "_weeks": [
+    "2026-W27"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.healthcare.gov/preventive-care-adults"
+   ]
+  },
+  "https://health.gov/myhealthfinder/doctor-visits/talking-doctor/lung-cancer-screening-questions-doctor": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W27",
+   "lastSeen": "2026-W27",
+   "_weeks": [
+    "2026-W27"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.healthcare.gov/preventive-care-adults"
+   ]
+  },
+  "https://health.gov/myhealthfinder/doctor-visits/talking-doctor/medicines-prevent-heart-attack-and-stroke-questions-doctor": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W27",
+   "lastSeen": "2026-W27",
+   "_weeks": [
+    "2026-W27"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.healthcare.gov/preventive-care-adults"
+   ]
+  },
+  "https://health.gov/myhealthfinder/health-conditions/hiv-and-other-stis": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W27",
+   "lastSeen": "2026-W27",
+   "_weeks": [
+    "2026-W27"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.healthcare.gov/preventive-care-adults"
+   ]
+  },
+  "https://health.gov/myhealthfinder/health-conditions/diabetes/quit-smoking": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W27",
+   "lastSeen": "2026-W27",
+   "_weeks": [
+    "2026-W27"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.healthcare.gov/preventive-care-adults"
    ]
   }
  }
